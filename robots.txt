@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wallmock.com/sitemap.xml

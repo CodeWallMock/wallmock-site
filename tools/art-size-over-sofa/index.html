@@ -1,0 +1,37 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What size art over a sofa or bed? Free calculator | WallMock</title><meta name="description" content="Enter your sofa, bed or sideboard width and get the art width range, standard print sizes that fit and how high to hang it. Free, no sign-up."><link rel="canonical" href="https://wallmock.com/tools/art-size-over-sofa/"><meta name="robots" content="index,follow"><meta name="theme-color" content="#182b30"><meta property="og:type" content="website"><meta property="og:site_name" content="WallMock"><meta property="og:title" content="What size art over a sofa or bed? Free calculator"><meta property="og:url" content="https://wallmock.com/tools/art-size-over-sofa/"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/style.css?v=6"><link rel="stylesheet" href="/guides.css?v=1"><link rel="stylesheet" href="/rooms.css?v=1">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Art size over a sofa calculator","applicationCategory":"DesignApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"url":"https://wallmock.com/tools/art-size-over-sofa/"}</script></head>
+<body><a class="skip" href="#main">Skip to content</a>
+<header class="shell header"><a class="wordmark" href="/" aria-label="WallMock home"><span class="brand-icon" aria-hidden="true">W</span>WallMock<span class="brand-period">.</span></a><nav aria-label="Main navigation"><a href="/#examples">Mockup examples</a><a href="/rooms/">Rooms</a><a class="guides-nav" href="/guides/">Guides</a><a class="nav-cta" href="https://app.wallmock.com/">Beta sign-in</a></nav></header>
+<main id="main"><article class="guide-article shell"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><span>Free tools</span></nav>
+<header class="article-heading"><p class="eyebrow">FREE TOOL · NO SIGN-UP</p><h1>What size art over a sofa, bed or sideboard?</h1><p class="intro">Enter the width of the furniture below the wall. You get an art width range, standard print sizes that fit, and a hanging height. These are common interior guidelines, not rules: big art can look great too.</p></header>
+<div class="tool" id="tool">
+<label for="w">Furniture width</label><input id="w" type="number" min="10" max="400" step="1" value="84" inputmode="decimal">
+<select id="unit" aria-label="Unit"><option value="in">inches</option><option value="cm">cm</option></select>
+<label for="shape">Artwork shape</label><select id="shape"><option value="3:2">Landscape 3:2</option><option value="2:3">Portrait 2:3</option><option value="1:1">Square 1:1</option><option value="3:1">Panorama 3:1</option><option value="4:3">Landscape 4:3</option><option value="trio">Set of three (2:3 panels)</option></select>
+<output id="out" aria-live="polite"></output>
+</div>
+<section class="article-body" style="margin-top:44px"><h2>How the numbers are worked out</h2>
+<p><strong>Width:</strong> art (including its frame) usually looks balanced at about two-thirds to three-quarters of the furniture width. Many sellers like larger art in their listing photos, so treat the top of the range as a good default for a first photo.</p>
+<p><strong>Height:</strong> hang the bottom of the frame about 6–10 in (15–25 cm) above the furniture. Without furniture, a common gallery guideline puts the centre of the art about 57–60 in (145–152 cm) from the floor.</p>
+<p><strong>Sets:</strong> leave 2–3 in (5–8 cm) between panels and treat the whole group as one piece.</p>
+<p>Want to see it before you print it? <a href="/rooms/">Browse WallMock's reviewed rooms</a> and preview your own art in them.</p></section></article></main>
+<footer class="shell footer"><a class="wordmark" href="/">WallMock<span class="brand-period">.</span></a><p>A better setting for the work you make.</p><div><a href="mailto:contact@wallmock.com">Contact</a><a href="/rooms/">Rooms</a><a href="/guides/">Guides</a><a href="/tools/art-size-over-sofa/">Art size calculator</a><a href="/privacy/">Privacy</a><span>© 2026 WallMock</span></div></footer>
+<script>
+(() => {
+  const SIZES = { "3:2": [[18,12],[24,16],[30,20],[36,24],[45,30],[54,36],[60,40]], "2:3": [[12,18],[16,24],[20,30],[24,36],[32,48],[40,60]], "1:1": [[12,12],[16,16],[20,20],[24,24],[30,30],[36,36],[40,40],[48,48]],
+    "3:1": [[30,10],[36,12],[48,16],[60,20],[72,24]], "4:3": [[16,12],[20,15],[24,18],[32,24],[40,30],[48,36]], "trio": [[12,18],[16,24],[20,30],[24,36]] };
+  const $ = (id) => document.getElementById(id), fmt = (n, u) => u === "cm" ? `${Math.round(n * 2.54)} cm` : `${Math.round(n)} in`;
+  function run() {
+    const unit = $("unit").value, raw = parseFloat($("w").value), shape = $("shape").value;
+    if (!(raw > 0)) { $("out").textContent = "Enter a width."; return; }
+    const w = unit === "cm" ? raw / 2.54 : raw, lo = w * 2 / 3, hi = w * 3 / 4, gap = 2.5;
+    const width = (s) => shape === "trio" ? s[0] * 3 + gap * 2 : s[0];
+    const fits = SIZES[shape].filter((s) => width(s) >= lo * 0.92 && width(s) <= hi * 1.08);
+    const label = (s) => shape === "trio" ? `3 × ${s[0]}×${s[1]} in (group ${Math.round(width(s))} in wide)` : `${s[0]}×${s[1]} in` + (unit === "cm" ? ` (${Math.round(s[0] * 2.54)}×${Math.round(s[1] * 2.54)} cm)` : "");
+    $("out").innerHTML = `<b>Art width:</b> ${fmt(lo, unit)} to ${fmt(hi, unit)} (about ⅔ to ¾ of the furniture).<br>` +
+      `<b>Standard sizes that fit:</b> ${fits.length ? fits.map(label).join(", ") : "none of the common sizes; consider a custom size or a set"}.<br>` +
+      `<b>Hang it:</b> bottom of the frame ${unit === "cm" ? "15–25 cm" : "6–10 in"} above the furniture.`;
+  }
+  ["w", "unit", "shape"].forEach((id) => $(id).addEventListener("input", run)); run();
+})();
+</script></body></html>
