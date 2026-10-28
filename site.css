@@ -27,8 +27,13 @@ a{color:inherit}
 .nav{display:flex;align-items:center;gap:clamp(14px,2.4vw,30px);flex-wrap:wrap}
 .nav a{text-decoration:none;font-size:14px;font-weight:600}
 .nav a:hover{text-decoration:underline;text-underline-offset:4px}
-.nav-sign{border:1px solid var(--ink);padding:9px 15px}
-.nav-sign:hover{background:var(--soft);text-decoration:none!important}
+.nav{margin-left:auto}
+/* header call to action: primary "Try it free" button, small "Sign in" text link */
+.top-cta{display:flex;align-items:center;gap:18px;flex:none;border-left:1px solid var(--line);padding-left:clamp(14px,2.4vw,26px)}
+.top-cta a{text-decoration:none;font-size:14px;font-weight:600;white-space:nowrap}
+.nav-in:hover{text-decoration:underline;text-underline-offset:4px}
+.nav-try{background:var(--ink);color:#fff;border:1px solid var(--ink);padding:9px 15px}
+.nav-try:hover{background:var(--ink-2)}
 
 /* type */
 h1,h2{font-family:var(--serif);font-weight:400;letter-spacing:-.025em;line-height:1.06;text-wrap:balance;margin:0 0 .45em}
@@ -209,12 +214,14 @@ p{margin:0 0 1em}
   .foot-cols{grid-template-columns:1fr 1fr}
   .tool-form{grid-template-columns:1fr}
 }
-@media (max-width:520px){
-  .top{position:relative}
+/* header on phones and narrow tablets: brand and call to action on one row, the links below */
+@media (max-width:760px){
   .top-in{padding:14px 0 10px;row-gap:10px}
-  .nav{width:100%;gap:18px}
-  .nav-sign{position:absolute;right:16px;top:14px;padding:7px 12px}
-  .nav a:not(.nav-sign){font-size:14px}
+  .nav{order:3;width:100%;margin-left:0;gap:18px}
+  .top-cta{order:2;gap:12px;border-left:0;padding-left:0}
+  .nav-try{padding:7px 12px}
+}
+@media (max-width:520px){
   .hero-grid{grid-template-columns:1fr 1fr}
   .hero-grid img:first-child{grid-column:span 2;grid-row:auto;height:auto;aspect-ratio:4/3}
   .hero-grid img:nth-child(n+6){display:none}
@@ -226,3 +233,33 @@ p{margin:0 0 1em}
 .tool-link a{font-weight:600}
 .trademark{margin-top:14px;color:var(--muted)}
 .table-scroll table.wide{min-width:640px}
+/* SEO-5 free tools: shared result styles, the labelled WallMock example, Etsy photo cards */
+.px{align-content:center}
+.px.wide{grid-column:1/-1}
+.px select{min-width:0;max-width:100%}
+.px label{max-width:100%;flex-wrap:wrap}
+.tool-out{margin-top:6px}
+.tool-out p{margin:0 0 8px}
+.tool-out .summary{margin-bottom:10px}
+.tool-err{color:var(--bad);font-weight:600}
+.res{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums}
+.res th,.res td{text-align:left;padding:10px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+@media (max-width:520px){.res th,.res td{padding:9px 10px}}
+.res thead th{background:var(--soft);font-size:13px;letter-spacing:.04em;text-transform:uppercase}
+.res tbody th{font-weight:600}
+.fit-in-range td:last-child{color:var(--ok);font-weight:600}
+.fit-a-little-narrow td:last-child,.fit-a-little-wide td:last-child{color:var(--warn);font-weight:600}
+.status-list{list-style:none;padding:0;margin:8px 0 0;display:grid;gap:8px}
+.status-list li{display:grid;grid-template-columns:24px minmax(0,1fr);gap:10px;align-items:start}
+.status-list .ico{display:inline-block;width:22px;height:22px;border-radius:50%;color:#fff;font:700 13px/22px var(--sans);text-align:center;margin-top:2px}
+.s-ok .ico{background:var(--ok)}.s-warn .ico{background:var(--warn)}.s-bad .ico{background:var(--bad)}.s-note .ico{background:var(--ink-2)}
+.photo-cards{display:grid;gap:16px;margin-top:16px}
+.photo-card{border:1px solid var(--line);padding:16px;display:grid;grid-template-columns:minmax(0,240px) minmax(0,1fr);gap:18px;align-items:start}
+.photo-card h3{margin:0 0 4px;overflow-wrap:anywhere}
+.photo-card canvas{width:100%;height:auto;display:block;background:var(--sage)}
+.tool-next figcaption,.example figcaption{font-size:13px;color:var(--muted);margin-top:8px}
+.tool-next .example img{background:var(--sage)}
+.guide-text .sources{margin-top:32px}
+.frame-pick{margin:0;padding-left:20px}
+.frame-pick li{margin-bottom:6px}
+@media (max-width:520px){.photo-card{grid-template-columns:1fr}}

@@ -1,37 +1,91 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What size art over a sofa or bed? Free calculator | WallMock</title><meta name="description" content="Enter your sofa, bed or sideboard width and get the art width range, standard print sizes that fit and how high to hang it. Free, no sign-up."><link rel="canonical" href="https://wallmock.com/tools/art-size-over-sofa/"><meta name="robots" content="index,follow"><meta name="theme-color" content="#182b30"><meta property="og:type" content="website"><meta property="og:site_name" content="WallMock"><meta property="og:title" content="What size art over a sofa or bed? Free calculator"><meta property="og:url" content="https://wallmock.com/tools/art-size-over-sofa/"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/style.css?v=6"><link rel="stylesheet" href="/guides.css?v=1"><link rel="stylesheet" href="/rooms.css?v=1">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Art size over a sofa calculator","applicationCategory":"DesignApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"url":"https://wallmock.com/tools/art-size-over-sofa/"}</script></head>
-<body><a class="skip" href="#main">Skip to content</a>
-<header class="shell header"><a class="wordmark" href="/" aria-label="WallMock home"><span class="brand-icon" aria-hidden="true">W</span>WallMock<span class="brand-period">.</span></a><nav aria-label="Main navigation"><a href="/#examples">Mockup examples</a><a href="/rooms/">Rooms</a><a class="guides-nav" href="/guides/">Guides</a><a class="nav-cta" href="https://app.wallmock.com/">Beta sign-in</a></nav></header>
-<main id="main"><article class="guide-article shell"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><span>Free tools</span></nav>
-<header class="article-heading"><p class="eyebrow">FREE TOOL · NO SIGN-UP</p><h1>What size art over a sofa, bed or sideboard?</h1><p class="intro">Enter the width of the furniture below the wall. You get an art width range, standard print sizes that fit, and a hanging height. These are common interior guidelines, not rules: big art can look great too.</p></header>
-<div class="tool" id="tool">
-<label for="w">Furniture width</label><input id="w" type="number" min="10" max="400" step="1" value="84" inputmode="decimal">
-<select id="unit" aria-label="Unit"><option value="in">inches</option><option value="cm">cm</option></select>
-<label for="shape">Artwork shape</label><select id="shape"><option value="3:2">Landscape 3:2</option><option value="2:3">Portrait 2:3</option><option value="1:1">Square 1:1</option><option value="3:1">Panorama 3:1</option><option value="4:3">Landscape 4:3</option><option value="trio">Set of three (2:3 panels)</option></select>
-<output id="out" aria-live="polite"></output>
-</div>
-<section class="article-body" style="margin-top:44px"><h2>How the numbers are worked out</h2>
-<p><strong>Width:</strong> art (including its frame) usually looks balanced at about two-thirds to three-quarters of the furniture width. Many sellers like larger art in their listing photos, so treat the top of the range as a good default for a first photo.</p>
-<p><strong>Height:</strong> hang the bottom of the frame about 6–10 in (15–25 cm) above the furniture. Without furniture, a common gallery guideline puts the centre of the art about 57–60 in (145–152 cm) from the floor.</p>
-<p><strong>Sets:</strong> leave 2–3 in (5–8 cm) between panels and treat the whole group as one piece.</p>
-<p>Want to see it before you print it? <a href="/rooms/">Browse WallMock's reviewed rooms</a> and preview your own art in them.</p></section></article></main>
-<footer class="shell footer"><a class="wordmark" href="/">WallMock<span class="brand-period">.</span></a><p>A better setting for the work you make.</p><div><a href="mailto:hello@wallmock.com">Contact</a><a href="/rooms/">Rooms</a><a href="/guides/">Guides</a><a href="/tools/art-size-over-sofa/">Art size calculator</a><a href="/privacy/">Privacy</a><a href="/about/">About</a><a href="https://app.wallmock.com/terms">Terms and refunds</a><span>© 2026 WallMock</span></div></footer>
-<script>
-(() => {
-  const SIZES = { "3:2": [[18,12],[24,16],[30,20],[36,24],[45,30],[54,36],[60,40]], "2:3": [[12,18],[16,24],[20,30],[24,36],[32,48],[40,60]], "1:1": [[12,12],[16,16],[20,20],[24,24],[30,30],[36,36],[40,40],[48,48]],
-    "3:1": [[30,10],[36,12],[48,16],[60,20],[72,24]], "4:3": [[16,12],[20,15],[24,18],[32,24],[40,30],[48,36]], "trio": [[12,18],[16,24],[20,30],[24,36]] };
-  const $ = (id) => document.getElementById(id), fmt = (n, u) => u === "cm" ? `${Math.round(n * 2.54)} cm` : `${Math.round(n)} in`;
-  function run() {
-    const unit = $("unit").value, raw = parseFloat($("w").value), shape = $("shape").value;
-    if (!(raw > 0)) { $("out").textContent = "Enter a width."; return; }
-    const w = unit === "cm" ? raw / 2.54 : raw, lo = w * 2 / 3, hi = w * 3 / 4, gap = 2.5;
-    const width = (s) => shape === "trio" ? s[0] * 3 + gap * 2 : s[0];
-    const fits = SIZES[shape].filter((s) => width(s) >= lo * 0.92 && width(s) <= hi * 1.08);
-    const label = (s) => shape === "trio" ? `3 × ${s[0]}×${s[1]} in (group ${Math.round(width(s))} in wide)` : `${s[0]}×${s[1]} in` + (unit === "cm" ? ` (${Math.round(s[0] * 2.54)}×${Math.round(s[1] * 2.54)} cm)` : "");
-    $("out").innerHTML = `<b>Art width:</b> ${fmt(lo, unit)} to ${fmt(hi, unit)} (about ⅔ to ¾ of the furniture).<br>` +
-      `<b>Standard sizes that fit:</b> ${fits.length ? fits.map(label).join(", ") : "none of the common sizes; consider a custom size or a set"}.<br>` +
-      `<b>Hang it:</b> bottom of the frame ${unit === "cm" ? "15–25 cm" : "6–10 in"} above the furniture.`;
-  }
-  ["w", "unit", "shape"].forEach((id) => $(id).addEventListener("input", run)); run();
-})();
-</script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>What Size Art Over a Sofa or Bed? Free Art Size Calculator | WallMock</title>
+<meta name="description" content="Free art size calculator: enter your sofa, bed or sideboard width to get the art width, the standard sizes that fit and how high to hang it. Inches or cm.">
+<link rel="canonical" href="https://wallmock.com/tools/art-size-over-sofa/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="WallMock">
+<meta property="og:title" content="What Size Art Over a Sofa or Bed? Free Art Size Calculator | WallMock">
+<meta property="og:description" content="Free art size calculator: enter your sofa, bed or sideboard width to get the art width, the standard sizes that fit and how high to hang it. Inches or cm.">
+<meta property="og:url" content="https://wallmock.com/tools/art-size-over-sofa/">
+<meta property="og:image" content="https://wallmock.com/assets/guides/etsy-listing-photos-for-wall-art-2.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="article:modified_time" content="2026-10-28">
+<meta name="theme-color" content="#182b30">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/site.css?v=3">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"WallMock","item":"https://wallmock.com/"},{"@type":"ListItem","position":2,"name":"Free tools","item":"https://wallmock.com/tools/"},{"@type":"ListItem","position":3,"name":"What size art over a sofa, bed or sideboard?","item":"https://wallmock.com/tools/art-size-over-sofa/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"What size art over a sofa, bed or sideboard?","url":"https://wallmock.com/tools/art-size-over-sofa/","description":"Free art size calculator: enter your sofa, bed or sideboard width to get the art width, the standard sizes that fit and how high to hang it. Inches or cm.","applicationCategory":"UtilitiesApplication","operatingSystem":"Web browser","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@id":"https://wallmock.com/#org"},"dateModified":"2026-10-28"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What size art goes over an 84 inch sofa?","acceptedAnswer":{"@type":"Answer","text":"About 56 to 63 inches wide, frame included: two-thirds to three-quarters of the sofa. A 40 × 60 inch landscape hung wide (60 in), a 20 × 60 inch panorama, or a trio of 18 × 24 inch portraits with 3 inch gaps (60 in) all fit."}},{"@type":"Question","name":"What size art goes over a queen bed?","acceptedAnswer":{"@type":"Answer","text":"A US queen headboard is about 60 inches wide, so aim for 40 to 45 inches: a 30 × 40 inch landscape, a 14 × 42 inch panorama, or a pair of 20 × 30 inch portraits with a 3 inch gap (43 in). Measure the headboard if it is wider than the mattress."}},{"@type":"Question","name":"Does the frame count in the width?","acceptedAnswer":{"@type":"Answer","text":"Yes. The two-thirds guideline is about what you see on the wall, so measure the outside of the frame. For a pair or trio, measure the whole group, gaps included."}},{"@type":"Question","name":"How high should art hang over a sofa?","acceptedAnswer":{"@type":"Answer","text":"Hang the bottom of the frame about 6 to 10 inches (15 to 25 cm) above the sofa back, 8 to 12 inches (20 to 30 cm) above a headboard and 4 to 8 inches (10 to 20 cm) above a sideboard. The calculator shows the gap for the furniture you choose."}},{"@type":"Question","name":"Can art be wider than three-quarters of the sofa?","acceptedAnswer":{"@type":"Answer","text":"Yes. These are common interior guidelines, not rules, and a bold oversized piece can work. Art wider than the sofa itself usually looks crowded, so the calculator lists sizes up to 80% and labels the ones outside two-thirds to three-quarters."}}]}</script>
+</head>
+<body class="">
+<a class="skip" href="#main">Skip to content</a>
+<header class="top"><div class="wrap top-in">
+<a class="mark" href="/" aria-label="WallMock home"><span class="mark-box" aria-hidden="true">W</span><span>WallMock<span class="dot">.</span></span></a>
+<nav class="nav" aria-label="Main"><a href="/rooms/">Rooms</a><a href="/guides/">Guides</a><a href="/tools/">Free tools</a><a href="/pricing/">Pricing</a></nav>
+<div class="top-cta"><a class="nav-in" href="https://app.wallmock.com/account">Sign in</a><a class="nav-try" href="https://app.wallmock.com/try">Try it free</a></div>
+</div></header>
+<main id="main">
+
+<div class="wrap"><nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">WallMock</a></li><li><a href="/tools/">Free tools</a></li><li aria-current="page">What size art over a sofa, bed or sideboard?</li></ol></nav></div>
+<section class="wrap tool-head">
+  <p class="eyebrow">Free tool</p>
+  <h1>What size art over a sofa, bed or sideboard?</h1>
+  <p class="answer"><strong>Short answer:</strong> art over a sofa usually looks balanced at about two-thirds to three-quarters of the sofa's width, frame included: 56 to 63 inches over an 84 inch sofa, such as a 40 × 60 landscape. Hang the bottom of the frame 6 to 10 inches above the sofa back. Enter your furniture below for the sizes that fit.</p>
+</section>
+
+<section class="wrap tool" aria-labelledby="tool-h">
+  <h2 id="tool-h" class="sr">Find the art size for your furniture</h2>
+
+  <form class="tool-form" id="asz" novalidate>
+    <div class="px wide">
+      <label>Furniture <select id="asz-spot"><option value="sofa" selected>Sofa</option><option value="bed">Bed (measure the headboard)</option><option value="sideboard">Sideboard, console or dresser</option></select></label>
+      <label>Width <input id="asz-w" type="number" inputmode="decimal" min="12" max="1000" step="0.5" value="84"></label>
+      <label>Unit <select id="asz-unit"><option value="in" selected>inches</option><option value="cm">cm</option></select></label>
+      <label>Artwork shape <select id="asz-shape"><option value="3:2" selected>Landscape 3:2</option><option value="4:3">Landscape 4:3</option><option value="1:1">Square 1:1</option><option value="2:3">Portrait 2:3</option><option value="3:4">Portrait 3:4</option><option value="2:1">Panorama 2:1</option><option value="3:1">Panorama 3:1</option><option value="pair">Pair of 2:3 portraits</option><option value="trio">Trio of 2:3 portraits</option><option value="trio34">Trio of 3:4 portraits</option></select></label>
+    </div>
+  </form>
+  <div class="tool-out" aria-live="polite">
+    <div id="asz-sum"><p class="summary">Art width: 56 to 63 in, about two-thirds to three-quarters of the 84 in furniture.</p><p>Closest to the middle of that range: 60 × 40 in, 71% of the width.</p><p>Hang it with the bottom of the frame 6–10 in above the sofa back.</p></div>
+    <div class="table-scroll"><table class="res"><thead><tr><th scope="col">Size (width × height)</th><th scope="col">Share of the width</th><th scope="col">Fit</th></tr></thead>
+    <tbody id="asz-rows"><tr class="fit-in-range"><th scope="row">60 × 40 in</th><td>71%</td><td>in range</td></tr></tbody></table></div>
+  </div>
+  <p class="small">Sizes are the outside of the frame, as hung. Lists show common sizes at 60–80% of the furniture: "in range" is two-thirds to three-quarters. Sets use a 3 in (8 cm) gap between pieces.</p>
+</section>
+
+<section class="band soft tool-next" aria-labelledby="next-h"><div class="wrap split">
+  <div><p class="eyebrow">Then show it on a wall</p><h2 id="next-h">See the size in a room before you list it</h2><p>Buyers judge size from the room around the art. WallMock places your exact artwork in 500+ curated rooms as a framed canvas, framed print or poster, from squares to 3:1 panoramas, for a whole collection at once.</p>
+  <div class="cta-row"><a class="btn" href="https://app.wallmock.com/try">Try it free</a><a class="btn ghost" href="/canvas-print-mockup-generator/">Canvas print mockups</a></div>
+  <p class="small">Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device.</p></div>
+  <figure class="strip example"><img src="/assets/guides/etsy-listing-photos-for-wall-art-2.webp" alt="A misty mountain panorama as a canvas in a natural wood floating frame above a long linen daybed" width="1000" height="749" loading="lazy" decoding="async"><figcaption><strong>Example made with WallMock:</strong> a 3:1 mountain panorama as a canvas in a natural wood floating frame above a long linen daybed, about 70% of the daybed&#39;s width. The artwork is placed as supplied, not redrawn.</figcaption></figure>
+</div></section>
+
+<section class="wrap guide-text">
+<h2>How the calculator works</h2>
+<p>Most interior guidelines size art from the furniture below it, not from the wall: about <strong>two-thirds to three-quarters of the furniture's width</strong>, measured across the outside of the frame. Over an 84 inch sofa that is 56 to 63 inches. The calculator lists each common size in the shape you choose with its share of the width, so you can see exactly where it lands:</p>
+<ul><li><strong>In range:</strong> two-thirds to three-quarters of the width.</li><li><strong>A little narrow:</strong> 60% to two-thirds. Fine for a calm, airy look or a busy wall.</li><li><strong>A little wide:</strong> three-quarters to 80%. Fine for a bold statement piece.</li></ul>
+<p>Pairs and trios are measured as one group with a 3 inch (8 cm) gap between pieces, the same default as the <a href="/tools/gallery-wall-spacing/">gallery wall spacing calculator</a>. In centimetres the calculator lists metric sizes such as 60 × 90 and 100 × 150 cm rather than converted inch sizes.</p>
+<h2>How high to hang it</h2>
+<div class="table-scroll"><table class="res"><thead><tr><th scope="col">Above</th><th scope="col">Bottom of the frame</th></tr></thead><tbody>
+<tr><th scope="row">Sofa back</th><td>6–10 in (15–25 cm)</td></tr><tr><th scope="row">Headboard</th><td>8–12 in (20–30 cm)</td></tr><tr><th scope="row">Sideboard or console</th><td>4–8 in (10–20 cm)</td></tr><tr><th scope="row">Open wall, no furniture</th><td>centre of the art 57–60 in (145–152 cm) from the floor</td></tr>
+</tbody></table></div>
+<p>The guide to <a href="/guides/what-size-art-over-sofa-and-bed/">how high to hang art over a sofa, bed or sideboard</a> explains each height, with tables for bed sizes from single to US king.</p>
+<h2>When to break the guideline</h2>
+<p>The numbers are starting points. A tall ceiling can carry a taller piece; a low sofa under a high window may want a wide panorama instead of a tall portrait; a sideboard with lamps and objects often looks best with art a little narrower than two-thirds. For several frames, the <a href="/tools/gallery-wall-layout-planner/">gallery wall layout planner</a> draws the whole group to scale. Before you print, check your file in the <a href="/tools/print-size-calculator/">print size calculator</a> so the size you pick prints sharply.</p>
+<p class="read-next"><strong>Read next:</strong> <a href="/guides/what-size-art-over-sofa-and-bed/">how high to hang art over a sofa, bed or sideboard</a>, <a href="/tools/gallery-wall-spacing/">the gallery wall spacing calculator</a> and <a href="/tools/print-size-calculator/">the print size calculator</a>.</p>
+<div class="sources"><h2>Sources</h2><ul><li><a href="https://blog.fineartamerica.com/how-high-to-hang-art-above-a-sofa/" rel="noopener">Fine Art America: how high to hang art above a sofa</a> (two-thirds to three-quarters of the sofa width, 6 to 10 inches above it, 57 to 60 inch centre), checked 2026-10-26</li><li><a href="https://www.hunker.com/13410993/how-to-calculate-the-proper-height-for-hanging-pictures-on-your-wall/" rel="noopener">Hunker: how to calculate the height for hanging pictures</a> (57 inch centre, 6 to 8 inches above a sofa), checked 2026-10-26</li></ul></div>
+</section>
+<section class="wrap more"><h2>More free tools</h2><div class="cards links"><a href="/tools/gallery-wall-layout-planner/"><h3>Gallery wall layout planner</h3><p>Positions, nail heights and a to-scale diagram for a whole group.</p></a><a href="/tools/frame-size-chart/"><h3>Standard frame sizes chart</h3><p>Ready-made frame and poster sizes in inches, cm and A sizes.</p></a><a href="/tools/print-resolution-checker/"><h3>Print resolution checker</h3><p>The DPI your file gives at every common print size.</p></a></div></section>
+<div class="wrap"><section class="faq" id="questions" aria-labelledby="faq-h"><h2 id="faq-h">Questions</h2><details><summary>What size art goes over an 84 inch sofa?</summary><p>About 56 to 63 inches wide, frame included: two-thirds to three-quarters of the sofa. A 40 × 60 inch landscape hung wide (60 in), a 20 × 60 inch panorama, or a trio of 18 × 24 inch portraits with 3 inch gaps (60 in) all fit.</p></details><details><summary>What size art goes over a queen bed?</summary><p>A US queen headboard is about 60 inches wide, so aim for 40 to 45 inches: a 30 × 40 inch landscape, a 14 × 42 inch panorama, or a pair of 20 × 30 inch portraits with a 3 inch gap (43 in). Measure the headboard if it is wider than the mattress.</p></details><details><summary>Does the frame count in the width?</summary><p>Yes. The two-thirds guideline is about what you see on the wall, so measure the outside of the frame. For a pair or trio, measure the whole group, gaps included.</p></details><details><summary>How high should art hang over a sofa?</summary><p>Hang the bottom of the frame about 6 to 10 inches (15 to 25 cm) above the sofa back, 8 to 12 inches (20 to 30 cm) above a headboard and 4 to 8 inches (10 to 20 cm) above a sideboard. The calculator shows the gap for the furniture you choose.</p></details><details><summary>Can art be wider than three-quarters of the sofa?</summary><p>Yes. These are common interior guidelines, not rules, and a bold oversized piece can work. Art wider than the sofa itself usually looks crowded, so the calculator lists sizes up to 80% and labels the ones outside two-thirds to three-quarters.</p></details></section></div>
+
+</main>
+<footer class="foot"><div class="wrap">
+<div class="foot-cols"><div><h2>Product</h2><ul><li><a href="/">Wall art mockup generator</a></li><li><a href="/etsy-mockup-generator/">Etsy mockup generator</a></li><li><a href="/poster-mockup-generator/">Poster mockup generator</a></li><li><a href="/frame-mockup-generator/">Frame mockup generator</a></li><li><a href="/canvas-print-mockup-generator/">Canvas print mockup generator</a></li><li><a href="/gallery-wall-mockup-generator/">Gallery wall mockup generator</a></li><li><a href="/bulk-mockup-generator/">Bulk mockup generator</a></li><li><a href="/rooms/">Rooms by type</a></li><li><a href="/compare/">Compare mockup tools</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div><h2>Free tools</h2><ul><li><a href="/tools/print-resolution-checker/">Print resolution checker</a></li><li><a href="/tools/art-size-over-sofa/">Art size over a sofa</a></li><li><a href="/tools/">All free tools</a></li></ul></div><div><h2>Guides</h2><ul><li><a href="/guides/how-to-make-wall-art-mockups-for-etsy/">How to make wall art mockups for Etsy</a></li><li><a href="/guides/">All guides</a></li></ul></div><div><h2>WallMock</h2><ul><li><a href="/about/">About WallMock</a></li><li><a href="/privacy/">Privacy</a></li><li><a href="https://app.wallmock.com/terms">Terms and refunds</a></li><li><a href="mailto:hello@wallmock.com">hello@wallmock.com</a></li></ul></div></div>
+<p class="foot-note">Anyone can try free watermarked previews. Full access is by invitation during the beta: request one, then sign in with your invited email. Rooms are curated, digitally staged interiors reviewed by WallMock. Updated 2026-10-28.</p>
+</div></footer>
+<script type="module" src="/assets/tools/art-size-over-sofa.js?v=1"></script>
+</body>
+</html>

@@ -11,7 +11,7 @@ WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different p
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Poster and print without a frame. Sets of 2, 3, 4.
 - Rooms: 500+ curated room settings; images up to 4096 px.
 - Price: Free watermarked previews in every room. Plans: Lite $5/month or $39/year (200 clean images a month); Pro $12/month or $89/year (5,000 clean images a month); Studio $24/month or $179/year (10,000 clean images a month). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
-- Try it free: Try WallMock free with no sign-up: up to three artworks in 8 sample rooms, as watermarked previews made on your device. https://app.wallmock.com/try
+- Try it free: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. https://app.wallmock.com/try
 - Access: Anyone can try free watermarked previews. Full access is by invitation during the beta: request one, then sign in with your invited email.
 - Billing: Payments are in test mode during the beta, so no real payment is taken yet.
 - Works in a web browser; no Photoshop or PSD files.
@@ -55,12 +55,12 @@ Contact: hello@wallmock.com. Terms and refunds: https://app.wallmock.com/terms. 
 - [Wall art mockup rooms by room type](https://wallmock.com/rooms/)
 
 ## Free tools
-- [What size art over a sofa or bed? Free calculator](https://wallmock.com/tools/art-size-over-sofa/)
-- [Etsy listing photo checker: free, no sign-up](https://wallmock.com/tools/etsy-photo-checker/)
-- [Frame and mat size calculator: free, no sign-up](https://wallmock.com/tools/frame-mat-calculator/)
-- [Standard frame and poster sizes chart: free, no sign-up](https://wallmock.com/tools/frame-size-chart/)
+- [What Size Art Over a Sofa or Bed? Free Art Size Calculator](https://wallmock.com/tools/art-size-over-sofa/)
+- [Etsy Listing Photo Checker: Size, Shape and Thumbnail Crop](https://wallmock.com/tools/etsy-photo-checker/)
+- [Frame and Mat Size Calculator: Mat Opening and Frame Size](https://wallmock.com/tools/frame-mat-calculator/)
+- [Standard Frame Sizes Chart: US, Metric, A Sizes and Posters](https://wallmock.com/tools/frame-size-chart/)
 - [Gallery Wall Layout Planner with Sizes and Hang Heights](https://wallmock.com/tools/gallery-wall-layout-planner/)
-- [Gallery wall spacing calculator: free, no sign-up](https://wallmock.com/tools/gallery-wall-spacing/)
+- [Gallery Wall Spacing Calculator: Gaps, Nail Spots, Heights](https://wallmock.com/tools/gallery-wall-spacing/)
 - [Print Resolution Checker: How Big Can My Art Print?](https://wallmock.com/tools/print-resolution-checker/)
 - [Print Size Calculator: Which Print Sizes Fit My Art?](https://wallmock.com/tools/print-size-calculator/)
 
