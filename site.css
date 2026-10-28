@@ -220,3 +220,9 @@ p{margin:0 0 1em}
   .hero-grid img:nth-child(n+6){display:none}
   .pair{grid-template-columns:1fr}
 }
+/* SEO-4: guide opening paragraph, "Read next" line, tool links and the comparison trademark line */
+.article-head .intro{font-size:17px;max-width:64ch;margin-top:14px}
+.read-next{margin:32px 0 0;padding-top:18px;border-top:1px solid var(--line)}
+.tool-link a{font-weight:600}
+.trademark{margin-top:14px;color:var(--muted)}
+.table-scroll table.wide{min-width:640px}

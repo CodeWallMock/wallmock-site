@@ -1,33 +1,51 @@
 # WallMock
 
-> WallMock is a wall art mockup generator for print-on-demand and wall art sellers on Etsy and Shopify: their exact artwork placed in 500+ realistic rooms as framed canvas, framed prints and posters, for a whole collection at once.
+> WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, framed prints or posters.
 
 Your exact artwork in hundreds of realistic, curated rooms, for every design in your shop: set up favourite rooms once, add a whole collection, download listing-ready images. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Rooms are curated, digitally staged interiors reviewed by WallMock. Previews and images are made in your browser, on your device.
 
-## Key facts (checked 2026-10-26)
+WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies.
+
+## Key facts (checked 2026-10-28)
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Poster and print without a frame. Sets of 2, 3, 4.
 - Rooms: 500+ curated room settings; images up to 4096 px.
 - Price: Free watermarked previews in every room. Plans: Lite $5/month or $39/year (200 clean images a month); Pro $12/month or $89/year (5,000 clean images a month); Studio $24/month or $179/year (10,000 clean images a month). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Try it free: Try WallMock free with no sign-up: up to three artworks in 8 sample rooms, as watermarked previews made on your device. https://app.wallmock.com/try
 - Access: Anyone can try free watermarked previews. Full access is by invitation during the beta: request one, then sign in with your invited email.
+- Billing: Payments are in test mode during the beta, so no real payment is taken yet.
 - Works in a web browser; no Photoshop or PSD files.
 - Contact: hello@wallmock.com
 
+## Who makes WallMock
+Made by the WallMock team. About WallMock, how the examples are made and how these facts are checked: https://wallmock.com/about/
+Contact: hello@wallmock.com. Terms and refunds: https://app.wallmock.com/terms. App privacy policy: https://app.wallmock.com/privacy
+
+## Questions
+- What is WallMock? WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, framed prints or posters. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
+- Who is it for? Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
+- Is my artwork changed or redrawn? WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
+- Can I make mockups for a whole collection at once? Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
+- What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Poster and print without a frame. Sets of 2, 3 or 4 pieces too.
+- Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit.
+- How much does it cost? Free watermarked previews in every room. Clean images come with a plan: Lite $5 a month (200 images), Pro $12 (5,000) or Studio $24 (10,000). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
+- Can I use it today? Anyone can try free watermarked previews. Full access is by invitation during the beta: request one, then sign in with your invited email. Payments are in test mode during the beta, so no real payment is taken yet.
+
 ## Main pages
-- [Wall Art Mockup Generator for Etsy & Shopify Sellers](https://wallmock.com/)
-- [Wall Art Mockup Tools Compared: Placeit, ArtPlacer](https://wallmock.com/compare/)
+- [WallMock: Wall Art Mockup Generator for Etsy and Shopify Sellers](https://wallmock.com/)
+- [Wall Art Mockup Tools Compared, With Dated Facts](https://wallmock.com/compare/)
 - [Guides for Wall Art Sellers: Mockups, Etsy, Print Sizes](https://wallmock.com/guides/)
 - [Free Tools for Wall Art Sellers: Print Size, DPI, Layout](https://wallmock.com/tools/)
+- [About WallMock: the Wall Art Mockup Generator for Etsy Sellers](https://wallmock.com/about/)
 - [Bulk Mockup Generator for Wall Art Collections](https://wallmock.com/bulk-mockup-generator/)
 - [Canvas Print Mockup Generator: Floating Frame and Stretched](https://wallmock.com/canvas-print-mockup-generator/)
-- [Etsy Mockup Generator for Wall Art, Canvas & Posters](https://wallmock.com/etsy-mockup-generator/)
+- [Etsy Mockup Generator for Wall Art, Canvas and Posters](https://wallmock.com/etsy-mockup-generator/)
 - [Frame Mockup Generator for Framed Prints, Mats and Colours](https://wallmock.com/frame-mockup-generator/)
 - [Gallery Wall Mockup Generator for Pairs, Trios and Sets](https://wallmock.com/gallery-wall-mockup-generator/)
 - [How WallMock works: wall art mockups for whole collections](https://wallmock.com/how-it-works/)
 - [Poster Mockup Generator for Posters and Unframed Prints](https://wallmock.com/poster-mockup-generator/)
 - [WallMock Pricing: Plans for Wall Art and POD Sellers](https://wallmock.com/pricing/)
-- [Privacy — WallMock Early Access](https://wallmock.com/privacy/)
+- [WallMock Privacy: This Website and the App](https://wallmock.com/privacy/)
 - [Wandbild-Mockups für Bilderrahmen und Leinwand](https://wallmock.com/de/)
 - [Mockup de cuadros y lienzos para vender arte](https://wallmock.com/es/)
 - [Mockup cadre et toile pour vendre vos tableaux](https://wallmock.com/fr/)
@@ -44,34 +62,35 @@ Your exact artwork in hundreds of realistic, curated rooms, for every design in 
 - [Gallery Wall Layout Planner with Sizes and Hang Heights](https://wallmock.com/tools/gallery-wall-layout-planner/)
 - [Gallery wall spacing calculator: free, no sign-up](https://wallmock.com/tools/gallery-wall-spacing/)
 - [Print Resolution Checker: How Big Can My Art Print?](https://wallmock.com/tools/print-resolution-checker/)
-- [Print Ratio Calculator: Which Print Sizes Fit My Art?](https://wallmock.com/tools/print-size-calculator/)
+- [Print Size Calculator: Which Print Sizes Fit My Art?](https://wallmock.com/tools/print-size-calculator/)
 
 ## Guides
 - [AI Mockup Generator for Wall Art: Exact Art or Redrawn?](https://wallmock.com/guides/ai-wall-art-mockup-generator/)
 - [Print on Demand Wall Art: How to Choose a Provider](https://wallmock.com/guides/best-print-on-demand-for-wall-art/)
 - [Bulk Mockup Workflow Checklist: Naming, Previews, Exports](https://wallmock.com/guides/bulk-wall-art-mockups-without-photoshop/)
-- [Canvas vs framed print mockups: which to show for your art](https://wallmock.com/guides/canvas-vs-framed-print-mockups/)
-- [Etsy listing photos for wall art: a plan for all 20 slots](https://wallmock.com/guides/etsy-listing-photos-for-wall-art/)
-- [How to choose frame and mat proportions for art mockups](https://wallmock.com/guides/frame-and-mat-proportions/)
-- [Which frame colour for wall art? Black, white, oak, walnut or gold](https://wallmock.com/guides/frame-colours-for-wall-art-mockups/)
+- [Canvas vs Framed Print Mockups: Which to Show for Your Art](https://wallmock.com/guides/canvas-vs-framed-print-mockups/)
+- [Etsy Listing Photos for Wall Art: A Plan for All 20 Slots](https://wallmock.com/guides/etsy-listing-photos-for-wall-art/)
+- [How to Choose Frame and Mat Proportions for Art Mockups](https://wallmock.com/guides/frame-and-mat-proportions/)
+- [Which Frame Colour for Wall Art? Black, White, Oak or Gold](https://wallmock.com/guides/frame-colours-for-wall-art-mockups/)
 - [Set of 3 Wall Art: Presenting Pairs, Trios and Sets](https://wallmock.com/guides/gallery-wall-mockups-pairs-and-trios/)
-- [How to make wall art mockups for Etsy, step by step](https://wallmock.com/guides/how-to-make-wall-art-mockups-for-etsy/)
+- [How to Make Wall Art Mockups for Etsy, Step by Step](https://wallmock.com/guides/how-to-make-wall-art-mockups-for-etsy/)
 - [How to Sell Wall Art on Etsy: Products, Photos, Mockups](https://wallmock.com/guides/how-to-sell-wall-art-on-etsy/)
-- [Mockups for printable wall art (digital downloads)](https://wallmock.com/guides/mockups-for-printable-wall-art/)
-- [How to space pairs and trios in wall art mockups](https://wallmock.com/guides/pair-trio-spacing/)
-- [How to mock up panoramic (3:1) and tall (1:3) wall art](https://wallmock.com/guides/panoramic-and-tall-art-mockups/)
-- [Print ratios and sizes for wall art: 2:3, 3:4, 4:5, 11×14 and A sizes](https://wallmock.com/guides/print-ratios-and-sizes-for-wall-art/)
+- [Mockups for Printable Wall Art (Digital Downloads)](https://wallmock.com/guides/mockups-for-printable-wall-art/)
+- [Panoramic and Tall Art Mockups: 3:1 and 1:3 Wall Art](https://wallmock.com/guides/panoramic-and-tall-art-mockups/)
+- [Print Ratios and Sizes for Wall Art: 2:3, 3:4, 4:5, A Sizes](https://wallmock.com/guides/print-ratios-and-sizes-for-wall-art/)
 - [Printful Mockups for Framed Posters and Canvas](https://wallmock.com/guides/printful-mockups-for-framed-posters/)
 - [Printify Mockups for Framed Canvas and Posters](https://wallmock.com/guides/printify-mockups-for-framed-canvas-and-posters/)
-- [Room styles and wall colours that make wall art sell](https://wallmock.com/guides/room-styles-and-wall-colours-for-wall-art-mockups/)
-- [Selling AI or Midjourney art prints on Etsy: disclosure and mockups](https://wallmock.com/guides/selling-ai-art-prints-on-etsy/)
-- [Wall art mockup placement: size, balance and usable wall space](https://wallmock.com/guides/wall-art-placement/)
-- [A seasonal selling calendar for wall art, by country](https://wallmock.com/guides/wall-art-selling-calendar/)
-- [What size art over a sofa, bed or sideboard? A simple size guide](https://wallmock.com/guides/what-size-art-over-sofa-and-bed/)
+- [Room Styles and Wall Colours That Make Wall Art Sell](https://wallmock.com/guides/room-styles-and-wall-colours-for-wall-art-mockups/)
+- [Selling AI or Midjourney Art Prints on Etsy: Disclosure](https://wallmock.com/guides/selling-ai-art-prints-on-etsy/)
+- [Wall Art Placement in Mockups: Size, Balance, Usable Wall](https://wallmock.com/guides/wall-art-placement/)
+- [Wall Art Selling Calendar: Seasonal Dates by Country](https://wallmock.com/guides/wall-art-selling-calendar/)
+- [How High to Hang Art Over a Sofa, Bed or Sideboard](https://wallmock.com/guides/what-size-art-over-sofa-and-bed/)
 
 ## Comparisons
 - [ArtPlacer Alternative for Etsy Wall Art Sellers (2026)](https://wallmock.com/compare/artplacer-alternative/)
+- [Best Wall Art Mockup Generators (2026), Honestly Compared](https://wallmock.com/compare/best-wall-art-mockup-generators/)
 - [Placeit Alternative for Wall Art Mockups, Checked 2026](https://wallmock.com/compare/placeit-alternative/)
+- [WallMock vs WallMockup: Two Different Mockup Tools](https://wallmock.com/compare/wallmock-vs-wallmockup/)
 
 ## Rooms
 - [All rooms by type](https://wallmock.com/rooms/): 258 room pages. Full list: https://wallmock.com/sitemap.xml
