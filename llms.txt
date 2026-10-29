@@ -15,6 +15,7 @@ WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different p
 - Access: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code.
 - Billing: Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 - Works in a web browser; no Photoshop or PSD files.
+- Every page's answers and FAQs in one file: https://wallmock.com/llms-full.txt
 - Contact: hello@wallmock.com
 
 ## Who makes WallMock
@@ -38,13 +39,15 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [Free Tools for Wall Art Sellers: Print Size, DPI, Layout](https://wallmock.com/tools/)
 - [About WallMock: the Wall Art Mockup Generator for Etsy Sellers](https://wallmock.com/about/)
 - [Bulk Mockup Generator for Wall Art Collections](https://wallmock.com/bulk-mockup-generator/)
-- [Canvas Print Mockup Generator: Floating Frame and Stretched](https://wallmock.com/canvas-print-mockup-generator/)
+- [Canvas Print Mockup Generator: Stretched and Gallery Wrap](https://wallmock.com/canvas-print-mockup-generator/)
 - [Etsy Mockup Generator for Wall Art, Canvas and Posters](https://wallmock.com/etsy-mockup-generator/)
 - [Frame Mockup Generator for Framed Prints, Mats and Colours](https://wallmock.com/frame-mockup-generator/)
+- [Framed Canvas Mockup Generator: Floating Frame, 500+ Rooms](https://wallmock.com/framed-canvas-mockup-generator/)
 - [Gallery Wall Mockup Generator for Pairs, Trios and Sets](https://wallmock.com/gallery-wall-mockup-generator/)
 - [How WallMock works: wall art mockups for whole collections](https://wallmock.com/how-it-works/)
 - [Poster Mockup Generator for Posters and Unframed Prints](https://wallmock.com/poster-mockup-generator/)
 - [WallMock Pricing: Plans for Wall Art and POD Sellers](https://wallmock.com/pricing/)
+- [Print on Demand Canvas Mockups: Printify, Printful, Gelato](https://wallmock.com/print-on-demand-canvas-mockups/)
 - [WallMock Privacy: This Website and the App](https://wallmock.com/privacy/)
 - [WallMock Refund Policy: 14 Days on Your First Plan](https://wallmock.com/refunds/)
 - [WallMock Terms of Service](https://wallmock.com/terms/)
