@@ -1,6 +1,6 @@
 # WallMock
 
-> WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints.
+> WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints.
 
 Your exact artwork in hundreds of realistic, curated rooms, for every design in your shop: set up favourite rooms once, add a whole collection, download listing-ready images. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Rooms are curated, digitally staged interiors reviewed by WallMock. Previews and images are made in your browser, on your device.
 
@@ -24,7 +24,7 @@ Made by the WallMock team. About WallMock, how the examples are made and how the
 Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App privacy policy: https://app.wallmock.com/privacy
 
 ## Questions
-- What is WallMock? WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
+- What is WallMock? WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
 - Who is it for? Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 - Is my artwork changed or redrawn? WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
 - Can I make mockups for a whole collection at once? Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
@@ -35,12 +35,12 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 
 # Every page in full (109 pages)
 
-## WallMock: Wall Art Mockup Generator for Etsy and Shopify Sellers
+## WallMock: Wall Art Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
-WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints.
+WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints.
 
 Q: What is WallMock?
-A: WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
+A: WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
 Q: Who is it for?
 A: Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 Q: Is my artwork changed or redrawn?
@@ -61,7 +61,7 @@ URL: https://wallmock.com/about/
 WallMock in one line, who it is for, what it does to your artwork, how our examples are made and how facts are checked. Not WallMockup. Contact hello@wallmock.com.
 
 Q: What is WallMock?
-A: WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints. It runs in a web browser and makes listing photos for one design or a whole collection.
+A: WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. It runs in a web browser and makes listing photos for one design or a whole collection.
 Q: Is WallMock the same as WallMockup?
 A: No. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies. WallMock is at wallmock.com and app.wallmock.com.
 Q: Is wallmock.com the same as wallmock.app?
@@ -349,7 +349,7 @@ Short answer: No. WallMock at wallmock.com is a mockup generator for wall art se
 Q: Is wallmock.com the same as wallmock.app?
 A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies.
 Q: What is WallMock?
-A: WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints.
+A: WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints.
 Q: Who is WallMock for?
 A: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
 
