@@ -5,6 +5,7 @@
 Your exact artwork in hundreds of realistic, curated rooms, for every design in your shop: set up favourite rooms once, add a whole collection, download listing-ready images. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Rooms are curated, digitally staged interiors reviewed by WallMock. Previews and images are made in your browser, on your device.
 
 WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies.
+WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 ## Key facts (checked 2026-10-28)
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
@@ -32,7 +33,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - How much does it cost? Free watermarked previews in every room. Clean images come with a plan: Lite $5 a month (200 images), Pro $12 (5,000) or Studio $24 (10,000). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 
-# Every page in full (93 pages)
+# Every page in full (109 pages)
 
 ## WallMock: Wall Art Mockup Generator for Etsy and Shopify Sellers
 URL: https://wallmock.com/
@@ -63,6 +64,8 @@ Q: What is WallMock?
 A: WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints. It runs in a web browser and makes listing photos for one design or a whole collection.
 Q: Is WallMock the same as WallMockup?
 A: No. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies. WallMock is at wallmock.com and app.wallmock.com.
+Q: Is wallmock.com the same as wallmock.app?
+A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 Q: Who makes WallMock?
 A: Made by the WallMock team. You can reach us at hello@wallmock.com.
 Q: Does WallMock change my artwork?
@@ -190,6 +193,205 @@ A: For a set you sell together, yes. One frame colour and one size makes the gro
 Q: Will each artwork in the set stay exact?
 A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Each piece keeps its own file, so the set in the photo is the set you ship.
 
+## WallMock Help: Plans, Credits, Files, Privacy and Etsy Use
+URL: https://wallmock.com/help/
+Straight answers about WallMock: what it costs, how credits work, file types, image size, privacy, frames and products, Etsy use, cancelling and sign-in.
+
+Short answer: straight answers about WallMock, each on its own page: price and credits, files and image size, privacy, frames and products, using mockups on Etsy, cancelling and signing in. For anything else, email hello@wallmock.com.
+
+Q: How much does WallMock cost?
+A: Lite $5 a month (200 clean images), Pro $12 a month (5,000 clean images), Studio $24 a month (10,000 clean images). Paying yearly costs $39, $89, $179. Watermarked previews in every room are free, and you can try WallMock with no sign-up and no card.
+Q: Can I try WallMock for free?
+A: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. With a free account you also get watermarked previews in every room, so you can check the look before you choose a plan.
+Q: What files can I upload to WallMock?
+A: JPEG, PNG or WebP artwork files, one at a time or a whole collection. Each file keeps its own proportions, from square to 3:1 panoramas and 1:3 tall pieces, and is never stretched or cropped to fit a room.
+Q: What size are WallMock's images?
+A: Clean images are 4096 px on the long side, large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are smaller and watermarked.
+Q: Does WallMock change my artwork?
+A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Lettering, signatures, colours and proportions stay exactly as they are in your file.
+
+## Can WallMock make mockups for a whole collection | WallMock Help
+URL: https://wallmock.com/help/can-i-make-mockups-for-a-whole-collection/
+Yes. Save your favourite rooms and frame looks once, add the whole collection, and WallMock makes every artwork in every chosen room, each at its own…
+
+Short answer: Yes. Save your favourite rooms and frame looks once, add the whole collection, and WallMock makes every artwork in every chosen room, each at its own proportions.
+
+Q: Can WallMock make mockups for a whole collection?
+A: Yes. Save your favourite rooms and frame looks once, add the whole collection, and WallMock makes every artwork in every chosen room, each at its own proportions.
+Q: Can different shapes share one batch?
+A: Yes. Square, portrait, landscape and panoramic files can share a batch.
+Q: Does WallMock upload to Etsy or Printify for me?
+A: No. You download the images and add them to your listings.
+
+## Can I try WallMock for free | WallMock Help
+URL: https://wallmock.com/help/can-i-try-wallmock-for-free/
+Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. With a free…
+
+Short answer: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. With a free account you also get watermarked previews in every room, so you can check the look before you choose a plan.
+
+Q: Can I try WallMock for free?
+A: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. With a free account you also get watermarked previews in every room, so you can check the look before you choose a plan.
+Q: Do I need a card to try it?
+A: No. The free try and a free account ask for no payment details.
+Q: Are free previews watermarked?
+A: Yes. Previews carry a watermark; clean full-size images come with a plan.
+
+## Can I use WallMock mockups on Etsy | WallMock Help
+URL: https://wallmock.com/help/can-i-use-wallmock-mockups-on-etsy/
+Yes. Clean WallMock downloads can be used in Etsy and Shopify listings, ads and social posts with no extra licence fee, even after you cancel. Etsy's…
+
+Short answer: Yes. Clean WallMock downloads can be used in Etsy and Shopify listings, ads and social posts with no extra licence fee, even after you cancel. Etsy's listing image rules (updated 22 October 2026): most listings need at least one unedited photo of the actual item against a real background, with no editing or AI tools on that photo. Other photos may be edited if they show the item accurately. Print-on-demand items made by a production partner may use an authorised mockup instead, and digital downloads need a preview of the content.
+
+Q: Can I use WallMock mockups on Etsy?
+A: Yes. Clean WallMock downloads can be used in Etsy and Shopify listings, ads and social posts with no extra licence fee, even after you cancel. Etsy's listing image rules (updated 22 October 2026): most listings need at least one unedited photo of the actual item against a real background, with no editing or AI tools on that photo. Other photos may be edited if they show the item accurately. Print-on-demand items made by a production partner may use an authorised mockup instead, and digital downloads need a preview of the content.
+Q: Can I use watermarked previews in a listing?
+A: No. Previews are for trying things out; use a clean download in a listing or ad.
+Q: Can I resell WallMock rooms as templates?
+A: No. You can't extract or resell rooms, frames or mockups as stock images, templates or mockup packs.
+
+## Does WallMock change my artwork | WallMock Help
+URL: https://wallmock.com/help/does-wallmock-change-my-artwork/
+No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Lettering, signatures, colours and proportions stay exactly as…
+
+Short answer: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Lettering, signatures, colours and proportions stay exactly as they are in your file.
+
+Q: Does WallMock change my artwork?
+A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Lettering, signatures, colours and proportions stay exactly as they are in your file.
+Q: Is the room AI-generated?
+A: Rooms are curated, digitally staged interiors reviewed by WallMock. The artwork in them is yours, unchanged.
+Q: Will text in my design stay sharp?
+A: Yes. Typography and fine lines show exactly as they are in your file.
+
+## How do WallMock credits work | WallMock Help
+URL: https://wallmock.com/help/how-do-credits-work/
+One credit is one successful clean, full-size image. Watermarked previews are free. Failed, refused and cancelled images never use credits, downloading…
+
+Short answer: One credit is one successful clean, full-size image. Watermarked previews are free. Failed, refused and cancelled images never use credits, downloading again is free, and making the same image twice isn't charged twice.
+
+Q: How do WallMock credits work?
+A: One credit is one successful clean, full-size image. Watermarked previews are free. Failed, refused and cancelled images never use credits, downloading again is free, and making the same image twice isn't charged twice.
+Q: Do unused credits roll over?
+A: No. Each month's credits end with that month.
+Q: Are previews charged?
+A: No. Watermarked previews, including the live preview while you set up a room, are free.
+
+## How do I cancel my WallMock plan | WallMock Help
+URL: https://wallmock.com/help/how-do-i-cancel-wallmock/
+Open Billing & plans in the profile menu, then Manage subscription, and cancel. You don't need to contact us. Your plan and its credits continue to the end…
+
+Short answer: Open Billing & plans in the profile menu, then Manage subscription, and cancel. You don't need to contact us. Your plan and its credits continue to the end of the period you paid for, then stop renewing.
+
+Q: How do I cancel my WallMock plan?
+A: Open Billing & plans in the profile menu, then Manage subscription, and cancel. You don't need to contact us. Your plan and its credits continue to the end of the period you paid for, then stop renewing.
+Q: Will I get a refund if I cancel?
+A: Cancelling doesn't refund the current period, except the 14-day refund on a first subscription, minus credits used.
+Q: Do I keep my downloaded images?
+A: Yes. Clean images you downloaded keep their commercial-use licence.
+
+## How do I sign in to WallMock | WallMock Help
+URL: https://wallmock.com/help/how-do-i-sign-in-to-wallmock/
+Use Continue with Google, or enter your email and type the 8-digit code WallMock emails you. There is no password. A code stops working after 10 minutes or…
+
+Short answer: Use Continue with Google, or enter your email and type the 8-digit code WallMock emails you. There is no password. A code stops working after 10 minutes or 3 wrong tries; ask for a new one from the sign-in page.
+
+Q: How do I sign in to WallMock?
+A: Use Continue with Google, or enter your email and type the 8-digit code WallMock emails you. There is no password. A code stops working after 10 minutes or 3 wrong tries; ask for a new one from the sign-in page.
+Q: I didn't get the code. What now?
+A: Check the address and your spam folder, then ask for a new code.
+Q: Can I use Google and email for the same account?
+A: Yes. Sign in with an email code, then connect Google in Profile & settings.
+
+## How many rooms does WallMock have | WallMock Help
+URL: https://wallmock.com/help/how-many-rooms-does-wallmock-have/
+500+ curated rooms: living rooms, bedrooms, dining rooms, kitchens, offices, nurseries, hallways and café or studio spaces. Rooms are curated, digitally…
+
+Short answer: 500+ curated rooms: living rooms, bedrooms, dining rooms, kitchens, offices, nurseries, hallways and café or studio spaces. Rooms are curated, digitally staged interiors reviewed by WallMock.
+
+Q: How many rooms does WallMock have?
+A: 500+ curated rooms: living rooms, bedrooms, dining rooms, kitchens, offices, nurseries, hallways and café or studio spaces. Rooms are curated, digitally staged interiors reviewed by WallMock.
+Q: Are the rooms drawn to scale?
+A: Treat scale as illustrative; rooms are not measured. Show the real size with a size guide image and numbers.
+Q: Can I upload a photo of my own room?
+A: Not in the public product today.
+
+## How much does WallMock cost | WallMock Help
+URL: https://wallmock.com/help/how-much-does-wallmock-cost/
+Lite $5 a month (200 clean images), Pro $12 a month (5,000 clean images), Studio $24 a month (10,000 clean images). Paying yearly costs $39, $89, $179.…
+
+Short answer: Lite $5 a month (200 clean images), Pro $12 a month (5,000 clean images), Studio $24 a month (10,000 clean images). Paying yearly costs $39, $89, $179. Watermarked previews in every room are free, and you can try WallMock with no sign-up and no card.
+
+Q: How much does WallMock cost?
+A: Lite $5 a month (200 clean images), Pro $12 a month (5,000 clean images), Studio $24 a month (10,000 clean images). Paying yearly costs $39, $89, $179. Watermarked previews in every room are free, and you can try WallMock with no sign-up and no card.
+Q: Is there a free plan?
+A: Free watermarked previews in every room. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device.
+Q: Can I cancel any time?
+A: Yes. Cancel in Billing & plans, then Manage subscription. Your plan runs to the end of the period you paid for.
+
+## Is my artwork private with WallMock | WallMock Help
+URL: https://wallmock.com/help/is-my-artwork-private/
+Yes. Previews and images are made in your browser, on your device. In WallMock's published rooms your artwork is not uploaded to WallMock, not sent to an…
+
+Short answer: Yes. Previews and images are made in your browser, on your device. In WallMock's published rooms your artwork is not uploaded to WallMock, not sent to an AI image service and not used to train AI.
+
+Q: Is my artwork private with WallMock?
+A: Yes. Previews and images are made in your browser, on your device. In WallMock's published rooms your artwork is not uploaded to WallMock, not sent to an AI image service and not used to train AI.
+Q: Does WallMock sell my data?
+A: No. WallMock never sells your information or uses it for advertising, and your artwork in published rooms isn't uploaded to WallMock.
+Q: What happens when I refresh the page?
+A: Images still in the tab are cleared. Download them first; downloading never uses credits.
+
+## Is wallmock.com the same as wallmock.app | WallMock Help
+URL: https://wallmock.com/help/is-wallmock-the-same-as-wallmock-app/
+No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a…
+
+Short answer: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies.
+
+Q: Is wallmock.com the same as wallmock.app?
+A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies.
+Q: What is WallMock?
+A: WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints.
+Q: Who is WallMock for?
+A: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
+
+## What files can I upload to WallMock | WallMock Help
+URL: https://wallmock.com/help/what-files-can-i-upload/
+JPEG, PNG or WebP artwork files, one at a time or a whole collection. Each file keeps its own proportions, from square to 3:1 panoramas and 1:3 tall…
+
+Short answer: JPEG, PNG or WebP artwork files, one at a time or a whole collection. Each file keeps its own proportions, from square to 3:1 panoramas and 1:3 tall pieces, and is never stretched or cropped to fit a room.
+
+Q: What files can I upload to WallMock?
+A: JPEG, PNG or WebP artwork files, one at a time or a whole collection. Each file keeps its own proportions, from square to 3:1 panoramas and 1:3 tall pieces, and is never stretched or cropped to fit a room.
+Q: Can I upload many artworks at once?
+A: Yes. Add a whole collection; each artwork comes out in every room you chose.
+Q: Will my file be resized or redrawn?
+A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI.
+
+## What size are WallMock's images | WallMock Help
+URL: https://wallmock.com/help/what-size-are-wallmock-images/
+Clean images are 4096 px on the long side, large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are smaller and watermarked.
+
+Short answer: Clean images are 4096 px on the long side, large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are smaller and watermarked.
+
+Q: What size are WallMock's images?
+A: Clean images are 4096 px on the long side, large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are smaller and watermarked.
+Q: Can I zoom in on the frame?
+A: Yes. Look at the full-size examples to see frame corners, the floating-frame gap and the canvas edge.
+Q: Does downloading again use a credit?
+A: No. Downloading an image you already made is free.
+
+## Which frames and products does WallMock show | WallMock Help
+URL: https://wallmock.com/help/which-frames-and-products-does-wallmock-show/
+Framed canvas in a floating frame, stretched canvas, framed prints in a wood frame and metal-framed prints in an aluminium frame, each print with or…
+
+Short answer: Framed canvas in a floating frame, stretched canvas, framed prints in a wood frame and metal-framed prints in an aluminium frame, each print with or without a mat. Frame colours: black, white, natural oak, walnut, espresso, gold and silver. Sets of 2, 3 or 4 too.
+
+Q: Which frames and products does WallMock show?
+A: Framed canvas in a floating frame, stretched canvas, framed prints in a wood frame and metal-framed prints in an aluminium frame, each print with or without a mat. Frame colours: black, white, natural oak, walnut, espresso, gold and silver. Sets of 2, 3 or 4 too.
+Q: Can I match my print provider's frame?
+A: Yes. Pick the finish your provider ships; see print on demand canvas mockups for provider details.
+Q: Does WallMock show a mat?
+A: Yes, for framed prints and metal-framed prints, with or without.
+
 ## Poster Mockup Generator for Framed Posters and Prints
 URL: https://wallmock.com/poster-mockup-generator/
 See your posters framed on realistic walls, in wood or aluminium frames with or without a mat, at 2:3, 3:4, 4:5 and A-sizes. Your exact file in 500+ rooms.
@@ -213,6 +415,8 @@ A: Yes. Save the rooms you like once, add every poster in the collection, and ea
 URL: https://wallmock.com/pricing/
 WallMock pricing: free watermarked previews, then Lite $5, Pro $12 or Studio $24 a month for clean images. Which plan fits your shop, with images per week.
 
+Short answer: WallMock costs $5 a month for Lite (200 clean images), $12 a month for Pro (5,000 clean images), $24 a month for Studio (10,000 clean images), or less billed yearly. Watermarked previews in every room are free, and you can try it with no sign-up and no card. Cancel any time; a first subscription can be refunded within 14 days, minus credits used.
+
 Q: Is there a free option?
 A: Free watermarked previews in every room. Previews show the WallMock watermark; a plan gives clean, full-size images.
 Q: What counts as one image?
@@ -228,10 +432,10 @@ A: Anyone can try free watermarked previews with no sign-up, then create a free 
 URL: https://wallmock.com/print-on-demand-canvas-mockups/
 Canvas and framed canvas mockups that match your print-on-demand product: frame type, gap and colour for Printify, Printful, Gelato and Prodigi.
 
-Short answer: a print-on-demand canvas mockup should show the exact product your provider ships: a stretched canvas with its wrapped edge, or a framed canvas with the floating-frame gap in the right colour. WallMock makes both in 500+ curated rooms, for every design in your shop, with your file unchanged, whether you print with Printify, Printful, Gelato or Prodigi.
+Short answer: a print-on-demand canvas mockup should show the exact product your provider ships: a stretched canvas (gallery wrap), or a framed canvas with the floating-frame gap in the right colour. WallMock makes both in 500+ curated rooms, for every design in your shop, with your file unchanged, whether you print with Printify, Printful, Gelato or Prodigi.
 
 Q: What is the best mockup tool for print on demand canvas?
-A: One that shows the canvas you actually sell: stretched canvas with its wrapped edge, or framed canvas with the floating-frame gap, in the frame colour your provider ships, with your design unchanged. WallMock is built for exactly that, for whole collections, in 500+ curated rooms.
+A: One that shows the canvas you actually sell: stretched canvas (gallery wrap), or framed canvas with the floating-frame gap, in the frame colour your provider ships, with your design unchanged. WallMock is built for exactly that, for whole collections, in 500+ curated rooms.
 Q: Can I use my own mockups instead of my provider's?
 A: Yes. Your provider's mockups are a starting point; on Etsy and Shopify you choose the listing photos. Many sellers keep one provider image for the product details and lead with lifestyle room photos made elsewhere.
 Q: Are print on demand mockups accurate?
@@ -290,16 +494,33 @@ A: Open Billing & plans, then Manage subscription, and cancel. Your plan runs to
 Q: Which law applies to WallMock's terms?
 A: The laws of Alberta and the federal laws of Canada that apply there. Consumer protection rights that can't be excluded still apply.
 
+## Wall Art Mockup Examples: Framed Canvas, Prints, Sets
+URL: https://wallmock.com/wall-art-mockup-examples/
+Zoom into real WallMock results: floating-frame canvas in 7 finishes, stretched canvas, framed prints with mats, panoramas and sets, at full size.
+
+Short answer: these are wall art mockup examples made with WallMock: framed canvas in seven floating-frame finishes, stretched canvas, framed prints with and without a mat, panoramas, tall pieces and sets, each from the artwork file exactly as supplied. Open any image at full size to check the frame corners, the shadow gap and the canvas edge.
+
+Q: Are these real WallMock results?
+A: Yes. Every image on this page was made with WallMock from the artwork file as supplied, and checked against that file. Rooms are curated, digitally staged interiors reviewed by WallMock.
+Q: Can I zoom in?
+A: Yes. Click any image or "Full size" to open a 2400 px version and look at the frame corners, the floating-frame gap and the canvas edge.
+Q: What size are the images I download?
+A: Clean images are 4096 px on the long side, large enough to crop for Etsy, Shopify, Pinterest and Instagram.
+Q: Which frame colours are there?
+A: Black, white, natural oak, walnut, espresso, gold and silver, for floating-frame canvas and framed prints.
+Q: Is the artwork changed?
+A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI.
+
 ## Wall Art Mockup Tools Compared, With Dated Facts
 URL: https://wallmock.com/compare/
 Wall art mockup tools compared with dated facts from each company's own pages: who each tool suits, prices, bulk mockups and when another tool is the better pick.
 
-Short answer: general mockup platforms cover many products; art-world platforms add tools for galleries and collectors. WallMock is for one job: your exact artwork, never redrawn, in 500+ curated rooms as framed canvas, framed prints or posters, for a whole collection at once. Each comparison below is dated and says when the other tool is the better choice. Published by WallMock; facts checked 2026-10-28.
+Short answer: general mockup platforms cover many products; art-world platforms add tools for galleries and collectors. WallMock is for one job: your exact artwork, never redrawn, in 500+ curated rooms as framed canvas, stretched canvas or framed prints, for a whole collection at once. Each comparison below is dated and says when the other tool is the better choice. Published by WallMock; facts checked 2026-10-26 to 2026-10-29.
 
 Q: How do you compare wall art mockup tools?
-A: We read each company's own home, pricing and feature pages on the day we publish, quote only what those pages say, and date every fact. If a page contradicts itself, we leave the number out and point you to the company's pricing page.
+A: We read each company's own home, pricing and feature pages on the day we publish, quote only what those pages say, and date every fact. If a page contradicts itself, we say so or leave the number out; if it doesn't say, we write "not stated". We cite other mockup tools' pages by address, without links.
 Q: How often are the facts checked?
-A: Each page shows the date its facts were checked: 2026-10-28 for the newest, 2026-10-26 for the Placeit and ArtPlacer pages. Prices and plans change often, so we re-check before every update.
+A: Each page shows the date its facts were checked: 2026-10-29 for the best wall art mockup generators list (some rows 2026-10-28), 2026-10-28 for WallMock vs WallMockup, 2026-10-26 for the Placeit and ArtPlacer pages. Prices and plans change often, so we re-check before every update.
 Q: Is WallMock the same as WallMockup?
 A: No. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies.
 Q: Do the comparisons include a section on when the other tool is better?
@@ -330,31 +551,41 @@ A: Anyone can try free watermarked previews with no sign-up, then create a free 
 
 ## Best Wall Art Mockup Generators (2026), Honestly Compared
 URL: https://wallmock.com/compare/best-wall-art-mockup-generators/
-Nine wall art mockup generators compared with facts checked 2026-10-28: who each suits, free options, prices and where each beats WallMock. No affiliate links.
+ArtPlacer, Smartist, WallMockup, Situ.art, Scaylr, Gelato and more compared on floating frames, canvas edges, bulk, true scale and price. Facts dated, no affiliate links.
 
-Short answer: The best wall art mockup generator depends on what you sell. WallMockup suits true-scale sizing at a low monthly price; ArtPlacer suits artists and galleries selling to collectors; Smartist suits Apple users; Mockey, Canva and Placeit cover many product types; Printify and Printful mockups are free with their products. WallMock is for sellers who list many designs and want their exact art in curated rooms, a whole collection at once. Published by WallMock; facts checked 2026-10-28.
+Short answer: The best wall art mockup generator depends on what you sell. ArtPlacer suits artists and galleries; Smartist suits Apple users; WallMockup and Situ.art show true scale; Scaylr batches designs for many product types; Canva, Placeit and Mockey cover many products; Printify, Printful and Gelato mock up their own products. WallMock is for print-on-demand sellers who want their exact art as framed canvas, stretched canvas or framed prints in curated rooms, a whole collection at once. Published by WallMock; facts checked 2026-10-28 and 2026-10-29.
 
 Q: What is the best wall art mockup generator?
-A: It depends on what you sell and how many designs you list. For true-scale sizing at a low monthly price, WallMockup. For gallery and collector tools, ArtPlacer. For many product types, Mockey, Canva or Placeit. For many wall art designs shown in the same curated rooms, with the art placed exactly as supplied, WallMock.
+A: It depends on what you sell and how many designs you list. ArtPlacer suits artists and galleries, Smartist suits Apple users, WallMockup and Situ.art suit sellers who need true scale, Scaylr suits batches across many product types, and Canva, Placeit and Mockey cover many products. WallMock suits print-on-demand sellers who want their exact art as framed canvas, stretched canvas or framed prints in curated rooms, a whole collection at once.
+Q: What is the best tool for framed canvas mockups for a print-on-demand shop?
+A: Pick one that shows the canvas your provider ships: a floating frame with its gap, or a stretched canvas with its edge. WallMock is built for this: framed canvas in 7 floating-frame finishes and stretched canvas, for a whole collection at once, with your file placed as it is. ArtPlacer also shows floating frames with an adjustable gap and white, black or mirror canvas edges, at true scale, but its Instant Mockups take up to three artworks at a time.
+Q: What is the best floating frame canvas mockup generator?
+A: One that draws the gap between the canvas and the frame. On 2026-10-29, ArtPlacer let you adjust the gap width, Smartist and Situ.art listed floating frames without stating the gap, and WallMockup said its current editor doesn't render a floating-frame construction. WallMock shows the gap in black, white, natural oak, walnut, espresso, gold and silver.
+Q: What is the best mockup generator for Printify or Gelato canvas wall art?
+A: Use your provider's own mockups for the product details, then add room photos that match the frame your provider ships. Gelato's Mockup Studio is designed for wall art and is part of Gelato+; Printify's mockups are free for its products; WallMock adds curated rooms for framed canvas and stretched canvas across a whole collection. Check your provider's frame colour and gap before you pick a finish.
+Q: How can I make mockups for a whole collection of wall art at once?
+A: Use a batch tool that puts every design into every scene you choose. Scaylr does this with PSD templates for many products, with 30 watermarked mockups a day free; WallMock does it in curated wall art rooms, with favourite rooms and frame looks saved once. ArtPlacer's Instant Mockups take up to three artworks per run, and WallMockup's bulk generator pairs one artwork with up to 60 room-and-frame looks.
 Q: Is there a free wall art mockup generator?
-A: Several have a free option: WallMock gives free watermarked previews with no sign-up, Smartist and Mockey have free plans, Canva has a free plan, WallMockup has a 7-day trial with no card, and Printify and Printful mockups are free for their own products.
-Q: Which mockup generator shows true scale?
-A: WallMockup says every scene is measured so the print shows at the size you sell, in inches and centimetres. WallMock shows a sensible starting size in each room and keeps the artwork's proportions, but it is not a measuring tool.
+A: Several have a free option: WallMock gives free watermarked previews with no sign-up; Situ.art (5 downloads, no watermark), Smartist, Mockey and Canva have free plans; Scaylr allows 30 watermarked mockups a day; WallMockup has a 7-day trial with no card; and Printify, Printful and Gelato make mockups of their own products with a free account.
+Q: Which mockup generators show true scale?
+A: On their own pages: WallMockup (inches and centimetres), Situ.art (scale-accurate placement from the dimensions you enter), ArtPlacer (art placed to scale) and Smartist (to-scale interiors from your dimensions). WallMock shows a sensible starting size in each room and keeps your artwork's proportions, but it is not a measuring tool.
 Q: Which tools let me use my own room photo?
-A: On the pages we checked, ArtPlacer's Personal Spaces (from its Standard plan) and Smartist's upload-your-own-space feature do. WallMock uses its own curated rooms.
+A: ArtPlacer's Personal Spaces (from its Standard plan), Smartist, and Situ.art's Pro plan let you upload a photo of a room. WallMock uses its own 500+ curated rooms.
+Q: Which mockup tools keep my artwork exactly as it is?
+A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Situ.art says your work is never redrawn or repainted, and WallMockup says your artwork stays a separate layer that is never sent to its AI model; the other pages we checked don't say.
 Q: Is WallMock the same as WallMockup?
 A: No. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies.
 Q: How were these tools checked?
-A: We read each company's own public pages on 2026-10-28 and quote only what they say. Where a page contradicted itself or would not load, we left the number out and point you to the company's pricing page.
+A: We read each company's own public pages and quote only what they say: ArtPlacer, Smartist, WallMockup, Situ.art, Scaylr and Gelato on 2026-10-29, the others on 2026-10-28. Where a page doesn't say, we write "not stated"; where pages disagree, we say so. Other mockup tools' pages are cited by address, without links.
 
 ## Placeit Alternative for Wall Art Mockups, Checked 2026
 URL: https://wallmock.com/compare/placeit-alternative/
 A fair, dated look at Placeit and WallMock for wall art sellers: what each tool suits, prices, bulk mockups, exact art, and when Placeit is the better choice.
 
-Short answer: Placeit is a broad design platform with mockups for many products, logos and videos. WallMock does one thing: it puts your exact artwork into 500+ curated rooms as framed canvas, framed prints or posters, for a whole collection at once. Choose Placeit for variety across products; choose WallMock for wall art listings at volume. Published by WallMock; facts checked 2026-10-26.
+Short answer: Placeit is a broad design platform with mockups for many products, logos and videos. WallMock does one thing: it puts your exact artwork into 500+ curated rooms as framed canvas, stretched canvas or framed prints, for a whole collection at once. Choose Placeit for variety across products; choose WallMock for wall art listings at volume. Published by WallMock; facts checked 2026-10-26.
 
 Q: What is a good Placeit alternative for wall art?
-A: If you sell framed canvas, framed prints or posters and want your exact artwork in curated rooms for a whole collection, WallMock is built for that one job. If you also need logos, videos and mockups for apparel or devices, Placeit's broad library may still suit you better.
+A: If you sell framed canvas, stretched canvas or framed prints and want your exact artwork in curated rooms for a whole collection, WallMock is built for that one job. If you also need logos, videos and mockups for apparel or devices, Placeit's broad library may still suit you better.
 Q: Is there a free alternative to Placeit?
 A: WallMock gives free watermarked previews in every room; clean images need a plan, from $5 a month. Placeit also has some free templates; see its site for what they include.
 Q: How much does Placeit cost?
@@ -370,7 +601,7 @@ A: Anyone can try free watermarked previews with no sign-up, then create a free 
 URL: https://wallmock.com/compare/wallmock-vs-wallmockup/
 WallMock and WallMockup are different products from different companies. The name mix-up explained, with facts checked 2026-10-28 and where WallMockup gives more.
 
-Short answer: WallMock (wallmock.com) and WallMockup (wallmockup.net) are different products from different companies. WallMockup is a true-scale wall art mockup editor with 720 room scenes, a 7-day trial and a $4.99 monthly plan. WallMock places your exact artwork in 500+ curated rooms as framed canvas, framed prints or posters, for a whole collection at once, with open sign-up. Published by WallMock; facts checked 2026-10-28.
+Short answer: WallMock (wallmock.com) and WallMockup (wallmockup.net) are different products from different companies. WallMockup is a true-scale wall art mockup editor with 720 room scenes, a 7-day trial and a $4.99 monthly plan. WallMock places your exact artwork in 500+ curated rooms as framed canvas, stretched canvas or framed prints, for a whole collection at once, with open sign-up. Published by WallMock; facts checked 2026-10-28.
 
 Q: Is WallMock the same company as WallMockup?
 A: No. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies. WallMock's website is wallmock.com and its app is app.wallmock.com.

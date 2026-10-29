@@ -5,6 +5,7 @@
 Your exact artwork in hundreds of realistic, curated rooms, for every design in your shop: set up favourite rooms once, add a whole collection, download listing-ready images. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Rooms are curated, digitally staged interiors reviewed by WallMock. Previews and images are made in your browser, on your device.
 
 WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies.
+WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 ## Key facts (checked 2026-10-28)
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
@@ -44,6 +45,21 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [Frame Mockup Generator for Framed Prints, Mats and Colours](https://wallmock.com/frame-mockup-generator/)
 - [Framed Canvas Mockup Generator: Floating Frame, 500+ Rooms](https://wallmock.com/framed-canvas-mockup-generator/)
 - [Gallery Wall Mockup Generator for Pairs, Trios and Sets](https://wallmock.com/gallery-wall-mockup-generator/)
+- [WallMock Help: Plans, Credits, Files, Privacy and Etsy Use](https://wallmock.com/help/)
+- [Can WallMock make mockups for a whole collection | WallMock Help](https://wallmock.com/help/can-i-make-mockups-for-a-whole-collection/)
+- [Can I try WallMock for free | WallMock Help](https://wallmock.com/help/can-i-try-wallmock-for-free/)
+- [Can I use WallMock mockups on Etsy | WallMock Help](https://wallmock.com/help/can-i-use-wallmock-mockups-on-etsy/)
+- [Does WallMock change my artwork | WallMock Help](https://wallmock.com/help/does-wallmock-change-my-artwork/)
+- [How do WallMock credits work | WallMock Help](https://wallmock.com/help/how-do-credits-work/)
+- [How do I cancel my WallMock plan | WallMock Help](https://wallmock.com/help/how-do-i-cancel-wallmock/)
+- [How do I sign in to WallMock | WallMock Help](https://wallmock.com/help/how-do-i-sign-in-to-wallmock/)
+- [How many rooms does WallMock have | WallMock Help](https://wallmock.com/help/how-many-rooms-does-wallmock-have/)
+- [How much does WallMock cost | WallMock Help](https://wallmock.com/help/how-much-does-wallmock-cost/)
+- [Is my artwork private with WallMock | WallMock Help](https://wallmock.com/help/is-my-artwork-private/)
+- [Is wallmock.com the same as wallmock.app | WallMock Help](https://wallmock.com/help/is-wallmock-the-same-as-wallmock-app/)
+- [What files can I upload to WallMock | WallMock Help](https://wallmock.com/help/what-files-can-i-upload/)
+- [What size are WallMock's images | WallMock Help](https://wallmock.com/help/what-size-are-wallmock-images/)
+- [Which frames and products does WallMock show | WallMock Help](https://wallmock.com/help/which-frames-and-products-does-wallmock-show/)
 - [How WallMock works: wall art mockups for whole collections](https://wallmock.com/how-it-works/)
 - [Poster Mockup Generator for Framed Posters and Prints](https://wallmock.com/poster-mockup-generator/)
 - [WallMock Pricing: Plans for Wall Art and POD Sellers](https://wallmock.com/pricing/)
@@ -51,6 +67,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [WallMock Privacy: This Website and the App](https://wallmock.com/privacy/)
 - [WallMock Refund Policy: 14 Days on Your First Plan](https://wallmock.com/refunds/)
 - [WallMock Terms of Service](https://wallmock.com/terms/)
+- [Wall Art Mockup Examples: Framed Canvas, Prints, Sets](https://wallmock.com/wall-art-mockup-examples/)
 - [Wandbild-Mockups für Bilderrahmen und Leinwand](https://wallmock.com/de/)
 - [Mockup de cuadros y lienzos para vender arte](https://wallmock.com/es/)
 - [Mockup cadre et toile pour vendre vos tableaux](https://wallmock.com/fr/)
