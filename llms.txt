@@ -19,7 +19,7 @@ WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different p
 
 ## Who makes WallMock
 Made by the WallMock team. About WallMock, how the examples are made and how these facts are checked: https://wallmock.com/about/
-Contact: hello@wallmock.com. Terms and refunds: https://app.wallmock.com/terms. App privacy policy: https://app.wallmock.com/privacy
+Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App privacy policy: https://app.wallmock.com/privacy
 
 ## Questions
 - What is WallMock? WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, framed prints or posters. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
@@ -46,6 +46,8 @@ Contact: hello@wallmock.com. Terms and refunds: https://app.wallmock.com/terms. 
 - [Poster Mockup Generator for Posters and Unframed Prints](https://wallmock.com/poster-mockup-generator/)
 - [WallMock Pricing: Plans for Wall Art and POD Sellers](https://wallmock.com/pricing/)
 - [WallMock Privacy: This Website and the App](https://wallmock.com/privacy/)
+- [WallMock Refund Policy: 14 Days on Your First Plan](https://wallmock.com/refunds/)
+- [WallMock Terms of Service](https://wallmock.com/terms/)
 - [Wandbild-Mockups für Bilderrahmen und Leinwand](https://wallmock.com/de/)
 - [Mockup de cuadros y lienzos para vender arte](https://wallmock.com/es/)
 - [Mockup cadre et toile pour vendre vos tableaux](https://wallmock.com/fr/)
