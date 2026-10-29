@@ -11,6 +11,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal-framed print (aluminium), with or without a mat. Sets of 2, 3, 4.
 - Rooms: 500+ curated room settings; images up to 4096 px.
+- Frame quality: each image is a clean 4096 px render; floating frames show the gap around the canvas, frames have a natural shine and each piece casts a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup, made for a whole collection at once with no PSDs. Zoom in and check the corners at full size: https://wallmock.com/wall-art-mockup-examples/
 - Price: Free watermarked previews in every room. Plans: Lite $5/month or $39/year (200 clean images a month); Pro $12/month or $89/year (5,000 clean images a month); Studio $24/month or $179/year (10,000 clean images a month). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Try it free: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. https://app.wallmock.com/try
 - Access: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code.
@@ -29,11 +30,11 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Is my artwork changed or redrawn? WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
 - Can I make mockups for a whole collection at once? Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
 - What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal-framed print (aluminium), with or without a mat. Sets of 2, 3 or 4 pieces too.
-- Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit.
+- Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4096 px image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
 - How much does it cost? Free watermarked previews in every room. Clean images come with a plan: Lite $5 a month (200 images), Pro $12 (5,000) or Studio $24 (10,000). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 
-# Every page in full (115 pages)
+# Every page in full (118 pages)
 
 ## WallMock: Wall Art Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
@@ -50,7 +51,7 @@ A: Yes. Save your favourite rooms and frame looks once, add many artworks, and W
 Q: What frames and products can I show?
 A: Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal-framed print (aluminium), with or without a mat. Sets of 2, 3 or 4 pieces too.
 Q: Do I need Photoshop or PSD files?
-A: No. WallMock runs in your web browser. There are no PSD files or smart objects to edit.
+A: No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4096 px image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
 Q: How much does it cost?
 A: Free watermarked previews in every room. Clean images come with a plan: Lite $5 a month (200 images), Pro $12 (5,000) or Studio $24 (10,000). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 Q: Can I use it today?
@@ -579,7 +580,7 @@ Short answer: these are wall art mockup examples made with WallMock: framed canv
 Q: Are these real WallMock results?
 A: Yes. Every image on this page was made with WallMock from the artwork file as supplied, and checked against that file. Rooms are curated, digitally staged interiors reviewed by WallMock.
 Q: Can I zoom in?
-A: Yes. Click any image or "Full size" to open a 2400 px version and look at the frame corners, the floating-frame gap and the canvas edge.
+A: Yes. Click any room image or "Full size" to open a 2400 px version and look at the frame corners, the floating-frame gap and the canvas edge. The close-ups are 720 px squares cut from the 4096 px image at 100%, with nothing enlarged.
 Q: What size are the images I download?
 A: Clean images are 4096 px on the long side, large enough to crop for Etsy, Shopify, Pinterest and Instagram.
 Q: Which frame colours are there?
@@ -1827,14 +1828,33 @@ A: Draw lines along the frame's edges and along nearby room edges. In a straight
 
 ## Free Tools for Wall Art Sellers: Print Size, DPI, Layout
 URL: https://wallmock.com/tools/
-Free browser tools for wall art and print-on-demand sellers: print resolution checker, print sizes, frame and mat sizes, gallery wall layouts and Etsy photo checks.
+Free browser tools for wall art and print-on-demand sellers: Etsy fees and profit, print resolution, crops to print sizes, art colour palettes, frames and gallery walls.
 
 Q: Are the tools really free?
 A: Yes. They are free, need no account and have no usage limit on our side.
 Q: Do the tools upload my artwork?
-A: No. Tools that read an image do it in your browser to get its size; the file never leaves your device.
+A: No. Tools that read an image, such as the crop tool and the colour palette generator, do all their work in your browser; the file never leaves your device.
 Q: What do the tools have to do with WallMock?
-A: They answer the questions sellers ask before listing: print sizes, resolution, frames and wall layouts. WallMock then shows your exact artwork in realistic rooms for the listing photos.
+A: They answer the questions sellers ask before listing: print sizes, resolution, crops, colours, frames, wall layouts and Etsy fees. WallMock then shows your exact artwork in realistic rooms for the listing photos.
+
+## Art Color Palette Generator: Extract Colors from Artwork
+URL: https://wallmock.com/tools/art-color-palette/
+Free art color palette generator: extract the six main colours from your artwork or painting, with HEX and RGB codes and each colour's share. Nothing is uploaded.
+
+Short answer: choose an image of your artwork and the generator finds its six main colours, with HEX and RGB codes to copy and the share of the image each one covers. It runs in your browser, and the same image always gives the same palette. Use the colours for shop branding and listing graphics, and see which frame finishes stand out most against the art.
+
+Q: How do I get the colour codes from a painting?
+A: Photograph or scan the painting straight on in even light, crop it to the artwork, then choose the file above. Each colour shows its HEX code (such as #C83C32) and RGB values, with a button to copy them.
+Q: What is the difference between HEX and RGB?
+A: They are two ways of writing the same colour. RGB gives the red, green and blue amounts from 0 to 255; HEX writes the same three numbers in base 16 after a #. Web pages and most design apps accept either.
+Q: Will the same image always give the same palette?
+A: Yes. The method has no random step, so the same file gives the same six colours and shares every time. A different photo or crop of the same painting can shift the colours slightly.
+Q: Why are there sometimes fewer than six colours?
+A: Only when the image has fewer than six distinct colours, such as flat graphic art. The generator never invents a colour that is not in the image.
+Q: How does the frame suggestion work?
+A: It compares how light or dark the artwork is overall with each of WallMock's seven frame finishes, using the contrast ratio from web accessibility guidelines. A high ratio means the frame stands out; a low one means it blends in. It ignores hue, style and the room, so treat it as a starting point.
+Q: Is my image uploaded?
+A: No. The image is read and measured in your browser; nothing is sent anywhere.
 
 ## What Size Art Over a Sofa or Bed? Free Art Size Calculator
 URL: https://wallmock.com/tools/art-size-over-sofa/
@@ -1852,6 +1872,44 @@ Q: How high should art hang over a sofa?
 A: Hang the bottom of the frame about 6 to 10 inches (15 to 25 cm) above the sofa back, 8 to 12 inches (20 to 30 cm) above a headboard and 4 to 8 inches (10 to 20 cm) above a sideboard. The calculator shows the gap for the furniture you choose.
 Q: Can art be wider than three-quarters of the sofa?
 A: Yes. These are common interior guidelines, not rules, and a bold oversized piece can work. Art wider than the sofa itself usually looks crowded, so the calculator lists sizes up to 80% and labels the ones outside two-thirds to three-quarters.
+
+## Crop Image for Print: 8 × 10, 2:3, A4 at Full Resolution
+URL: https://wallmock.com/tools/crop-to-print-size/
+Free tool to crop an image for print: 8 × 10, 2:3, 3:4, 5:7, 11 × 14, square, A4 or 3:1 panorama, at full resolution, with the print size at 300 DPI. Nothing uploaded.
+
+Short answer: choose a print shape, such as 4:5 for 8 × 10 or 2:3 for 12 × 18, and the cropper draws the largest box of that shape your image holds. Move or resize it, see how big it prints at 300 DPI, and download the crop at full resolution as a PNG or JPEG. A 4000 × 6000 px file cropped to 8 × 10 keeps 4000 × 5000 px. Your image never leaves your device.
+
+Q: How do I crop an image to 8 × 10?
+A: Choose the 4:5 shape: 8 × 10 is 4:5, like 4 × 5, 16 × 20 and 24 × 30. The cropper draws the largest 4:5 box your image holds; move it to frame the art, then download. A 2:3 file loses about 16.7% of its height to an 8 × 10 crop.
+Q: Does cropping lower the quality of my art?
+A: No. The crop keeps the original pixels at full resolution; it only removes the edges. It does leave fewer pixels, so the largest size you can print sharply gets smaller. PNG keeps every pixel exactly; JPEG at quality 95 makes a smaller file with very slight compression.
+Q: What shape is an A4 print?
+A: All A sizes share one shape, 1:√2 (about 1:1.414). One ISO A crop prints at A5, A4, A3, A2, A1 or A0; only the size changes.
+Q: Why is 8 × 10 a different shape from 8 × 12?
+A: 8 × 10 is 4:5 and 8 × 12 is 2:3. Most cameras and many artworks are 2:3, so they fit 8 × 12, 12 × 18 and 24 × 36 without cropping, but lose part of the image at 8 × 10 or 16 × 20.
+Q: Is my image uploaded?
+A: No. The image is opened and cropped in your browser, and the download is made on your device. Nothing is sent anywhere.
+Q: Can I crop a 3:1 panorama?
+A: Yes. Choose the 1:3 panorama shape and Landscape for a 3:1 crop, such as 12 × 36 or 20 × 60 inches; Portrait gives a tall 1:3 crop.
+
+## Etsy Fee Calculator: Fees, Profit and Break-Even Price
+URL: https://wallmock.com/tools/etsy-fee-calculator/
+Free Etsy fee calculator for wall art and print-on-demand sellers: every Etsy fee, your profit, margin and break-even price, with Etsy's rates for 64 countries.
+
+Short answer: Etsy takes USD 0.20 per listing, 6.5% of the item price plus shipping, and payment processing (3% + USD 0.25 in the US, 4% + GBP 0.20 in the UK). A sale from an Offsite Ad adds 12% or 15%. On a USD 45 print with free shipping the fees are USD 4.73. Enter your price and your provider's costs below to see your profit and break-even price.
+
+Q: How much does Etsy take from a sale?
+A: In the US, Etsy takes 6.5% of the item price plus shipping, payment processing of 3% + USD 0.25, and USD 0.20 for the listing. On a USD 45 print with free shipping that is USD 4.73, about 11% of the sale. An Offsite Ads sale adds 12% or 15%.
+Q: Does Etsy charge fees on shipping?
+A: Yes. The 6.5% transaction fee, payment processing and the Offsite Ads fee are all charged on the shipping you charge as well as the item price, so free shipping built into the price costs the same in fees as a separate shipping charge.
+Q: What is the Offsite Ads fee?
+A: When a buyer clicks one of Etsy's ads on another website and buys within 30 days, Etsy charges 15% of the order total, or 12% if your shop made USD 10,000 or more in the past 365 days. It is never more than USD 100 for an order.
+Q: Why does the calculator ask for an exchange rate?
+A: Etsy states the listing fee (USD 0.20) and the Offsite Ads cap (USD 100) in US dollars. If your shop uses another currency, type how many units of your currency one US dollar costs today; the calculator never guesses a rate.
+Q: How do I find my break-even price?
+A: Enter your provider's product and shipping cost. The break-even price is the lowest item price that covers those costs and every Etsy fee on the sale, with your shipping charge unchanged. Price above it to make a profit.
+Q: Is anything I type sent anywhere?
+A: No. The calculator runs in your browser; nothing you type leaves your device.
 
 ## Etsy Listing Photo Checker: Size, Shape and Thumbnail Crop
 URL: https://wallmock.com/tools/etsy-photo-checker/

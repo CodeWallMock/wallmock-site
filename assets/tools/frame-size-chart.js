@@ -28,3 +28,8 @@ $("fsc-unit").addEventListener("change", () => {
 });
 for (const id of ["fsc-w", "fsc-h"]) $(id).addEventListener("input", render);
 $("fsc").addEventListener("submit", (e) => e.preventDefault());
+// After Back, Chrome restores the typed values (and unit) after the load event, without input events, while the page
+// still shows its static answer for the defaults. Recalculate from the form now and again on pageshow, which fires after
+// that restore (and on a back/forward-cache return).
+render();
+addEventListener("pageshow", () => { unit = $("fsc-unit").value; render(); });

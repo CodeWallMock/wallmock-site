@@ -212,7 +212,7 @@ p{margin:0 0 1em}
   .hero-cmp{grid-template-areas:"copy" "media" "cta"}
   .steps ol,.cards,.plans{grid-template-columns:1fr}
   .foot-cols{grid-template-columns:1fr 1fr}
-  .tool-form{grid-template-columns:1fr}
+  .tool-form{grid-template-columns:minmax(0,1fr)} /* not 1fr: a long select or label must not push the column past the page gutter */
 }
 /* header on phones and narrow tablets: brand and call to action on one row, the links below */
 @media (max-width:760px){
@@ -268,8 +268,50 @@ p{margin:0 0 1em}
 .gallery figure{margin:0;max-width:none}
 .gallery figure>a{display:block;border:0;padding:0;background:none}
 .gallery figcaption a{margin-left:6px}
+.gallery+p{margin-top:20px}
 @media (max-width:860px){.gallery{grid-template-columns:repeat(2,1fr)}}
 @media (max-width:520px){.gallery{grid-template-columns:1fr}}
 
 /* SEO-6: plain-text source addresses (competitors are cited, not linked) wrap instead of widening the page */
 .sources .cite{overflow-wrap:anywhere}
+
+/* SEO-7 tools (2026-10-29): Etsy fee table, crop stage, colour palette */
+.tool [hidden]{display:none!important} /* hidden must win over display:flex/grid on labels and panels */
+.tool fieldset.px{margin:0}
+.btn{cursor:pointer;font-family:inherit}
+.btn:disabled{opacity:.6;cursor:progress}
+.fees th small{display:block;font-weight:400;font-size:13px;color:var(--muted);margin-top:2px}
+.fees td{text-align:right;white-space:nowrap;font-weight:600}
+.fees tr.total th,.fees tr.total td{background:var(--soft)}
+.seg{display:flex;flex-wrap:wrap;gap:16px;border:0!important;padding:0!important;margin:0}
+.seg label{display:flex;align-items:center;gap:6px;font-weight:600}
+.seg input{width:auto;min-height:0;accent-color:var(--ink)}
+.crop-ui{margin:0 0 18px}
+.crop-wrap{width:100%}
+.crop-stage{position:relative;display:inline-block;max-width:100%;line-height:0;overflow:hidden;background:var(--sage);touch-action:none;user-select:none;-webkit-user-select:none;vertical-align:top}
+.crop-stage canvas{display:block;max-width:100%}
+.crop-box{position:absolute;box-shadow:0 0 0 9999px rgba(24,43,48,.6);outline:2px solid #fff;cursor:move;touch-action:none;
+  background:linear-gradient(to right,transparent calc(33.33% - .5px),rgba(255,255,255,.45) calc(33.33% - .5px),rgba(255,255,255,.45) calc(33.33% + .5px),transparent calc(33.33% + .5px),transparent calc(66.66% - .5px),rgba(255,255,255,.45) calc(66.66% - .5px),rgba(255,255,255,.45) calc(66.66% + .5px),transparent calc(66.66% + .5px)),
+  linear-gradient(to bottom,transparent calc(33.33% - .5px),rgba(255,255,255,.45) calc(33.33% - .5px),rgba(255,255,255,.45) calc(33.33% + .5px),transparent calc(33.33% + .5px),transparent calc(66.66% - .5px),rgba(255,255,255,.45) calc(66.66% - .5px),rgba(255,255,255,.45) calc(66.66% + .5px),transparent calc(66.66% + .5px))}
+.crop-box:focus-visible{outline:3px solid var(--accent);outline-offset:0}
+.crop-handle{position:absolute;right:0;bottom:0;width:28px;height:28px;background:#fff;border:2px solid var(--ink);cursor:nwse-resize;touch-action:none}
+.crop-controls{margin-top:4px}
+.crop-controls input[type=range]{width:min(220px,55vw);accent-color:var(--ink)}
+.crop-controls output{min-width:4ch;font-variant-numeric:tabular-nums}
+.palette{display:grid;grid-template-columns:minmax(0,320px) minmax(0,1fr);gap:24px;align-items:start;margin-top:12px}
+.palette-img{width:100%;height:auto;display:block;background:var(--sage)}
+.palette-strip{display:flex;height:28px;border:1px solid var(--line);margin-bottom:14px;overflow:hidden}
+.palette-strip span{display:block;min-width:2px}
+.swatches{list-style:none;padding:0;margin:0 0 14px;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.swatches li{display:grid;grid-template-columns:72px minmax(0,1fr);gap:12px;align-items:start;border:1px solid var(--line);padding:10px}
+.swatch{display:flex;align-items:flex-end;height:72px;padding:6px;font:700 13px/1 var(--sans);border:1px solid rgba(24,43,48,.12)}
+.swatches p{margin:0 0 6px;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.swatches code{font-size:14px}
+.copy{font:600 13px/1 var(--sans);padding:6px 9px;border:1px solid var(--muted);background:var(--paper);color:var(--ink);cursor:pointer;min-height:32px}
+.copy:hover{background:var(--soft)}
+.palette .note{background:var(--soft);border-left:4px solid var(--accent);padding:12px 14px;margin:0}
+.chip{display:inline-block;width:18px;height:18px;border:1px solid var(--line);vertical-align:-3px;margin-right:8px}
+@media (max-width:700px){.palette{grid-template-columns:1fr}.palette-img{max-width:320px}}
+.px label .in{display:inline-flex;align-items:center;gap:8px;white-space:nowrap}
+.tool-warn{color:var(--warn);font-weight:600}
+.table-scroll.narrow{max-width:760px}

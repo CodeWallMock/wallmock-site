@@ -7,6 +7,12 @@ const LEN = ["fmc-pw", "fmc-ph", "fmc-border", "fmc-face"];
 const num = (id) => { const v = $(id).value.trim(); return v === "" ? undefined : Number(v); };
 let unit = $("fmc-unit").value;
 
+// Unit labels and steps follow the unit in use.
+function labels() {
+  for (const el of document.querySelectorAll("#fmc [data-unit]")) el.textContent = unit;
+  for (const id of ["fmc-border", "fmc-face"]) $(id).step = unit === "in" ? "0.125" : "0.1";
+}
+
 function render() {
   const table = $("fmc-table"), stock = $("fmc-stock");
   let p;
@@ -37,10 +43,15 @@ $("fmc-unit").addEventListener("change", () => {
     const c = convert(v, unit, to);
     $(id).value = String(to === "in" ? Math.round(c * 1000) / 1000 : Math.round(c * 10) / 10);
   }
-  for (const el of document.querySelectorAll("#fmc [data-unit]")) el.textContent = to;
-  for (const id of ["fmc-border", "fmc-face"]) $(id).step = to === "in" ? "0.125" : "0.1";
   unit = to;
+  labels();
   render();
 });
 $("fmc").addEventListener("input", (e) => { if (e.target.id !== "fmc-unit") render(); });
 $("fmc").addEventListener("submit", (e) => e.preventDefault());
+// After Back, Chrome restores the typed values (and unit) after the load event, without input events, while the page
+// still shows its static answer for the defaults. Recalculate from the form now and again on pageshow, which fires after
+// that restore (and on a back/forward-cache return).
+const start = () => { unit = $("fmc-unit").value; labels(); render(); };
+start();
+addEventListener("pageshow", start);

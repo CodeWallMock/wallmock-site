@@ -27,6 +27,8 @@ function render() {
   }));
 }
 
+function limits() { w.min = String(LIMITS[unit][0]); w.max = String(LIMITS[unit][1]); }
+
 // Switching units converts the typed width (84 in -> 213.4 cm) and keeps it inside the unit's limits.
 unitSel.addEventListener("change", () => {
   const to = unitSel.value, v = Number(w.value);
@@ -34,9 +36,15 @@ unitSel.addEventListener("change", () => {
     const c = to === unit ? v : to === "cm" ? v * CM_PER_IN : v / CM_PER_IN;
     w.value = String(Math.round(c * 10) / 10);
   }
-  w.min = String(LIMITS[to][0]); w.max = String(LIMITS[to][1]);
   unit = to;
+  limits();
   render();
 });
 for (const id of ["asz-w", "asz-spot", "asz-shape"]) $(id).addEventListener("input", render);
 $("asz").addEventListener("submit", (e) => e.preventDefault());
+// After Back, Chrome restores the typed values (and unit) after the load event, without input events, while the page
+// still shows its static answer for the defaults. Recalculate from the form now and again on pageshow, which fires after
+// that restore (and on a back/forward-cache return).
+const start = () => { unit = unitSel.value; limits(); render(); };
+start();
+addEventListener("pageshow", start);

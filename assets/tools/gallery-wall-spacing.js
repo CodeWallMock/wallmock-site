@@ -11,6 +11,8 @@ let unit = $("gws-unit").value;
 
 const para = (text, cls) => { const p = document.createElement("p"); p.textContent = text; if (cls) p.className = cls; return p; };
 
+const labels = () => { for (const el of document.querySelectorAll("#gws [data-unit]")) el.textContent = unit; };
+
 function render() {
   const below = $("gws-below").value;
   $("gws-top").disabled = below === "wall"; // an open wall has no furniture top
@@ -42,9 +44,15 @@ $("gws-unit").addEventListener("change", () => {
     if (v === undefined || !Number.isFinite(v)) continue;
     $(id).value = id === "gws-gap" && v === GUIDE[unit].gap ? String(GUIDE[to].gap) : String(Math.round(convert(v, unit, to) * 10) / 10);
   }
-  for (const el of document.querySelectorAll("#gws [data-unit]")) el.textContent = to;
   unit = to;
+  labels();
   render();
 });
 $("gws").addEventListener("input", (e) => { if (e.target.id !== "gws-unit") render(); });
 $("gws").addEventListener("submit", (e) => e.preventDefault());
+// After Back, Chrome restores the typed values (and unit) after the load event, without input events, while the page
+// still shows its static answer for the defaults. Recalculate from the form now and again on pageshow, which fires after
+// that restore (and on a back/forward-cache return).
+const start = () => { unit = $("gws-unit").value; labels(); render(); };
+start();
+addEventListener("pageshow", start);

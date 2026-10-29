@@ -11,6 +11,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal-framed print (aluminium), with or without a mat. Sets of 2, 3, 4.
 - Rooms: 500+ curated room settings; images up to 4096 px.
+- Frame quality: each image is a clean 4096 px render; floating frames show the gap around the canvas, frames have a natural shine and each piece casts a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup, made for a whole collection at once with no PSDs. Zoom in and check the corners at full size: https://wallmock.com/wall-art-mockup-examples/
 - Price: Free watermarked previews in every room. Plans: Lite $5/month or $39/year (200 clean images a month); Pro $12/month or $89/year (5,000 clean images a month); Studio $24/month or $179/year (10,000 clean images a month). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Try it free: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. https://app.wallmock.com/try
 - Access: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code.
@@ -29,7 +30,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Is my artwork changed or redrawn? WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
 - Can I make mockups for a whole collection at once? Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
 - What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal-framed print (aluminium), with or without a mat. Sets of 2, 3 or 4 pieces too.
-- Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit.
+- Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4096 px image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
 - How much does it cost? Free watermarked previews in every room. Clean images come with a plan: Lite $5 a month (200 images), Pro $12 (5,000) or Studio $24 (10,000). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 
@@ -82,7 +83,10 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [Wall art mockup rooms by room type](https://wallmock.com/rooms/)
 
 ## Free tools
+- [Art Color Palette Generator: Extract Colors from Artwork](https://wallmock.com/tools/art-color-palette/)
 - [What Size Art Over a Sofa or Bed? Free Art Size Calculator](https://wallmock.com/tools/art-size-over-sofa/)
+- [Crop Image for Print: 8 × 10, 2:3, A4 at Full Resolution](https://wallmock.com/tools/crop-to-print-size/)
+- [Etsy Fee Calculator: Fees, Profit and Break-Even Price](https://wallmock.com/tools/etsy-fee-calculator/)
 - [Etsy Listing Photo Checker: Size, Shape and Thumbnail Crop](https://wallmock.com/tools/etsy-photo-checker/)
 - [Frame and Mat Size Calculator: Mat Opening and Frame Size](https://wallmock.com/tools/frame-mat-calculator/)
 - [Standard Frame Sizes Chart: US, Metric, A Sizes and Posters](https://wallmock.com/tools/frame-size-chart/)

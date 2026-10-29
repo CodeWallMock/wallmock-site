@@ -34,3 +34,8 @@ file.addEventListener("change", async () => {
 });
 for (const el of [w, h]) el.addEventListener("input", render);
 $("psc").addEventListener("submit", (e) => e.preventDefault());
+// After Back, Chrome restores the typed values (and unit) after the load event, without input events, while the page
+// still shows its static answer for the defaults. Recalculate from the form now and again on pageshow, which fires after
+// that restore (and on a back/forward-cache return).
+render();
+addEventListener("pageshow", render);
