@@ -1,6 +1,6 @@
 # WallMock
 
-> WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, framed prints or posters.
+> WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints.
 
 Your exact artwork in hundreds of realistic, curated rooms, for every design in your shop: set up favourite rooms once, add a whole collection, download listing-ready images. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Rooms are curated, digitally staged interiors reviewed by WallMock. Previews and images are made in your browser, on your device.
 
@@ -8,7 +8,7 @@ WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different p
 
 ## Key facts (checked 2026-10-28)
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
-- Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Poster and print without a frame. Sets of 2, 3, 4.
+- Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal-framed print (aluminium), with or without a mat. Sets of 2, 3, 4.
 - Rooms: 500+ curated room settings; images up to 4096 px.
 - Price: Free watermarked previews in every room. Plans: Lite $5/month or $39/year (200 clean images a month); Pro $12/month or $89/year (5,000 clean images a month); Studio $24/month or $179/year (10,000 clean images a month). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Try it free: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. https://app.wallmock.com/try
@@ -23,11 +23,11 @@ Made by the WallMock team. About WallMock, how the examples are made and how the
 Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App privacy policy: https://app.wallmock.com/privacy
 
 ## Questions
-- What is WallMock? WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, framed prints or posters. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
+- What is WallMock? WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
 - Who is it for? Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 - Is my artwork changed or redrawn? WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
 - Can I make mockups for a whole collection at once? Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
-- What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Poster and print without a frame. Sets of 2, 3 or 4 pieces too.
+- What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal-framed print (aluminium), with or without a mat. Sets of 2, 3 or 4 pieces too.
 - Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit.
 - How much does it cost? Free watermarked previews in every room. Clean images come with a plan: Lite $5 a month (200 images), Pro $12 (5,000) or Studio $24 (10,000). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
@@ -36,10 +36,10 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 
 ## WallMock: Wall Art Mockup Generator for Etsy and Shopify Sellers
 URL: https://wallmock.com/
-WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, framed prints or posters.
+WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints.
 
 Q: What is WallMock?
-A: WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, framed prints or posters. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
+A: WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
 Q: Who is it for?
 A: Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 Q: Is my artwork changed or redrawn?
@@ -47,7 +47,7 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 Q: Can I make mockups for a whole collection at once?
 A: Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
 Q: What frames and products can I show?
-A: Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Poster and print without a frame. Sets of 2, 3 or 4 pieces too.
+A: Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal-framed print (aluminium), with or without a mat. Sets of 2, 3 or 4 pieces too.
 Q: Do I need Photoshop or PSD files?
 A: No. WallMock runs in your web browser. There are no PSD files or smart objects to edit.
 Q: How much does it cost?
@@ -60,7 +60,7 @@ URL: https://wallmock.com/about/
 WallMock in one line, who it is for, what it does to your artwork, how our examples are made and how facts are checked. Not WallMockup. Contact hello@wallmock.com.
 
 Q: What is WallMock?
-A: WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, framed prints or posters. It runs in a web browser and makes listing photos for one design or a whole collection.
+A: WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints. It runs in a web browser and makes listing photos for one design or a whole collection.
 Q: Is WallMock the same as WallMockup?
 A: No. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies. WallMock is at wallmock.com and app.wallmock.com.
 Q: Who makes WallMock?
@@ -114,10 +114,10 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 URL: https://wallmock.com/etsy-mockup-generator/
 Make Etsy listing photos for framed canvas, framed prints and posters: your exact artwork in 500+ realistic rooms, for a whole collection at once. No Photoshop needed.
 
-Short answer: an Etsy mockup generator puts your artwork into realistic room images for your listing. WallMock does it for framed canvas, framed prints and posters in 500+ realistic rooms, for a whole collection at once, with your file placed exactly as it is.
+Short answer: an Etsy mockup generator puts your artwork into realistic room images for your listing. WallMock does it for framed canvas, stretched canvas and framed prints in 500+ realistic rooms, for a whole collection at once, with your file placed exactly as it is.
 
 Q: What is an Etsy mockup generator?
-A: A tool that puts your artwork into realistic photos, such as a framed print on a living-room wall, so your Etsy listing shows how the piece looks at home. WallMock does this for framed canvas, stretched canvas, framed prints and posters.
+A: A tool that puts your artwork into realistic photos, such as a framed print on a living-room wall, so your Etsy listing shows how the piece looks at home. WallMock does this for framed canvas, stretched canvas, and framed prints and posters.
 Q: How many mockups should a wall art listing have?
 A: Use most of your photo slots: a hero room photo first, then other rooms, a close view of the frame, a size or scale photo and, for sets, the whole set together. Different rooms help buyers picture the art in their own home.
 Q: Can I use WallMock mockups with Printify, Printful or Gelato products?
@@ -190,16 +190,16 @@ A: For a set you sell together, yes. One frame colour and one size makes the gro
 Q: Will each artwork in the set stay exact?
 A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Each piece keeps its own file, so the set in the photo is the set you ship.
 
-## Poster Mockup Generator for Posters and Unframed Prints
+## Poster Mockup Generator for Framed Posters and Prints
 URL: https://wallmock.com/poster-mockup-generator/
-See your posters on realistic walls, framed or unframed, at the right shape for 2:3, 3:4, 4:5 and A-sizes. Your exact file in 500+ rooms, a whole collection at once.
+See your posters framed on realistic walls, in wood or aluminium frames with or without a mat, at 2:3, 3:4, 4:5 and A-sizes. Your exact file in 500+ rooms.
 
-Short answer: a poster mockup generator places your poster design on a wall in a realistic room. WallMock does it online for posters and prints without a frame, or in a frame with or without a mat, in 500+ curated rooms. Your file is placed exactly as it is, so lettering and colours match the print, and you can run a whole poster collection at once.
+Short answer: a poster mockup generator places your poster design on a wall in a realistic room. WallMock does it online for framed posters, in wood or aluminium frames with or without a mat, in 500+ curated rooms. Your file is placed exactly as it is, so lettering and colours match the print, and you can run a whole poster collection at once.
 
 Q: What is a poster mockup generator?
 A: A tool that shows your poster design on a wall in a room, so a buyer can judge its size, colours and style before ordering. WallMock does this online, with no PSD file or Photoshop needed.
 Q: Can I show a poster without a frame?
-A: Yes. WallMock's products include a poster or print without a frame, as well as a framed print with or without a mat. Show the version your buyer actually receives.
+A: Not at the moment. WallMock shows posters in a frame: wood or aluminium, with or without a mat. If you ship paper only, say "frame not included" in the first lines of your listing so the photo and the product match.
 Q: What size should a poster file be for a 24x36 print?
 A: At 300 DPI a 24x36 inch poster needs 7200 x 10800 pixels. Many sellers accept less for large posters viewed from a distance. Check your own file with the free print resolution checker.
 Q: What ratio is an A-size poster?
@@ -316,7 +316,7 @@ ArtPlacer and WallMock compared with facts checked 2026-10-26: who each suits, p
 Short answer: ArtPlacer is a marketing platform for artists and galleries, with room mockups, virtual exhibitions and website tools. WallMock is a mockup generator for Etsy and Shopify wall art sellers: your exact artwork in 500+ curated rooms, for a whole collection at once. Choose ArtPlacer for gallery and collector tools; choose WallMock for listing photos at volume. Published by WallMock; facts checked 2026-10-26.
 
 Q: Is there an ArtPlacer alternative for Etsy sellers?
-A: Yes. WallMock is built for print-on-demand and wall art sellers on Etsy and Shopify who list many designs and want each one shown as a framed canvas, framed print or poster in curated rooms. ArtPlacer is a wider marketing platform for artists, galleries and art advisors.
+A: Yes. WallMock is built for print-on-demand and wall art sellers on Etsy and Shopify who list many designs and want each one shown as a framed canvas, stretched canvas or framed print in curated rooms. ArtPlacer is a wider marketing platform for artists, galleries and art advisors.
 Q: How much does ArtPlacer cost?
 A: On 2026-10-26 ArtPlacer's Artist plans were Basic $9, Standard $16 and Plus $27 a month, or $96, $168 and $276 a year ($8, $14 and $23 a month) billed yearly. Gallery plans cost more. Check its pricing page for today's prices.
 Q: How many artworks does ArtPlacer's Instant Mockups take?
@@ -438,10 +438,10 @@ A: Yes. WallMock's terms allow clean downloads in shop listings. The artwork is 
 URL: https://wallmock.com/guides/best-print-on-demand-for-wall-art/
 Printify, Printful, Gelato, Prodigi, Lumaprints and Gooten compared on wall art products, where they print and Etsy and Shopify links, using dated facts.
 
-Short answer: No single print-on-demand provider is best for every wall art shop. Choose by three things: the exact product you sell (framed canvas, framed print or poster), where your buyers live, and whether it connects to Etsy or Shopify. Printify, Printful, Gelato, Prodigi, Lumaprints and Gooten all list wall art and connect to both platforms, but their frames and print locations differ. Order samples before you list. Then make listing photos that match the product you chose.
+Short answer: No single print-on-demand provider is best for every wall art shop. Choose by three things: the exact product you sell (framed canvas, stretched canvas or framed print), where your buyers live, and whether it connects to Etsy or Shopify. Printify, Printful, Gelato, Prodigi, Lumaprints and Gooten all list wall art and connect to both platforms, but their frames and print locations differ. Order samples before you list. Then make listing photos that match the product you chose.
 
 Q: What is the best print on demand for wall art?
-A: It depends on your product, your buyers' countries and your sales channel. Shortlist providers that make your exact product (framed canvas, framed print or poster), print near your buyers and connect to Etsy or Shopify, then order samples and compare.
+A: It depends on your product, your buyers' countries and your sales channel. Shortlist providers that make your exact product (framed canvas, stretched canvas or framed print), print near your buyers and connect to Etsy or Shopify, then order samples and compare.
 Q: Printful vs Printify for posters: what's the difference?
 A: Printful runs its own fulfilment centres and chooses one per order. Printify connects you to a network of print providers, so quality, price and location depend on the provider you pick. Both offer framed and unframed posters and connect to Etsy and Shopify.
 Q: Does Printful or Printify offer framed canvas?
@@ -1278,7 +1278,7 @@ A: Canva says the Smartmockups team is now building mockup tools inside Canva. O
 Q: What is a good Smartmockups alternative for wall art?
 A: One that shows the product you sell, such as a floating-frame canvas with its gap, keeps your art exact and your ratio, and can handle a whole collection. Compare tools on those points.
 Q: Does WallMock make mockups for T-shirts or mugs?
-A: No. WallMock only makes wall art mockups: framed canvas, stretched canvas, framed prints with or without a mat, and posters.
+A: No. WallMock only makes wall art mockups: framed canvas, stretched canvas, and framed prints or posters (wood or aluminium frame) with or without a mat.
 
 ## Upscale AI Art for Print: Large Canvas and Framed Prints
 URL: https://wallmock.com/guides/upscale-ai-art-for-print/

@@ -1,6 +1,6 @@
 # WallMock
 
-> WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, framed prints or posters.
+> WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints.
 
 Your exact artwork in hundreds of realistic, curated rooms, for every design in your shop: set up favourite rooms once, add a whole collection, download listing-ready images. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Rooms are curated, digitally staged interiors reviewed by WallMock. Previews and images are made in your browser, on your device.
 
@@ -8,7 +8,7 @@ WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different p
 
 ## Key facts (checked 2026-10-28)
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
-- Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Poster and print without a frame. Sets of 2, 3, 4.
+- Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal-framed print (aluminium), with or without a mat. Sets of 2, 3, 4.
 - Rooms: 500+ curated room settings; images up to 4096 px.
 - Price: Free watermarked previews in every room. Plans: Lite $5/month or $39/year (200 clean images a month); Pro $12/month or $89/year (5,000 clean images a month); Studio $24/month or $179/year (10,000 clean images a month). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Try it free: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. https://app.wallmock.com/try
@@ -23,11 +23,11 @@ Made by the WallMock team. About WallMock, how the examples are made and how the
 Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App privacy policy: https://app.wallmock.com/privacy
 
 ## Questions
-- What is WallMock? WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, framed prints or posters. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
+- What is WallMock? WallMock is a wall art mockup generator for Etsy and Shopify sellers: your exact artwork in realistic styled rooms as framed canvas, stretched canvas or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
 - Who is it for? Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 - Is my artwork changed or redrawn? WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
 - Can I make mockups for a whole collection at once? Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
-- What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Poster and print without a frame. Sets of 2, 3 or 4 pieces too.
+- What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal-framed print (aluminium), with or without a mat. Sets of 2, 3 or 4 pieces too.
 - Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit.
 - How much does it cost? Free watermarked previews in every room. Clean images come with a plan: Lite $5 a month (200 images), Pro $12 (5,000) or Studio $24 (10,000). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
@@ -45,7 +45,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [Framed Canvas Mockup Generator: Floating Frame, 500+ Rooms](https://wallmock.com/framed-canvas-mockup-generator/)
 - [Gallery Wall Mockup Generator for Pairs, Trios and Sets](https://wallmock.com/gallery-wall-mockup-generator/)
 - [How WallMock works: wall art mockups for whole collections](https://wallmock.com/how-it-works/)
-- [Poster Mockup Generator for Posters and Unframed Prints](https://wallmock.com/poster-mockup-generator/)
+- [Poster Mockup Generator for Framed Posters and Prints](https://wallmock.com/poster-mockup-generator/)
 - [WallMock Pricing: Plans for Wall Art and POD Sellers](https://wallmock.com/pricing/)
 - [Print on Demand Canvas Mockups: Printify, Printful, Gelato](https://wallmock.com/print-on-demand-canvas-mockups/)
 - [WallMock Privacy: This Website and the App](https://wallmock.com/privacy/)
