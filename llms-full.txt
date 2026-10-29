@@ -32,7 +32,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - How much does it cost? Free watermarked previews in every room. Clean images come with a plan: Lite $5 a month (200 images), Pro $12 (5,000) or Studio $24 (10,000). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 
-# Every page in full (49 pages)
+# Every page in full (93 pages)
 
 ## WallMock: Wall Art Mockup Generator for Etsy and Shopify Sellers
 URL: https://wallmock.com/
@@ -152,14 +152,14 @@ A: Plan for it. In a real frame the lip or mat overlaps the edge of the print sl
 URL: https://wallmock.com/framed-canvas-mockup-generator/
 Framed canvas mockups with the real floating-frame gap, in 7 frame colours and 500+ curated rooms. Your exact art, whole collections, free previews.
 
-Short answer: a framed canvas mockup shows your artwork as a stretched canvas in a floating frame, hanging in a room. WallMock draws the narrow shadow gap between canvas and frame, the detail that tells buyers it is a framed canvas and not a framed print, in 7 frame colours and 500+ curated rooms. Your exact file, for your whole collection.
+Short answer: a framed canvas mockup generator shows your artwork as a stretched canvas in a floating frame, hanging in a room. WallMock draws the narrow shadow gap between canvas and frame, the detail that tells buyers it is a framed canvas and not a framed print, in 7 frame colours and 500+ curated rooms. Your exact file, for your whole collection.
 
 Q: What is a framed canvas mockup?
 A: A listing photo that shows your artwork as a stretched canvas inside a frame, hanging in a room. For most print-on-demand sellers that frame is a floating frame, so the mockup should show the narrow gap between the canvas edge and the frame.
 Q: What is a floating frame for canvas?
 A: A floating frame, or floater frame, is an open frame that holds a stretched canvas from behind with a small gap all round. From the front you see a thin line of shadow between canvas and frame, so the canvas seems to float. It has no glass and no mat.
 Q: Is a framed canvas the same as a floating frame canvas?
-A: Usually, in print on demand. Prodigi calls its framed canvas a floater frame with a 5 mm gap, and Printful's framed canvas reviews describe a floater frame. Check your own provider's product page, because some frames sit tight against the canvas.
+A: Usually, in print on demand. Prodigi calls its framed canvas a floater frame with a 5 mm gap, Gelato states a 12 mm gap between canvas and frame, and Printful's framed canvas reviews describe a floater frame. Check your own provider's product page, because some frames sit tight against the canvas.
 Q: Do floating frames have glass?
 A: No. A floating frame shows the canvas surface directly, with no glass, glazing or mat. If your product has glass and a mat, it is a framed print; use the frame mockup generator instead.
 Q: Which frame colours can I show?
@@ -241,7 +241,7 @@ A: Printify's AI Mockups are included with Printify Premium. Its page lists canv
 Q: Is Gelato's Mockup Studio free?
 A: Gelato says Mockup Studio is available for Gelato+ subscribers, and users without a premium subscription can try it before deciding (checked 2026-10-29).
 Q: Which framed canvas should my mockup show?
-A: The one your provider makes. Prodigi's is a floater frame with a 5 mm gap; Gelato lists black, natural wood and dark brown frames; Printful's reviews describe a floater frame. Pick the matching finish and show the gap if the frame floats.
+A: The one your provider makes. Prodigi's is a floater frame with a 5 mm gap; Gelato states a 12 mm gap and black, natural wood or dark brown frames; Printful's reviews describe a floater frame. Pick the matching finish and show the gap if the frame floats.
 Q: What resolution do canvas mockups need for Etsy?
 A: Etsy recommends listing photos at least 2000 px on the shortest side. WallMock exports 4096 px images, so there is room to crop to Etsy's square thumbnail.
 
@@ -415,6 +415,25 @@ A: Free tiers differ between tools. WallMock gives free watermarked previews in 
 Q: Can I use Midjourney to make wall art mockups?
 A: You can use it to make empty room backgrounds if its terms suit your use. Don't let it draw your artwork: place your real file on top, at the right ratio and size.
 
+## Are AI Mockups Allowed on Etsy? Rules for Wall Art Sellers
+URL: https://wallmock.com/guides/are-ai-mockups-allowed-on-etsy/
+Etsy allows edited and AI-assisted listing photos if they show exactly what the buyer gets. What its rules say, the unedited-photo rule, and why art must stay exact.
+
+Short answer: Yes, within limits. Etsy lets you edit listing photos, including with AI, as long as they accurately show what the buyer will receive. Most items also need at least one unedited photo of the actual item; for print-on-demand items, Etsy allows a stock photo mockup if its owner has authorised its use. So an AI-made room can be fine, but AI-redrawn art is not: if the art in the photo differs from the print, the photo misrepresents the item.
+
+Q: Are mockups allowed on Etsy?
+A: Yes. Etsy allows edited images, including mockups, as long as they accurately show what the buyer receives. Most physical items also need at least one unedited photo of the actual item.
+Q: Can I use AI-generated mockups on Etsy?
+A: You can use AI to make or edit the room, as long as the item is shown accurately. Don't let a tool redraw the artwork itself, because the photo then shows a different picture from the print.
+Q: Do I need an unedited photo of my print on Etsy?
+A: For most items, yes. For print-on-demand items, Etsy says you may use a stock photo mockup if its owner has authorised its use. A photo of a sample is still the strongest proof.
+Q: Do I have to say my photos are mockups?
+A: Etsy recommends noting in the description whether images were edited. One plain line saying the room photos are digitally staged mockups covers it.
+Q: Is AI-redrawn art in a mockup against Etsy's rules?
+A: If the redrawn art differs from what you ship, the photo no longer accurately represents the item, which Etsy's image rules require. Keep the artwork exact and stage only the room.
+Q: Can I use WallMock images on Etsy?
+A: Yes. WallMock's terms allow clean downloads in shop listings. The artwork is your file, placed as it is, and you should still follow Etsy's photo rules.
+
 ## Print on Demand Wall Art: How to Choose a Provider
 URL: https://wallmock.com/guides/best-print-on-demand-for-wall-art/
 Printify, Printful, Gelato, Prodigi, Lumaprints and Gooten compared on wall art products, where they print and Etsy and Shopify links, using dated facts.
@@ -434,6 +453,25 @@ A: Yes. Etsy requires sellers who use production assistance to disclose it on th
 Q: Can I use my own mockups with a print on demand provider?
 A: Yes. Printify lets you upload custom mockups to its Mockup Library. With Printful you add them directly to your Etsy or Shopify listing. Make sure the mockup matches the real product.
 
+## Bulk Upload Wall Art to Printify and Etsy With Room Mockups
+URL: https://wallmock.com/guides/bulk-upload-wall-art-to-printify-and-etsy/
+A step-by-step workflow for a whole wall art collection on Printify and Etsy: one template product, duplicates, bulk publishing, and your own room photos.
+
+Short answer: Build one Printify product as a template, duplicate it for each artwork and swap the design: Printify keeps the variants, prices, descriptions and provider settings. Make every room photo in one batch, named by artwork. Attach them per product in Printify's Mockup Library, or add them on Etsy and publish later updates with Mockups unticked. Printify can publish selected products together and Etsy can bulk-edit text fields, but photos go on one listing at a time.
+
+Q: Can I bulk upload designs to Printify?
+A: Printify's help centre describes duplicating a product and changing its design, saving artwork templates, and publishing many products at once. We found no article on uploading many designs as separate products in one step (checked 2026-10-29).
+Q: Does duplicating a Printify product copy the mockups?
+A: Yes. Printify says a duplicate keeps the variants, pricing, descriptions, mockups and print provider settings, so replace any custom mockups with the new artwork's photos.
+Q: Can I add photos to many Etsy listings at once?
+A: No. Etsy's bulk editing covers titles, tags, descriptions, prices, custom options, production partners, renewal options, processing and shipping profiles. Photos are added and reordered per listing.
+Q: How many mockups can I publish from Printify to Etsy?
+A: Up to 20 per product, across all colour variants. Publishing fails above that.
+Q: How many room images will my collection need?
+A: Artworks multiplied by rooms. 20 artworks in 6 rooms is 120 images. WallMock's Lite plan includes 200 images a month.
+Q: Does WallMock upload to Printify or Etsy?
+A: No. WallMock makes the room photos in bulk; you add them to Printify's Mockup Library or to your Etsy listings yourself.
+
 ## Bulk Mockup Workflow Checklist: Naming, Previews, Exports
 URL: https://wallmock.com/guides/bulk-wall-art-mockups-without-photoshop/
 A repeatable bulk mockup workflow for wall art collections, without Photoshop: favourite rooms, a saved look, preview checks, the image count, then organised exports.
@@ -447,6 +485,61 @@ A: Start with a small shortlist that fits the product: a clear product-led room,
 Q: Should every artwork in a collection use the same frame?
 A: Consistency helps a shop look coherent, but don't force one frame onto every artwork if it misrepresents what you sell.
 
+## Canva Wall Art Mockups: How to Make Them, and Their Limits
+URL: https://wallmock.com/guides/canva-wall-art-mockups/
+How to make a wall art mockup in Canva, step by step from Canva's help page, and the checks that matter for framed canvas: crop, frame gap, scale and volume.
+
+Short answer: In Canva, open a design, go to Elements, choose the Mockups category, pick a frame or poster scene and drag your artwork onto it, then adjust it with Fill, Fit or Smart Crop. It's quick for one poster or framed print. For framed canvas it falls short in three ways: a fill or crop can change your art's shape, a scene can only show the frame its photo already has, and each design is placed by hand.
+
+Q: Can you make wall art mockups in Canva?
+A: Yes. Canva's help page shows how: open Elements, choose the Mockups category, pick a scene, drag your artwork onto it and adjust it with Fill, Fit or Smart Crop.
+Q: Do Canva custom mockups need a paid plan?
+A: Canva's help page says creating custom mockup templates from your own photo is available on Pro, Teams, Enterprise, Education and Nonprofit plans. Check Canva for the current details.
+Q: Why does my art look cropped in a Canva mockup?
+A: A fill or crop setting trims the art to the mockup's shape. Use a scene with the same ratio as your art, or a setting that shows the whole image, and measure the result.
+Q: Can Canva show a floating-frame canvas?
+A: Only if the scene photo already contains one. The frame, its gap and its colour come from the photo, so match the scene to the product you sell.
+Q: Can I make mockups for a whole collection in Canva?
+A: Canva's help page describes placing each design into a mockup by hand. For many designs in the same rooms, a bulk mockup tool is faster.
+Q: Can I use Canva mockups on Etsy?
+A: That depends on Canva's licence terms for the elements you use and on Etsy's photo rules. Our mockup licence guide lists what to check.
+
+## Canvas Depth 0.75 vs 1.5 Inch: Thin or Gallery Canvas?
+URL: https://wallmock.com/guides/canvas-depth-0-75-vs-1-5-inch/
+Thin 0.75 in canvas or deep 1.5 in gallery canvas? What each depth suits, the depths Printful, Gelato and Prodigi actually make, and how to show depth in photos.
+
+Short answer: Thin canvas is about 0.75 in (19 mm) deep and gallery canvas about 1.5 in (38 mm). Thin suits small and medium sizes, framing and a flatter look. Deep canvas stands further off the wall, suits large pieces hung without a frame and shows more of its edge. Providers differ: Printful's standard canvas is 1.25 in, Gelato makes 2 cm and 4 cm, Prodigi 19 mm and 38 mm (checked 2026-10-29). State the exact depth and show it in a side close-up.
+
+Q: Is 0.75 or 1.5 inch canvas better?
+A: Neither is better in general. Thin 0.75 in canvas suits smaller pieces and framing; deep 1.5 in canvas suits large pieces hung without a frame.
+Q: What is a gallery depth canvas?
+A: A deep stretched canvas, usually about 1.5 in (38 mm), hung without a frame with its sides finished. Prodigi's stretched canvas is 38 mm and Gelato's thick canvas 4 cm.
+Q: How thick is a standard canvas print?
+A: It depends on the provider. Printful's standard canvas is 1.25 in (3.18 cm), Prodigi's stretched canvas 38 mm and its slim canvas 19 mm (checked 2026-10-29).
+Q: Can a 1.5 inch canvas go in a floating frame?
+A: Yes, if the frame is made for that depth. Prodigi's floater, for example, holds a 38 mm canvas and stands 53 mm off the wall.
+Q: Does canvas depth change the file size I need?
+A: Only with image wrap. Then the picture covers the sides, so add the depth to every side: a 24 × 36 in canvas, 1.5 in deep, needs 27 × 39 in of picture.
+
+## Canvas Print Sizes Chart: Stretched and Framed, by Ratio
+URL: https://wallmock.com/guides/canvas-print-sizes-chart/
+Standard canvas print sizes grouped by ratio (1:1, 2:3, 3:4, 4:5, 1:2, 1:3) in inches and centimetres, plus framed canvas sizes and the pixels each size needs.
+
+Short answer: Canvas sizes come in ratio families, and one file prints every size in its family without cropping. Square: 12×12, 16×16, 20×20, 24×24, 30×30 in. 2:3: 8×12, 12×18, 16×24, 20×30, 24×36, 40×60. 3:4: 9×12, 12×16, 18×24, 24×32, 30×40. 4:5: 8×10, 16×20, 24×30. Panoramic: 1:2 (12×24, 20×40) and 1:3 (12×36, 20×60). Framed canvas lists are shorter: Printful and Gelato stop at 24×36 in (checked 2026-10-29).
+
+Q: What are the standard canvas sizes?
+A: Common ones include 8×10, 11×14, 12×12, 12×16, 16×20, 18×24, 20×30, 24×36, 30×40 and 40×60 in. In centimetres: 30×40, 40×50, 50×70, 60×80 and 60×90 cm.
+Q: Which canvas sizes are 2:3?
+A: 8×12, 12×18, 16×24, 20×30, 24×36, 32×48 and 40×60 in, and 20×30, 40×60 and 60×90 cm. One 2:3 file prints all of them without cropping.
+Q: Is 16×20 the same ratio as 8×10?
+A: Yes, both are 4:5, as is 24×30. 11×14 and 20×24 are different ratios and need their own file or a crop.
+Q: What is the biggest standard canvas size?
+A: It depends on the provider. Printful's canvas list goes up to 40×60 in, and Prodigi's framed canvas up to 55×55 in (checked 2026-10-29). Check your provider before listing oversized pieces.
+Q: Are framed canvas sizes the size of the frame or the canvas?
+A: Providers differ, so check. The frame and its gap add to the outside size: with Prodigi's 5 mm gap and 12 mm face, about 34 mm on each side length.
+Q: What size canvas goes over a sofa?
+A: About two-thirds to three-quarters of the sofa's width. Over an 84 in sofa that is 56 to 63 in, such as a 40×60 in landscape.
+
 ## Canvas vs Framed Print Mockups: Which to Show for Your Art
 URL: https://wallmock.com/guides/canvas-vs-framed-print-mockups/
 How stretched canvas, floating-frame canvas and framed prints with mats change the look of the same artwork, and which presentation suits which buyer.
@@ -459,6 +552,55 @@ Q: Which looks more premium in a listing?
 A: Floating-frame canvas and matted framed prints usually read as more premium than an unframed canvas, but the right choice is the product you actually sell.
 Q: Should a printable be shown as a canvas?
 A: Usually not. Most buyers print and frame a download behind glass, so a simple frame with a mat sets the right expectation.
+
+## Canvas Wrap Edges: Mirror vs Image Wrap vs Colour Edge
+URL: https://wallmock.com/guides/canvas-wrap-edges/
+Mirror wrap, image wrap (gallery wrap) or a plain white or black edge: what each does to your canvas art, the file each needs, and how to show the edge to buyers.
+
+Short answer: The edge is the side of a stretched canvas. Image wrap, often called gallery wrap, folds part of the picture round the sides, so the front loses a strip on every side unless your file has extra image. Mirror wrap copies the outer strip onto the sides, so the front stays whole. A colour edge leaves the sides plain white or black. Choose mirror or colour for art with detail near its edges, and image wrap when the picture can spare a border.
+
+Q: What is the difference between gallery wrap and mirror wrap?
+A: With gallery (image) wrap, part of your picture folds round the sides, so the front loses a strip. With mirror wrap, the edge of the picture is copied onto the sides, so the front stays whole.
+Q: Which canvas edge is best?
+A: Mirror wrap or a colour edge if your art has detail, faces or text near its edges. Image wrap if the picture has a soft border it can spare, such as sky, water or texture.
+Q: Does image wrap cut off part of my art?
+A: From the front, yes, unless your file includes extra image for the sides. On a 1.5 in deep canvas, plan about 1.5 in of extra picture on every side.
+Q: What is a museum wrap?
+A: Usually a canvas with plain white sides. Prodigi uses the name for its white edge. Other printers use it loosely, so describe the sides in plain words.
+Q: Does the edge matter for a framed canvas?
+A: Much less. In a floating frame the sides sit inside the frame, so they are mostly hidden from the front.
+
+## Christmas Wall Art Mockups and Seasonal Listing Photos
+URL: https://wallmock.com/guides/christmas-and-seasonal-wall-art-mockups/
+How to stage Christmas, autumn and spring wall art listings: when to swap the hero photo, which cues read at thumbnail size, and the seasonal rooms WallMock has.
+
+Short answer: Use a seasonal room for one or two photos, not the whole listing. A small tree, tartan cushions or a lit fireplace reads as Christmas at thumbnail size; tulips and daylight read as spring; wool, timber and a fire read as autumn and winter. Swap the hero photo six to eight weeks before the date, keep year-round rooms in the other slots, and swap back afterwards. WallMock has a handful of seasonal rooms, listed below.
+
+Q: When should I add Christmas mockups to my listings?
+A: In October, six to eight weeks before Christmas, so the seasonal photo is live while gift buyers are searching. Swap it back after the holiday.
+Q: Should every photo in a listing be seasonal?
+A: No. Use the seasonal room for the hero, and keep year-round rooms, the close-up, the flat artwork and the sizes image in the other slots.
+Q: What makes a room look like Christmas in a thumbnail?
+A: One or two large cues, such as a small tree, tartan or red textiles, or a garland on a mantel. Small ornaments disappear at thumbnail size.
+Q: Does WallMock have Christmas rooms?
+A: It has the Winter farmhouse living room, with a small Christmas tree and tartan cushions, for 3:2 artwork as a natural oak floating-frame canvas. It also has a few winter, fireplace, spring and Diwali rooms, listed in this guide.
+Q: Can I use seasonal mockups for printables?
+A: Yes. Show the printable in a simple frame with a mat, as buyers will display it, and say clearly that the frame and decor are not included.
+
+## Consistent Etsy Shop Mockups: One Room Set per Collection
+URL: https://wallmock.com/guides/consistent-etsy-shop-mockups/
+Make consistent Etsy shop mockups: choose a small set of rooms, one frame look and one hero style per collection, then reuse them for every artwork in it.
+
+Short answer: Give each collection its own small room set and reuse it for every artwork in that collection: two or three hero rooms, one scale room, two or three alternative rooms and one frame look. Choose the rooms by the collection's palette, its artwork shape and the product you sell. Keep light, wall colours and styling in one family, so the shop reads as one brand in search, but rotate hero rooms so thumbnails don't look identical.
+
+Q: Should every Etsy listing use the same mockup room?
+A: Use the same small set of rooms across a collection, not one room for everything. Rotate two or three hero rooms so the search grid doesn't show the same photo many times.
+Q: How many mockup rooms does a collection need?
+A: Six or seven covers most listings: two or three hero rooms, one scale room and two or three alternatives, plus one frame look.
+Q: Should different collections look different?
+A: Yes. Each collection can have its own room set that suits its palette and buyer, while the shop keeps a common style in light and framing.
+Q: Can I mix canvas and framed prints in one look?
+A: Lead each listing with the product it sells. A collection can offer both, but keep one frame look per listing so the photos match what arrives.
 
 ## Etsy Listing Photos for Wall Art: A Plan for All 20 Slots
 URL: https://wallmock.com/guides/etsy-listing-photos-for-wall-art/
@@ -474,6 +616,112 @@ Q: Should I show the flat artwork too?
 A: Yes, one image of the artwork on its own lets buyers see the full composition without room styling.
 Q: Do I need a different room for every photo?
 A: Use several different rooms, but repeat the hero room for the detail shot so the sequence feels connected.
+
+## Etsy Print on Demand Integration for Wall Art: 5 Providers
+URL: https://wallmock.com/guides/etsy-print-on-demand-integrations-for-wall-art/
+How Printify, Printful, Gelato, Prodigi and Gooten connect to Etsy for wall art, what each sends to your listing, and how to swap their mockups for room photos.
+
+Short answer: All five connect to Etsy, but they work differently. Printify, Printful and Gelato create the listing for you, and Printful and Gelato add it as a draft. Prodigi imports listings you already made on Etsy. Gooten can push a draft or link an existing listing. Each handles photos its own way, so add your room photos the way your provider expects, list it as a production partner, and stay within Etsy's 20 photos.
+
+Q: Which print-on-demand companies integrate with Etsy?
+A: Printify, Printful, Gelato, Prodigi and Gooten all connect to Etsy. Etsy's own help page names Printful, Printify and Gooten as examples of print-on-demand production partners.
+Q: Do I have to add my print provider as a production partner on Etsy?
+A: Yes. Add it under Shop Manager, Settings, Partners you work with, then select it on your listings. Printful says you must select it each time you publish a product.
+Q: Will my print provider overwrite my own Etsy photos?
+A: It can. Printify says publishing its mockups replaces your Etsy mockups, including videos, so untick Mockups when you republish. Printful and Gelato add their mockups when they publish, so check the photo order afterwards.
+Q: How many photos can an Etsy listing have?
+A: Up to 20 photos and 2 videos. Gelato and Printful send up to 10 mockups, and Printify up to 20, so leave room for your own photos.
+Q: Can I use mockups instead of a photo of the real item?
+A: Etsy requires at least one unedited photo for most items, with a print-on-demand exception for stock photo mockups that the owner has authorised. Check Etsy's page for your product; a photo of your sample is the safest option.
+Q: Can WallMock publish to Etsy for me?
+A: No. WallMock makes the room photos; you add them to your Etsy listing or to your provider's mockup library yourself.
+
+## Etsy SEO for Wall Art: Titles, Tags, Attributes for Canvas
+URL: https://wallmock.com/guides/etsy-seo-for-wall-art/
+Etsy SEO for framed canvas and framed prints: what Etsy search reads, how to write the title, 13 tags that cover the product, and which attributes to fill.
+
+Short answer: Etsy search reads your title, tags and attributes. For canvas and framed wall art, start the title with what the item is ("Misty Mountain Framed Canvas Wall Art"), keep it under 15 words, and use all 13 tags as multi-word phrases of up to 20 characters for product, subject, style, room and size. Fill every attribute your category offers, then let tags cover what attributes can't. Check Etsy Stats for the searches that actually find you.
+
+Q: How many tags can an Etsy listing have?
+A: Up to 13 tags, each up to 20 characters. Etsy's help page says short phrases work and that tags are most useful where no attribute matches.
+Q: How long should an Etsy title be for wall art?
+A: Etsy allows 140 characters but suggests fewer than 15 words, with the item described clearly at the start. Search engines such as Google show only about the first 50 to 60 characters of it.
+Q: Should I put 'framed' in the title if the frame is optional?
+A: Only if the item in the photos and the default option is framed. If the frame is an add-on, say 'frame option' or describe it in a variation, so buyers aren't misled.
+Q: Does Etsy search read the description?
+A: Etsy's help page on Stats says search scans titles, tags and attributes. Etsy still advises a clear first sentence in the description, and search engines such as Google read the whole page.
+Q: Do attributes count as tags on Etsy?
+A: They are separate fields, but both help buyers find your listing. Fill the attributes your category offers, then use tags for phrases attributes can't express.
+
+## Etsy Thumbnail for Wall Art: A Crop-Safe First Photo
+URL: https://wallmock.com/guides/etsy-thumbnail-for-wall-art/
+Make an Etsy thumbnail for wall art that survives Etsy's square, portrait and landscape crops: shape, size, where the art sits, and how to check it before you list.
+
+Short answer: Your Etsy thumbnail is your first listing photo, and Etsy crops it to square, portrait and landscape views in different places. For wall art, use a landscape or square room photo at least 2000 px wide, taken from further back than feels natural, with the whole artwork in the centre and clear space on every side. Then preview it with Etsy's Adjust Thumbnail tool and fix the crop before you publish.
+
+Q: What size is an Etsy thumbnail?
+A: Etsy doesn't give a single thumbnail size, because it crops the first photo to square, portrait and landscape views in different places. It recommends listing photos of at least 2000 px, and at least 635 px for the first photo.
+Q: Should my first Etsy photo be square or landscape?
+A: Etsy says the first photo should be landscape or square, and its thumbnail tips recommend horizontal images. A landscape room photo with the art in the centre survives the crops best.
+Q: Why is my Etsy thumbnail cutting off my art?
+A: The art is too close to the edge of the photo. Use a photo taken from further back, keep the artwork in the middle, and adjust the thumbnail in the listing editor.
+Q: How do I change my Etsy thumbnail?
+A: Drag the photo you want into the first position, then use Adjust Thumbnail in the listing editor to zoom and position it.
+Q: Can the thumbnail be a mockup?
+A: Yes, if it accurately shows what the buyer receives. Most listings also need at least one unedited photo of the actual item; print-on-demand items can use an authorised stock mockup instead, according to Etsy.
+
+## Etsy Variations for Wall Art: Size, Frame and a Photo Each
+URL: https://wallmock.com/guides/etsy-variations-for-wall-art/
+Set up Etsy variations for wall art: size and frame colour in one listing, canvas or framed print as separate listings, and a linked photo for every frame option.
+
+Short answer: Use Etsy variations for size and frame colour, and give each frame colour its own linked photo, made in the same room so only the frame changes. Etsy lets you link a photo to each option of a variation, for up to 20 options. Sell canvas and framed prints as separate listings, because they need different photos, titles and prices. Show sizes in one size guide image rather than one photo per size.
+
+Q: How many variations can an Etsy listing have?
+A: Etsy's help page says up to 3 variation types, such as size and colour. Listings with 1 or 2 types can have up to 4,900 option combinations, and listings with 3 types up to 2,500.
+Q: Can I add a different photo for each Etsy variation?
+A: Yes. Turn on Link photos to this variation, then pick a photo for each option. If a variation has more than 20 options, only 20 can have photos.
+Q: Should frame colour or size get the linked photos?
+A: Frame colour, because it changes how the piece looks. Sizes are clearer in one size guide image that shows them side by side.
+Q: Can I sell canvas and framed prints in one Etsy listing?
+A: You can add a third variation for the product, but separate listings are usually clearer: each gets photos, a title and tags that match exactly what it is.
+Q: Can digital downloads have variations on Etsy?
+A: No. Etsy says variations are not supported for digital listings, so list each file set as it is or describe the included ratios in the listing.
+Q: Do Etsy variations need different prices?
+A: Only if your costs differ. Etsy lets you set different prices, SKUs and quantities for up to 400 option combinations.
+
+## Etsy vs Shopify vs Your Own Site for Wall Art Sellers
+URL: https://wallmock.com/guides/etsy-vs-shopify-for-wall-art/
+Etsy vs Shopify for wall art: who brings the buyers, what each charges per sale, variants and photos for canvas and framed prints, and when to run both.
+
+Short answer: Etsy is better when you need buyers now: shoppers already search it, and you pay per listing and per sale (USD 0.20 a listing, 6.5% of each sale, plus card processing). Shopify, or your own site, is better once you can bring your own traffic from Pinterest, Instagram, email or ads: you pay a monthly plan and card fees, and you own the brand. A common path is to start on Etsy and add a store later, with the same print-on-demand provider and photos.
+
+Q: Is Etsy or Shopify better for selling wall art?
+A: Etsy is better for finding buyers quickly, because shoppers already search it. Shopify is better once you can bring your own traffic, because you pay a monthly plan instead of a percentage on every sale and you own the brand.
+Q: How much does Etsy charge to sell a print?
+A: For a US shop, USD 0.20 per listing, 6.5% of the item price and shipping, and 3% plus USD 0.25 for card processing. Orders from Offsite Ads add 15%, or 12% for larger shops, capped at USD 100 per order.
+Q: Does Shopify charge a fee per sale?
+A: Shopify charges card processing on each sale. Its pricing page also lists an extra fee on Basic (2%) when you use a third-party payment provider instead of Shopify Payments.
+Q: Can I sell the same print-on-demand wall art on Etsy and Shopify?
+A: Yes. The main print-on-demand providers connect to both, so one provider can fulfil orders from each. Use the same listing photos on both.
+Q: Should I start on Etsy or Shopify?
+A: If you don't have an audience yet, Etsy is usually the faster start. Add a Shopify store once you have repeat buyers or traffic from Pinterest, Instagram or email.
+
+## Floating Frame Mockup Tips: Gap, Depth and Frame Colour
+URL: https://wallmock.com/guides/floating-frame-canvas-mockups/
+How to make a floating frame canvas mockup look right: the shadow gap in millimetres and pixels, frame depth, the colour inside the gap and your provider's finish.
+
+Short answer: A floating frame canvas mockup looks right when five details match the product: a thin, even gap between canvas and frame, the right colour inside that gap, a slim frame face, a shadow that fits the frame's depth, and the frame finish your provider ships. Use real numbers: Prodigi lists a 5 mm gap and 12 mm face, Gelato a 12 mm gap (checked 2026-10-29). Show no glass and no mat, and nothing covering the front of the canvas.
+
+Q: How wide is the gap in a floating frame?
+A: It depends on the frame. Prodigi lists a 5 mm gap and Gelato a 12 mm gap for their framed canvas (checked 2026-10-29). In a mockup, the gap should scale with the canvas, so it looks thinner on large canvases.
+Q: Should a floating frame mockup show glass or a mat?
+A: No. Floating frames for canvas have no glass and no mat. Reflections or a white border tell buyers it is a framed print.
+Q: What colour should the gap be?
+A: Usually dark, because you see the inside of the frame and its shadow. Printful says its black and brown framed canvases have a black inside and its white frames a white inside, so check your own sample.
+Q: Does a floating frame cover part of the artwork?
+A: No. The frame surrounds the canvas without touching its front, so the whole front of the canvas shows. Only the sides are mostly hidden.
+Q: Can I make floating frame mockups for a whole collection?
+A: Yes. In WallMock you save your rooms and the framed canvas look once, then add many artworks. Each one comes out in every chosen room at its own proportions.
 
 ## How to Choose Frame and Mat Proportions for Art Mockups
 URL: https://wallmock.com/guides/frame-and-mat-proportions/
@@ -501,6 +749,40 @@ A: It helps if the frame relates to something in the room, such as a wooden tabl
 Q: Is a gold frame old-fashioned?
 A: Not with the right art. Thin gold floating frames look contemporary with abstracts and botanicals; ornate gold suits classic paintings.
 
+## Framed Canvas vs Stretched Canvas: Which to Sell and Show
+URL: https://wallmock.com/guides/framed-canvas-vs-stretched-canvas/
+Framed or stretched canvas? Sizes, depths and frames at Printful, Gelato and Prodigi, which art suits each product, and the listing photos each one needs.
+
+Short answer: Sell stretched canvas when you want the widest size range and a relaxed, frameless look. Sell framed canvas when you want a finished, premium piece in common sizes. Stretched canvas goes much larger at the providers we checked: Printful lists canvas up to 40×60 in but framed canvas only up to 24×36 in (checked 2026-10-29). Show stretched canvas with its edge and wall shadow, and framed canvas with its floating gap and frame colour.
+
+Q: Does a canvas print need a frame?
+A: No. A stretched canvas is ready to hang as it is, with its sides finished. A floating frame is an optional upgrade that adds a finished edge and protects the corners.
+Q: Which looks more premium, framed or stretched canvas?
+A: Framed canvas usually reads as more finished and premium. Stretched canvas reads as relaxed and modern, and suits very large pieces.
+Q: Can a buyer frame a stretched canvas later?
+A: Yes, with a floating frame made for that canvas size and depth. Tell buyers the exact canvas size and depth so they can order the right frame.
+Q: What is the largest framed canvas size?
+A: It depends on the provider. Printful's and Gelato's framed canvas lists stop at 24×36 in; Prodigi lists framed canvas up to 55×55 in (checked 2026-10-29).
+Q: Should I offer framed and stretched canvas in one listing?
+A: You can. Use the product as a variation and link a photo to each option, ideally the same room with only the product changed.
+
+## Framed Print With or Without a Mat: Which to Offer
+URL: https://wallmock.com/guides/framed-print-with-or-without-mat/
+When a mat helps a framed print and when to skip it, what Printful and Prodigi offer, how a mat changes the visible art size, and how to show the mat in mockups.
+
+Short answer: Offer a mat when the art is small, detailed or photographic, or when the buyer wants a gallery look: photography, botanicals, line art and smaller prints. Skip it for bold graphic posters, large prints and edge-to-edge designs. A mat shrinks the visible art inside a given frame, so state both the print size and the frame size. In mockups, show the mat at the width you ship: Prodigi uses 2.5 to 5 cm mounts depending on frame size (checked 2026-10-29).
+
+Q: Does a mat make a framed print look more expensive?
+A: It usually makes it look more finished and gallery-like, especially for photography and small, detailed art. Bold posters often look better without one.
+Q: What size mat for a 16×20 frame?
+A: It depends on the print. A 12×16 in print gets about 2.1 in of mat on every side; an 11×14 in print gets about 2.6 in at the sides and 3.1 in at top and bottom.
+Q: Does the mat cover part of the print?
+A: Yes, a little. The opening is usually cut about 1/8 in (3 mm) smaller than the print on each edge, so keep signatures and key detail away from the edge.
+Q: Should a mat be white or off-white?
+A: Either works; white is crisper and off-white softer. Use the colour your provider ships, and show the same one in every photo.
+Q: Can I sell framed prints with and without a mat in one listing?
+A: Yes. Add the mat as a variation and link a photo to each option, ideally the same room with only the mat changed.
+
 ## Set of 3 Wall Art: Presenting Pairs, Trios and Sets
 URL: https://wallmock.com/guides/gallery-wall-mockups-pairs-and-trios/
 Spacing, alignment and room choice for selling art as pairs, sets of three and sets of four, with the gaps that look intentional rather than accidental.
@@ -513,6 +795,63 @@ Q: How wide should a trio be above a sofa?
 A: About two thirds to three quarters of the sofa's width for the whole group, centred on the sofa.
 Q: Should a set of 3 be one image split into three?
 A: It can be. A split panorama reads as one artwork; three related pieces read as a series. Both sell; say clearly which one the buyer receives.
+
+## Gelato Mockup Generator: Mockup Studio vs Room Mockups
+URL: https://wallmock.com/guides/gelato-mockups-for-wall-art/
+What Gelato's built-in mockups and Mockup Studio do for posters, framed prints and canvas, who can use Mockup Studio, and when to add your own room photos.
+
+Short answer: Gelato gives you two mockup tools. Every product gets scenes to choose from when you publish to Etsy or Shopify. Mockup Studio, built for wall art, lets you pick a background scene, size and place the product, add layers and download the result; Gelato says it is for Gelato+ subscribers and that others can try it. Use them for product views, and add your own room photos when you want the same rooms and frame across a whole collection.
+
+Q: Is Gelato Mockup Studio free?
+A: Gelato says Mockup Studio is available for Gelato+ subscribers, and users without a premium subscription can still try it (checked 2026-10-29).
+Q: What is Gelato Mockup Studio for?
+A: Gelato says it is designed for the wall art category. You pick a background scene, size and position the product, add layers such as a logo or text, and download the mockup or save it for your products.
+Q: How many mockups does Gelato send to Etsy?
+A: Up to 10 per product, including the main image. Etsy allows 20 photos per listing, so you can add your own room photos alongside.
+Q: Can I use my own mockups with Gelato products?
+A: Yes. Add them to the Etsy or Shopify listing. When connecting an existing Etsy listing, Gelato asks whether it should upload photos, so you can keep your own.
+Q: Does Gelato's framed canvas have a gap?
+A: Yes. Gelato's canvas guide states a 12 mm gap between the canvas and the frame, with a frame front 9–14 mm wide.
+Q: Do Gelato framed posters arrive assembled?
+A: Not by default. Gelato ships the frame and poster separately in one package, unless you turn on its Ready-to-Hang option.
+
+## Gelato vs Printify vs Printful for Canvas and Framed Prints
+URL: https://wallmock.com/guides/gelato-vs-printify-vs-printful-wall-art/
+Gelato, Printify and Printful compared for wall art only: canvas depth, framed canvas, framed posters, where they print, samples and mockups, from their own pages.
+
+Short answer: For wall art, the three differ most in how much they tell you about framed products. Gelato states its framed canvas specs (a 12 mm gap, 13 sizes, three frame colours) and produces in 32 countries. Printful runs its own centres and gives canvas depths of 1.5, 1.25 and 0.75 in. Printify connects you to many print providers, so specs vary by product. All three connect to Etsy and Shopify. Decide by your buyers' countries and the exact frame, then order a sample.
+
+Q: Is Gelato, Printify or Printful better for canvas prints?
+A: It depends on where your buyers are and which frame you want. Gelato states framed canvas specs and produces in 32 countries, Printful makes its own canvases in its centres, and Printify lets you pick between print providers whose specs vary. Order a sample from your shortlist.
+Q: Which one has a floating frame canvas?
+A: Gelato states a 12 mm gap between canvas and frame (checked 2026-10-29). Printful's framed canvas page states no gap, though customer reviews describe a floater frame. On Printify it depends on the provider, so check the size guide and a sample.
+Q: How deep are Printful's canvases?
+A: Printful's blog gives 1.5 in for canvas, 0.75 in for thin canvas and 1.25 in for framed canvas including the frame. The post is dated March 2025, so confirm on the product page.
+Q: Can I use my own mockups with Gelato, Printify and Printful?
+A: Yes. Printify lets you upload custom mockups to its Mockup Library. Printful and Gelato push their own mockups, and you add your room photos directly to the Etsy or Shopify listing.
+Q: Do Gelato, Printify or Printful give free samples?
+A: Gelato and Printify say they don't. Gelato offers 30% off a first sample order for new sellers, and Printful offers a 20% sample discount with monthly limits.
+Q: Which prints closest to buyers in Europe?
+A: Gelato routes orders to local partners in 32 countries. Printful has centres in Barcelona and Birmingham, and Birmingham only ships to UK addresses. On Printify, choose a provider located in Europe.
+
+## Giclée vs Poster Print vs Fine-Art Paper: What to Say
+URL: https://wallmock.com/guides/giclee-vs-poster-vs-fine-art-paper/
+What giclée, poster and fine-art paper mean, what Gelato, Prodigi, Printful and Printify say about their papers, and the honest words to use in your listings.
+
+Short answer: Giclée means an inkjet print made with pigment, archival-quality inks, usually on fine-art paper or canvas. It names a printing process, not a particular paper or quality grade. A poster is a print on lighter, lower-cost paper, matte or semi-gloss. Fine-art paper is heavier archival stock, such as Gelato's 250 gsm archival matte (checked 2026-10-29). In listings, use your provider's exact paper name and weight, and say giclée or archival only when your provider says it for that product.
+
+Q: Is giclée better than a poster?
+A: A giclée uses pigment, archival-quality inks, usually on heavier fine-art paper, so it is made to last and to reproduce colour closely. A poster is a lower-cost print for everyday decor. Which is better depends on the price and buyer.
+Q: Is a giclée the same as a fine-art print?
+A: Often, but not always. Giclée names the printing process; fine-art print usually names the paper. Say both only when both are true for your product.
+Q: What paper weight is good for art prints?
+A: Heavier paper feels more substantial. Gelato's poster papers run from 170 to 250 gsm, and Printful's matte poster paper is 189 g/m² (checked 2026-10-29).
+Q: Can I call my print giclée if my provider doesn't?
+A: No. Use the words your provider uses for that exact product. If it doesn't say giclée, describe the paper and ink it does name.
+Q: Is matte or semi-gloss better for wall art?
+A: Matte avoids glare and suits paintings and illustration. Semi-gloss or luster gives deeper blacks and suits photography.
+Q: What does gsm mean?
+A: Grams per square metre: the weight of the paper. A higher number means a heavier, usually thicker sheet.
 
 ## How to Make Wall Art Mockups for Etsy, Step by Step
 URL: https://wallmock.com/guides/how-to-make-wall-art-mockups-for-etsy/
@@ -528,6 +867,23 @@ Q: Do mockups have to show the exact size?
 A: They should show a believable size and should not suggest a size you don't sell. Use a dedicated size image for the exact dimensions.
 Q: Do I need Photoshop to make wall art mockups?
 A: No. Template files need Photoshop or a similar editor, but browser-based tools, including WallMock, place the artwork for you. Photoshop gives the most manual control; a dedicated tool is faster for whole collections.
+
+## How to Price Wall Art on Etsy: Framed Canvas and Prints
+URL: https://wallmock.com/guides/how-to-price-wall-art-on-etsy/
+Price print-on-demand framed canvas and framed prints on Etsy: provider cost, Etsy's fees and your margin, with a formula and a worked table for each size.
+
+Short answer: To price wall art on Etsy, add your provider's product and shipping cost, then divide by what is left after Etsy's percentage fees and your target margin. In the US, Etsy takes 6.5% of the item price and shipping, 3% plus USD 0.25 for card processing, and USD 0.20 per listing. For a 30% margin, price = (cost + 0.45) ÷ 0.605. Price every size and frame separately, because each costs a different amount to make.
+
+Q: How much does Etsy take from a wall art sale?
+A: For a US shop: USD 0.20 per listing, 6.5% of the item price and shipping, and 3% plus USD 0.25 for card processing. On a USD 129 sale with shipping included, that is USD 12.71. Offsite Ads add 15% (or 12%) on orders that came from those ads.
+Q: What margin should I aim for on print-on-demand wall art?
+A: There is no fixed rule. Many sellers work back from a target such as 30% of the price, then check that sales and Offsite Ads orders still make money. The formula in this guide works for any margin you choose.
+Q: Should I offer free shipping on framed canvas?
+A: It doesn't change Etsy's fees, because they apply to shipping too. Include shipping in the price if that suits your buyers, but price from the full cost either way.
+Q: Why price each size separately?
+A: Each size and frame costs a different amount to make and ship. A single price across sizes either overcharges small pieces or loses money on large ones.
+Q: Does Etsy charge fees on sales tax?
+A: Etsy's payment processing fee is charged on the total sale price, including shipping and any applicable sales tax. The transaction fee applies to the item price, shipping and gift wrap.
 
 ## How to Sell Wall Art on Etsy: Products, Photos, Mockups
 URL: https://wallmock.com/guides/how-to-sell-wall-art-on-etsy/
@@ -547,6 +903,42 @@ Q: Do I need to list my print provider on Etsy?
 A: Yes. If a print-on-demand company makes your items, add it as a production partner in Shop Manager and select it on each listing.
 Q: Do I have to disclose AI on Etsy?
 A: If an item is created with AI, Etsy requires you to say so in the listing description. That applies to the artwork itself. Edited listing photos have separate rules: they must not make the item look different. Etsy also recommends noting in your description if any listing photos were edited with AI.
+
+## Large and Oversized Canvas Mockups: Showing Scale Honestly
+URL: https://wallmock.com/guides/large-canvas-mockups/
+How to list 40×60 and 48×72 in canvas honestly: which walls fit, the ceiling check, a size guide image, sample photos, and room mockups that don't oversell scale.
+
+Short answer: Oversized canvas is where room photos most often mislead, so pair every room mockup with plain numbers. State the canvas size and the outside size in inches and centimetres, add a size guide image drawn from real measurements, and check that the piece fits. A 40×60 in landscape suits an 80–90 in sofa. A 48×72 in portrait is 6 ft tall and won't fit above a sofa under an 8 ft ceiling. Use room photos for style, not as proof of size.
+
+Q: How big is a 40×60 canvas?
+A: 40 × 60 in is 101.6 × 152.4 cm, about 3 ft 4 in by 5 ft. In landscape it suits furniture about 80 to 90 in wide.
+Q: What size sofa suits a 48×72 canvas?
+A: In landscape, about 96 to 108 in wide, using the two-thirds to three-quarters guideline. In portrait it is 6 ft tall, too tall to hang above most sofas under an 8 ft ceiling.
+Q: Can a room mockup show the exact size of a canvas?
+A: Only if the scene was built to scale for that size. Treat room mockups as style photos and add a size guide drawn from real measurements.
+Q: Does WallMock show canvases at true scale?
+A: No. WallMock rooms show your artwork at a size reviewed to suit each room; they are not measured to scale. Add a size guide and the dimensions to your listing.
+Q: What resolution does a 48×72 canvas need?
+A: 7,200 × 10,800 px at 150 DPI, or 14,400 × 21,600 px at 300 DPI. Add the wrap if the image continues round the sides.
+
+## Mockup Licences and Commercial Use: Etsy, Shopify, Printify
+URL: https://wallmock.com/guides/mockup-licences-and-commercial-use/
+What mockup licences usually allow and forbid, what to check before using bought, free or generated mockups on Etsy, Shopify and Printify, and WallMock's terms.
+
+Short answer: Usually yes, for selling your own artwork, but the licence decides. Most mockup licences let you show your design in the scene on listings, stores and ads, and forbid reselling the empty scene or turning it into your own templates. Free mockups vary the most, so check for attribution and limits. Etsy adds its own rule: a stock mockup for a print-on-demand item must be authorised by its owner. This is general information, not legal advice.
+
+Q: Can I use mockups I bought on Etsy for my own listings?
+A: Usually, if the licence allows commercial use. Read the licence in the listing or download, save it, and watch for packs sold for personal use only.
+Q: Can I use free mockups commercially?
+A: Sometimes. Free mockups have the widest range of terms: some need a credit, some forbid marketplaces or ads. Check the exact licence for each file.
+Q: Can I sell templates made from someone else's mockups?
+A: Almost never. Most licences forbid reselling or giving away the scene, the PSD or a template made from it, even if you change it.
+Q: Can I use WallMock mockups on Etsy, Shopify and Printify?
+A: Yes. WallMock's terms allow clean downloads in shop listings, online stores and print-on-demand product pages, as well as websites, social posts, ads and client presentations.
+Q: Can I keep using WallMock images after I cancel?
+A: Yes. The terms say the licence to the room scenes and frames in your finished images lasts as long as you use them, including after you cancel or close your account.
+Q: Is this legal advice?
+A: No. It is general information to help you read a licence. For a specific question about your rights, ask the licensor or a lawyer.
 
 ## Mockups for Printable Wall Art (Digital Downloads)
 URL: https://wallmock.com/guides/mockups-for-printable-wall-art/
@@ -574,6 +966,44 @@ A: On a narrow wall: between two doors, beside a window, in a niche or on a stai
 Q: Can I split a panorama into three canvases?
 A: Yes. A triptych reads as one artwork across three pieces; keep the gaps even and say clearly that the buyer receives three panels.
 
+## PSD Frame Mockups vs an Online Generator: Time and Cost
+URL: https://wallmock.com/guides/photoshop-frame-mockups-vs-online-generator/
+How PSD smart-object frame mockups work, where they break for canvas and ratios, and a simple way to compare time and cost per listing with an online generator.
+
+Short answer: A PSD frame mockup is a Photoshop file with a smart object where your art goes: you replace its contents, check the fit and export, once per design per template. It gives full control and works with your own photos, but each template suits one ratio and every image is a manual step. Cost per image = template price ÷ images made + minutes × your hourly value. Time yourself on five designs, then compare.
+
+Q: What is a smart object mockup?
+A: A Photoshop file where the artwork area is a smart object. You replace its contents with your design, and the frame, shadows and perspective in the template are applied to it.
+Q: How do I replace a smart object in Photoshop?
+A: Select the smart object in the Layers panel, right-click it, choose Replace Contents, pick your file and click Place. Adobe says the new file keeps the original's transformations.
+Q: Why does my art look stretched in a PSD mockup?
+A: The template's smart object was made for a different ratio. Use a template made for your artwork's ratio, and check width ÷ height after export.
+Q: Are PSD mockups cheaper than a subscription?
+A: On money alone they can be close. Your time per image usually decides it, so time five designs, multiply by your hourly value and compare cost per image.
+Q: Can I automate PSD mockups?
+A: Partly. Photoshop actions and scripts can repeat the steps, but someone has to build and maintain them for each template.
+Q: Can WallMock use my own PSD or room photo?
+A: No. WallMock places your artwork in its own curated rooms; it doesn't take uploads of PSD templates or your own room photos.
+
+## Print on Demand Sample Order: Check It Against Your Mockup
+URL: https://wallmock.com/guides/print-on-demand-sample-check/
+How to order a wall art sample from Printify, Printful, Gelato or Prodigi, and a checklist to compare its colour, frame, depth, gap and mat with your mockup.
+
+Short answer: Order one sample of your best seller in the frame colour you'll show, then compare it with your mockup in daylight: frame colour and width, depth, the gap on a floating frame, mat width, edges, colours and sharpness. Change the mockup to match the product, not the other way round. Printify and Gelato don't give free samples; Printful, Gelato and Prodigi offer sample discounts with conditions. Photograph the sample too: Etsy wants an unedited photo for most items.
+
+Q: Is it worth ordering a print-on-demand sample?
+A: Yes, for at least your best seller. It's the only way to check the frame colour, depth, gap and print colours before buyers see them, and it gives you a photo of the real item for Etsy.
+Q: Does Printify give free samples?
+A: No. Printify says sample orders are at regular pricing. Choose Sample after clicking Create order, and it ships to your account address.
+Q: What sizes can I order as a Printful sample?
+A: Printful says framed posters can only be sampled at 8×10 in and canvas at 12×12 in, with a 20% discount (checked 2026-10-29).
+Q: How do I get Prodigi's sample discount?
+A: Place your first sample order through Prodigi's manual order form, then email the order number to its support team for a 50% refund. It's limited to one product type per order.
+Q: Does Gelato offer a sample discount?
+A: New sellers get 30% off the product cost of a first sample order within 48 hours of sign-up, up to 50€ off. Gelato also runs seasonal sample discounts.
+Q: Do I need a photo of the real item on Etsy?
+A: For most items, Etsy requires at least one unedited photo of the actual item. Print-on-demand sellers may use an authorised stock photo mockup instead; a photo of your sample is the simplest option.
+
 ## Print Ratios and Sizes for Wall Art: 2:3, 3:4, 4:5, A Sizes
 URL: https://wallmock.com/guides/print-ratios-and-sizes-for-wall-art/
 Which print sizes share a ratio, the files digital-download sellers usually include, and the pixels needed at 300 DPI. Inch and centimetre sizes, with tables.
@@ -588,6 +1018,42 @@ Q: What resolution do I need to print 24×36 inches?
 A: 7200×10800 pixels at 300 DPI. Many sellers accept 150–200 DPI for prints this large because they are viewed from further away.
 Q: Which ratio should I make my artwork?
 A: 2:3 covers the most common inch sizes; add an ISO A version for buyers outside North America. If you sell digital downloads, prepare a file for each main ratio.
+
+## Printable Wall Art vs Print on Demand: Profit and Photos
+URL: https://wallmock.com/guides/printable-wall-art-vs-print-on-demand/
+Digital downloads vs print-on-demand framed prints and canvas: profit per sale worked out with Etsy's fees, the sales you need, and what each listing must show.
+
+Short answer: Printables keep most of a small price; print-on-demand framed prints and canvas keep a smaller share of a much larger one. With Etsy's 6.5% transaction fee and 20-cent listing fee, our example keeps about 7 US dollars from an 8-dollar printable and about 23.50 from a 60-dollar framed print that costs 30 to make and ship: one framed sale is worth about three and a half printable sales. Printable photos show the file framed; print-on-demand photos show the exact product.
+
+Q: Is it more profitable to sell printables or print on demand?
+A: Per sale, print on demand usually keeps more money; for effort, printables are simpler. In our example a framed print kept about as much as three and a half printables. Work it out with your own prices and provider costs.
+Q: What fees does Etsy charge on a sale?
+A: Etsy's help page lists 20 US cents to create or renew a listing, a 6.5% transaction fee on the total order amount, a payment processing fee that varies by country, and 15% on Offsite Ads orders for shops under 10,000 US dollars a year.
+Q: Can I sell the same artwork as a printable and a framed print?
+A: Yes, as separate listings, each with photos and a description that match what the buyer receives.
+Q: Do printables need mockups?
+A: Yes. Buyers want to see the art framed in a room. Etsy also asks digital listings to include a preview of the actual content.
+Q: Do print-on-demand listings need a photo of the actual product?
+A: Etsy requires at least one unedited photo for most items. For print-on-demand items, it allows a stock photo mockup if its owner has authorised its use.
+
+## Printful Canvas Mockups: Framed, Thin and Standard Canvas
+URL: https://wallmock.com/guides/printful-canvas-mockups/
+Printful's canvas, thin canvas and framed canvas for mockups: depths, frame colours, what its free generator gives you, and the room photos to add yourself.
+
+Short answer: Printful's free mockup generator shows your design on its canvas products, from clean studio backgrounds to lifestyle scenes, and sends the mockups you pick to your store. It can't take mockups made elsewhere, so room photos go straight into your Etsy or Shopify listing. Match the product: Printful gives 1.5 in depth for canvas, 0.75 in for thin canvas and 1.25 in for framed canvas, with black, brown or white frames.
+
+Q: Is Printful's mockup generator free?
+A: Yes. Printful says mockups for its products are free. You need a Printful account and make them from your dashboard.
+Q: Can I upload my own canvas mockups to Printful?
+A: No. Printful's help centre says it isn't possible to upload mockup images to Printful. Add room photos directly to your Etsy or Shopify listing.
+Q: How thick is Printful's canvas?
+A: Printful's blog gives 1.5 in for canvas, 0.75 in for thin canvas and 1.25 in for framed canvas including the frame. The post is dated March 2025, so confirm on the product page before you list.
+Q: What colours does Printful's framed canvas come in?
+A: Printful's blog lists black, brown and white frames. The framed canvas product page doesn't list colours in its text, so check the variant selector.
+Q: Does Printful make AI mockups for canvas?
+A: Not at the moment. Printful says AI mockups cover select apparel products only (checked 2026-10-29).
+Q: What size canvas sample can I order from Printful?
+A: Only 12×12 in, according to Printful's sample order article, with a 20% discount and monthly limits.
 
 ## Printful Mockups for Framed Posters and Canvas
 URL: https://wallmock.com/guides/printful-mockups-for-framed-posters/
@@ -608,6 +1074,25 @@ A: Yes. Printful lists framed posters on matte or luster photo paper from 8×10 
 Q: Printful vs Printify for posters: which has better mockups?
 A: Both give free product mockups. Printify lets you upload custom mockups into its library; Printful asks you to add them in your store. With either provider you can add your own room photos that match your exact product.
 
+## Printify Framed Canvas: Products, Sizes, Frames and Photos
+URL: https://wallmock.com/guides/printify-framed-canvas/
+Printify's framed canvas products compared: frame colours, sizes, hanging hardware, where to find the depth, samples, and listing photos that match the product.
+
+Short answer: Printify sells framed canvas through several print providers, so the frame, sizes and depth depend on the product you pick. Its framed canvas page lists gallery canvas wraps in black or walnut frames (17 portrait sizes from 5×7 to 32×48 in), a landscape version up to 60×20 in, and an eco matte canvas in a black pine frame. Find the depth in each product's size guide, order one sample, then make room photos in the same frame colour.
+
+Q: Does Printify have framed canvas?
+A: Yes. Printify's framed canvas page lists gallery canvas wraps with square, vertical and horizontal frames, and an eco-friendly matte canvas in a black frame. More framed canvas listings from other providers appear in the catalog.
+Q: What frame colours does Printify framed canvas come in?
+A: The gallery canvas wraps come in black or walnut, and the eco matte canvas in black pine only (checked 2026-10-29). Other providers in the catalog may offer different colours, so check the product you choose.
+Q: How deep is a Printify framed canvas?
+A: Printify's framed canvas page doesn't say. Open the product in the Printify Catalog and scroll down to its size guide, and check each print provider separately, because they differ.
+Q: Does Printify framed canvas come ready to hang?
+A: Printify says the gallery canvas wraps have hanging hardware and felt bumpers fitted, and the eco matte canvas comes with a sawtooth hanger.
+Q: Can I get a free sample from Printify?
+A: No. Printify says sample orders are placed at regular pricing. Choose Sample after clicking Create order, and it ships to your account address.
+Q: Does Printify's AI Mockups tool make framed canvas scenes?
+A: Its page lists canvases among supported products and doesn't mention framed products (checked 2026-10-29). AI Mockups are included with Printify Premium.
+
 ## Printify Mockups for Framed Canvas and Posters
 URL: https://wallmock.com/guides/printify-mockups-for-framed-canvas-and-posters/
 What Printify's mockups give you for canvas and framed posters, why they may not show on Etsy, and how to add your own room mockups to a synced listing.
@@ -627,6 +1112,78 @@ A: Yes. Printify's canvas page lists stretched, gallery-wrapped and framed canva
 Q: Can I use WallMock mockups with Printify products?
 A: Yes. Use the same artwork file, choose the matching product and frame in WallMock, then upload the images to Printify's Mockup Library or straight to your Etsy or Shopify listing.
 
+## Prodigi Mockup Generator: Framed Canvas, Frames and Mounts
+URL: https://wallmock.com/guides/prodigi-mockups-for-wall-art/
+Prodigi's 3D and AI mockups for wall art, the framed canvas, box frame and mount specs your photos must match, and when to add your own room photos.
+
+Short answer: Prodigi makes 3D rendered mockups in its dashboard for wall art such as classic frames, box frames and stretched, framed and rolled canvas, and AI scene mockups (15 free to try). Its framed canvas is a floater frame with a 5 mm gap and a 12 mm frame face; its box frames stand 33 mm from the wall; mounts come in snow white, off-white or black. Use the 3D views for product detail, and add room photos that show the same frame, gap and mount.
+
+Q: Does Prodigi have a mockup generator?
+A: Yes. Prodigi makes 3D rendered mockups in its dashboard image editor, with three views per product, and AI scene mockups where you choose the lighting and describe the setting.
+Q: Are Prodigi mockups free?
+A: Prodigi says you can try 15 AI mockups free and that Prodigi Pro merchants get more access (checked 2026-10-29). Its 3D mockups are in the dashboard when you create an order.
+Q: What is the gap on Prodigi's framed canvas?
+A: 5 mm. Prodigi's framed canvas is a floater frame with a 12 mm frame face, 53 mm deep from the wall, around a 38 mm canvas.
+Q: What colours are Prodigi mounts?
+A: Snow white, off-white and black, cut from 2.4 mm acid-free card. The width is 25, 38 or 50 mm depending on the frame size.
+Q: Can I create Etsy listings from Prodigi?
+A: Not currently, according to Prodigi's Etsy FAQ. Create the listing on Etsy first, then import it into Prodigi and switch on fulfilment for each product.
+Q: Does Prodigi framed canvas come with hanging hardware?
+A: No. Prodigi's framed canvas page says hanging equipment is not included, so say so in your listing.
+
+## Prodigi vs Gelato for Framed Prints and Canvas (UK, EU, US)
+URL: https://wallmock.com/guides/prodigi-vs-gelato/
+Prodigi and Gelato compared for wall art sellers in the UK, EU and US: framed canvas gap and depth, frames, mounts, where each prints, samples and mockups.
+
+Short answer: Prodigi suits sellers who want detailed specs and more frame choice: a floater framed canvas with a 5 mm gap in six colours, box and classic frames, and optional mounts in three colours, fulfilled from the UK, EU, US and Australia. Gelato suits sellers who want a wide local network (32 countries) and a simpler range: framed canvas in three colours with a 12 mm gap, and framed posters in wood or metal. Check the regional differences, then order a sample.
+
+Q: Is Prodigi or Gelato better for framed prints?
+A: Prodigi lists more frame types and colours and optional mounts in three colours. Gelato offers framed posters in wood and metal colours through a 32-country network. Choose by the frame you want and where your buyers are, then order a sample.
+Q: Which has the wider gap on framed canvas?
+A: Gelato states a 12 mm gap between canvas and frame. Prodigi's floater framed canvas has a 5 mm gap.
+Q: Does Gelato offer mats or mounts?
+A: The Gelato help pages we checked don't mention mats (checked 2026-10-29). Prodigi offers optional mounts in snow white, off-white and black on its classic and box frames.
+Q: Where do Prodigi and Gelato print?
+A: Prodigi has its own facilities in the UK, EU and USA plus partners in over 10 countries, and fulfils wall art from the UK, EU, US and Australia. Gelato produces locally in 32 countries and says you can't choose the production country.
+Q: Which offers bigger framed canvas sizes?
+A: Prodigi's framed canvas runs from 4×6 in to 55×55 in. Gelato's comes in 13 sizes from 8×10 in to 24×36 in.
+Q: Do Prodigi and Gelato give sample discounts?
+A: Prodigi offers 50% off a first sample order. Gelato offers new sellers 30% off the product cost of a first sample order within 48 hours of sign-up, up to 50€ off.
+
+## Replace Printify and Printful Mockups on Etsy and Shopify
+URL: https://wallmock.com/guides/replace-printify-and-printful-mockups/
+Step by step: swap Printify and Printful default mockups for your own room photos on Etsy and Shopify, and the settings that keep every product in sync.
+
+Short answer: Both Printify and Printful let you use your own photos in Etsy or Shopify; republishing over them and editing variants or SKUs are the real risks. With Printify, either upload your images in its Mockup Library, or add them on Etsy or Shopify and untick Mockups every time you republish. Printful can't take your files, so add them in your store, keep a photo slot free on Etsy, and check the listing after any mockup refresh. Make every other change inside Printify or Printful.
+
+Q: Will replacing Printify mockups break the sync?
+A: Not by itself. Printify's selective publishing keeps manually uploaded mockups as long as you leave Mockups unticked when you republish. Changing variants, IDs or SKUs in your store is what causes sync problems.
+Q: How do I stop Printify overwriting my Etsy photos?
+A: Publish updates with only the changed details ticked and Mockups unticked. Printify says publishing its mockups replaces your Etsy mockups, including videos.
+Q: Can I upload my own mockups to Printful?
+A: No. Printful says it isn't possible to upload mockup images to Printful. Add them directly to your Etsy or Shopify listing.
+Q: Why are my old Printful mockups still on the listing?
+A: Printful says some integrations add new mockups without removing the old ones. Delete the old images in your store, then put your room photo back in first place.
+Q: How many photos can I add to a Shopify product?
+A: Shopify allows up to 250 images, 3D models or videos per product, with one image per variant.
+Q: Does WallMock upload photos to Printify, Printful or Etsy?
+A: No. WallMock makes the room photos; you upload them to your provider's mockup library or your store yourself.
+
+## Room Mockup vs White Background vs Close-Up for Wall Art
+URL: https://wallmock.com/guides/room-mockup-vs-white-background/
+Room mockup vs white background vs close-up for wall art listings: what each photo answers, which goes first, and the unedited photo Etsy asks for on most listings.
+
+Short answer: Wall art listings need all three, each for a different job. Lead with a room scene, because it shows style and scale at thumbnail size. Use one plain or white background image for the full, uncropped artwork, and a close-up for the frame, mat or canvas edge. On Etsy, add an unedited photo of a real sample too: most listings need one, with an exception for authorised print-on-demand mockups.
+
+Q: Do room mockups sell better than white background photos?
+A: No platform publishes figures comparing them. Room scenes usually lead because they show style and scale at thumbnail size; a white-background image does a different job, showing the whole artwork.
+Q: Should my first Etsy photo be on a white background?
+A: Usually not for wall art. A room scene reads better in search. Etsy asks that the first photo is the clearest, most realistic view of what the buyer receives, so show the product you actually ship.
+Q: Do I need a real photo if I use mockups on Etsy?
+A: Most Etsy listings need at least one unedited photo of the actual item. Print-on-demand items can use an authorised stock mockup instead; read Etsy's listing image requirements for your product.
+Q: What should a wall art close-up show?
+A: The detail buyers can't see from across a room: the floating gap and frame on a framed canvas, the edge and depth on a stretched canvas, or the mat and frame corner on a framed print.
+
 ## Room Styles and Wall Colours That Make Wall Art Sell
 URL: https://wallmock.com/guides/room-styles-and-wall-colours-for-wall-art-mockups/
 When to use neutral, tinted and bold rooms; which interior styles suit which art; and how to match wall colours to your artwork's palette.
@@ -640,6 +1197,42 @@ A: A consistent palette of rooms makes a shop look coherent. Keep a few signatur
 Q: Which room style suits which art?
 A: Scandinavian and Japandi rooms suit minimal line art, photography and abstracts; boho and Mediterranean rooms suit warm, textured and botanical work; classic rooms with mouldings suit traditional paintings and gold frames; nurseries suit playful prints and soft colours.
 
+## How to Sell Photography Prints as Canvas and Framed Prints
+URL: https://wallmock.com/guides/sell-photography-prints-canvas-and-framed/
+Turn your photographs into canvas and framed print listings: print sizes from camera files, which product suits which photo, and room mockups that sell.
+
+Short answer: Choose the product per photo: framed prints with a mat for fine detail, black-and-white and smaller sizes; canvas or floating-frame canvas for big, soft, painterly scenes. Check the file: a 24-megapixel image (6000 × 4000 px) prints 20 × 13.3 inches at 300 DPI. Crop to standard ratios, order a sample, then list each photo with a room hero, a close-up of the frame and a scale shot, through a print-on-demand partner on Etsy or Shopify.
+
+Q: How do I sell my photography as prints?
+A: Choose a product for each photo, check the file is big enough, crop to standard ratios, order a sample, and list through a print-on-demand partner on Etsy or Shopify with room mockups and a sample photo.
+Q: How big can I print a 24-megapixel photo?
+A: A 6000 × 4000 px file prints 20 × 13.3 inches at 300 DPI, or about 40 × 26.7 inches at 150 DPI, before any cropping.
+Q: Should I sell photos as canvas or framed prints?
+A: Framed prints with a mat suit fine detail, black and white and smaller sizes. Canvas suits large, soft, painterly scenes. Many photographers offer both.
+Q: Which ratio should I crop photos to?
+A: Camera files are usually 3:2, which prints at 4×6, 8×12, 12×18, 16×24, 20×30 and 24×36 inches without cropping. Sizes like 8×10 and 16×20 need a crop.
+Q: Can I use mockups for photography listings on Etsy?
+A: Yes, if they accurately show what the buyer receives. Most items also need an unedited photo; print-on-demand items may use an authorised stock mockup instead.
+
+## How to Sell Wall Art on Shopify with Print on Demand
+URL: https://wallmock.com/guides/sell-wall-art-on-shopify/
+Set up framed canvas, framed prints and posters on Shopify with a print-on-demand app: products, variants, image sizes and the photos each product page needs.
+
+Short answer: Install a print-on-demand app such as Printify, Printful or Gelato from the Shopify App Store, create each artwork as a product in the provider's app, and publish it to your store. Shopify allows up to three options and 2,048 variants per product, so size × frame colour fits in one product. Then replace generic provider images with room photos that match each frame and size, around 2048 × 2048 px.
+
+Q: Can you sell wall art on Shopify with print on demand?
+A: Yes. Install a print-on-demand app from the Shopify App Store, create your artwork as products in it, and publish them to your store. The provider prints and ships each order.
+Q: Which print-on-demand apps work with Shopify for wall art?
+A: Printify, Printful and Gelato all have apps in the Shopify App Store and list wall art among their products. Compare their frames, sizes and print locations before you choose.
+Q: How many variants can a Shopify product have?
+A: Shopify's help centre says up to 2,048 variants and up to three options per product. Size, frame colour and mat are typical options for wall art.
+Q: What size should Shopify product images be?
+A: Shopify says square images of 2048 × 2048 px usually display best. Images can be up to 5000 × 5000 px or 25 megapixels, and must be under 20 MB.
+Q: Should framed and unframed versions be one product or two?
+A: Either works. Separate products keep photos and prices clear; one product with a product-type option means fewer pages, as long as each variant has its own matching photo.
+Q: Does WallMock upload images to Shopify?
+A: No. WallMock makes the room images; you download them and add them to your Shopify products or variants.
+
 ## Selling AI or Midjourney Art Prints on Etsy: Disclosure
 URL: https://wallmock.com/guides/selling-ai-art-prints-on-etsy/
 What to check before selling AI-assisted wall art on Etsy: disclosure, the tool's terms, originality, print quality and honest mockups.
@@ -652,6 +1245,112 @@ Q: Do I need to say my art is AI-generated?
 A: On Etsy, yes: sellers are asked to disclose AI use in the listing description. It is also the honest thing to tell buyers.
 Q: Can I use mockups made with AI?
 A: Mockup rooms can be digitally staged, but the artwork shown must be your actual file at its true proportions, so buyers see what they will receive.
+
+## Shopify Wall Art Product Images: Variant Photos That Match
+URL: https://wallmock.com/guides/shopify-wall-art-product-images/
+Shopify product images for wall art: options for size and frame, one image per variant, the gallery order, image sizes, and fixing photos a print-on-demand sync broke.
+
+Short answer: Give each frame colour variant its own image from the product's media, made in the same room so only the frame changes, then group the extra photos for that colour next to it in the gallery. Shopify allows one assigned image per variant, up to 250 media items per product and up to 2,048 variants. Square images around 2048 × 2048 px usually display best. After a print-on-demand sync, check every variant still points to the right photo.
+
+Q: Can a Shopify variant have more than one image?
+A: No. Shopify allows one assigned image per variant, chosen from the product's media. Put the other photos for that variant next to it in the gallery so buyers see them together.
+Q: What size should Shopify product images be?
+A: Shopify says 2048 × 2048 px usually displays best for square product images. Images can be up to 5000 × 5000 px or 25 megapixels, and must be under 20 MB.
+Q: How many variants can a Shopify product have?
+A: Up to 2,048 variants and 3 options. Shopify warns that some themes, apps and sales channels might not support more than 100 variants.
+Q: Why did my Printify or Printful sync replace my Shopify photos?
+A: Publishing the app's mockups again can replace the images on the product. Use the app's publish settings to leave images alone, and keep your own copies so you can reassign them quickly.
+Q: Does WallMock upload images to Shopify?
+A: No. WallMock makes the room images and you download them, then add them to the Shopify product and assign one to each variant.
+
+## Smartmockups Alternatives for Wall Art Sellers
+URL: https://wallmock.com/guides/smartmockups-alternatives-for-wall-art/
+Smartmockups.com closed on 27 September 2024. What happened to your mockups, what moved into Canva, and four kinds of alternative for wall art listings.
+
+Short answer: Smartmockups.com closed on 27 September 2024, according to Canva's help centre, and the old address now redirects to Canva's mockups page. Mockups you exported before stay royalty-free for personal or commercial projects. For wall art, the alternatives are Canva's own mockups, Photoshop PSD templates, your print provider's mockup generator, or a wall art mockup generator built for framed canvas, framed prints and whole collections.
+
+Q: Is Smartmockups still available?
+A: No. Canva's help centre says Smartmockups.com closed on 27 September 2024, and the old address now redirects to Canva's mockups page.
+Q: Can I still use mockups I made in Smartmockups?
+A: Yes. Canva's help centre says previously exported Smartmockups mockups are royalty-free and can still be used in personal or commercial projects. You may not resell the empty mockups or use them as stock photos.
+Q: What replaced Smartmockups?
+A: Canva says the Smartmockups team is now building mockup tools inside Canva. Other options are Photoshop PSD templates, print provider mockups and wall art mockup generators.
+Q: What is a good Smartmockups alternative for wall art?
+A: One that shows the product you sell, such as a floating-frame canvas with its gap, keeps your art exact and your ratio, and can handle a whole collection. Compare tools on those points.
+Q: Does WallMock make mockups for T-shirts or mugs?
+A: No. WallMock only makes wall art mockups: framed canvas, stretched canvas, framed prints with or without a mat, and posters.
+
+## Upscale AI Art for Print: Large Canvas and Framed Prints
+URL: https://wallmock.com/guides/upscale-ai-art-for-print/
+How many pixels a large canvas or framed print needs, how to upscale AI art in steps, and how to spot the artefacts upscalers add before you send a file to print.
+
+Short answer: Work out the pixels first: print inches × 300 for prints seen up close, or × 150 for large canvas seen from across a room, the lowest Prodigi and Gelato suggest. Fix defects and crop to the final ratio at the original size, then upscale in one or two 2× to 4× steps with a gentle setting. Inspect at 100% for invented texture, smeared lettering and halos, and keep a lossless master.
+
+Q: What DPI do I need for a canvas print?
+A: Aim for 300 DPI at the final size. Prodigi says 150 may be enough for work without fine detail, and Gelato advises against going under 150 DPI.
+Q: How many pixels do I need for a 24 × 36 inch print?
+A: 7,200 × 10,800 pixels at 300 DPI, or 3,600 × 5,400 at 150 DPI.
+Q: Is it OK to upscale AI art for print?
+A: Yes, if you check the result at 100% for artefacts and fix defects before enlarging. The artwork also has to be yours to sell, and Etsy asks you to disclose AI-made items.
+Q: Should I upscale 2× or 4×?
+A: Use the smallest step that reaches the pixels you need. One 4× step from a clean original is usually better than several stacked passes.
+Q: Why does my upscaled art look plastic?
+A: The upscaler's strength or detail setting is too high, so it smooths and repaints. Use the art mode, lower the strength, or blend in a plain enlargement.
+Q: Does WallMock upscale my art?
+A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Upscale your print master yourself, then make mockups from it.
+
+## Wall Art Listing Mistakes Behind Returns and Bad Reviews
+URL: https://wallmock.com/guides/wall-art-listing-mistakes/
+The wall art listing mistakes behind returns and 'not as described' cases: frame not included, wrong size, colour shift, wrong finish, cropped art, and the fixes.
+
+Short answer: Many wall art returns start with a listing that promised something different: a frame that isn't included, a size that looks bigger in the mockup, colours brighter than the print, a different frame finish, or art cropped to fit a size. On Etsy, an item that differs from its photos or description can become a case where the seller refunds the item, the original shipping and the return shipping. Make every photo and line match what arrives.
+
+Q: What counts as 'not as described' on Etsy?
+A: Etsy's help page says it can include an item whose colour, design or model differs from what the listing description and photos showed, the wrong quantity, or a misrepresented condition.
+Q: Who pays for returns when wall art is not as described?
+A: If Etsy decides the item doesn't match the listing, the seller must refund the item, the original shipping and the return shipping.
+Q: Do I have to accept returns on Etsy?
+A: Etsy says sellers aren't required to accept returns, exchanges or refunds unless their return policy says so. An item that doesn't match its listing can still lead to a case and a refund.
+Q: How do I stop 'it's smaller than I expected' reviews?
+A: Show one realistic size in every room photo, add a size guide with every size labelled in inches and centimetres, and state the outer size for framed items.
+Q: Are mockups the cause of returns?
+A: Not by themselves. Returns come from mockups that show a different product, size, finish or colour from what arrives. A mockup that matches the item is fine.
+
+## Wall Art Mockup Cost: Etsy Packs, Subscriptions or Per Room
+URL: https://wallmock.com/guides/wall-art-mockup-costs/
+Work out the real cost per listing photo for mockup packs, subscriptions and per-room pricing, including your time, with a worked example and WallMock's prices.
+
+Short answer: Compare cost per finished listing image, not the price tag. A one-off pack costs its price divided by the images you'll actually make from it, plus your editing time. A subscription costs its monthly price divided by the images you make that month. Per-room or per-image pricing is cheap for a few images and grows with every one. For most shops, time is the biggest cost. WallMock costs $5 a month for 200 images, or $12 for 5,000.
+
+Q: How much do wall art mockups cost?
+A: It depends on the model and your time. On one Etsy search we ran on 29 October 2026, half the framed canvas mockup bundles cost about 5 to 15 US dollars. Subscriptions charge monthly. Compare cost per image, including your time.
+Q: Are free mockups really free?
+A: They cost nothing up front, but you still pay in time, and some need attribution or limit commercial use. Other shops may use the same scenes.
+Q: Is a mockup subscription worth it?
+A: If you list new designs regularly, usually yes, because the setup is reused and the time per image drops. For a few designs a year, a pack can be cheaper.
+Q: How much does WallMock cost?
+A: Lite is $5 a month for 200 images, Pro is $12 for 5,000, and Studio is $24 for 10,000. Previews are free and watermarked.
+Q: What counts as one image in WallMock?
+A: One clean, full-size download of one artwork in one room. Watermarked previews don't count.
+Q: Can I keep using WallMock images after I cancel?
+A: Yes. WallMock's terms say the licence to the room scenes and frames in your finished images continues after you cancel or close your account.
+
+## Wall Art Mockups for Pinterest and Instagram: 2:3 and 4:5
+URL: https://wallmock.com/guides/wall-art-mockups-for-pinterest-and-instagram/
+Crop wall art mockups for Pinterest (2:3, 1000 × 1500 px) and Instagram (4:5, up to 1440 px wide) without cutting the frame, plus titles, links and video sizes.
+
+Short answer: Pinterest recommends 2:3 images at 1000 × 1500 px, so crop your wall art mockup to a tall 2:3 with the whole frame inside. For an Instagram feed post, use 4:5 portrait: Meta's Instagram publishing documentation accepts 4:5 to 1.91:1 and scales images down to 1440 px wide, so 1440 × 1800 px is the largest 4:5. Crop from your full-size export, keep space around the art, and link each pin to the listing.
+
+Q: What size should a Pinterest pin be for wall art?
+A: Pinterest recommends a 2:3 image at 1000 × 1500 px. Crop the room mockup so the whole frame sits inside with wall around it.
+Q: What size should an Instagram post of wall art be?
+A: Use 4:5 portrait. Meta's Instagram publishing documentation accepts 4:5 to 1.91:1 and scales images down to 1440 px wide, so 1440 × 1800 px is the largest 4:5.
+Q: Can I use the same mockup for Pinterest and Instagram?
+A: Yes. Crop one full-size room image twice: a 2:3 crop for Pinterest and a 4:5 crop for Instagram, keeping the art centred in both.
+Q: Should Pinterest pins link to Etsy?
+A: Link each pin to the exact listing. On Etsy, a Share & Save trackable link earns a 4% refund on eligible orders placed within 30 days of a click.
+Q: What about video pins?
+A: Pinterest recommends 9:16 at 1080 × 1920 px for video, with space left at the top and bottom for the player controls.
 
 ## Wall Art Placement in Mockups: Size, Balance, Usable Wall
 URL: https://wallmock.com/guides/wall-art-placement/
@@ -679,6 +1378,78 @@ A: No. It is in March in the UK and Ireland, the first Sunday of May in Spain an
 Q: How far ahead should I list seasonal wall art?
 A: About six to eight weeks before the peak, then refresh the hero image as the date approaches.
 
+## Wall Art Size Guide Image: Show Buyers How Big Each Size Is
+URL: https://wallmock.com/guides/wall-art-size-guide-image/
+How to make a wall art size guide image for Etsy or Shopify: which sizes to show, inches and centimetres, frame outer sizes, a scale photo, and what to avoid.
+
+Short answer: A wall art size guide image shows every size you sell side by side, drawn in proportion to each other, each labelled in inches and centimetres. Show only sizes in your artwork's ratio, say whether the numbers are the artwork or the framed outside size, and pair it with one room photo above familiar furniture for real-life scale. Make it the same shape as your first photo, and repeat the sizes in the description.
+
+Q: What should a wall art size chart include?
+A: Every size you sell, drawn in proportion to each other, labelled in inches and centimetres, with a note saying whether the numbers are the artwork or the framed outer size.
+Q: Should I show sizes in inches or centimetres?
+A: Both. Lead with the unit most of your buyers use and put the other beside it, for example 16 × 24 in (about 41 × 61 cm).
+Q: Do frame sizes include the frame?
+A: Say which. A floating frame or a mat adds to the outer size, so a 16 × 24 in canvas in a floating frame measures more than 16 × 24 in outside.
+Q: Is a room mockup enough to show size?
+A: No. A room photo gives a feel for scale, but buyers can't measure from it. Add a size guide image with the exact sizes, and list them in the description.
+Q: Is WallMock's size guide image true to scale?
+A: It draws the sizes in proportion to each other, but it is an example comparison, not your art measured on a wall. Check the sizes against what you sell before publishing.
+
+## Wall Art Trends 2027 and the Rooms to Show Them In
+URL: https://wallmock.com/guides/wall-art-trends-2027/
+Six wall art directions to watch for 2027, with Etsy's own search data where it exists, clearly labelled observations, and the room styles that suit each.
+
+Short answer: No one can measure 2027 yet, so treat every trend list as observation. The firmest data is Etsy's: searches for wall art decor rose 110% and gallery prints 80% in the three months to 10 February 2026, year on year, among US signed-in shoppers. The directions we see carrying into 2027 are gallery-wall sets, nostalgic art, deep wall colours, warm natural materials, big statement pieces and quiet photography. Show each in a room that suits it.
+
+Q: What are the wall art trends for 2027?
+A: No one has 2027 data yet. Etsy's latest trend post shows strong search growth for wall art decor and gallery prints. We also see gallery-wall sets, nostalgic art, deep wall colours, warm natural materials, statement pieces and quiet photography carrying on.
+Q: Is gallery wall art still popular?
+A: Etsy reported searches for gallery prints up 80% and wall art decor up 110% in the three months to 10 February 2026, compared with a year earlier, among US signed-in users.
+Q: Are dark walls good for wall art mockups?
+A: Yes, as an alternative image. Pale art, black-and-white photos and gold frames stand out on deep walls. Keep a neutral room for the first photo.
+Q: Should I change my art to follow trends?
+A: Usually not. Change the rooms and frames you show it in, which is cheaper and keeps your style consistent.
+Q: Where does Etsy publish trend data?
+A: Etsy's trend expert posts seasonal trend reports in the Etsy Community, in the Etsy Success forum. Check there for newer reports.
+
+## What DPI Does a Canvas Print Need? Pixels by Size
+URL: https://wallmock.com/guides/what-dpi-for-canvas-prints/
+Canvas print DPI explained: what Gelato, Prodigi, Printful and Printify recommend, the pixels each canvas size needs at 150 to 300 DPI, and the extra for wrapped edges.
+
+Short answer: Aim for 300 DPI at the final canvas size: Gelato, Prodigi, Printful and Printify each name 300 DPI as ideal (checked 2026-10-29), and Gelato says files under 150 DPI are not recommended. Pixels = inches × DPI: a 16×20 in canvas needs 4,800 × 6,000 px at 300 DPI, or 2,400 × 3,000 at 150. For an image-wrapped canvas, add the depth to every side first: a 16×20 in canvas 1.5 in deep needs 19×23 in of picture.
+
+Q: Is 150 DPI OK for a canvas print?
+A: For large canvases seen from across a room, usually yes; it is the floor Gelato sets. Providers recommend 300 DPI, so aim higher for small canvases viewed up close.
+Q: What resolution do I need for a 24×36 canvas?
+A: 7,200 × 10,800 px for 300 DPI, or 3,600 × 5,400 px for 150 DPI. Add the wrap if the image continues round the sides: 27×39 in for a 1.5 in deep canvas.
+Q: Do I need 300 DPI for a 40×60 canvas?
+A: That would be 12,000 × 18,000 px, which few files reach. Many sellers print large canvas at 150 to 200 DPI, which is 6,000 × 9,000 to 8,000 × 12,000 px.
+Q: Does mirror wrap need a bigger file?
+A: No. With mirror wrap or plain sides, the provider fills the sides, so the file only needs to cover the front. Image wrap needs the extra.
+Q: How do I change the DPI of my image?
+A: Changing the DPI setting alone does nothing. Print quality depends on pixel width and height, so you need a bigger file or a smaller print.
+Q: Will WallMock upscale my art?
+A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI.
+
+## What Is a Floater Frame? Floating Frame vs Gallery Wrap
+URL: https://wallmock.com/guides/what-is-a-floater-frame/
+A floater frame holds a canvas from behind with a small gap and no glass. How it differs from a standard frame, a shadow box, a gallery wrap and a matted frame.
+
+Short answer: A floater frame, or floating frame, is an open frame that holds a stretched canvas from behind, with a small gap between the canvas edge and the frame on every side. Nothing covers the front of the canvas, and there is no glass and no mat, so the canvas seems to float inside the frame. The providers we checked use gaps of 5 to 12 mm. A standard frame overlaps the art's edges, usually behind glass; a gallery wrap has no frame at all.
+
+Q: Do floating frames have glass?
+A: No. A floating frame for canvas is open at the front, with no glass, acrylic or mat. The canvas surface shows directly.
+Q: How big is the gap in a floating frame?
+A: Usually a few millimetres to about a centimetre. Prodigi lists 5 mm and Gelato 12 mm for their framed canvas (checked 2026-10-29).
+Q: Can you put a paper print in a floating frame?
+A: Not in a canvas floater. A paper print needs glass and a backing, so it goes in a standard frame, or is float-mounted in a deeper frame behind glass.
+Q: Is a floating frame the same as a shadow box?
+A: No. A shadow box is a deep frame with glass and space for objects. A floating frame has no glass and holds a stretched canvas.
+Q: Is a framed canvas always a floating frame?
+A: In print on demand it usually is. Prodigi calls its framed canvas a floater frame and Printful says its frame gives a floating effect, but check your own provider's page.
+Q: What is the difference between a gallery wrap and a floater frame?
+A: A gallery wrap is a stretched canvas hung on its own, with its sides finished. A floater frame is an open frame added around such a canvas, with a gap between them.
+
 ## How High to Hang Art Over a Sofa, Bed or Sideboard
 URL: https://wallmock.com/guides/what-size-art-over-sofa-and-bed/
 How high to hang art above a sofa, bed, sideboard or open wall, how wide it should be, and the print sizes that fit common furniture widths. With tables.
@@ -693,6 +1464,23 @@ Q: How big should art be over a couch?
 A: About two thirds to three quarters of the couch's width, including the frame. For an 84-inch sofa that is roughly 56–63 inches of art, or a group of pieces that wide.
 Q: What size art goes above a queen bed?
 A: About 40–45 inches (100–115 cm) wide, such as a 30×40 landscape, a 14×42 panorama or a pair of 16×20 landscapes.
+
+## Why Wall Art Mockups Look Fake: Fixes for Realistic Mockups
+URL: https://wallmock.com/guides/why-wall-art-mockups-look-fake/
+Five things make a wall art mockup look fake: perspective, scale, light, shadow and colour. Simple checks with a ruler and a colour picker fix each one.
+
+Short answer: Wall art mockups look fake when the art doesn't obey the room: its edges don't follow the wall's lines, its size doesn't suit the furniture, the light on it doesn't match the wall, its shadow is missing or falls the wrong way, or its whites are a different colour from the room's light. You can measure each one with a ruler tool and a colour picker. Fix the room and the placement, never the artwork's own colours.
+
+Q: Why do my wall art mockups look fake?
+A: Usually one of five things: perspective that doesn't follow the wall, a size that doesn't suit the furniture, light that doesn't match the wall, a missing or wrong-way shadow, or art whites that are a different colour from the room's light.
+Q: How big should the art look in a mockup?
+A: For a single piece or a group above furniture, about two thirds to three quarters of the furniture's width. Measure both in pixels and divide.
+Q: Should I change my art's colours to match the room?
+A: No. Etsy requires photos to show the item's true colour. Choose a room with neutral, even light instead of tinting the artwork.
+Q: Does a framed canvas mockup need a shadow?
+A: Yes. A floating-frame canvas stands off the wall, so it casts a soft shadow, and its gap shows as a thin dark line inside the frame. No shadow makes it look pasted on.
+Q: How do I check a mockup's perspective?
+A: Draw lines along the frame's edges and along nearby room edges. In a straight-on room they should be parallel. In an angled room they should meet at the same vanishing point.
 
 ## Free Tools for Wall Art Sellers: Print Size, DPI, Layout
 URL: https://wallmock.com/tools/
