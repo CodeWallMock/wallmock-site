@@ -370,3 +370,14 @@ p{margin:0 0 1em}
 .proof-chips{grid-template-columns:repeat(4,minmax(0,1fr))}
 @media (min-width:1240px){.proof-chips{grid-template-columns:repeat(8,minmax(0,1fr))}}
 @media (max-width:520px){.proof-chips{grid-template-columns:1fr 1fr}}
+/* Home "Everything you can make" (2026-10-30): square tiles, each image cropped to fill around its art (--focus), caption under */
+.gallery.make{grid-template-columns:repeat(4,1fr);gap:18px}
+.gallery.make figure>a{aspect-ratio:1/1;overflow:hidden;background:#ebe8e2}
+.gallery.make figure>a img{width:100%;height:100%;object-fit:cover;object-position:var(--focus,50% 40%);transition:transform .5s ease}
+.gallery.make figure>a:hover img{transform:scale(1.035)}
+.gallery.make figcaption{display:flex;flex-direction:column;gap:2px;margin-top:8px}
+.gallery.make figcaption a{margin-left:0}
+.gallery.make figcaption span{color:var(--muted,#5f6368);font-size:.9em}
+@media (prefers-reduced-motion:reduce){.gallery.make figure>a img{transition:none}.gallery.make figure>a:hover img{transform:none}}
+@media (max-width:1000px){.gallery.make{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:860px){.gallery.make{grid-template-columns:repeat(2,1fr);gap:12px}}
