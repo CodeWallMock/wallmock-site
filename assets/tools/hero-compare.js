@@ -13,7 +13,8 @@ if (root) {
     index = (i + examples.length) % examples.length;
     const e = examples[index];
     stage.style.aspectRatio = `${e.w} / ${e.h}`;
-    before.src = e.before; before.alt = e.beforeAlt; after.src = e.after; after.alt = e.afterAlt;
+    // srcset first: with a srcset the browser picks a right-sized copy, and src alone would be ignored
+    before.srcset = e.beforeSet ?? ""; before.src = e.before; before.alt = e.beforeAlt; after.srcset = e.afterSet ?? ""; after.src = e.after; after.alt = e.afterAlt;
     before.width = after.width = e.w; before.height = after.height = e.h;
     cap.textContent = e.caption;
     dots.forEach((d, j) => d.setAttribute("aria-current", j === index ? "true" : "false"));
@@ -48,7 +49,8 @@ if (root) {
   dots.forEach((d, j) => d.addEventListener("click", () => { stop(); show(j); }));
   new IntersectionObserver(([en]) => { visible = en.isIntersecting; }).observe(root);
   // warm the cache for the other examples so switching doesn't flash
-  examples.slice(1).forEach((e) => { const a = new Image(); a.src = e.before; const b = new Image(); b.src = e.after; });
+  const warm = (src, set) => { const i = new Image(); i.sizes = after.sizes; if (set) i.srcset = set; i.src = src; };
+  examples.slice(1).forEach((e) => { warm(e.before, e.beforeSet); warm(e.after, e.afterSet); });
   root.classList.add("cmp-ready");
   if (auto) play();
 }

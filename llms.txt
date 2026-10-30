@@ -18,6 +18,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Billing: Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 - Frames: Black, White, Natural oak, Walnut, Espresso, Gold, Silver. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Custom frames are made in rooms that are not limited to reviewed looks; other rooms keep their reviewed frames. Colours are close approximations, not a supplier's finish. Framed prints come in slim, classic or bold frames, with no mat or a mat in white, warm white, cream, warm grey or black.
 - Speed: In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
+- Size and scale: Enter your artwork's real size in centimetres or inches (long side 4 to 60 in). In the 332 library rooms with a published estimated wall scale, the artwork can be drawn at that size against the room's scale, and size matches show the estimate's range; other rooms use a reviewed placement size. The scale is estimated from the room photo, not measured on a wall, so check sizes against your product. A 2000 px size guide image compares the sizes you sell, or example sizes, side by side without frames, labelled in centimetres and inches.
 - History: WallMock has been in development since July 2026. Free previews opened to everyone on 26 October 2026, and paid plans on 28 October 2026.
 - Works in a web browser; no Photoshop or PSD files.
 - Every page's answers and FAQs in one file: https://wallmock.com/llms-full.txt
@@ -99,18 +100,23 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [Mockup de quadro e moldura para vender arte](https://wallmock.com/pt-br/)
 - [Wall art mockup rooms by room type](https://wallmock.com/rooms/)
 
-## Free tools
-- [Art Color Palette Generator: Extract Colors from Artwork](https://wallmock.com/tools/art-color-palette/)
-- [What Size Art Over a Sofa or Bed? Free Art Size Calculator](https://wallmock.com/tools/art-size-over-sofa/)
-- [Crop Image for Print: 8 × 10, 2:3, A4 at Full Resolution](https://wallmock.com/tools/crop-to-print-size/)
-- [Etsy Fee Calculator: Fees, Profit and Break-Even Price](https://wallmock.com/tools/etsy-fee-calculator/)
-- [Etsy Listing Photo Checker: Size, Shape and Thumbnail Crop](https://wallmock.com/tools/etsy-photo-checker/)
-- [Frame and Mat Size Calculator: Mat Opening and Frame Size](https://wallmock.com/tools/frame-mat-calculator/)
-- [Standard Frame Sizes Chart: US, Metric, A Sizes and Posters](https://wallmock.com/tools/frame-size-chart/)
-- [Gallery Wall Layout Planner with Sizes and Hang Heights](https://wallmock.com/tools/gallery-wall-layout-planner/)
-- [Gallery Wall Spacing Calculator: Gaps, Nail Spots, Heights](https://wallmock.com/tools/gallery-wall-spacing/)
-- [Print Resolution Checker: How Big Can My Art Print?](https://wallmock.com/tools/print-resolution-checker/)
-- [Print Size Calculator: Which Print Sizes Fit My Art?](https://wallmock.com/tools/print-size-calculator/)
+## Free tools (16, free, no sign-up, run in the browser: https://wallmock.com/tools/)
+- [Etsy fee calculator](https://wallmock.com/tools/etsy-fee-calculator/): Every Etsy fee, your profit and your break-even price.
+- [Etsy listing photo checker](https://wallmock.com/tools/etsy-photo-checker/): Check listing photos against Etsy's own photo guidance.
+- [Size comparison chart maker](https://wallmock.com/tools/wall-art-size-comparison-chart/): Your sizes to scale over a sofa or bed, as a PNG for your listing.
+- [Art colour palette generator](https://wallmock.com/tools/art-color-palette/): The six main colours of your artwork, with HEX and RGB codes.
+- [Print resolution checker](https://wallmock.com/tools/print-resolution-checker/): Your file's DPI at every common print size.
+- [Print size calculator](https://wallmock.com/tools/print-size-calculator/): The standard print sizes your file fits without cropping.
+- [Aspect ratio calculator](https://wallmock.com/tools/aspect-ratio-calculator/): Your file's ratio and the print sizes in its family.
+- [Print size converter](https://wallmock.com/tools/print-size-converter/): Inches, centimetres and pixels at any DPI.
+- [Crop image for print](https://wallmock.com/tools/crop-to-print-size/): Crop your artwork to any print shape at full resolution.
+- [Printable size pack maker](https://wallmock.com/tools/printable-size-pack/): Five printable ratios from one file, in one ZIP.
+- [Triptych split calculator](https://wallmock.com/tools/panorama-triptych-split/): Split a panorama into 2 or 3 panels, with sizes and an optional image split.
+- [Standard frame sizes chart](https://wallmock.com/tools/frame-size-chart/): Ready-made frame and poster sizes in inches, cm and A sizes.
+- [Frame and mat size calculator](https://wallmock.com/tools/frame-mat-calculator/): The mat opening, frame size and nearest ready-made frame.
+- [Art size over a sofa](https://wallmock.com/tools/art-size-over-sofa/): The right art width for a sofa, bed or sideboard.
+- [Gallery wall spacing calculator](https://wallmock.com/tools/gallery-wall-spacing/): Nail positions and gaps for a row of frames.
+- [Gallery wall layout planner](https://wallmock.com/tools/gallery-wall-layout-planner/): Frame positions and nail heights, drawn to scale.
 
 ## Guides
 - [AI Mockup Generator for Wall Art: Exact Art or Redrawn?](https://wallmock.com/guides/ai-wall-art-mockup-generator/)

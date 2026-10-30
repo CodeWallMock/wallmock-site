@@ -18,6 +18,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Billing: Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 - Frames: Black, White, Natural oak, Walnut, Espresso, Gold, Silver. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Custom frames are made in rooms that are not limited to reviewed looks; other rooms keep their reviewed frames. Colours are close approximations, not a supplier's finish. Framed prints come in slim, classic or bold frames, with no mat or a mat in white, warm white, cream, warm grey or black.
 - Speed: In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
+- Size and scale: Enter your artwork's real size in centimetres or inches (long side 4 to 60 in). In the 332 library rooms with a published estimated wall scale, the artwork can be drawn at that size against the room's scale, and size matches show the estimate's range; other rooms use a reviewed placement size. The scale is estimated from the room photo, not measured on a wall, so check sizes against your product. A 2000 px size guide image compares the sizes you sell, or example sizes, side by side without frames, labelled in centimetres and inches.
 - History: WallMock has been in development since July 2026. Free previews opened to everyone on 26 October 2026, and paid plans on 28 October 2026.
 - Works in a web browser; no Photoshop or PSD files.
 - Every page's answers and FAQs in one file: https://wallmock.com/llms-full.txt
@@ -50,7 +51,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - How much does it cost? Free watermarked previews in every room. Clean images come with a plan: Lite $5 a month (200 images), Pro $12 (5,000) or Studio $24 (10,000). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 
-# Every page in full (119 pages)
+# Every page in full (124 pages)
 
 ## WallMock: Wall Art Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
@@ -159,7 +160,7 @@ A: No. WallMock runs in your web browser, with no PSD files or smart objects.
 URL: https://wallmock.com/features/
 Every WallMock feature for print-on-demand sellers: bulk collections, Photoshop-quality frames in any colour, exact art, listing kits, videos and AR.
 
-Short answer: WallMock is a wall art mockup generator for print-on-demand sellers. Its features: whole collections in one run with saved rooms and frame setups, Photoshop-quality frames with your exact art, 7 finishes plus any frame colour you design, framed and metal-framed prints, sets of 2, 3 or 4, Room Zoom, a listing kit with crops and alt text, listing videos on Pro, a size guide, AR view and 500+ curated rooms. Try it with no sign-up.
+Short answer: WallMock is a wall art mockup generator for print-on-demand sellers. Its features: whole collections in one run with saved rooms and frame setups, Photoshop-quality frames with your exact art, 7 finishes plus any frame colour you design, framed and metal-framed prints, sets of 2, 3 or 4, Room Zoom, a listing kit with crops and alt text, listing videos on Pro, real sizes against estimated room scale, a size guide, AR view and 500+ curated rooms. Try it with no sign-up.
 
 Q: What can WallMock do for a print-on-demand shop?
 A: Make listing photos for a whole collection at once: every artwork in every room and frame look you saved, with crops for Etsy, Pinterest and Instagram, alt text, a listing checklist and, on Pro, listing videos. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI.
@@ -369,7 +370,7 @@ Short answer: 500+ curated rooms: living rooms, bedrooms, dining rooms, kitchens
 Q: How many rooms does WallMock have?
 A: 500+ curated rooms: living rooms, bedrooms, dining rooms, kitchens, offices, nurseries, hallways and café or studio spaces. Rooms are curated, digitally staged interiors reviewed by WallMock.
 Q: Are the rooms drawn to scale?
-A: Treat scale as illustrative; rooms are not measured. Show the real size with a size guide image and numbers.
+A: Enter your artwork's real size in centimetres or inches (long side 4 to 60 in). In the 332 library rooms with a published estimated wall scale, the artwork can be drawn at that size against the room's scale, and size matches show the estimate's range; other rooms use a reviewed placement size. The scale is estimated from the room photo, not measured on a wall, so check sizes against your product. A 2000 px size guide image compares the sizes you sell, or example sizes, side by side without frames, labelled in centimetres and inches.
 Q: Can I upload a photo of my own room?
 A: Not in the public product today.
 
@@ -703,7 +704,7 @@ A: Use a batch tool that puts every design into every scene you choose. Scaylr d
 Q: Is there a free wall art mockup generator?
 A: Several have a free option: WallMock gives free watermarked previews with no sign-up; Situ.art (5 downloads, no watermark), Smartist, Mockey and Canva have free plans; Scaylr allows 30 watermarked mockups a day; WallMockup has a 7-day trial with no card; and Printify, Printful and Gelato make mockups of their own products with a free account.
 Q: Which mockup generators show true scale?
-A: On their own pages: WallMockup (inches and centimetres), Situ.art (scale-accurate placement from the dimensions you enter), ArtPlacer (art placed to scale) and Smartist (to-scale interiors from your dimensions). WallMock shows a sensible starting size in each room and keeps your artwork's proportions, but it is not a measuring tool.
+A: On their own pages: WallMockup (inches and centimetres), Situ.art (scale-accurate placement from the dimensions you enter), ArtPlacer (art placed to scale) and Smartist (to-scale interiors from your dimensions). WallMock takes your real artwork size in centimetres or inches and draws it against an estimated wall scale in 332 rooms, with the range shown; the scale is estimated from the room photo, not measured, and other rooms use a reviewed size.
 Q: Which tools let me use my own room photo?
 A: ArtPlacer's Personal Spaces (from its Standard plan), Smartist, and Situ.art's Pro plan let you upload a photo of a room. WallMock uses its own 500+ curated rooms.
 Q: Which mockup tools keep my artwork exactly as it is?
@@ -766,7 +767,7 @@ A: Judge it by eye. WallMock's wall art mockup examples open every frame at full
 Q: Which is faster?
 A: In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once. WallMockup's home page says a mockup takes under 60 seconds. WallMock also makes every artwork in every saved room in one run.
 Q: Does WallMockup show art at true scale?
-A: Yes, according to its own home page: every scene is measured, so the print shows at the size you sell, in inches and centimetres. WallMock shows a sensible starting size in each room but is not a measuring tool.
+A: Yes, according to its own home page: every scene is measured, so the print shows at the size you sell, in inches and centimetres. WallMock also takes your real size: Enter your artwork's real size in centimetres or inches (long side 4 to 60 in). In the 332 library rooms with a published estimated wall scale, the artwork can be drawn at that size against the room's scale, and size matches show the estimate's range; other rooms use a reviewed placement size. The scale is estimated from the room photo, not measured on a wall, so check sizes against your product.
 Q: Can both make mockups for many designs at once?
 A: Yes. WallMockup's batch page says one set holds up to 60 room-and-frame combinations that you can reuse. WallMock saves your favourite rooms and frame looks once and makes every artwork in every chosen room.
 Q: Does either tool redraw my artwork?
@@ -1306,7 +1307,7 @@ A: In landscape, about 96 to 108 in wide, using the two-thirds to three-quarters
 Q: Can a room mockup show the exact size of a canvas?
 A: Only if the scene was built to scale for that size. Treat room mockups as style photos and add a size guide drawn from real measurements.
 Q: Does WallMock show canvases at true scale?
-A: No. WallMock rooms show your artwork at a size reviewed to suit each room; they are not measured to scale. Add a size guide and the dimensions to your listing.
+A: Partly. Enter your artwork's real size in centimetres or inches (long side 4 to 60 in). In the 332 library rooms with a published estimated wall scale, the artwork can be drawn at that size against the room's scale, and size matches show the estimate's range; other rooms use a reviewed placement size. The scale is estimated from the room photo, not measured on a wall, so check sizes against your product. Add a size guide and the dimensions to your listing.
 Q: What resolution does a 48×72 canvas need?
 A: 7,200 × 10,800 px at 150 DPI, or 14,400 × 21,600 px at 300 DPI. Add the wrap if the image continues round the sides.
 
@@ -1782,7 +1783,7 @@ A: Say which. A floating frame or a mat adds to the outer size, so a 16 × 24 in
 Q: Is a room mockup enough to show size?
 A: No. A room photo gives a feel for scale, but buyers can't measure from it. Add a size guide image with the exact sizes, and list them in the description.
 Q: Is WallMock's size guide image true to scale?
-A: It draws the sizes in proportion to each other, but it is an example comparison, not your art measured on a wall. Check the sizes against what you sell before publishing.
+A: It draws the sizes in proportion to each other, in centimetres and inches: the sizes you entered, or example sizes if you entered none. It compares the sizes with each other; it is not your art measured on a wall. Check the sizes against what you sell before publishing.
 
 ## Wall Art Trends 2027 and the Rooms to Show Them In
 URL: https://wallmock.com/guides/wall-art-trends-2027/
@@ -1873,14 +1874,14 @@ A: Draw lines along the frame's edges and along nearby room edges. In a straight
 
 ## Free Tools for Wall Art Sellers: Print Size, DPI, Layout
 URL: https://wallmock.com/tools/
-Free browser tools for wall art and print-on-demand sellers: Etsy fees and profit, print resolution, crops to print sizes, art colour palettes, frames and gallery walls.
+16 free browser tools for wall art and print-on-demand sellers: Etsy fees, print sizes and DPI, size charts, printable packs, triptych splits, frames and gallery walls.
 
 Q: Are the tools really free?
 A: Yes. They are free, need no account and have no usage limit on our side.
 Q: Do the tools upload my artwork?
 A: No. Tools that read an image, such as the crop tool and the colour palette generator, do all their work in your browser; the file never leaves your device.
 Q: What do the tools have to do with WallMock?
-A: They answer the questions sellers ask before listing: print sizes, resolution, crops, colours, frames, wall layouts and Etsy fees. WallMock then shows your exact artwork in realistic rooms for the listing photos.
+A: They answer the questions sellers ask before listing: print sizes, ratios, resolution, crops, size charts, colours, frames, wall layouts and Etsy fees. WallMock then shows your exact artwork in realistic rooms for the listing photos.
 
 ## Art Color Palette Generator: Extract Colors from Artwork
 URL: https://wallmock.com/tools/art-color-palette/
@@ -1917,6 +1918,21 @@ Q: How high should art hang over a sofa?
 A: Hang the bottom of the frame about 6 to 10 inches (15 to 25 cm) above the sofa back, 8 to 12 inches (20 to 30 cm) above a headboard and 4 to 8 inches (10 to 20 cm) above a sideboard. The calculator shows the gap for the furniture you choose.
 Q: Can art be wider than three-quarters of the sofa?
 A: Yes. These are common interior guidelines, not rules, and a bold oversized piece can work. Art wider than the sofa itself usually looks crowded, so the calculator lists sizes up to 80% and labels the ones outside two-thirds to three-quarters.
+
+## Aspect Ratio Calculator for Prints: Pixels, Inches, cm
+URL: https://wallmock.com/tools/aspect-ratio-calculator/
+Free aspect ratio calculator for wall art: enter pixels, inches or cm to get the exact ratio, the nearest standard print ratio and the print sizes in that family.
+
+Short answer: enter a width and a height in pixels, inches or centimetres. The calculator gives the exact ratio (4000 × 6000 px is 2:3), the decimal, the nearest standard print ratio and how far off it is, and the print sizes in that family, such as 8 × 12, 12 × 18 and 24 × 36 in for 2:3. It also finds a same-ratio size for any width.
+
+Q: How do I find the aspect ratio of an image?
+A: Divide the width and height by their greatest common divisor: 4000 × 6000 px becomes 2:3. The calculator does it for you and also names the nearest standard print ratio when the numbers don't divide neatly.
+Q: What aspect ratio is 8 × 10?
+A: 8 × 10 is 4:5, the same shape as 16 × 20 and 24 × 30. It is not the same shape as 8 × 12 (2:3).
+Q: What aspect ratio is A4?
+A: All ISO A sizes share one shape, 1:√2, about 1:1.414. A4 at 300 DPI is 2480 × 3508 px.
+Q: Does the unit matter?
+A: No. The ratio of 4000 × 6000 px is the same as 12 × 18 in or 30.48 × 45.72 cm. Choose the unit only so the same-ratio size comes out in it.
 
 ## Crop Image for Print: 8 × 10, 2:3, A4 at Full Resolution
 URL: https://wallmock.com/tools/crop-to-print-size/
@@ -2041,6 +2057,21 @@ A: Yes. In a grid, use the same gap vertically as horizontally so the group read
 Q: What if the group is wider than the sofa?
 A: Use smaller frames, fewer frames or a smaller gap. The calculator says so plainly and measures every position from the centre line instead of the sofa's end.
 
+## Triptych Split Calculator: Panorama to 2 or 3 Panels
+URL: https://wallmock.com/tools/panorama-triptych-split/
+Free triptych split calculator: split a panorama into 2 or 3 panels with gaps, get each panel's size and position, and cut your image into panels in the browser.
+
+Short answer: enter the artwork's width and height, 2 or 3 panels and the gap. Split evenly to keep the whole image (a 60 × 20 in panorama becomes three 20 × 20 in panels, 64 in wide with 2 in gaps), or keep the wall width and cut the gaps out so lines stay straight. Get each panel's size and position, and optionally cut your image into the panels in one ZIP.
+
+Q: How do I split a panorama into a triptych?
+A: Choose 3 panels and a gap. Split evenly to keep the whole image: a 60 × 20 in panorama becomes three 20 × 20 in panels and, with 2 in gaps, is 64 in wide on the wall. Or keep the wall width and cut out the gaps, so lines in the scene stay straight across them.
+Q: What gap should a triptych have?
+A: 2 to 3 inches (5 to 8 cm) between panels is common for living rooms; smaller gaps read as one piece, larger ones as three. Keep every gap the same.
+Q: Which split mode should I use?
+A: Split evenly when no part of the art may be lost, such as text or a centred subject. Cut out the gaps for landscapes and horizons, where the scene should look continuous behind the gaps.
+Q: Is my image uploaded?
+A: No. The image is cut into panels in your browser and downloaded as one ZIP; nothing is sent anywhere.
+
 ## Print Resolution Checker: How Big Can My Art Print?
 URL: https://wallmock.com/tools/print-resolution-checker/
 Free print resolution checker for wall art sellers: your file's DPI at every common size, 5×7 to 24×36 and A5 to A1, and how much each crops. Nothing uploaded.
@@ -2074,3 +2105,52 @@ Q: What sizes fit a 3:1 panorama?
 A: 12 × 36, 14 × 42, 16 × 48, 20 × 60 and 24 × 72 inches, or 30 × 90 and 50 × 150 cm, hung wide. A 9000 × 3000 px panorama prints 30 × 10 inches at 300 DPI and 60 × 20 inches at 150 DPI.
 Q: How many pixels do I need for a 24 × 36 print?
 A: 7,200 × 10,800 pixels for 300 DPI. Large prints seen from across a room are often printed at 150 to 200 DPI, which is 3,600 × 5,400 to 4,800 × 7,200 pixels.
+
+## Print Size Converter: Inches, cm and Pixels at Any DPI
+URL: https://wallmock.com/tools/print-size-converter/
+Free print size converter: inches to cm, cm to inches and either to pixels at 72 to 300 DPI, with a table of common print sizes and A sizes in pixels.
+
+Short answer: enter a width and a height in inches, centimetres or pixels and choose a DPI. The converter shows the size in all three units: 8 × 10 in is 20.3 × 25.4 cm and 2400 × 3000 px at 300 DPI. Below it, a table lists common print sizes and A sizes in centimetres, pixels and megapixels at that DPI.
+
+Q: How many pixels is 8 × 10 at 300 DPI?
+A: 2400 × 3000 px. Multiply each side in inches by the DPI: 8 × 300 and 10 × 300.
+Q: How do I convert inches to centimetres?
+A: Multiply by 2.54: 24 × 36 in is 61 × 91.4 cm. To go from centimetres to inches, divide by 2.54.
+Q: What DPI should a print be?
+A: 300 DPI is the usual target for prints seen up close. Large prints seen from further away often look fine at 150 to 200 DPI; check yours with the print resolution checker.
+Q: How many pixels is A4 at 300 DPI?
+A: 2480 × 3508 px (21 × 29.7 cm).
+
+## Printable Wall Art Size Pack Maker: 5 Ratios, One ZIP
+URL: https://wallmock.com/tools/printable-size-pack/
+Free printable wall art size pack maker: one file becomes full-resolution crops at 2:3, 3:4, 4:5, 11:14 and ISO A, in one ZIP. Made in your browser; nothing uploaded.
+
+Short answer: choose one artwork file and the tool makes the largest crop at each of the five standard printable ratios, 2:3, 3:4, 4:5, 11:14 and ISO A, at full resolution, and downloads them in one ZIP. A slider moves the crops to keep the part of the art you want. A 4000 × 6000 px file gives a 4000 × 5000 px 4:5 crop. Nothing is uploaded.
+
+Q: Which ratios should a printable wall art pack include?
+A: Five ratios cover almost every standard frame: 2:3 (4 × 6 to 24 × 36), 3:4 (6 × 8 to 18 × 24), 4:5 (8 × 10, 16 × 20), 11:14 and ISO A (A5 to A1). Buyers print the size they need from the file of the right shape.
+Q: Is the pack made at full resolution?
+A: Yes. Each crop keeps the original pixels of the area it covers; nothing is resized or enlarged. PNG is lossless; JPEG at quality 95 makes smaller files.
+Q: Can I choose what each crop keeps?
+A: Yes. The slider moves every crop along the side that is cropped, from one edge (0%) through the centre (50%) to the other (100%). Check the previews before you download.
+Q: Is my artwork uploaded?
+A: No. The file is opened, cropped and zipped in your browser; nothing leaves your device.
+Q: How large a file can it handle?
+A: Files up to about 40 megapixels work on most computers. Phones limit how large an image the browser can make, so very large packs may fail there; use a computer for those.
+
+## Wall Art Size Comparison Chart Maker: Free, To Scale
+URL: https://wallmock.com/tools/wall-art-size-comparison-chart/
+Free wall art size comparison chart maker: draw the sizes you sell to one true scale over a sofa, bed or console, in inches or cm, and download a PNG for your listing.
+
+Short answer: enter the art sizes you sell, such as 12 × 18, 24 × 36 and 40 × 60 in, and choose a piece of furniture. The chart draws every size to one true scale above it, marks how much of the furniture's width each covers, and saves a PNG for your listing. It is a diagram, not a room photo, and furniture sizes are typical.
+
+Q: How do I make a wall art size chart for Etsy?
+A: Enter the sizes you sell, pick a piece of furniture, and download the PNG. Every size is drawn to the same scale, so buyers can compare them at a glance. Add it as one of your listing photos, next to your room mockups.
+Q: Is the chart drawn to scale?
+A: Yes: every artwork and the furniture share one scale. It is a diagram, though, not a photo of a room, and the image says so. Furniture sizes are typical retail sizes, so a buyer's own sofa or bed may differ.
+Q: What size art goes over an 84 inch sofa?
+A: Art about two-thirds to three-quarters of the sofa's width, 56 to 63 inches across, looks balanced; the chart marks each size against that guide. A 40 × 60 in landscape covers 71%.
+Q: Does it work in centimetres?
+A: Yes. Switch the unit to cm; the chart labels each size in both units, and ISO sizes such as A3 and A2 are named.
+Q: Is my data uploaded?
+A: No. The chart is drawn and saved in your browser; nothing is sent anywhere.

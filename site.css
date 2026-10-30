@@ -342,3 +342,27 @@ p{margin:0 0 1em}
 .hero-show figcaption{font-size:12.5px;line-height:1.35;color:var(--muted);margin-top:5px}
 .feature-more{margin-top:14px}
 
+/* SEO-8 tools (2026-10-29): size chart, printable pack, ratio, converter, panel split */
+.tool textarea{font:inherit;font-variant-numeric:tabular-nums;padding:10px;border:1px solid var(--muted);background:var(--paper);color:var(--ink);border-radius:0;width:100%;min-width:0;resize:vertical}
+.px label.stack{flex:1 1 100%;flex-direction:column;align-items:stretch;gap:6px}
+.px small{font-weight:400;color:var(--muted)}
+.tool input[type=range]{min-width:0;flex:1 1 160px;accent-color:var(--ink)}
+.tool-canvas,.tool-svg{display:block;width:100%;height:auto;max-width:100%;margin:0 0 14px;background:var(--soft)}
+.tool-svg{max-height:300px}
+.pack-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;margin:4px 0 14px;align-items:end}
+.pack-grid:empty{display:none}
+.pack-grid figure{margin:0;max-width:none}
+.pack-grid canvas{display:block;width:100%;height:auto;background:var(--soft)}
+.pack-grid figcaption{font-size:13px;font-weight:600;margin-top:6px}
+@media (max-width:620px){.pack-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+.table-scroll.narrow .res tbody th{white-space:nowrap}
+.tool-out .table-scroll+p{margin-top:12px}
+.tool-out h3{margin:24px 0 8px}
+/* SEO-8 free tools list on home and /features/ (data/tools.json) */
+.tools-list .lede{max-width:62ch}
+.tool-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;margin:20px 0 18px}
+.tool-groups h3{margin:0 0 10px;font-size:13px;letter-spacing:.12em;text-transform:uppercase;font-family:var(--sans)}
+.tool-groups ul{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.tool-groups li a{font-weight:650}
+.tool-groups li span{display:block;font-size:15px;color:var(--muted);margin-top:2px}
+@media (max-width:860px){.tool-groups{grid-template-columns:minmax(0,1fr);gap:22px}}
