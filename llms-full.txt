@@ -10,15 +10,29 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 ## Key facts (checked 2026-10-28)
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal-framed print (aluminium), with or without a mat. Sets of 2, 3, 4.
-- Rooms: 500+ curated room settings; images up to 4096 px.
+- Rooms: 500+ curated room settings; images up to 4096 px. New rooms are added to the library over time.
 - Frame quality: each image is a clean 4096 px render; floating frames show the gap around the canvas, frames have a natural shine and each piece casts a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup, made for a whole collection at once with no PSDs. Zoom in and check the corners at full size: https://wallmock.com/wall-art-mockup-examples/
 - Price: Free watermarked previews in every room. Plans: Lite $5/month or $39/year (200 clean images a month); Pro $12/month or $89/year (5,000 clean images a month); Studio $24/month or $179/year (10,000 clean images a month). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Try it free: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. https://app.wallmock.com/try
 - Access: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code.
 - Billing: Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+- Frames: Black, White, Natural oak, Walnut, Espresso, Gold, Silver. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Custom frames are made in rooms that are not limited to reviewed looks; other rooms keep their reviewed frames. Colours are close approximations, not a supplier's finish. Framed prints come in slim, classic or bold frames, with no mat or a mat in white, warm white, cream, warm grey or black.
+- Speed: In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
+- History: WallMock has been in development since July 2026. Free previews opened to everyone on 26 October 2026, and paid plans on 28 October 2026.
 - Works in a web browser; no Photoshop or PSD files.
 - Every page's answers and FAQs in one file: https://wallmock.com/llms-full.txt
 - Contact: hello@wallmock.com
+
+## Best for
+Print-on-demand and wall art shops that list many designs as framed canvas, stretched canvas or framed prints and want the same premium rooms across the whole shop.
+
+## Why sellers choose WallMock
+- Photoshop-quality framing: the gap around floating-frame canvas, a natural shine on every frame and a soft wall shadow, in clean 4096 px images.
+- Your exact art: never redrawn, repainted or upscaled by AI, with a published check.
+- Whole collections: save favourite rooms once, and every artwork goes into every chosen room in one run, sets of 2, 3 or 4 included.
+- Frames: 7 finishes plus design-your-own frames in any colour; framed prints in slim, classic or bold frames, with or without a mat.
+- Speed: in our tests, about 7 to 12 seconds per full-size image in the browser, and a laptop makes up to 4 at once.
+- Try it with no sign-up and no card; plans from $5 a month.
 
 ## Who makes WallMock
 Made by the WallMock team. About WallMock, how the examples are made and how these facts are checked: https://wallmock.com/about/
@@ -29,12 +43,14 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Who is it for? Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 - Is my artwork changed or redrawn? WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
 - Can I make mockups for a whole collection at once? Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
-- What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal-framed print (aluminium), with or without a mat. Sets of 2, 3 or 4 pieces too.
+- What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal-framed print (aluminium), with or without a mat. Sets of 2, 3 or 4 pieces too. Frames come in black, white, natural oak, walnut, espresso, gold and silver. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Custom frames are made in rooms that are not limited to reviewed looks; other rooms keep their reviewed frames. Colours are close approximations, not a supplier's finish. Framed prints come in slim, classic or bold frames, with no mat or a mat in white, warm white, cream, warm grey or black.
+- Why choose WallMock over other mockup tools? Photoshop-quality framed canvas and print mockups of your exact art, made for a whole collection at once. Floating frames show the gap and the frame casts a soft wall shadow; your file is never redrawn; you set up favourite rooms once and every artwork goes into every chosen room; and you can try it with no sign-up. In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
+- How fast is WallMock? In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once. Previews are quicker, and a whole collection runs in one go: add your artworks, pick your saved rooms, and WallMock makes every image in turn.
 - Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4096 px image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
 - How much does it cost? Free watermarked previews in every room. Clean images come with a plan: Lite $5 a month (200 images), Pro $12 (5,000) or Studio $24 (10,000). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 
-# Every page in full (118 pages)
+# Every page in full (119 pages)
 
 ## WallMock: Wall Art Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
@@ -49,7 +65,11 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 Q: Can I make mockups for a whole collection at once?
 A: Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
 Q: What frames and products can I show?
-A: Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal-framed print (aluminium), with or without a mat. Sets of 2, 3 or 4 pieces too.
+A: Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal-framed print (aluminium), with or without a mat. Sets of 2, 3 or 4 pieces too. Frames come in black, white, natural oak, walnut, espresso, gold and silver. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Custom frames are made in rooms that are not limited to reviewed looks; other rooms keep their reviewed frames. Colours are close approximations, not a supplier's finish. Framed prints come in slim, classic or bold frames, with no mat or a mat in white, warm white, cream, warm grey or black.
+Q: Why choose WallMock over other mockup tools?
+A: Photoshop-quality framed canvas and print mockups of your exact art, made for a whole collection at once. Floating frames show the gap and the frame casts a soft wall shadow; your file is never redrawn; you set up favourite rooms once and every artwork goes into every chosen room; and you can try it with no sign-up. In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
+Q: How fast is WallMock?
+A: In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once. Previews are quicker, and a whole collection runs in one go: add your artworks, pick your saved rooms, and WallMock makes every image in turn.
 Q: Do I need Photoshop or PSD files?
 A: No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4096 px image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
 Q: How much does it cost?
@@ -69,6 +89,8 @@ Q: Is wallmock.com the same as wallmock.app?
 A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 Q: Who makes WallMock?
 A: Made by the WallMock team. You can reach us at hello@wallmock.com.
+Q: Why do sellers choose WallMock?
+A: Photoshop-quality framing: the gap around floating-frame canvas, a natural shine on every frame and a soft wall shadow, in clean 4096 px images. Your exact art: never redrawn, repainted or upscaled by AI, with a published check. Whole collections: save favourite rooms once, and every artwork goes into every chosen room in one run, sets of 2, 3 or 4 included. Frames: 7 finishes plus design-your-own frames in any colour; framed prints in slim, classic or bold frames, with or without a mat. Speed: in our tests, about 7 to 12 seconds per full-size image in the browser, and a laptop makes up to 4 at once. Try it with no sign-up and no card; plans from $5 a month.
 Q: Does WallMock change my artwork?
 A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. It keeps its own proportions and is never stretched to fit a room.
 Q: Can I use WallMock today?
@@ -133,11 +155,28 @@ A: Yes. Save your favourite rooms once and add a whole collection; each artwork 
 Q: Do I need Photoshop?
 A: No. WallMock runs in your web browser, with no PSD files or smart objects.
 
+## Wall Art Mockup Generator Features for POD Sellers
+URL: https://wallmock.com/features/
+Every WallMock feature for print-on-demand sellers: bulk collections, Photoshop-quality frames in any colour, exact art, listing kits, videos and AR.
+
+Short answer: WallMock is a wall art mockup generator for print-on-demand sellers. Its features: whole collections in one run with saved rooms and frame setups, Photoshop-quality frames with your exact art, 7 finishes plus any frame colour you design, framed and metal-framed prints, sets of 2, 3 or 4, Room Zoom, a listing kit with crops and alt text, listing videos on Pro, a size guide, AR view and 500+ curated rooms. Try it with no sign-up.
+
+Q: What can WallMock do for a print-on-demand shop?
+A: Make listing photos for a whole collection at once: every artwork in every room and frame look you saved, with crops for Etsy, Pinterest and Instagram, alt text, a listing checklist and, on Pro, listing videos. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI.
+Q: Which frames and products does WallMock show?
+A: Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal-framed print (aluminium), with or without a mat. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Custom frames are made in rooms that are not limited to reviewed looks; other rooms keep their reviewed frames. Colours are close approximations, not a supplier's finish. Framed prints come in slim, classic or bold frames, with no mat or a mat in white, warm white, cream, warm grey or black.
+Q: Is every feature in every plan?
+A: Every plan makes clean 4096 px images with the same rooms and frames. The Pro plan includes listing videos. Free previews are watermarked. A new account gets 30 free clean images to try, valid for 12 months (one welcome per person).
+Q: How fast is it?
+A: In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
+Q: Do I need Photoshop?
+A: No. WallMock runs in your web browser, with no PSD files or smart objects to edit.
+
 ## Frame Mockup Generator for Framed Prints, Mats and Colours
 URL: https://wallmock.com/frame-mockup-generator/
 Show your art in the frame your buyer orders: black, white, natural oak, walnut, espresso, gold or silver, with or without a mat. Your exact file, no Photoshop.
 
-Short answer: a frame mockup generator puts your artwork inside a picture frame on a room wall. WallMock does it for framed prints with or without a mat, framed posters and framed canvas, in black, white, natural oak, walnut, espresso, gold or silver. Custom frame colours are also available. Your file is placed as supplied, never redrawn, so the framed photo matches the print.
+Short answer: a frame mockup generator puts your artwork inside a picture frame on a room wall. WallMock does it for framed prints with or without a mat, framed posters and framed canvas, in black, white, natural oak, walnut, espresso, gold or silver. Or design your own frame: wood grain, metallic or painted, in any colour you choose. Your file is placed as supplied, never redrawn, so the framed photo matches the print.
 
 Q: What is a frame mockup?
 A: A frame mockup is an image of your artwork inside a picture frame, usually hanging on a wall in a room. It shows buyers the frame colour, the mat and the size before they order.
@@ -167,7 +206,7 @@ A: Usually, in print on demand. Prodigi calls its framed canvas a floater frame 
 Q: Do floating frames have glass?
 A: No. A floating frame shows the canvas surface directly, with no glass, glazing or mat. If your product has glass and a mat, it is a framed print; use the frame mockup generator instead.
 Q: Which frame colours can I show?
-A: black, white, natural oak, walnut, espresso, gold and silver, so you can match the finish your provider ships. Custom frame colours are also available.
+A: black, white, natural oak, walnut, espresso, gold and silver, so you can match the finish your provider ships. Or design your own frame: wood grain, metallic or painted, in any colour you choose.
 Q: Can I make framed canvas mockups for my whole collection?
 A: Yes. Heart the rooms you sell in, set the framed canvas look once, then add many artworks. Each one comes out in every chosen room at its own proportions.
 Q: Is there a free framed canvas mockup generator?
@@ -592,10 +631,12 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 URL: https://wallmock.com/whats-new/
 WallMock updates and changelog, newest first: what changed in the app and on this site, with dates. Frame shadows, a faster Studio, Help Center, plans.
 
-Short answer: These are WallMock updates, newest first. The latest, on 29 October 2026: frame shadows in four window-lit rooms now fall away from the window, the Studio is faster, favourite rooms and Size & position show the framed product, and there is a new Help Center and a zoomable examples page. Paid plans and open sign-up started on 28 October 2026.
+Short answer: These are WallMock updates, newest first. The latest, on 29 October 2026: premium shine on every frame, frame shadows in four window-lit rooms now fall away from the window, a faster Studio, a Help Center and a zoomable examples page. Paid plans and open sign-up started on 28 October 2026. WallMock has been in development since July 2026.
 
 Q: What changed in WallMock most recently?
-A: On 29 October 2026: frame shadows in four window-lit rooms now fall away from the window, the Studio is faster, favourite rooms and Size & position show the framed product, and there is a new Help Center and a zoomable examples page.
+A: On 29 October 2026: premium shine on every frame, frame shadows in four window-lit rooms now fall away from the window, the Studio is faster, favourite rooms and Size & position show the framed product, and there is a new Help Center and a zoomable examples page.
+Q: How long has WallMock been in development?
+A: WallMock has been in development since July 2026. Free previews opened to everyone on 26 October 2026, and paid plans on 28 October 2026. The section "Before public launch" on this page lists what was built each month.
 Q: Do I need to install WallMock updates?
 A: No. WallMock runs in your web browser, so there is nothing to install. Open the app to use the latest version.
 Q: How often is WallMock updated?
@@ -712,14 +753,18 @@ A: Smartist's help centre gives a maximum of 3840 by 2400 pixels (checked 2026-1
 
 ## WallMock vs WallMockup: Two Different Mockup Tools
 URL: https://wallmock.com/compare/wallmock-vs-wallmockup/
-WallMock and WallMockup are different products from different companies. The name mix-up explained, with facts checked 2026-10-28 and where WallMockup gives more.
+WallMock vs WallMockup: different products from different companies. Rooms, frames, speed and price side by side, checked 2026-10-29, and which to choose.
 
-Short answer: WallMock (wallmock.com) and WallMockup (wallmockup.net) are different products from different companies. WallMockup is a true-scale wall art mockup editor with 720 room scenes, a 7-day trial and a $4.99 monthly plan. WallMock places your exact artwork in 500+ curated rooms as framed canvas, stretched canvas or framed prints, for a whole collection at once, with open sign-up. Published by WallMock; facts checked 2026-10-28.
+Short answer: WallMock (wallmock.com) and WallMockup (wallmockup.net) are different products from different companies. WallMockup is a true-scale mockup editor with 720 room scenes, 54 frame styles, AI-made rooms and a $4.99 monthly plan. WallMock makes Photoshop-quality framed canvas and print mockups of your exact art in 500+ curated rooms, for a whole collection at once, with 7 finishes plus any frame colour you design. Published by WallMock; facts checked 2026-10-29.
 
 Q: Is WallMock the same company as WallMockup?
 A: No. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies. WallMock's website is wallmock.com and its app is app.wallmock.com.
 Q: Which is cheaper, WallMock or WallMockup?
-A: On 2026-10-28 WallMockup's Pro Monthly plan was $4.99 a month with no export cap stated, plus a $5.99 one-time pack of 100 credits. WallMock's plans start at $5 a month for 200 clean images. For a seller who exports a lot, WallMockup's plan costs less.
+A: On 2026-10-29 WallMockup's Pro Monthly plan was $4.99 a month with exports not capped, plus 10 credits a month, and a $5.99 one-time pack of 100 credits. WallMock's plans start at $5 a month for 200 clean images; Pro is $12 for 5,000. For a seller who exports a lot, WallMockup's plan costs less.
+Q: Which has better frame quality?
+A: Judge it by eye. WallMock's wall art mockup examples open every frame at full size, so you can check the corners, the floating-frame gap, the shine and the wall shadow; its frames come in 7 finishes plus any colour you design, and framed prints in slim, classic or bold frames, with or without a mat. WallMockup lists 54 frame styles with adjustable thickness and an optional mat.
+Q: Which is faster?
+A: In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once. WallMockup's home page says a mockup takes under 60 seconds. WallMock also makes every artwork in every saved room in one run.
 Q: Does WallMockup show art at true scale?
 A: Yes, according to its own home page: every scene is measured, so the print shows at the size you sell, in inches and centimetres. WallMock shows a sensible starting size in each room but is not a measuring tool.
 Q: Can both make mockups for many designs at once?
