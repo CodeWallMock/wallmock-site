@@ -256,3 +256,169 @@
   .jump::-webkit-scrollbar{display:none}
   .jump a{flex:none;font-size:11.5px;padding:5px 8px}
 }
+
+/* ======================= seo-8-dark (owner 2026-10-30): a gallery at night, the art the brightest thing on screen ======================= */
+body.home{
+  --paper:#121314;--soft:#17181a;--sage:#1a1b1d;--line:#2a2b2e;--ink:#ece8e1;--ink-2:#cdc7bd;--muted:#a19b92;--gallery:#151618;
+  background:var(--paper);color:var(--ink);
+}
+.home .top{background:var(--paper);border-bottom-color:var(--line)}
+.home .skip,.home .nav-try,.home .btn,.home .plan-badge{background:#ece8e1;color:#121314;border-color:#ece8e1}
+.home .nav-try:hover,.home .btn:hover{background:#fff}
+.home .btn.ghost{background:transparent;color:var(--ink);border-color:#4b4c50}
+.home .btn.ghost:hover{background:#1e1f22}
+.home :focus-visible{outline-color:#d6f395}
+.home .dot{color:#a9bd7c}
+.home .band.soft .feature-grid article{background:var(--soft)}
+.home .co-legend b{background:#ece8e1;color:#121314}
+.home .fm-callouts .co{background:#121314;color:#fff}
+.home .fm-callouts .co[data-tail]::before{background:#121314}
+/* the logo, calm and clear above the headline */
+.hero-mark{display:flex;align-items:center;gap:12px;margin:0 0 22px;font:700 30px/1 var(--sans);letter-spacing:-1.3px}
+.hero-mark .mark-box{width:36px;height:41px;font-size:26px;line-height:37px}
+/* the invitation and a scroll indicator that fades after the first scroll */
+.film-cue{max-width:42ch;line-height:1.45}
+.film-cue .cue-dot{animation:cue-dot 1.8s ease-in-out infinite}
+@keyframes cue-dot{0%,100%{transform:translateY(0);opacity:1}60%{transform:translateY(8px);opacity:0}}
+.film-cue svg{transition:opacity .6s}
+html[data-scrolled] .film-cue svg{opacity:0}
+@media (prefers-reduced-motion:reduce){.film-cue .cue-dot{animation:none}}
+.fm-swatches,.fm-cue{display:none}
+
+@media (scripting:enabled) and (prefers-reduced-motion:no-preference){
+  /* pacing: 18 segments (transition, hold, ...) in viewport heights, from content/pages/home.mjs PACE */
+  .film{
+    --hold:var(--hold-d);--tr:var(--tr-d);--pf:1;
+    --pw:clamp(0,var(--t),1);                                                        /* seg 1: the wall and its shadow come in */
+    --pb:clamp(0,var(--t) - 2,1);                                                    /* seg 3: the camera pulls back */
+    --pz:calc(clamp(0,var(--t) - 4,1) - clamp(0,(var(--t) - 6) / .6,1));             /* seg 5 in, seg 7 out */
+    --pc:calc(clamp(0,(var(--t) - 4.75) / .25,1) - clamp(0,(var(--t) - 6) / .2,1));  /* the close-up crop */
+    --pk:calc(clamp(0,(var(--t) - 4.85) / .15,1) - clamp(0,(var(--t) - 6) / .1,1));  /* its markers */
+    --pp:clamp(0,(var(--t) - 6.2) / .8,1);                                           /* seg 7: closer on the wall for the products */
+  }
+  /* holds: frame on the wall (seg 2), room (4), close-up (6), each product (8, 10, ... 18); steps span their segments */
+  .step[data-step="frame"],.step[data-step="room"],.step[data-step="corner"],.step[data-step="print"]{min-height:calc((var(--tr) + var(--hold)) * 100svh)}
+  .step[data-step="canvas"]{min-height:calc((var(--tr) + var(--hold)) * 300svh)}
+  .step[data-step="metal"]{min-height:calc((var(--tr) + var(--hold)) * 200svh)}
+  .step:last-of-type{padding-bottom:0}
+  .fm-stage{opacity:var(--pw)}
+  .fm-over figure{opacity:clamp(0,var(--t) - var(--at) + .5,1)}
+  .fm-tabs{opacity:clamp(0,(var(--t) - 6.6) / .4,1)}
+  /* the dark stage: a soft pool of light behind the frame; its shadow falls lower right, as in the render */
+  .fm-box{background:radial-gradient(62% 52% at 50% 44%,#2b2b2d 0%,#1b1b1d 62%,#141415 100%)}
+  .fm-object{filter:drop-shadow(1.7cqw 2.4cqw 1.8cqw rgba(0,0,0,.62))}
+  .fm-object img{transform:none;opacity:0;transition:opacity .35s ease}
+  .fm-object img.on{opacity:1}
+  .film:not(.fm-go) .fm-object img:not(.on){display:none}
+  /* hero finish swatches over the foot of the stage */
+  .fm-swatches{display:flex;position:absolute;left:0;right:0;bottom:12px;justify-content:center;gap:6px;flex-wrap:wrap;padding:0 10px;opacity:clamp(0,1 - var(--t) * 4,1);transition:none}
+  .film[data-swatches-off] .fm-swatches{pointer-events:none}
+  .sw{appearance:none;border:0;background:rgba(18,19,20,.72);color:var(--ink);display:flex;align-items:center;gap:7px;padding:5px 10px 5px 5px;border-radius:999px;font:600 12px/1 var(--sans);cursor:pointer;min-height:34px}
+  .sw i{width:22px;height:22px;border-radius:50%;box-shadow:inset 0 0 0 1px rgba(255,255,255,.35)}
+  .sw[aria-pressed="true"]{background:#ece8e1;color:#121314}
+  .sw:focus-visible{outline:2px solid #d6f395;outline-offset:2px}
+  .fm-tabs p{background:rgba(18,19,20,.8)}
+  .fm-tab{color:var(--muted)}
+  .fm-tab[data-on]{background:#ece8e1;color:#121314}
+  .fm-tabs .fm-finish{background:rgba(18,19,20,.8);color:var(--ink)}
+}
+@media (scripting:enabled) and (prefers-reduced-motion:no-preference) and (max-width:860px){
+  .film{--hold:var(--hold-p);--tr:var(--tr-p);--mh:calc(min(100vw * var(--arh),36svh) + 18px)}
+  .fm-box{width:min(100%,calc(36svh * var(--arn)))}
+  .fm-band{background:linear-gradient(var(--paper),rgba(18,19,20,0))}
+  .fm-cue{display:block;position:static;margin:6px 16px 0;text-align:center;font:600 12px/1.3 var(--sans);color:var(--ink-2);opacity:clamp(0,1 - var(--t) * 4,1)}
+  .film-cue{display:none}
+  .sw span{display:none}
+  .sw{padding:4px;min-height:32px}
+  .fm-swatches{bottom:8px;gap:5px}
+}
+@media (scripting:enabled) and (prefers-reduced-motion:no-preference) and (max-width:860px){
+  .hero-mark{display:none} /* the header carries the logo on phones, so the hero's first screen keeps the art and the call to action */
+  .sw i{width:24px;height:24px}
+  .sw{padding:3px;min-height:30px}
+  .fm-swatches{gap:4px;flex-wrap:nowrap}
+}
+@media (scripting:enabled) and (prefers-reduced-motion:no-preference){
+  .fm-object img{position:absolute;inset:0} /* the finish layers stack exactly on one another (they cross-fade in place) */
+}
+
+/* ======================= review dark-1 + owner's quality bar (natural scroll, eased motion, art first) ======================= */
+/* the footer and other parts that used --ink as a background stay dark with light words on the dark home */
+.home .foot{background:#0d0e0f;color:#c4beb4;border-top:1px solid var(--line)}
+.home .foot h2{color:#ece8e1}
+.home .foot a{color:#ece8e1}
+.home .foot-note{color:#a39d94}
+.home .plan-pick{border-color:#ece8e1}
+/* the page scrolls exactly as the browser and the device do; only a tap on the jump bar glides (tools/widgets/home-film.mjs) */
+html:has(body.home){scroll-behavior:auto}
+/* calmer headline so the art leads; the invitation and a larger indicator sit on the first screen */
+.home .film h1{font-size:clamp(34px,3.7vw,52px)}
+.film-cue{display:flex;align-items:center;gap:14px;margin-top:22px;font-size:15px;font-weight:600;color:var(--ink-2)}
+.film-cue svg{flex:none}
+/* per-product lines in the words column */
+.p-lines{list-style:none;padding:0;margin:14px 0 0;color:var(--muted);font-size:15px}
+.p-lines li{margin:6px 0}
+
+@media (scripting:enabled) and (prefers-reduced-motion:no-preference){
+  /* eased motion: every phase goes through a smoothstep (gentle in and out), still driven by the scroll position */
+  .film{
+    --pwl:clamp(0,var(--t),1); --pw:calc(var(--pwl) * var(--pwl) * (3 - 2 * var(--pwl)));
+    --pbl:clamp(0,var(--t) - 2,1); --pb:calc(var(--pbl) * var(--pbl) * (3 - 2 * var(--pbl)));
+    --pzi:clamp(0,var(--t) - 4,1); --pzo:clamp(0,(var(--t) - 6) / .6,1);
+    --pz:calc(var(--pzi) * var(--pzi) * (3 - 2 * var(--pzi)) - var(--pzo) * var(--pzo) * (3 - 2 * var(--pzo)));
+    --ppl:clamp(0,(var(--t) - 6.2) / .8,1); --pp:calc(var(--ppl) * var(--ppl) * (3 - 2 * var(--ppl)));
+  }
+  .fm-over figure{--x:clamp(0,var(--t) - var(--at) + .5,1);opacity:calc(var(--x) * var(--x) * (3 - 2 * var(--x)))}
+  .fm-over figure:not([data-ready]){opacity:0!important}
+  .fm-over .fm-base{opacity:1}
+  /* the hero: the frame large on the dark stage (about 88% of it), then the wall comes in and the camera settles on the frame */
+  .fm-cam{transform:translate(calc(var(--sxh) + (var(--sx0) - var(--sxh)) * var(--pw) - var(--sx0) * var(--pb) + var(--sxp) * var(--pp)),
+      calc(var(--syh) + (var(--sy0) - var(--syh)) * var(--pw) - var(--sy0) * var(--pb) + var(--syp) * var(--pp)))
+    scale(calc(var(--kh) + (.92 * var(--k0) - var(--kh)) * var(--pw) - (.92 * var(--k0) - 1) * var(--pb) + (var(--kp) - 1) * var(--pp)))}
+  .film-hero{justify-content:center}
+  /* swatches: over the foot of the stage on laptops; on phones under the stage (moved there by home-film.mjs), 44 px targets */
+  .fm-swatches{flex-wrap:wrap;row-gap:4px;bottom:14px}
+  .sw{min-height:40px}
+  .sw[data-k="metal"] i{border-radius:5px}
+  .sw-name{flex-basis:100%;margin:2px 0 0;text-align:center;font:600 12px/1.2 var(--sans);color:var(--ink-2)}
+  .film-media > .fm-swatches{display:flex;position:static;opacity:clamp(0,1 - var(--t) * 4,1);padding:10px 12px 0}
+  .p-lines li{transition:color .3s ease}
+  .p-lines li.on{color:var(--ink)}
+}
+@media (scripting:enabled) and (prefers-reduced-motion:no-preference) and (max-width:860px){
+  .film{--mh:calc(min(100vw * var(--arh),34svh) + 18px + 74px)}
+  .fm-box{width:min(100%,calc(34svh * var(--arn)))}
+  .film-hero .film-cue{order:-1;display:flex;margin:4px 0 14px;font-size:13px;gap:10px}
+  .film-hero .film-cue svg{width:18px;height:28px}
+  .home .film h1{font-size:30px}
+  .film-media > .fm-swatches{gap:2px;flex-wrap:wrap;justify-content:center}
+  .film-media > .fm-swatches .sw{width:44px;height:44px;min-height:44px;padding:0;justify-content:center;background:transparent}
+  .film-media > .fm-swatches .sw i{width:28px;height:28px}
+  .film-media > .fm-swatches .sw[aria-pressed="true"]{background:rgba(236,232,225,.14);box-shadow:inset 0 0 0 1.5px #ece8e1}
+  .film-media > .fm-swatches .sw span{display:none}
+  .film-media > .fm-swatches .sw-name{margin:0}
+}
+.home .film-cue{letter-spacing:0;font-weight:500;line-height:1.45}
+/* final notes: "Photoshop-quality" never splits; desktop swatches in a balanced 4 + 3; on phones the first screen keeps the stage,
+   the swatches, the invitation and the hero's own "Try it free" */
+.nw{white-space:nowrap}
+.sw-break{display:none}
+@media (scripting:enabled) and (prefers-reduced-motion:no-preference){
+  .fm-box > .fm-swatches .sw-break{display:block;flex-basis:100%;height:0}
+}
+@media (scripting:enabled) and (prefers-reduced-motion:no-preference) and (max-width:860px){
+  .film-media{padding:6px 0 4px}
+  .film-media > .fm-swatches{padding:4px 12px 0}
+  .film-media > .fm-swatches .sw{height:40px;min-height:40px;width:44px}
+  .film-hero{padding:6px 0 24px}
+  .film-hero .film-cue{margin:0 0 8px;font-size:12.5px;line-height:1.35}
+  .film-hero .film-cue svg{width:15px;height:24px}
+  .film-hero .eyebrow{margin-bottom:8px}
+  .film-hero h1{margin-bottom:.3em}
+  .film-hero .lede{font-size:15px;line-height:1.5;margin-bottom:0}
+  .film-hero .hero-cta{margin-top:12px}
+  .film{--mh:calc(min(100vw * var(--arh),34svh) + 10px + 66px)}
+}
+/* the phone fade band appears with the first scroll, so it never dims the invitation on the first screen */
+.fm-band{transition:opacity .3s ease}
+html:not([data-scrolled]) .fm-band{opacity:0}
