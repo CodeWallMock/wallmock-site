@@ -366,3 +366,7 @@ p{margin:0 0 1em}
 .tool-groups li a{font-weight:650}
 .tool-groups li span{display:block;font-size:15px;color:var(--muted);margin-top:2px}
 @media (max-width:860px){.tool-groups{grid-template-columns:minmax(0,1fr);gap:22px}}
+/* proof strip with eight chips (unlimited plans, 2026-10-30): 4 + 4 on laptops and tablets, one row of 8 on wide screens */
+.proof-chips{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media (min-width:1240px){.proof-chips{grid-template-columns:repeat(8,minmax(0,1fr))}}
+@media (max-width:520px){.proof-chips{grid-template-columns:1fr 1fr}}
