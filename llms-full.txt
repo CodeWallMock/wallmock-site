@@ -56,7 +56,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
-# Every page in full (125 pages)
+# Every page in full (130 pages)
 
 ## WallMock: Wall Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
@@ -469,14 +469,14 @@ A: Yes, for framed prints and aluminum framed prints, with or without.
 URL: https://wallmock.com/how-wallmock-keeps-your-art-exact/
 WallMock places your file as it is, never redrawn by AI. See how we measured exact art on our published examples, why it matters on Etsy, and what to check.
 
-Short answer: WallMock is a mockup generator that doesn't change your art. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. On the 61 room images in our published example set, the art matched its source file with a structural similarity of at least 0.99 out of 1 and an average colour difference of 0.72 or less, too small for most people to see. The room is a digitally staged scene; your art is exact.
+Short answer: WallMock is a mockup generator that doesn't change your art. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. On the 61 room images in our published example set, the art matched its source file with a structural similarity of at least 0.99 out of 1 and an average colour difference of 0.72 or less. The room is a digitally staged scene; your art is exact.
 
 Q: Does WallMock change my artwork?
 A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. It keeps its own proportions and is never stretched to fit a room.
 Q: Is there a mockup generator that doesn't redraw your art with AI?
 A: Yes. WallMock places your file as supplied, so lettering, signatures and colours stay as you made them. Some AI mockup tools draw a new picture, art included. Test any tool by zooming in on text in your own file.
 Q: What do structural similarity and colour difference mean?
-A: Structural similarity compares the shapes, edges and detail of two images: 1 means identical. Colour difference measures how far apart two colours are: 0 means the same colour, and about 2.3 is usually given as the smallest difference most people can notice.
+A: Structural similarity compares the shapes, edges and detail of two images: 1 means identical. CIE76 colour difference is a numeric distance between two colours: 0 means the same colour. These measurements describe the compared pixels; they are not a test of how people perceive the image.
 Q: Does the app run these checks on every image I make?
 A: These numbers come from WallMock's published example set, not from a check on each image you make. Your file is placed the same way: it is never redrawn, repainted or upscaled by AI. You can zoom in on any download to check it yourself.
 Q: Is the room a photo of someone's home?
@@ -564,7 +564,7 @@ A: Yes. Save the rooms you like once, add every poster in the collection, and ea
 URL: https://wallmock.com/pricing/
 WallMock pricing: free plan with 10 watermark-free downloads every 30 days, Lite $5 for 200 clean 4K images, or unlimited 4K images on Pro $12 or Studio $24.
 
-Short answer: WallMock's plans: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Yearly billing costs less. Watermarked previews are free, a free account gets 10 watermark-free downloads (1024 px) every 30 days, and you can try it with no sign-up and no card. Cancel any time; a first subscription can be refunded within 14 days, minus credits used.
+Short answer: WallMock's plans: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Yearly billing costs less. Watermarked previews are free, a free account gets 10 watermark-free downloads (1024 px) every 30 days, and you can try it with no sign-up and no card.
 
 Q: Is there a free option?
 A: Free account: 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over), with watermarked previews. Your first 10 free downloads work in all 500+ rooms; after that the free plan keeps 8 rooms. 4K (4096 px) images, watermark-free previews, every room, sets (any plan) and listing videos (Pro and Studio) need a plan. Free downloads are 1024 px; a plan gives clean 4K (4096 px) images.
@@ -1345,6 +1345,21 @@ A: Partly. Enter your artwork's real size in centimetres or inches (long side 4 
 Q: What resolution does a 48×72 canvas need?
 A: 7,200 × 10,800 px at 150 DPI, or 14,400 × 21,600 px at 300 DPI. Add the wrap if the image continues round the sides.
 
+## Metal Print vs Metal Frame: Which Wall Art Product?
+URL: https://wallmock.com/guides/metal-print-vs-metal-frame/
+A metal print has art on an aluminum panel; a metal frame holds a paper print. Compare the look, finish, sample checks, and what to show buyers.
+
+Short answer: A metal print is the artwork printed directly onto a coated aluminum panel, usually with no visible frame. A metal-framed print is paper artwork inside a separate metal frame. Choose the first when the product you ship is an aluminum panel; choose the second when you ship paper behind a frame. The names vary by supplier, so check the materials and sample before you write the listing.
+
+Q: Is a metal print the same as a metal-framed print?
+A: No. A metal print places the image on an aluminum panel. A metal-framed print uses paper surrounded by a separate metal frame.
+Q: Does a metal print have a frame?
+A: Usually the product is described as frameless from the front, though it may have a hidden backing or mount. Check the supplier’s product details.
+Q: Is a metal print waterproof or scratchproof?
+A: Claims depend on the panel coating, print process, and supplier. Use only the exact product’s current care and durability information.
+Q: Which metal product should I show in a mockup?
+A: Show the construction you sell: a panel for a metal print, or a paper print inside a frame for a metal-framed print. Match the finish and options, then compare with a physical sample.
+
 ## Mockup Licences and Commercial Use: Etsy, Shopify, Printify
 URL: https://wallmock.com/guides/mockup-licences-and-commercial-use/
 What mockup licences usually allow and forbid, what to check before using bought, free or generated mockups on Etsy, Shopify and Printify, and WallMock's terms.
@@ -1408,6 +1423,19 @@ Q: Can I automate PSD mockups?
 A: Partly. Photoshop actions and scripts can repeat the steps, but someone has to build and maintain them for each template.
 Q: Can WallMock use my own PSD or room photo?
 A: No. WallMock places your artwork in its own curated rooms; it doesn't take uploads of PSD templates or your own room photos.
+
+## Print Colours vs Screen: What Wall Art Sellers Can Check
+URL: https://wallmock.com/guides/print-colours-vs-screen/
+A practical colour-check workflow for wall art sellers: use your print provider’s file profile, compare under steady light, and use a sample for the final check.
+
+Short answer: A screen makes colour with light; a print reflects light from ink and paper or canvas. They cannot be expected to look identical in every room or on every device. Use the file settings your print provider specifies, check bright and deep colours carefully, and order a physical sample before making a colour-sensitive promise to buyers.
+
+Q: Will my wall art print look exactly like it does on my phone?
+A: No screen can promise an exact match to ink on a physical surface in every viewing condition. Use your provider's file requirements and check a physical sample for the product you plan to sell.
+Q: Should I convert every artwork file to CMYK?
+A: No. Use the colour profile specified by your print provider. For example, Printful currently recommends sRGB IEC61966-2.1 for uploaded print files; another provider may give different instructions.
+Q: Is a room mockup a colour proof?
+A: No. A room mockup shows how the artwork and product could look in a room. It does not prove the exact printed colour, paper, canvas or finish.
 
 ## Print on Demand Sample Order: Check It Against Your Mockup
 URL: https://wallmock.com/guides/print-on-demand-sample-check/
@@ -1740,6 +1768,19 @@ A: Show one realistic size in every room photo, add a size guide with every size
 Q: Are mockups the cause of returns?
 A: Not by themselves. Returns come from mockups that show a different product, size, finish or colour from what arrives. A mockup that matches the item is fine.
 
+## Wall Art Listing Proof Checklist: Photos and Variants
+URL: https://wallmock.com/guides/wall-art-listing-proof-checklist/
+Before publishing a wall art listing, check the artwork, product, finish, variant photos, sizes, alt text and sample labels against what the buyer will receive.
+
+Short answer: Before a listing goes live, verify one source artwork, the actual product and finish, every variant-to-photo match, the size information and the words used in captions. Label a room mockup as a mockup and a sample photo only when it shows the physical sample. Then review the first image at thumbnail size and check the marketplace’s current photo rules.
+
+Q: Do I need a real product photo if I sell print on demand?
+A: Etsy requires an unedited photo of the actual item for most listings, but a stock mockup may be permitted for your original design printed by a production partner on a standard base product, with authorisation from the mockup owner. Check the current Etsy requirements for your listing and provider.
+Q: Should every variant have a different image?
+A: If the buyer sees a different artwork, product, frame, mat or other visible finish, show the correct image for that option. Check the seller preview by switching through the variants.
+Q: Is a sample check part of this checklist?
+A: This checklist verifies the listing before publication. A sample check compares an ordered physical product with the listing mockup; use the separate sample guide for that step.
+
 ## Wall Art Mockup Cost: Etsy Packs, Subscriptions or Per Room
 URL: https://wallmock.com/guides/wall-art-mockup-costs/
 Work out the real cost per listing photo for mockup packs, subscriptions and per-room pricing, including your time, with a worked example and WallMock's prices.
@@ -1775,6 +1816,34 @@ Q: Should Pinterest pins link to Etsy?
 A: Link each pin to the exact listing. On Etsy, a Share & Save trackable link earns a 4% refund on eligible orders placed within 30 days of a click.
 Q: What about video pins?
 A: Pinterest recommends 9:16 at 1080 × 1920 px for video, with space left at the top and bottom for the player controls.
+
+## Wall Art Photo Alt Text: Clear Examples for Listings
+URL: https://wallmock.com/guides/wall-art-photo-alt-text/
+Write useful alt text for art listings: describe the artwork, product, and view shown. Includes examples for room mockups, details, size charts, Etsy, and Shopify.
+
+Short answer: Describe the information a buyer would miss without seeing the image: the artwork, the product or finish, and the view shown. Keep it concise and specific to that photo. Do not turn alt text into a keyword list or repeat the listing title. Etsy recommends up to 250 characters; Shopify recommends 125 or fewer (maximum 512), so write for the image first and check each platform’s current limit.
+
+Q: Does alt text help wall art rank in Etsy search?
+A: Etsy says alt text helps people understand listing images and may be read by search engines outside Etsy. It also says repeating titles, tags, or shop names in alt text adds no extra SEO benefit. Write for the image; do not expect a ranking result.
+Q: How long should wall art alt text be?
+A: Etsy recommends up to 250 characters. Shopify recommends 125 or fewer and has a 512-character maximum. Check the current platform field and keep the description concise.
+Q: Should I use the same alt text for every product photo?
+A: No. Describe each view: room scene, artwork alone, frame detail, or size chart. Repeated text misses what makes each image different.
+Q: Should a room mockup alt text say the exact print size?
+A: Only if the photo or a clear accompanying label provides that information and the size is verified. A room mockup by itself should not be presented as an exact-size measurement.
+
+## Wall Art Photo File Names: A Simple System for Sellers
+URL: https://wallmock.com/guides/wall-art-photo-file-names/
+Name wall art exports so you can find the right artwork, product, finish, listing-photo role and revision without mixing them up with source files or SKUs.
+
+Short answer: Use one short, repeatable pattern: artwork ID, product and finish, photo role, then revision. Keep source art, print files and listing images in separate folders. Give the sellable product or variant its own SKU in your shop system; a file name is for finding an export, not a substitute for the product record.
+
+Q: Do image filenames improve Etsy or Google ranking?
+A: This naming system is for file management, not a ranking promise. Keep filenames clear and use each marketplace's listing fields for titles, tags, attributes and descriptions.
+Q: Should the filename be the product SKU?
+A: No. Use a stable SKU to identify the sellable product or variant in your shop system. Use the filename to identify a photo export and its revision.
+Q: Should I put keywords in image alt text?
+A: Describe what the image shows in concise, natural language. Do not repeat the listing title or add a keyword list; alt text is there to make the image understandable.
 
 ## Wall Art Placement in Mockups: Size, Balance, Usable Wall
 URL: https://wallmock.com/guides/wall-art-placement/

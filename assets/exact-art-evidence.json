@@ -1,0 +1,2448 @@
+{
+  "schemaVersion": 1,
+  "scope": "Historical measurements recorded for example images currently present in the published mockup asset set. This is not a fresh benchmark or a per-download audit.",
+  "sourceManifests": [
+    {
+      "label": "WallMock public example set 2026-10-29",
+      "createdAt": "2026-10-28T23:59:39-06:00"
+    },
+    {
+      "label": "WallMock public example set 2026-10-30",
+      "createdAt": "2026-10-29T02:39:17-06:00"
+    }
+  ],
+  "counts": {
+    "images": 61,
+    "panels": 68,
+    "distinctSourceArtworks": 30,
+    "excludedMeasuredImagesNotInPublishedAssetSet": 2,
+    "panelsWithoutRecordedComparisonSize": 0,
+    "publishedImageHashesMatchingManifest": 61
+  },
+  "limitations": [
+    "Measurements are copied from historical example manifests; this build helper does not render or remeasure art.",
+    "A missing comparison size is reported as unknown. It is not inferred from another panel or from a default.",
+    "An image hash is published only when the bytes currently in the published asset directory match the manifest hash.",
+    "Artwork IDs group repeated uses of the same example input within this set; source files and their private digests are not published.",
+    "The separate comparison is a recorded internal check, not an external audit of the service."
+  ],
+  "measurements": [
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-black-floating-frame-bedroom-pine-cliff.webp",
+        "sha256": "c1a633742aa2c4fd6972b757410c03b14d3f648af2850d19516ec33cc53c103f",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9895,
+            "meanDeltaE": 0.799,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9989,
+            "meanDeltaE76": 0.318,
+            "mirrorControlMaxStructuralSimilarity": 0.4124,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              1.0001
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-019"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-black-floating-frame-japandi-bedroom-sumi-e-bamboo.webp",
+        "sha256": "6ce226d534673ecd44b17d47881e879f32818741fdf287bfdcd4f45a99fc68fc",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9856,
+            "meanDeltaE": 1.125,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9984,
+            "meanDeltaE76": 0.43,
+            "mirrorControlMaxStructuralSimilarity": 0.5713,
+            "channelGain": [
+              1.0001,
+              0.9997,
+              0.9991
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-003"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-black-floating-frame-living-room-beach-abstract.webp",
+        "sha256": "c2365ba10846ed31a914c446d2a898bdbd141e93a3622e6445aad8a0e3a64fda",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            254
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.99,
+            "meanDeltaE": 0.655,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9987,
+            "meanDeltaE76": 0.326,
+            "mirrorControlMaxStructuralSimilarity": 0.7057,
+            "channelGain": [
+              1.0001,
+              1.0001,
+              1
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-015"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-black-floating-frame-living-room-black-and-white-pier.webp",
+        "sha256": "cb551b72d1525a568c7c34b871cba8d5bb5c95212a891711323bd47d6adb0bc1",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            254
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9895,
+            "meanDeltaE": 0.465,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9983,
+            "meanDeltaE76": 0.146,
+            "mirrorControlMaxStructuralSimilarity": 0.8079,
+            "channelGain": [
+              1,
+              1.0001,
+              0.9999
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-005"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-black-floating-frame-living-room-dark-horse-in-fog.webp",
+        "sha256": "b759767f67a075e047ae6f3d7f52aedadd3840fcc99ba523f635871b389d49bd",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            340
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9862,
+            "meanDeltaE": 0.828,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9981,
+            "meanDeltaE76": 0.396,
+            "mirrorControlMaxStructuralSimilarity": 0.8184,
+            "channelGain": [
+              1,
+              0.9996,
+              1.0004
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-026"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-espresso-floating-frame-bedroom-magnolia-still-life.webp",
+        "sha256": "c3d794467ece4ac2d740a59afe4e5b6a9998bff92435219210b70ed1cef961aa",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            408,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9835,
+            "meanDeltaE": 0.965,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9982,
+            "meanDeltaE76": 0.484,
+            "mirrorControlMaxStructuralSimilarity": 0.7027,
+            "channelGain": [
+              0.9999,
+              0.9993,
+              1.0002
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-022"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-espresso-floating-frame-dining-room-fig-botanical.webp",
+        "sha256": "0a2e4c63ab0a72e4a619c18f205128084d99a707239c98344630938524cbdae1",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            339
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9888,
+            "meanDeltaE": 0.936,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.999,
+            "meanDeltaE76": 0.491,
+            "mirrorControlMaxStructuralSimilarity": 0.1968,
+            "channelGain": [
+              0.9998,
+              1.0002,
+              0.9999
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-004"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-espresso-floating-frame-living-room-kerala-backwater.webp",
+        "sha256": "393e1277f3cec9c726c3f5e5095ba789384442026b0fd237a453760395a8bf11",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            340
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9899,
+            "meanDeltaE": 0.648,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9985,
+            "meanDeltaE76": 0.354,
+            "mirrorControlMaxStructuralSimilarity": 0.6555,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              1
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-014"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-espresso-floating-frame-living-room-mid-century-abstract.webp",
+        "sha256": "311a63eec6cd304b4505b0a6d41e5203affe19914f76b17cf57a598b29dc5904",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            339
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9766,
+            "meanDeltaE": 0.979,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.998,
+            "meanDeltaE76": 0.443,
+            "mirrorControlMaxStructuralSimilarity": 0.3069,
+            "channelGain": [
+              1,
+              1.0001,
+              1.0001
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-008"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-gold-floating-frame-above-mantel-ranunculus.webp",
+        "sha256": "149f9a1d1289e3d28ea71d3916eb57a6b5e26617f31ebcc52d82b9c8b71427c1",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9847,
+            "meanDeltaE": 0.87,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9984,
+            "meanDeltaE76": 0.417,
+            "mirrorControlMaxStructuralSimilarity": 0.4007,
+            "channelGain": [
+              1,
+              1,
+              0.9996
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-002"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-gold-floating-frame-living-room-mid-century-abstract.webp",
+        "sha256": "ecb99e5730ce3e16ff2e8f2d378fb0632bf9691064cea4ea5271550da5f3ebbb",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            339
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9787,
+            "meanDeltaE": 0.94,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9981,
+            "meanDeltaE76": 0.412,
+            "mirrorControlMaxStructuralSimilarity": 0.3067,
+            "channelGain": [
+              1,
+              1.0001,
+              1.0001
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-008"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-gold-floating-frame-living-room-ranunculus-still-life.webp",
+        "sha256": "b261113a43270b3bee578f05f0329c555fe497f27de2bcfaa460f40f37d487ff",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9876,
+            "meanDeltaE": 1.032,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9986,
+            "meanDeltaE76": 0.397,
+            "mirrorControlMaxStructuralSimilarity": 0.4832,
+            "channelGain": [
+              1,
+              1.0001,
+              0.9992
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-027"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-gold-floating-frame-living-room-wildflowers.webp",
+        "sha256": "666e8726a8335814960cf922ebc59c43733ff84c37b4917ca8f7ca8d8a9cb237",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            340
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9887,
+            "meanDeltaE": 0.843,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9984,
+            "meanDeltaE76": 0.371,
+            "mirrorControlMaxStructuralSimilarity": 0.6896,
+            "channelGain": [
+              0.9998,
+              1,
+              0.9997
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-012"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-gold-floating-frame-puja-corner-ink-lotus.webp",
+        "sha256": "42b10b764f90c880e80fb752dcc30415be34f8fb2a575519bbdd276483679019",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            409,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9865,
+            "meanDeltaE": 1.017,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9984,
+            "meanDeltaE76": 0.403,
+            "mirrorControlMaxStructuralSimilarity": 0.6326,
+            "channelGain": [
+              1,
+              1,
+              0.9994
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-020"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-natural-oak-floating-frame-japandi-living-room-neutral-abstract.webp",
+        "sha256": "74e3d029107fb277869851a29f0a7dc86ce8dccd6feb3be42d626300c5b39dca",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9915,
+            "meanDeltaE": 1.046,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9995,
+            "meanDeltaE76": 0.381,
+            "mirrorControlMaxStructuralSimilarity": 0.1128,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              0.9996
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-001"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-natural-oak-floating-frame-living-room-beach-abstract.webp",
+        "sha256": "568afa119f3eb1b9694ce7ec144c2586d203cb3cf7455b98c07211ac0cc739b1",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            253
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9898,
+            "meanDeltaE": 0.664,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9987,
+            "meanDeltaE76": 0.331,
+            "mirrorControlMaxStructuralSimilarity": 0.7052,
+            "channelGain": [
+              1,
+              1.0001,
+              1
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-015"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-natural-oak-floating-frame-living-room-desert-saguaro.webp",
+        "sha256": "2c9fbab5670f1ee1f42afaafdc9ec02714a59c692ec80eefac4adce30c16f1a3",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9867,
+            "meanDeltaE": 0.884,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9988,
+            "meanDeltaE76": 0.311,
+            "mirrorControlMaxStructuralSimilarity": 0.7576,
+            "channelGain": [
+              0.9999,
+              1,
+              0.9999
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-029"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-natural-oak-floating-frame-mediterranean-living-room-moroccan-doorway.webp",
+        "sha256": "0036d179a0f51ce3bf0873429da091847b43adfaccc00eaa8bd0a9ec807da7e4",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9921,
+            "meanDeltaE": 0.78,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.999,
+            "meanDeltaE76": 0.322,
+            "mirrorControlMaxStructuralSimilarity": 0.4587,
+            "channelGain": [
+              0.9999,
+              1,
+              1.0001
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-016"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-silver-floating-frame-bedroom-ranunculus.webp",
+        "sha256": "816b8d1da07c9b13457dcdcd8daca5a9d2f38d92965d222a8ecf4da7ec8dcfdc",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9878,
+            "meanDeltaE": 0.762,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9987,
+            "meanDeltaE76": 0.363,
+            "mirrorControlMaxStructuralSimilarity": 0.3997,
+            "channelGain": [
+              1,
+              1,
+              0.9997
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-002"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-silver-floating-frame-living-room-black-and-white-pier.webp",
+        "sha256": "721181a99da668b86101b2c703872f90a6029e9534b1ac43bff99763f904b7a7",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            254
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9898,
+            "meanDeltaE": 0.451,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9984,
+            "meanDeltaE76": 0.141,
+            "mirrorControlMaxStructuralSimilarity": 0.8083,
+            "channelGain": [
+              1.0001,
+              1.0001,
+              1
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-005"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-walnut-floating-frame-bedroom-dark-horse-in-fog.webp",
+        "sha256": "08b57be3b6e80e87fed718aed03e3195e4f25ef93a11a6c279f0993d5a35a679",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            340
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9854,
+            "meanDeltaE": 0.844,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9981,
+            "meanDeltaE76": 0.413,
+            "mirrorControlMaxStructuralSimilarity": 0.8179,
+            "channelGain": [
+              1,
+              0.9996,
+              1.0005
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-026"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-walnut-floating-frame-living-room-desert-hills.webp",
+        "sha256": "e247184e34f8eb481456d19702c1c8ec13f2ae71be2f2894e54c5cde05a0f5f3",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            340
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9851,
+            "meanDeltaE": 0.801,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9984,
+            "meanDeltaE76": 0.369,
+            "mirrorControlMaxStructuralSimilarity": 0.6143,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              0.9999
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-023"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-walnut-floating-frame-living-room-fig-botanical.webp",
+        "sha256": "44d08071be1438a673d9a122b6730ac4199fe92efce7fe1cf7cd92d2e99bb088",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            339
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9904,
+            "meanDeltaE": 0.853,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9992,
+            "meanDeltaE76": 0.417,
+            "mirrorControlMaxStructuralSimilarity": 0.1976,
+            "channelGain": [
+              0.9998,
+              1.0001,
+              0.9999
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-004"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-walnut-floating-frame-living-room-pine-cliff.webp",
+        "sha256": "93095d5086f183a3dc6470e98f412d6e1cf8aea2781ac715836638330a4731e7",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9885,
+            "meanDeltaE": 0.84,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9989,
+            "meanDeltaE76": 0.331,
+            "mirrorControlMaxStructuralSimilarity": 0.4122,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              1.0001
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-019"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-white-floating-frame-coastal-living-room-sailboat.webp",
+        "sha256": "8b9c2af498c5848e85431f10522ff7733923fe5c8705dceebcc0b010e8400a9f",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            339
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9872,
+            "meanDeltaE": 1.015,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9987,
+            "meanDeltaE76": 0.459,
+            "mirrorControlMaxStructuralSimilarity": 0.4909,
+            "channelGain": [
+              1,
+              1,
+              1.0002
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-017"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-canvas-white-floating-frame-living-room-neutral-abstract.webp",
+        "sha256": "d9e861e089306e6eeb39b9cd0afa5f187ed1b6aa6b6889374ddefc39e02a9d27",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9908,
+            "meanDeltaE": 1.113,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9995,
+            "meanDeltaE76": 0.405,
+            "mirrorControlMaxStructuralSimilarity": 0.113,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              0.9996
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-001"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-black-frame-no-mat-living-room-mid-century-abstract.webp",
+        "sha256": "39a9ddccfd86b7c02eca184cc4e7e86ac1c21bccb7eaefbddb7adc730d258683",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            339
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9786,
+            "meanDeltaE": 0.942,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9981,
+            "meanDeltaE76": 0.415,
+            "mirrorControlMaxStructuralSimilarity": 0.3066,
+            "channelGain": [
+              1,
+              1.0001,
+              1.0001
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-008"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-black-frame-white-mat-home-office-black-and-white-pier.webp",
+        "sha256": "6517d8c7d544feb87e8cf511879f841d0ee9945b539945ecd10f64349d5e8f39",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            253
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.988,
+            "meanDeltaE": 0.531,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.998,
+            "meanDeltaE76": 0.171,
+            "mirrorControlMaxStructuralSimilarity": 0.8098,
+            "channelGain": [
+              1.0001,
+              1.0001,
+              0.9999
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-005"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-black-frame-white-mat-home-office-one-line-olive.webp",
+        "sha256": "8956e11172990fe72130a1a02333d2128760e4ad2f965961630c21d6142dd82c",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            408,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9866,
+            "meanDeltaE": 1.075,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9982,
+            "meanDeltaE76": 0.503,
+            "mirrorControlMaxStructuralSimilarity": 0.5999,
+            "channelGain": [
+              0.9997,
+              1.0001,
+              0.9997
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-010"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-black-frame-white-mat-home-office-ranunculus.webp",
+        "sha256": "6bc2ab263937d6fa9ce7c41ccdf90387570fa7db5f70de119779cf62a470a67d",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.988,
+            "meanDeltaE": 1.014,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9987,
+            "meanDeltaE76": 0.391,
+            "mirrorControlMaxStructuralSimilarity": 0.4832,
+            "channelGain": [
+              1,
+              1.0001,
+              0.9992
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-027"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-gold-frame-white-mat-living-room-ranunculus.webp",
+        "sha256": "3c1f7ecf0c451b9822e88c45ea09b91c533ebc5646503bbadab81890a541cbea",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9812,
+            "meanDeltaE": 1.221,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9981,
+            "meanDeltaE76": 0.496,
+            "mirrorControlMaxStructuralSimilarity": 0.4822,
+            "channelGain": [
+              1,
+              1.0001,
+              0.9991
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-027"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-natural-oak-frame-no-mat-coastal-bedroom-sailboat.webp",
+        "sha256": "811c6555e581f70f595349de41bfbb8f204d3bd09cae79a0306e831a278c6d1b",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            339
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.985,
+            "meanDeltaE": 1.074,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9985,
+            "meanDeltaE76": 0.512,
+            "mirrorControlMaxStructuralSimilarity": 0.49,
+            "channelGain": [
+              1,
+              1,
+              1.0002
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-017"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-natural-oak-frame-no-mat-nursery-terracotta-arch.webp",
+        "sha256": "b682703735ea82795b9163380ff91ea24f90275b591b605cae4e86e35490f47f",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            1024,
+            1024
+          ],
+          "comparisonSizeStatus": "recorded-in-source-manifest",
+          "renderer": {
+            "structuralSimilarity": 0.9856,
+            "meanDeltaE": 0.838,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9927,
+            "meanDeltaE76": 0.715,
+            "mirrorControlMaxStructuralSimilarity": 0.7071,
+            "channelGain": [
+              0.9997,
+              1.0001,
+              0.9995
+            ],
+            "passed": true
+          },
+          "exception": {
+            "type": "mirror-control-recheck",
+            "note": "This example was rechecked at 1024 px after its 512 px mirror comparison was inconclusive. Both recorded results are retained.",
+            "standardComparison": {
+              "size": [
+                512,
+                512
+              ],
+              "ssim": 0.9978,
+              "meanDeltaE76": 0.433,
+              "mirrorControlMaxSsim": 0.9037,
+              "passed": false
+            }
+          },
+          "sourceArtworkId": "artwork-021"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-natural-oak-frame-white-mat-entryway-desert-saguaro.webp",
+        "sha256": "5a8b448fe2586bcb83c2243330993c45829e49364f0a1903ac4286ac14c57e43",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9861,
+            "meanDeltaE": 1.006,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9983,
+            "meanDeltaE76": 0.411,
+            "mirrorControlMaxStructuralSimilarity": 0.7566,
+            "channelGain": [
+              0.9999,
+              1,
+              0.9998
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-029"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-natural-oak-frame-white-mat-entryway-square-fig.webp",
+        "sha256": "df97ccd3ff3907bb4b2aa72f1fd3ec6ede8c2091fd05a5da5742a776e9edaab8",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9911,
+            "meanDeltaE": 0.786,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9992,
+            "meanDeltaE76": 0.425,
+            "mirrorControlMaxStructuralSimilarity": 0.1595,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              0.9998
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-013"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-natural-oak-frame-white-mat-living-room-pine-cliff.webp",
+        "sha256": "f59e67f2465bbe6ce53ab0c71d85dca4729abae9c1a36543389f0b6376c82799",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9867,
+            "meanDeltaE": 0.904,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9988,
+            "meanDeltaE76": 0.355,
+            "mirrorControlMaxStructuralSimilarity": 0.4114,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              1.0001
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-019"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-white-frame-white-mat-dining-room-fig-botanical.webp",
+        "sha256": "4b6426113f5a5ce154f3edd4b718c71abe83038646b301507c8481d22f5780cd",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            339
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.99,
+            "meanDeltaE": 0.875,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9991,
+            "meanDeltaE76": 0.434,
+            "mirrorControlMaxStructuralSimilarity": 0.1966,
+            "channelGain": [
+              0.9998,
+              1.0001,
+              0.9999
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-004"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-white-frame-white-mat-dining-room-ranunculus.webp",
+        "sha256": "164c683c4550a13b4df4d5007c2cbca644cf27fce1c53edd4e338c92bf7858b6",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9847,
+            "meanDeltaE": 0.869,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9984,
+            "meanDeltaE76": 0.417,
+            "mirrorControlMaxStructuralSimilarity": 0.4001,
+            "channelGain": [
+              1,
+              1,
+              0.9996
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-002"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-white-frame-white-mat-dining-room-wildflowers.webp",
+        "sha256": "e4d016f6eba6444a1ff55b24f01b79e3312072266689370e03584d4fcbfb7609",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            340
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9886,
+            "meanDeltaE": 0.852,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9984,
+            "meanDeltaE76": 0.376,
+            "mirrorControlMaxStructuralSimilarity": 0.6891,
+            "channelGain": [
+              0.9997,
+              1,
+              0.9997
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-012"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-white-frame-white-mat-kitchen-agave-botanical.webp",
+        "sha256": "f764656f098698516dac891b1a583d0b8491dcf7271e62a3aaf89327ec177e56",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9869,
+            "meanDeltaE": 0.83,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9987,
+            "meanDeltaE76": 0.348,
+            "mirrorControlMaxStructuralSimilarity": 0.5146,
+            "channelGain": [
+              1.0002,
+              1.0002,
+              1.0002
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-025"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/framed-print-white-frame-white-mat-mediterranean-stair-hall-olive-shadow.webp",
+        "sha256": "753b8c20e67091621777b2376d0e95d58593ffc9f1d9cb018c8227ab81459223",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            408,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.989,
+            "meanDeltaE": 0.76,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9983,
+            "meanDeltaE76": 0.461,
+            "mirrorControlMaxStructuralSimilarity": 0.4907,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              0.9997
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-028"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/metal-framed-print-gold-white-mat-entryway-one-line-olive.webp",
+        "sha256": "88d9b4e74241314fd0ebf15673d856312f487ba643d7f1b19683cb6e42ed651f",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            408,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9869,
+            "meanDeltaE": 1.062,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9982,
+            "meanDeltaE76": 0.485,
+            "mirrorControlMaxStructuralSimilarity": 0.5999,
+            "channelGain": [
+              0.9997,
+              1.0001,
+              0.9997
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-010"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/panoramic-3x1-framed-canvas-black-floating-frame-living-room-mountains.webp",
+        "sha256": "0fc2aa220a27d2e53b6eb2b561472f391e2f2c152f89de72ee818e21f8e6eca8",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            169
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9774,
+            "meanDeltaE": 0.662,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9991,
+            "meanDeltaE76": 0.262,
+            "mirrorControlMaxStructuralSimilarity": 0.5136,
+            "channelGain": [
+              1,
+              1,
+              1
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-006"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/panoramic-3x1-framed-canvas-natural-oak-floating-frame-bedroom-mountains.webp",
+        "sha256": "80e8f454694462c00a8f42555d6778001bab2e088017ab43ee4222c1d0aa95f4",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            168
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9762,
+            "meanDeltaE": 0.692,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9989,
+            "meanDeltaE76": 0.318,
+            "mirrorControlMaxStructuralSimilarity": 0.5137,
+            "channelGain": [
+              1.0001,
+              1,
+              1
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-006"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/panoramic-3x1-framed-canvas-natural-oak-floating-frame-coastal-living-room-mountains.webp",
+        "sha256": "eb612b4fbb2c30bbe5b0e2b2878de74c0e29c5df06ad8639100c5d66d97b04ab",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            168
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9748,
+            "meanDeltaE": 0.693,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.999,
+            "meanDeltaE76": 0.295,
+            "mirrorControlMaxStructuralSimilarity": 0.5144,
+            "channelGain": [
+              1,
+              1,
+              1
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-006"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/panoramic-3x1-framed-canvas-white-floating-frame-bedroom-blush-dawn-lake.webp",
+        "sha256": "0945adbe8500c309746124e223ca2a281dfcd2ee1226a65230abd24c49b7a55b",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            168
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9885,
+            "meanDeltaE": 0.884,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9991,
+            "meanDeltaE76": 0.361,
+            "mirrorControlMaxStructuralSimilarity": 0.5833,
+            "channelGain": [
+              1,
+              1.0001,
+              0.9999
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-009"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/panoramic-3x1-stretched-canvas-living-room-blush-dawn-lake.webp",
+        "sha256": "e1b650782ab867c0d81ef6ab789930901faf661a1d1f755dedb2b97081accb15",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            168
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9912,
+            "meanDeltaE": 0.768,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9993,
+            "meanDeltaE76": 0.304,
+            "mirrorControlMaxStructuralSimilarity": 0.5879,
+            "channelGain": [
+              1,
+              1.0001,
+              0.9999
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-009"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/set-of-2-framed-canvas-gold-floating-frames-bedroom-ranunculus-pair.webp",
+        "sha256": "13e9e881d252439e0627414a4a625bea44b7201947d31302272858e6a820cf49",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9663,
+            "meanDeltaE": 1.461,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9979,
+            "meanDeltaE76": 0.546,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-027"
+        },
+        {
+          "slot": 2,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9766,
+            "meanDeltaE": 1.045,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9981,
+            "meanDeltaE76": 0.481,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-002"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/set-of-2-framed-canvas-gold-floating-frames-living-room-ranunculus-pair.webp",
+        "sha256": "f22bc0b7cef7414729d2da70c43b3a701206312ebee2658b5d405ce039166657",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9467,
+            "meanDeltaE": 1.548,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9981,
+            "meanDeltaE76": 0.505,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-027"
+        },
+        {
+          "slot": 2,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9706,
+            "meanDeltaE": 1.105,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9983,
+            "meanDeltaE76": 0.443,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-002"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/set-of-2-framed-canvas-walnut-floating-frames-living-room-ranunculus-pair.webp",
+        "sha256": "7043d58ddeadd1eb8f619692d0e9b901c311b6a6d6933ee5d7f409995063e4fa",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9644,
+            "meanDeltaE": 1.443,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.998,
+            "meanDeltaE76": 0.511,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-027"
+        },
+        {
+          "slot": 2,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9772,
+            "meanDeltaE": 1.044,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9983,
+            "meanDeltaE76": 0.452,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-002"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/set-of-3-framed-canvas-white-floating-frames-living-room-beach-triptych.webp",
+        "sha256": "ccdf67d0a1f30f5c0f4134c965e09f460096400996566f1560117e218bbb5407",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            338,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9876,
+            "meanDeltaE": 0.729,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9973,
+            "meanDeltaE76": 0.462,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-018"
+        },
+        {
+          "slot": 2,
+          "comparisonSize": [
+            338,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9886,
+            "meanDeltaE": 0.685,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9973,
+            "meanDeltaE76": 0.451,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-011"
+        },
+        {
+          "slot": 3,
+          "comparisonSize": [
+            338,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9878,
+            "meanDeltaE": 0.717,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9972,
+            "meanDeltaE76": 0.457,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-030"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/set-of-3-stretched-canvas-living-room-beach-triptych.webp",
+        "sha256": "8e949548051d4707b7dbe21f5618942d238a48f91bfae30d5062b72a42efd03a",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9892,
+            "meanDeltaE": 0.711,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9972,
+            "meanDeltaE76": 0.476,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-018"
+        },
+        {
+          "slot": 2,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9897,
+            "meanDeltaE": 0.673,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9972,
+            "meanDeltaE76": 0.465,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-011"
+        },
+        {
+          "slot": 3,
+          "comparisonSize": [
+            339,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9886,
+            "meanDeltaE": 0.707,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9971,
+            "meanDeltaE76": 0.47,
+            "mirrorControlMaxStructuralSimilarity": null,
+            "channelGain": null,
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-030"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/stretched-canvas-boho-living-room-terracotta-arch.webp",
+        "sha256": "ece081021302f17e2945131c557f1fdc639ba6662f8522d78c2c5a01d39182b3",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            1024,
+            1024
+          ],
+          "comparisonSizeStatus": "recorded-in-source-manifest",
+          "renderer": {
+            "structuralSimilarity": 0.9869,
+            "meanDeltaE": 0.794,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9954,
+            "meanDeltaE76": 0.62,
+            "mirrorControlMaxStructuralSimilarity": 0.7095,
+            "channelGain": [
+              0.9997,
+              1.0001,
+              0.9995
+            ],
+            "passed": true
+          },
+          "exception": {
+            "type": "mirror-control-recheck",
+            "note": "This example was rechecked at 1024 px after its 512 px mirror comparison was inconclusive. Both recorded results are retained.",
+            "standardComparison": {
+              "size": [
+                512,
+                512
+              ],
+              "ssim": 0.998,
+              "meanDeltaE76": 0.383,
+              "mirrorControlMaxSsim": 0.9046,
+              "passed": false
+            }
+          },
+          "sourceArtworkId": "artwork-021"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/stretched-canvas-cabin-living-room-pine-cliff.webp",
+        "sha256": "6ccb3adbef5f856b5d9cf6306047e81974976d76e5a361ed282a9e7b41a96394",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9893,
+            "meanDeltaE": 0.806,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9989,
+            "meanDeltaE76": 0.32,
+            "mirrorControlMaxStructuralSimilarity": 0.4127,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              1.0001
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-019"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/stretched-canvas-living-room-beach-abstract.webp",
+        "sha256": "8f3f0d4315bd2e1311c574cc46b37ca5d98c530baf60cafc0d6640578271107e",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            254
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9901,
+            "meanDeltaE": 0.651,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9987,
+            "meanDeltaE76": 0.323,
+            "mirrorControlMaxStructuralSimilarity": 0.7066,
+            "channelGain": [
+              1,
+              1.0001,
+              1
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-015"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/stretched-canvas-living-room-neutral-abstract.webp",
+        "sha256": "2ab6a6b91d03b22059ecbd6c201a1aea3acd90a69334b24fdee72e80806e4149",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            340,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9909,
+            "meanDeltaE": 1.101,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9995,
+            "meanDeltaE76": 0.402,
+            "mirrorControlMaxStructuralSimilarity": 0.1125,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              0.9996
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-001"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/stretched-canvas-living-room-sailboat.webp",
+        "sha256": "5dae736e4c584798a089b5f4231c135af9d2403d0512a59afb9519fdffa8818a",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            512,
+            340
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9898,
+            "meanDeltaE": 0.913,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.999,
+            "meanDeltaE76": 0.388,
+            "mirrorControlMaxStructuralSimilarity": 0.4887,
+            "channelGain": [
+              1,
+              1,
+              1.0002
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-017"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/tall-1x3-framed-canvas-black-floating-frame-bathroom-heron-in-fog.webp",
+        "sha256": "cc2f8c8cbe152a8b038df9c2ca2a486b4ddb17a2fcc19ba0754b496e2ab13fc2",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            167,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9896,
+            "meanDeltaE": 0.694,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9983,
+            "meanDeltaE76": 0.352,
+            "mirrorControlMaxStructuralSimilarity": 0.7047,
+            "channelGain": [
+              0.9999,
+              1.0005,
+              1.0001
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-024"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/tall-1x3-framed-canvas-gold-floating-frame-entry-console-neutral-abstract.webp",
+        "sha256": "9f1dc590d9c336f3bf4be11e3e19eb2de87f7e0b13d7cc11ae8e254c7017a6c3",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            167,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9906,
+            "meanDeltaE": 1.114,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9995,
+            "meanDeltaE76": 0.395,
+            "mirrorControlMaxStructuralSimilarity": 0.1705,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              0.9997
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-007"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-30",
+      "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
+      "image": {
+        "url": "/assets/mockups/tall-1x3-framed-canvas-natural-oak-floating-frame-hallway-heron-in-fog.webp",
+        "sha256": "95e01d276d6cfd7141d365c20067e7bcbc90c12870b9d038a539bcc3d24b0b1a",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            167,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9896,
+            "meanDeltaE": 0.695,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9983,
+            "meanDeltaE76": 0.353,
+            "mirrorControlMaxStructuralSimilarity": 0.7047,
+            "channelGain": [
+              0.9999,
+              1.0005,
+              1.0001
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-024"
+        }
+      ]
+    },
+    {
+      "sourceManifest": "mockups-2026-10-29",
+      "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
+      "image": {
+        "url": "/assets/mockups/tall-1x3-framed-canvas-walnut-floating-frame-reading-corner-neutral-abstract.webp",
+        "sha256": "9f4c81ec41c426cf023f2539d2a7b85c7472008ed1a912bc1460ca7f2eaa331f",
+        "manifestHashVerified": true
+      },
+      "panels": [
+        {
+          "slot": 1,
+          "comparisonSize": [
+            166,
+            512
+          ],
+          "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
+          "renderer": {
+            "structuralSimilarity": 0.9886,
+            "meanDeltaE": 1.248,
+            "passed": true
+          },
+          "independent": {
+            "structuralSimilarity": 0.9994,
+            "meanDeltaE76": 0.473,
+            "mirrorControlMaxStructuralSimilarity": 0.1686,
+            "channelGain": [
+              0.9999,
+              1.0001,
+              0.9996
+            ],
+            "passed": true
+          },
+          "exception": null,
+          "sourceArtworkId": "artwork-007"
+        }
+      ]
+    }
+  ]
+}
