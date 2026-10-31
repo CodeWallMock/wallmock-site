@@ -10,7 +10,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 ## Key facts (checked 2026-10-28)
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal print (art on a frameless aluminium panel); Aluminum framed print (black, gold or silver), with or without a mat. Sets of 2, 3, 4.
-- Metal prints: A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Examples: https://wallmock.com/metal-print-mockup/
+- Metal prints: A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen, or choose matte for a canvas-like finish. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Examples: https://wallmock.com/metal-print-mockup/
 - Rooms: 500+ curated room settings; images up to 4096 px. New rooms are added to the library over time.
 - Frame quality: each image is a clean 4096 px render; floating frames show the gap around the canvas, frames have a natural shine and each piece casts a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup, made for a whole collection at once with no PSDs. Zoom in and check the corners at full size: https://wallmock.com/wall-art-mockup-examples/
 - Price: Free account: 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over), with watermarked previews. Your first 10 free downloads work in all 500+ rooms; after that the free plan keeps 8 rooms. 4K (4096 px) images, watermark-free previews, every room, sets (any plan) and listing videos (Pro and Studio) need a plan. Plans: Lite $5/month or $39/year: 200 clean 4K (4096 px) images a month; Pro $12/month or $89/year: Unlimited clean 4K (4096 px) images; Studio $24/month or $179/year: Unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
@@ -46,7 +46,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Who is it for? Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 - Is my artwork changed or redrawn? WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
 - Can I make mockups for a whole collection at once? Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
-- What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal print (art on a frameless aluminum panel), Aluminum framed print (black, gold or silver), with or without a mat. Sets of 2, 3 or 4 pieces too. Frames come in black, white, natural oak, walnut, espresso, gold and silver. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
+- What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal print (art on a frameless aluminum panel), Aluminum framed print (black, gold or silver), with or without a mat. Metal prints are gloss by default, or matte for a canvas-like finish. Sets of 2, 3 or 4 pieces too. Frames come in black, white, natural oak, walnut, espresso, gold and silver. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
 - Can I match my print-on-demand supplier's frame? Match the frame your print-on-demand provider ships, even when it is not a standard finish. Choose from black, white, natural oak, walnut, espresso, gold and silver, or design your own frame. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come in a 20 mm wood frame, a 31.75 mm gallery wood frame or a 9.65 mm slim aluminum frame, each with or without a mat.
 - Can I design my own frame colour? Yes. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. It is not a fixed list of frames: design as many as your shop needs.
 - Which frames can I show for framed prints? Framed prints come in a 20 mm wood frame, a 31.75 mm gallery wood frame or a 9.65 mm slim aluminum frame, each with or without a mat. Mats come in white, warm white, cream, warm grey or black. Aluminum framed prints come in black, gold or silver.
@@ -55,12 +55,13 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4096 px image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
 - How much does it cost? Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+- Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 # Every page in full (125 pages)
 
-## WallMock: Wall Art Mockup Generator for Print-on-Demand Sellers
+## WallMock: Wall Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
-WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints.
+Photoshop-quality 4K wall mockups, about 7 to 12 seconds each in our tests: floating frame canvas, framed and metal prints in 500+ rooms. Your exact art.
 
 Q: What is WallMock?
 A: WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
@@ -71,7 +72,7 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 Q: Can I make mockups for a whole collection at once?
 A: Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
 Q: What frames and products can I show?
-A: Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal print (art on a frameless aluminum panel), Aluminum framed print (black, gold or silver), with or without a mat. Sets of 2, 3 or 4 pieces too. Frames come in black, white, natural oak, walnut, espresso, gold and silver. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
+A: Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal print (art on a frameless aluminum panel), Aluminum framed print (black, gold or silver), with or without a mat. Metal prints are gloss by default, or matte for a canvas-like finish. Sets of 2, 3 or 4 pieces too. Frames come in black, white, natural oak, walnut, espresso, gold and silver. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
 Q: Can I match my print-on-demand supplier's frame?
 A: Match the frame your print-on-demand provider ships, even when it is not a standard finish. Choose from black, white, natural oak, walnut, espresso, gold and silver, or design your own frame. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come in a 20 mm wood frame, a 31.75 mm gallery wood frame or a 9.65 mm slim aluminum frame, each with or without a mat.
 Q: Can I design my own frame colour?
@@ -88,6 +89,8 @@ Q: How much does it cost?
 A: Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 Q: Can I use it today?
 A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+Q: Is WallMock the same as wallmock.app?
+A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 ## About WallMock: the Wall Art Mockup Generator for Etsy Sellers
 URL: https://wallmock.com/about/
@@ -178,7 +181,7 @@ A: Make listing photos for a whole collection at once: every artwork in every ro
 Q: Which frames and products does WallMock show?
 A: Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal print (art on a frameless aluminium panel), Aluminum framed print (black, gold or silver), with or without a mat. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
 Q: Is every feature in every plan?
-A: Every plan makes clean 4K (4096 px) images with the same rooms and frames. Pro and Studio include unlimited clean 4K (4096 px) images. The Pro plan includes listing videos. Free previews are watermarked. A free account gets 10 watermark-free downloads (1024 px) every 30 days, one free account per person; previews stay watermarked. Its first 10 free downloads work in every room, then the free plan keeps 8 rooms.
+A: Every plan makes clean 4K (4096 px) images with the same rooms and frames. Pro and Studio include unlimited clean 4K (4096 px) images. Pro and Studio include listing videos. Free previews are watermarked. A free account gets 10 watermark-free downloads (1024 px) every 30 days, one free account per person; previews stay watermarked. Its first 10 free downloads work in every room, then the free plan keeps 8 rooms.
 Q: How many images can I make?
 A: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio).
 Q: How fast is it?
@@ -205,11 +208,11 @@ A: Very little in the photo: both show paper behind a frame. Framed fine-art pri
 Q: Will the frame cover part of my artwork?
 A: Plan for it. In a real frame the lip or mat overlaps the edge of the print slightly, so keep signatures and text away from the very edge. WallMock keeps your file's own proportions and never stretches it to fit a frame.
 
-## Framed Canvas Mockup Generator: Floating Frame, 500+ Rooms
+## Floating Frame Canvas Mockup Generator
 URL: https://wallmock.com/framed-canvas-mockup-generator/
-Framed canvas mockups with the real floating-frame gap, in 7 frame colours and 500+ curated rooms. Your exact art, whole collections, free previews.
+Floating frame canvas mockups with the real gap around the canvas, in 7 frame colours and 500+ rooms. Framed canvas in 4K, your exact art, free previews.
 
-Short answer: a framed canvas mockup generator shows your artwork as a stretched canvas in a floating frame, hanging in a room. WallMock draws the narrow shadow gap between canvas and frame, the detail that tells buyers it is a framed canvas and not a framed print, in 7 frame colours and 500+ curated rooms. Your exact file, for your whole collection.
+Short answer: a floating frame canvas mockup shows your artwork as a stretched canvas in a floating frame (a framed canvas), hanging in a room. WallMock draws the narrow shadow gap between canvas and frame, the detail that tells buyers it is a framed canvas and not a framed print, in 7 frame colours and 500+ curated rooms. Your exact file, for your whole collection.
 
 Q: What is a framed canvas mockup?
 A: A listing photo that shows your artwork as a stretched canvas inside a frame, hanging in a room. For most print-on-demand sellers that frame is a floating frame, so the mockup should show the narrow gap between the canvas edge and the frame.
@@ -220,7 +223,7 @@ A: Usually, in print on demand. Prodigi calls its framed canvas a floater frame 
 Q: Do floating frames have glass?
 A: No. A floating frame shows the canvas surface directly, with no glass, glazing or mat. If your product has glass and a mat, it is a framed print; use the frame mockup generator instead.
 Q: Which frame colours can I show?
-A: black, white, natural oak, walnut, espresso, gold and silver, so you can match the finish your provider ships. Or design your own frame: wood grain, metallic or painted, in any colour you choose.
+A: black, white, natural oak, walnut, espresso, gold and silver, so you can match the finish your provider ships. Or design your own frame: wood grain, metallic or painted, in any colour you choose. Custom colours are close approximations, not a supplier's finish.
 Q: Can I make framed canvas mockups for my whole collection?
 A: Yes. Heart the rooms you sell in, set the framed canvas look once, then add many artworks. Each one comes out in every chosen room at its own proportions.
 Q: Is there a free framed canvas mockup generator?
@@ -493,7 +496,7 @@ Short answer: A metal print mockup shows your art printed on a metal panel, hang
 Q: What is a metal print mockup?
 A: A photo of your artwork printed on a metal panel, usually aluminium, hanging on a room wall. It shows buyers the frameless look, the thin edge and how the panel sits off the wall, before they order.
 Q: Does WallMock make metal print mockups?
-A: Yes. In the Studio, choose Metal, then Metal print. A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen.
+A: Yes. In the Studio, choose Metal, then Metal print. A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen, or choose matte for a canvas-like finish.
 Q: Can I show a metal print in a set of 2, 3 or 4?
 A: Not yet. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Sets work with canvas and framed prints.
 Q: Is my artwork changed?
@@ -501,7 +504,7 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 Q: What is the difference between a metal print and an aluminum framed print?
 A: A metal print is the art itself printed on an aluminium panel, with no frame and no mat. An aluminum framed print is a paper print behind a slim aluminium frame, in black, gold or silver, with or without a mat. Show the one your provider ships.
 Q: Glossy or matte?
-A: WallMock shows the panel with a gloss white surface and a gentle sheen. If your provider sells a matte or brushed-metal finish instead, say so in the listing, and check your sample against the photo.
+A: Both. Gloss is the default, with a natural, gentle sheen; Matte has no sheen, so the artwork reads as it does on canvas. Gloss is the default; choose Matte in the Studio's Metal print panel (Surface: Gloss | Matte). WallMock does not show brushed metal: if your provider sells it, say so in the listing, and check your sample against the photo.
 
 ## Metal Frame Mockup: Aluminum Framed Prints in 3 Colours
 URL: https://wallmock.com/metal-frame-mockup/
@@ -579,11 +582,11 @@ A: Yes. Yearly prices are Lite $39, Pro $89, Studio $179. Prices in USD; the app
 Q: Can I use WallMock today?
 A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 
-## Print on Demand Canvas Mockups: Printify, Printful, Gelato
+## Print-on-Demand Wall Art Mockup Generator
 URL: https://wallmock.com/print-on-demand-canvas-mockups/
-Canvas and framed canvas mockups that match your print-on-demand product: frame type, gap and colour for Printify, Printful, Gelato and Prodigi.
+A print-on-demand wall art mockup generator: canvas, framed canvas, framed and metal prints for Printify, Printful, Gelato and Prodigi sellers, in 500+ rooms.
 
-Short answer: a print-on-demand canvas mockup should show the exact product your provider ships: a stretched canvas (gallery wrap), or a framed canvas with the floating-frame gap in the right colour. WallMock makes both in 500+ curated rooms, for every design in your shop, with your file unchanged, whether you print with Printify, Printful, Gelato or Prodigi.
+Short answer: a print-on-demand wall art mockup generator should show the exact product your provider ships: a stretched canvas (gallery wrap), a framed canvas with the floating-frame gap in the right colour, or a framed or metal print. WallMock makes all of them in 500+ curated rooms, for every design in your shop, with your file unchanged, whether you print with Printify, Printful, Gelato or Prodigi.
 
 Q: What is the best mockup tool for print on demand canvas?
 A: One that shows the canvas you actually sell: stretched canvas (gallery wrap), or framed canvas with the floating-frame gap, in the frame colour your provider ships, with your design unchanged. WallMock is built for exactly that, for whole collections, in 500+ curated rooms.
@@ -1130,11 +1133,11 @@ A: Yes. The main print-on-demand providers connect to both, so one provider can 
 Q: Should I start on Etsy or Shopify?
 A: If you don't have an audience yet, Etsy is usually the faster start. Add a Shopify store once you have repeat buyers or traffic from Pinterest, Instagram or email.
 
-## Floating Frame Mockup Tips: Gap, Depth and Frame Colour
+## Floating Frame Mockup Tips: Gap, Depth, Colour
 URL: https://wallmock.com/guides/floating-frame-canvas-mockups/
-How to make a floating frame canvas mockup look right: the shadow gap in millimetres and pixels, frame depth, the colour inside the gap and your provider's finish.
+Floating frame mockup tips: the shadow gap in millimetres and pixels, frame depth, the colour inside the gap and how to match your provider's finish.
 
-Short answer: A floating frame canvas mockup looks right when five details match the product: a thin, even gap between canvas and frame, the right colour inside that gap, a slim frame face, a shadow that fits the frame's depth, and the frame finish your provider ships. Use real numbers: Prodigi lists a 5 mm gap and 12 mm face, Gelato a 12 mm gap (checked 2026-10-29). Show no glass and no mat, and nothing covering the front of the canvas.
+Short answer: A floating frame mockup looks right when five details match the product: a thin, even gap between canvas and frame, the right colour inside that gap, a slim frame face, a shadow that fits the frame's depth, and the frame finish your provider ships. Use real numbers: Prodigi lists a 5 mm gap and 12 mm face, Gelato a 12 mm gap (checked 2026-10-29). Show no glass and no mat, and nothing covering the front of the canvas.
 
 Q: How wide is the gap in a floating frame?
 A: It depends on the frame. Prodigi lists a 5 mm gap and Gelato a 12 mm gap for their framed canvas (checked 2026-10-29). In a mockup, the gap should scale with the canvas, so it looks thinner on large canvases.

@@ -1,11 +1,5 @@
-/* wallmock.com home (2026-10-30): the film "one file becomes a finished listing" and the scenes after it.
-   Spec: WallMock-Distribution/ASSETS/home-scrolly-2026-10-30/SPEC.md. Loaded on / only, after site.css.
-   Base rules are the static page (no JavaScript, reduced motion, older browsers). The film runs only inside
-   @media (scripting: enabled) and (prefers-reduced-motion: no-preference); every state there comes from --t, which
-   tools/widgets/home-film.mjs sets on scroll. The scenes after the film animate with CSS scroll timelines where supported. */
-.home{--gallery:#f4f2ec}
 
-/* ---------- the film, static ---------- */
+.home{--gallery:#f4f2ec}
 .film{width:var(--wrap);margin-inline:auto;display:flex;flex-direction:column;gap:28px;padding-bottom:var(--step)}
 .film-hero{padding-top:clamp(36px,6vw,80px);max-width:720px}
 .film h1{font-size:clamp(36px,4.6vw,64px)}
@@ -26,14 +20,13 @@
 .step h3{font:600 20px/1.3 var(--sans);margin:18px 0 6px}
 .fm-corner{margin:0;max-width:520px;position:relative}
 .fm-corner img{width:100%;height:auto}
-/* close-up markers (static and film): a numbered marker beside each feature, on the wall, with a tail pointing at it */
 .fm-callouts{position:absolute;inset:0;margin:0;pointer-events:none}
 .fm-callouts .co{position:absolute;left:var(--x);top:var(--y);width:22px;height:22px;margin:-11px 0 0 -11px;display:grid;place-items:center;border-radius:50%;
   background:var(--ink);color:#fff;font:700 12px/1 var(--sans);box-shadow:0 0 0 2px #fff,0 3px 10px rgba(24,43,48,.45)}
 .fm-callouts .co[data-at="e"]{transform:translate(17px,0)}
 .fm-callouts .co[data-at="ne"]{transform:translate(14px,-14px)}
 .fm-callouts .co[data-at="e2"]{transform:translate(24px,0)}
-.fm-callouts .co[data-at="w"]{transform:translate(-20px,0)} /* with the east tail, the tip lands exactly on the point */
+.fm-callouts .co[data-at="w"]{transform:translate(-20px,0)} 
 .fm-callouts .co[data-tail]::before{content:"";position:absolute;width:8px;height:8px;background:var(--ink);box-shadow:0 0 0 2px #fff;z-index:-1}
 .fm-callouts .co[data-tail="w"]::before{left:-5px;top:7px;clip-path:polygon(0 50%,100% 0,100% 100%);width:9px;box-shadow:none}
 .fm-callouts .co[data-tail="e"]::before{right:-9px;top:7px;width:11px;clip-path:polygon(0 0,100% 50%,0 100%);box-shadow:none}
@@ -46,117 +39,87 @@
 .fm-over figcaption{font-size:13px;color:var(--muted);margin-top:6px;line-height:1.35}
 .fm-over figcaption strong{display:block;color:var(--ink)}
 @media (max-width:860px){.fm-over{grid-template-columns:repeat(2,minmax(0,1fr))}}
-
-/* ---------- the film, running ---------- */
-/* The geometry (--art-*, --fr-*, --l/--tp/--w/--h, --ox/--oy, --k0/--kp, --sx0/--sy0/--sxp/--syp, --zs/--zx/--zy, --tag*, --ar) is written on
-   .film by content/pages/home.mjs from the render's own numbers (data/home-film.json); only the timing lives here. */
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference){
-  .film{
-    --film:on;--anchor:.6;--textline:.6;--t:0;
-    --osh-x:1.7cqw;--osh-y:2.4cqw;--osh-b:1.6cqw;--osh-a:.64; /* the growing frame's shadow on paper, in the film box's width */
+  :where(.film-on) .film{
+    --film:on;--t:0;
+    --osh-x:1.7cqw;--osh-y:2.4cqw;--osh-b:1.6cqw;--osh-a:.64; 
     display:grid;grid-template-columns:minmax(0,.78fr) minmax(0,1.22fr);column-gap:clamp(28px,4.5vw,72px);row-gap:0;
-    /* phases, each 0 -> 1 (see the step list in tools/widgets/home-film.mjs) */
-    --pf:clamp(0,(var(--t) - 1) / .7,1);                                            /* the frame grows around the file */
-    --pb:clamp(0,(var(--t) - 1.85) / .85,1);                                        /* the camera pulls back into the room */
-    --pz:calc(clamp(0,(var(--t) - 3) / .45,1) - clamp(0,(var(--t) - 3.88) / .17,1)); /* dive into the frame corner and out */
-    --pc:calc(clamp(0,(var(--t) - 3.42) / .1,1) - clamp(0,(var(--t) - 3.84) / .08,1)); /* the close-up crop */
-    --pk:calc(clamp(0,(var(--t) - 3.5) / .12,1) - clamp(0,(var(--t) - 3.8) / .06,1)); /* its callouts */
-    --pp:clamp(0,(var(--t) - 3.95) / .2,1);                                         /* products: closer on the wall */
-    /* review r3: the frame grows on paper as a clipped object (art -> frame edge), then the render's own wall and shadow fade in
-       behind it; nothing of the room is ever masked, so the shadow is the render's from the first moment it shows */
+    --pf:clamp(0,(var(--t) - 1) / .7,1);                                            
+    --pb:clamp(0,(var(--t) - 1.85) / .85,1);                                        
+    --pz:calc(clamp(0,(var(--t) - 3) / .45,1) - clamp(0,(var(--t) - 3.88) / .17,1)); 
+    --pc:calc(clamp(0,(var(--t) - 3.42) / .1,1) - clamp(0,(var(--t) - 3.84) / .08,1)); 
+    --pk:calc(clamp(0,(var(--t) - 3.5) / .12,1) - clamp(0,(var(--t) - 3.8) / .06,1)); 
+    --pp:clamp(0,(var(--t) - 3.95) / .2,1);                                         
     --pg:clamp(0,var(--pf) * 2.2,1);
   }
-  .film-media,.fm-box,.fm-cam,.fm-zoom,.fm-stage{display:block}
-  .fm-file,.fm-tag,.fm-tabs,.fm-object,.fm-flat{display:block}
-  .film-hero{grid-column:1;grid-row:1;min-height:calc(100svh - 72px);display:flex;flex-direction:column;justify-content:center;padding:24px 0 48px;max-width:none}
-  .film-cue{display:flex;align-items:center;gap:12px;margin-top:28px;font-size:13px;font-weight:600;letter-spacing:.04em;color:var(--muted)}
-  .film-cue::before{content:"";width:1px;height:34px;background:linear-gradient(var(--ink),transparent);animation:cue 2.4s ease-in-out infinite}
-  .film-media{grid-column:2;grid-row:1 / span 7;position:relative}
-  .fm-box{container-type:inline-size;position:sticky;top:max(12px,9svh);width:min(100%,calc(82svh * var(--arn)));aspect-ratio:var(--ar);margin-left:auto;overflow:hidden;
+  :where(.film-on) .film-media,:where(.film-on) .fm-box,:where(.film-on) .fm-cam,:where(.film-on) .fm-zoom,:where(.film-on) .fm-stage{display:block}
+  :where(.film-on) .fm-file,:where(.film-on) .fm-tag,:where(.film-on) .fm-tabs,:where(.film-on) .fm-object,:where(.film-on) .fm-flat{display:block}
+  :where(.film-on) .film-hero{grid-column:1;grid-row:1;min-height:calc(100svh - 72px);display:flex;flex-direction:column;justify-content:center;padding:24px 0 48px;max-width:none}
+  :where(.film-on) .film-cue{display:flex;align-items:center;gap:12px;margin-top:28px;font-size:13px;font-weight:600;letter-spacing:.04em;color:var(--muted)}
+  :where(.film-on) .film-cue::before{content:"";width:1px;height:34px;background:linear-gradient(var(--ink),transparent);animation:cue 2.4s ease-in-out infinite}
+  :where(.film-on) .film-media{grid-column:2;grid-row:1 / span 7;position:relative}
+  :where(.film-on) .fm-box{container-type:inline-size;position:sticky;top:max(12px,9svh);width:min(100%,calc(82svh * var(--arn)));aspect-ratio:var(--ar);margin-left:auto;overflow:hidden;
     background:radial-gradient(120% 90% at 50% 35%,#faf8f3 0%,var(--gallery) 60%,#ebe7dd 100%);isolation:isolate}
-  .fm-cam{position:absolute;inset:0;transform-origin:var(--ox) var(--oy);will-change:transform;
+  :where(.film-on) .fm-cam{position:absolute;inset:0;transform-origin:var(--ox) var(--oy);will-change:transform;
     transform:translate(calc(var(--sx0) * (1 - var(--pb)) + var(--sxp) * var(--pp)),calc(var(--sy0) * (1 - var(--pb)) + var(--syp) * var(--pp)))
       scale(calc(var(--k0) - .08 * var(--k0) * var(--pf) - (.92 * var(--k0) - 1) * var(--pb) + (var(--kp) - 1) * var(--pp)))}
-  .fm-zoom{position:absolute;inset:0;transform-origin:var(--zx) var(--zy);transform:scale(calc(1 + var(--zs) * var(--pz)))}
-  .fm-stage{position:absolute;inset:0;opacity:clamp(0,(var(--pf) - .45) / .55,1)}
-  /* the frame grows around the file (review r4: moulding and gap together): the framed object (the oak layer clipped to the frame's
-     outer edge) scales out from the art's size from under the flat file (the same layer clipped to the art); then the render's own
-     wall and shadow fade in behind it. Both are the same file as the opening layer (one download) and line up exactly at the end. */
-  .fm-object,.fm-flat{position:absolute;left:var(--l);top:var(--tp);width:var(--w);height:var(--h)}
-  /* on bare paper the growing frame casts a shadow like the render's own (lower right, nothing above; measured with
-     tools/shadow-compare.mjs), so nothing jumps when the wall fades in behind it */
-  .fm-object{filter:drop-shadow(var(--osh-x) var(--osh-y) var(--osh-b) rgba(40,38,30,var(--osh-a)))}
-  .fm-object img,.fm-flat img{width:100%;height:100%}
-  .fm-object img{clip-path:inset(var(--op-t) var(--op-r) var(--op-b) var(--op-l));transform-origin:var(--oox) var(--ooy);
+  :where(.film-on) .fm-zoom{position:absolute;inset:0;transform-origin:var(--zx) var(--zy);transform:scale(calc(1 + var(--zs) * var(--pz)))}
+  :where(.film-on) .fm-stage{position:absolute;inset:0;opacity:clamp(0,(var(--pf) - .45) / .55,1)}
+  :where(.film-on) .fm-object,:where(.film-on) .fm-flat{position:absolute;left:var(--l);top:var(--tp);width:var(--w);height:var(--h)}
+  :where(.film-on) .fm-object{filter:drop-shadow(var(--osh-x) var(--osh-y) var(--osh-b) rgba(40,38,30,var(--osh-a)))}
+  :where(.film-on) .fm-object img,:where(.film-on) .fm-flat img{width:100%;height:100%}
+  :where(.film-on) .fm-object img{clip-path:inset(var(--op-t) var(--op-r) var(--op-b) var(--op-l));transform-origin:var(--oox) var(--ooy);
     transform:scale(calc(var(--osx) + (1 - var(--osx)) * var(--pg)),calc(var(--osy) + (1 - var(--osy)) * var(--pg)))}
-  .fm-flat img{clip-path:inset(var(--oa-t) var(--oa-r) var(--oa-b) var(--oa-l))}
-  .fm-flat{opacity:calc(1 - var(--pb) * 10)}
-  /* the room is not needed (and not painted) until the frame starts to grow; the oak layer above it is the opening frame */
-  .fm-room{position:absolute;inset:0;width:100%;height:100%;max-width:none;aspect-ratio:auto;background:none;opacity:clamp(0,var(--pf) * 20,1)}
-  /* lazy and not rendered, so not fetched until home-film.mjs starts the film after load: the oak layer, the page's largest image,
-     loads alone first (on screen, a lazy image at opacity 0 would still be fetched at once) */
-  .film:not(.fm-go) :is(.fm-room,.fm-corner,.fm-over figure:not(.fm-base)){display:none}
-  /* the flat file floating on paper before it has a frame */
-  .fm-file{position:absolute;top:var(--art-t);right:var(--art-r);bottom:var(--art-b);left:var(--art-l);opacity:calc(1 - 1.6 * var(--pf));
+  :where(.film-on) .fm-flat img{clip-path:inset(var(--oa-t) var(--oa-r) var(--oa-b) var(--oa-l))}
+  :where(.film-on) .fm-flat{opacity:calc(1 - var(--pb) * 10)}
+  :where(.film-on) .fm-room{position:absolute;inset:0;width:100%;height:100%;max-width:none;aspect-ratio:auto;background:none;opacity:clamp(0,var(--pf) * 20,1)}
+  :where(.film-on) .film:not(.fm-go) :is(.fm-room,.fm-corner,.fm-over figure:not(.fm-base)){display:none}
+  :where(.film-on) .fm-file{position:absolute;top:var(--art-t);right:var(--art-r);bottom:var(--art-b);left:var(--art-l);opacity:calc(1 - 1.6 * var(--pf));
     box-shadow:0 22px 40px -18px rgba(24,43,48,.45),0 2px 6px rgba(24,43,48,.12)}
-  .fm-tag{position:absolute;left:var(--tagx);top:var(--tagy);font:600 12px/1 var(--sans);letter-spacing:.03em;color:var(--muted);opacity:calc(1 - 3 * var(--pf))}
-  /* one wall, every product: layers on one box, each fading in over the last, and only once its image is decoded (home-film.mjs) */
-  .fm-over{position:absolute;left:var(--l);top:var(--tp);width:var(--w);height:var(--h);display:block}
-  .fm-over figure{position:absolute;inset:0;opacity:clamp(0,(var(--t) - var(--at)) * 30 + .5,1);
+  :where(.film-on) .fm-tag{position:absolute;left:var(--tagx);top:var(--tagy);font:600 12px/1 var(--sans);letter-spacing:.03em;color:var(--muted);opacity:calc(1 - 3 * var(--pf))}
+  :where(.film-on) .fm-over{position:absolute;left:var(--l);top:var(--tp);width:var(--w);height:var(--h);display:block}
+  :where(.film-on) .fm-over figure{position:absolute;inset:0;opacity:clamp(0,(var(--t) - var(--at)) * 30 + .5,1);
     -webkit-mask-image:linear-gradient(90deg,transparent,#000 3%,#000 97%,transparent),linear-gradient(transparent,#000 3%,#000 97%,transparent);-webkit-mask-composite:source-in;
     mask-image:linear-gradient(90deg,transparent,#000 3%,#000 97%,transparent),linear-gradient(transparent,#000 3%,#000 97%,transparent);mask-composite:intersect}
-  .fm-over figure:not([data-ready]){opacity:0!important}
-  .fm-over .fm-base{opacity:1;-webkit-mask-image:none;mask-image:none}
-  .fm-over img{width:100%;height:100%;aspect-ratio:auto;background:none}
-  .fm-over figcaption{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
-  /* the close-up crop, exactly the region the zoom ends on */
-  .fm-corner{position:absolute;inset:0;max-width:none;opacity:var(--pc);pointer-events:none}
-  .fm-corner:not([data-ready]){opacity:0!important}
-  .fm-corner img{width:100%;height:100%;aspect-ratio:auto}
-  .fm-callouts{opacity:var(--pk)}
-  /* the product being shown, named as in the Studio */
-  .fm-tabs{position:absolute;left:50%;bottom:16px;transform:translateX(-50%);text-align:center;opacity:clamp(0,(var(--t) - 3.95) / .15,1);pointer-events:none}
-  .fm-tabs p{margin:0;display:flex;gap:4px;padding:4px;background:rgba(255,255,255,.92);border-radius:999px;box-shadow:0 6px 18px -8px rgba(24,43,48,.45)}
-  .fm-tab{font:600 13px/1 var(--sans);padding:8px 13px;border-radius:999px;color:var(--muted)}
-  .fm-tab[data-on]{background:var(--ink);color:#fff}
-  .fm-tabs .fm-finish{display:inline-block;width:19em;white-space:nowrap;margin-top:8px;padding:5px 12px;font:600 12px/1.2 var(--sans);color:var(--ink);background:rgba(255,255,255,.9);border-radius:999px;box-shadow:none}
-  /* each step's words stay in view for the whole step, so no screen is ever empty while the film plays */
-  .step{grid-column:1;min-height:88svh;max-width:460px;padding:0}
-  .step-in{position:sticky;top:30svh;padding:4svh 0 8svh}
-  .step-corner{min-height:120svh}
-  .step-long{min-height:140svh}
-  .step:last-of-type{padding-bottom:20svh}
-}
+  :where(.film-on) .fm-over figure:not([data-ready]){opacity:0!important}
+  :where(.film-on) .fm-over .fm-base{opacity:1;-webkit-mask-image:none;mask-image:none}
+  :where(.film-on) .fm-over img{width:100%;height:100%;aspect-ratio:auto;background:none}
+  :where(.film-on) .fm-over figcaption{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+  :where(.film-on) .fm-corner{position:absolute;inset:0;max-width:none;opacity:var(--pc);pointer-events:none}
+  :where(.film-on) .fm-corner:not([data-ready]){opacity:0!important}
+  :where(.film-on) .fm-corner img{width:100%;height:100%;aspect-ratio:auto}
+  :where(.film-on) .fm-callouts{opacity:var(--pk)}
+  :where(.film-on) .fm-tabs{position:absolute;left:50%;bottom:16px;transform:translateX(-50%);text-align:center;opacity:clamp(0,(var(--t) - 3.95) / .15,1);pointer-events:none}
+  :where(.film-on) .fm-tabs p{margin:0;display:flex;gap:4px;padding:4px;background:rgba(255,255,255,.92);border-radius:999px;box-shadow:0 6px 18px -8px rgba(24,43,48,.45)}
+  :where(.film-on) .fm-tab{font:600 13px/1 var(--sans);padding:8px 13px;border-radius:999px;color:var(--muted)}
+  :where(.film-on) .fm-tab[data-on]{background:var(--ink);color:#fff}
+  :where(.film-on) .fm-tabs .fm-finish{display:inline-block;width:19em;white-space:nowrap;margin-top:8px;padding:5px 12px;font:600 12px/1.2 var(--sans);color:var(--ink);background:rgba(255,255,255,.9);border-radius:999px;box-shadow:none}
+  :where(.film-on) .step{grid-column:1;min-height:88svh;max-width:460px;padding:0}
+  :where(.film-on) .step-in{position:sticky;top:30svh;padding:4svh 0 8svh}
+  :where(.film-on) .step-corner{min-height:120svh}
+  :where(.film-on) .step-long{min-height:140svh}
+  :where(.film-on) .step:last-of-type{padding-bottom:20svh}
 @keyframes cue{0%,100%{transform:scaleY(.35);transform-origin:top}50%{transform:scaleY(1);transform-origin:top}}
-
-/* phones: the film box sticks to the top, above the hero words (spec §5); the steps' words stay pinned just under it */
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference) and (max-width:860px){
-  .film{display:flex;flex-direction:column;--anchor:.72;--textline:.72;--mh:calc(min(100vw * var(--arh),40svh) + 18px)}
-  .film-media{order:-1;position:sticky;top:0;z-index:2;background:var(--paper);padding:10px 0 8px;margin-inline:-16px}
-  /* words slide under the box behind a page-coloured fade band instead of being cut by its edge */
-  .fm-band{display:block;position:absolute;left:0;right:0;top:100%;height:56px;background:linear-gradient(var(--paper),rgba(255,255,255,0));pointer-events:none}
-  .fm-box{position:relative;top:0;width:min(100%,calc(40svh * var(--arn)));margin:0 auto}
-  .film-hero{min-height:0;padding:18px 0 28px}
-  .film h1{font-size:32px}
-  .film-hero .lede{font-size:16px}
-  .film-cue{margin-top:16px}
-  .fm-tag{font-size:10px}
-  .fm-tab{font-size:12px;padding:7px 10px}
-  .fm-tabs{bottom:8px;width:max-content}
-  .fm-tabs .fm-finish{margin-top:6px}
-  .step{position:relative;z-index:1;min-height:64svh;max-width:none}
-  .step-in{top:calc(var(--mh) + 20px);padding:20px 0 24px}
-  .step-corner{min-height:96svh}
-  .step-long{min-height:110svh}
-  .step h2{font-size:26px}
+@media (max-width:860px) and (orientation:portrait){
+  :where(.film-on) .film{display:flex;flex-direction:column;--mh:calc(min(100vw * var(--arh),40svh) + 18px)}
+  :where(.film-on) .film-media{order:-1;position:sticky;top:0;z-index:2;background:var(--paper);padding:10px 0 8px;margin-inline:-16px}
+  :where(.film-on) .fm-band{display:block;position:absolute;left:0;right:0;top:100%;height:56px;background:linear-gradient(var(--paper),rgba(255,255,255,0));pointer-events:none}
+  :where(.film-on) .fm-box{position:relative;top:0;width:min(100%,calc(40svh * var(--arn)));margin:0 auto}
+  :where(.film-on) .film-hero{min-height:0;padding:18px 0 28px}
+  :where(.film-on) .film h1{font-size:32px}
+  :where(.film-on) .film-hero .lede{font-size:16px}
+  :where(.film-on) .film-cue{margin-top:16px}
+  :where(.film-on) .fm-tag{font-size:10px}
+  :where(.film-on) .fm-tab{font-size:12px;padding:7px 10px}
+  :where(.film-on) .fm-tabs{bottom:8px;width:max-content}
+  :where(.film-on) .fm-tabs .fm-finish{margin-top:6px}
+  :where(.film-on) .step{position:relative;z-index:1;min-height:64svh;max-width:none}
+  :where(.film-on) .step-in{top:calc(var(--mh) + 20px);padding:20px 0 24px}
+  :where(.film-on) .step-corner{min-height:96svh}
+  :where(.film-on) .step-long{min-height:110svh}
+  :where(.film-on) .step h2{font-size:26px}
 }
-/* only the step being read shows its words; a finished step's words fade away instead of lingering under the film box */
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference){
-  .step-in{transition:opacity .2s}
-  .film[data-read] .step:not([data-on]) .step-in{opacity:0}
-}
-
-/* ---------- after the film ---------- */
+  :where(.film-on) .step-in{transition:opacity .2s}
+  :where(.film-on) .film[data-read] .step:not([data-on]) .step-in{opacity:0}
 .reel{padding:var(--step) 0 calc(var(--step) - 14px);overflow:hidden}
 .reel-row{overflow-x:auto;margin-top:14px;scrollbar-width:none}
 .reel-track{display:flex;gap:14px;width:max-content;padding-inline:16px}
@@ -169,7 +132,6 @@
 .bulk-grid img{width:100%;aspect-ratio:4/5;object-fit:cover;background:var(--sage)}
 .sets-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(12px,2vw,24px);margin-top:28px;align-items:start}
 .sets-grid figure{margin:0}
-/* each set at its own shape, never cropped */
 .sets-grid img{width:100%;height:auto;background:var(--paper)}
 .sets-grid figcaption{margin-top:8px;font-size:14px;color:var(--muted)}
 .sets-grid figcaption strong{color:var(--ink);margin-right:4px}
@@ -177,6 +139,7 @@
 .kit-crops{display:flex;gap:12px;align-items:flex-end}
 .kit-crops figure{margin:0;flex:1 1 0;min-width:0}
 .kit-crops span{display:block;overflow:hidden;background:var(--gallery);box-shadow:0 10px 24px -14px rgba(24,43,48,.55)}
+.kit-crops picture{display:contents}
 .kit-crops img{width:100%;height:100%;object-fit:cover;object-position:50% 28%}
 .kit-crops figcaption{margin-top:8px;font-size:13px;color:var(--muted);line-height:1.35}
 .kit-crops figcaption strong{display:block;color:var(--ink)}
@@ -194,8 +157,6 @@
   .kit-crops figure{flex:1 1 28%}
 }
 @media (max-width:520px){.sets-grid{grid-template-columns:1fr}}
-
-/* scenes after the film move with the page where the browser has scroll timelines */
 @supports (animation-timeline:view()){
   @media (prefers-reduced-motion:no-preference){
     .reel-row{overflow:hidden}
@@ -204,7 +165,6 @@
     .sets-grid figure,.kit-crops figure{animation:snap linear both;animation-timeline:view();animation-range:entry 0% cover 35%}
   }
 }
-/* the twenty listing images assemble on wider screens only; on phones a column would still be moving at mid-screen */
 @supports (animation-timeline:view()){
   @media (prefers-reduced-motion:no-preference) and (min-width:861px){
     .bulk-grid{view-timeline:--bulk}
@@ -215,8 +175,6 @@
 @keyframes reel-b{from{transform:translateX(calc(100vw - 100%))}to{transform:translateX(0)}}
 @keyframes tile-in{from{opacity:0;transform:translateY(28px) scale(.84)}to{opacity:1;transform:none}}
 @keyframes snap{0%{opacity:0;transform:translateY(56px) scale(.94)}70%{opacity:1;transform:translateY(-3px) scale(1.006)}100%{opacity:1;transform:none}}
-
-/* ---------- hero scroll cue and jump bar (seo-6-frames) ---------- */
 .film-cue{display:flex;align-items:center;gap:8px;margin-top:22px;font-size:14px;font-weight:600;color:var(--ink-2)}
 .film-cue svg{flex:none}
 .jump{display:flex;flex-wrap:wrap;gap:6px 8px;margin-top:14px}
@@ -224,8 +182,6 @@
 .jump a:hover,.jump a:focus-visible{border-color:var(--ink)}
 @media (prefers-reduced-motion:no-preference){.film-cue svg{animation:nudge 1.8s ease-in-out infinite}}
 @keyframes nudge{0%,100%{transform:translateY(0)}50%{transform:translateY(4px)}}
-
-/* ---------- frames showcase ---------- */
 .frames{padding:var(--step) 0}
 .fx-group{margin-top:clamp(36px,5vw,64px)}
 .fx-h{font-size:clamp(24px,2.4vw,32px);margin-bottom:6px}
@@ -242,22 +198,18 @@
 @media (max-width:1000px){.fx-grid{grid-template-columns:repeat(min(var(--cols,4),3),minmax(0,1fr))}}
 @media (max-width:700px){.fx-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .film-cue::before{content:none}
-/* review frames-1: the corner link never wraps mid-phrase; a compact scroll cue inside the film box on phones (above the fold) */
 .fx figcaption span{display:block}
 .fx-zoom{display:inline-block;white-space:nowrap;margin-top:2px}
 .fm-cue{display:none}
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference) and (max-width:860px){
-  .fm-cue{display:block;position:absolute;left:0;right:0;bottom:8px;text-align:center;font:600 12px/1 var(--sans);color:var(--ink-2);opacity:calc(1 - 4 * var(--pf))}
-  .film-cue{display:none}
+@media (max-width:860px) and (orientation:portrait){
+  :where(.film-on) .fm-cue{display:block;position:absolute;left:0;right:0;bottom:8px;text-align:center;font:600 12px/1 var(--sans);color:var(--ink-2);opacity:calc(1 - 4 * var(--pf))}
+  :where(.film-on) .film-cue{display:none}
 }
-/* review frames-2: the jump bar stays on one row on phones (smaller pills; scrolls sideways without a bar if a screen is narrower) */
 @media (max-width:520px){
   .jump{flex-wrap:nowrap;gap:5px;overflow-x:auto;scrollbar-width:none;margin-inline:-2px;padding:1px 2px}
   .jump::-webkit-scrollbar{display:none}
   .jump a{flex:none;font-size:11.5px;padding:5px 8px}
 }
-
-/* ======================= seo-8-dark (owner 2026-10-30): a gallery at night, the art the brightest thing on screen ======================= */
 body.home{
   --paper:#121314;--soft:#17181a;--sage:#1a1b1d;--line:#2a2b2e;--ink:#ece8e1;--ink-2:#cdc7bd;--muted:#a19b92;--gallery:#151618;
   background:var(--paper);color:var(--ink);
@@ -273,10 +225,8 @@ body.home{
 .home .co-legend b{background:#ece8e1;color:#121314}
 .home .fm-callouts .co{background:#121314;color:#fff}
 .home .fm-callouts .co[data-tail]::before{background:#121314}
-/* the logo, calm and clear above the headline */
 .hero-mark{display:flex;align-items:center;gap:12px;margin:0 0 22px;font:700 30px/1 var(--sans);letter-spacing:-1.3px}
 .hero-mark .mark-box{width:36px;height:41px;font-size:26px;line-height:37px}
-/* the invitation and a scroll indicator that fades after the first scroll */
 .film-cue{max-width:42ch;line-height:1.45}
 .film-cue .cue-dot{animation:cue-dot 1.8s ease-in-out infinite}
 @keyframes cue-dot{0%,100%{transform:translateY(0);opacity:1}60%{transform:translateY(8px);opacity:0}}
@@ -284,141 +234,247 @@ body.home{
 html[data-scrolled] .film-cue svg{opacity:0}
 @media (prefers-reduced-motion:reduce){.film-cue .cue-dot{animation:none}}
 .fm-swatches,.fm-cue{display:none}
-
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference){
-  /* pacing: 18 segments (transition, hold, ...) in viewport heights, from content/pages/home.mjs PACE */
-  .film{
+  :where(.film-on) .film{
     --hold:var(--hold-d);--tr:var(--tr-d);--pf:1;
-    --pw:clamp(0,var(--t),1);                                                        /* seg 1: the wall and its shadow come in */
-    --pb:clamp(0,var(--t) - 2,1);                                                    /* seg 3: the camera pulls back */
-    --pz:calc(clamp(0,var(--t) - 4,1) - clamp(0,(var(--t) - 6) / .6,1));             /* seg 5 in, seg 7 out */
-    --pc:calc(clamp(0,(var(--t) - 4.75) / .25,1) - clamp(0,(var(--t) - 6) / .2,1));  /* the close-up crop */
-    --pk:calc(clamp(0,(var(--t) - 4.85) / .15,1) - clamp(0,(var(--t) - 6) / .1,1));  /* its markers */
-    --pp:clamp(0,(var(--t) - 6.2) / .8,1);                                           /* seg 7: closer on the wall for the products */
+    --pw:clamp(0,var(--t),1);                                                        
+    --pb:clamp(0,var(--t) - 2,1);                                                    
+    --pz:calc(clamp(0,var(--t) - 4,1) - clamp(0,(var(--t) - 6) / .6,1));             
+    --pc:calc(clamp(0,(var(--t) - 4.75) / .25,1) - clamp(0,(var(--t) - 6) / .2,1));  
+    --pk:calc(clamp(0,(var(--t) - 4.85) / .15,1) - clamp(0,(var(--t) - 6) / .1,1));  
+    --pp:clamp(0,(var(--t) - 6.2) / .8,1);                                           
   }
-  /* holds: frame on the wall (seg 2), room (4), close-up (6), each product (8, 10, ... 18); steps span their segments */
-  .step[data-step="frame"],.step[data-step="room"],.step[data-step="corner"],.step[data-step="print"]{min-height:calc((var(--tr) + var(--hold)) * 100svh)}
-  .step[data-step="canvas"]{min-height:calc((var(--tr) + var(--hold)) * 300svh)}
-  .step[data-step="metal"]{min-height:calc((var(--tr) + var(--hold)) * 200svh)}
-  .step:last-of-type{padding-bottom:0}
-  .fm-stage{opacity:var(--pw)}
-  .fm-over figure{opacity:clamp(0,var(--t) - var(--at) + .5,1)}
-  .fm-tabs{opacity:clamp(0,(var(--t) - 6.6) / .4,1)}
-  /* the dark stage: a soft pool of light behind the frame; its shadow falls lower right, as in the render */
-  .fm-box{background:radial-gradient(62% 52% at 50% 44%,#2b2b2d 0%,#1b1b1d 62%,#141415 100%)}
-  .fm-object{filter:drop-shadow(1.7cqw 2.4cqw 1.8cqw rgba(0,0,0,.62))}
-  .fm-object img{transform:none;opacity:0;transition:opacity .35s ease}
-  .fm-object img.on{opacity:1}
-  .film:not(.fm-go) .fm-object img:not(.on){display:none}
-  /* hero finish swatches over the foot of the stage */
-  .fm-swatches{display:flex;position:absolute;left:0;right:0;bottom:12px;justify-content:center;gap:6px;flex-wrap:wrap;padding:0 10px;opacity:clamp(0,1 - var(--t) * 4,1);transition:none}
-  .film[data-swatches-off] .fm-swatches{pointer-events:none}
-  .sw{appearance:none;border:0;background:rgba(18,19,20,.72);color:var(--ink);display:flex;align-items:center;gap:7px;padding:5px 10px 5px 5px;border-radius:999px;font:600 12px/1 var(--sans);cursor:pointer;min-height:34px}
-  .sw i{width:22px;height:22px;border-radius:50%;box-shadow:inset 0 0 0 1px rgba(255,255,255,.35)}
-  .sw[aria-pressed="true"]{background:#ece8e1;color:#121314}
-  .sw:focus-visible{outline:2px solid #d6f395;outline-offset:2px}
-  .fm-tabs p{background:rgba(18,19,20,.8)}
-  .fm-tab{color:var(--muted)}
-  .fm-tab[data-on]{background:#ece8e1;color:#121314}
-  .fm-tabs .fm-finish{background:rgba(18,19,20,.8);color:var(--ink)}
+  :where(.film-on) .step[data-step="frame"],:where(.film-on) .step[data-step="room"],:where(.film-on) .step[data-step="corner"],:where(.film-on) .step[data-step="print"]{min-height:calc((var(--tr) + var(--hold)) * var(--vh0,100svh))}
+  :where(.film-on) .step[data-step="canvas"]{min-height:calc((var(--tr) + var(--hold)) * 3 * var(--vh0,100svh))}
+  :where(.film-on) .step[data-step="metal"]{min-height:calc((var(--tr) + var(--hold)) * 2 * var(--vh0,100svh))}
+  :where(.film-on) .step:last-of-type{padding-bottom:0}
+  :where(.film-on) .fm-stage{opacity:var(--pw)}
+  :where(.film-on) .fm-over figure{opacity:clamp(0,var(--t) - var(--at) + .5,1)}
+  :where(.film-on) .fm-tabs{opacity:clamp(0,(var(--t) - 6.6) / .4,1)}
+  :where(.film-on) .fm-box{background:radial-gradient(62% 52% at 50% 44%,#2b2b2d 0%,#1b1b1d 62%,#141415 100%)}
+  :where(.film-on) .fm-object{filter:drop-shadow(1.7cqw 2.4cqw 1.8cqw rgba(0,0,0,.62))}
+  :where(.film-on) .fm-object img{transform:none;opacity:0;transition:opacity .35s ease}
+  :where(.film-on) .fm-object img.on{opacity:1}
+  :where(.film-on) .film:not(.fm-go) .fm-object img:not(.on){display:none}
+  :where(.film-on) .fm-swatches{display:flex;position:absolute;left:0;right:0;bottom:12px;justify-content:center;gap:6px;flex-wrap:wrap;padding:0 10px;opacity:clamp(0,1 - var(--t) * 4,1);transition:none}
+  :where(.film-on) .film[data-swatches-off] .fm-swatches{pointer-events:none}
+  :where(.film-on) .sw{appearance:none;border:0;background:rgba(18,19,20,.72);color:var(--ink);display:flex;align-items:center;gap:7px;padding:5px 10px 5px 5px;border-radius:999px;font:600 12px/1 var(--sans);cursor:pointer;min-height:34px}
+  :where(.film-on) .sw i{width:22px;height:22px;border-radius:50%;box-shadow:inset 0 0 0 1px rgba(255,255,255,.35)}
+  :where(.film-on) .sw[aria-pressed="true"]{background:#ece8e1;color:#121314}
+  :where(.film-on) .sw:focus-visible{outline:2px solid #d6f395;outline-offset:2px}
+  :where(.film-on) .fm-tabs p{background:rgba(18,19,20,.8)}
+  :where(.film-on) .fm-tab{color:var(--muted)}
+  :where(.film-on) .fm-tab[data-on]{background:#ece8e1;color:#121314}
+  :where(.film-on) .fm-tabs .fm-finish{background:rgba(18,19,20,.8);color:var(--ink)}
+@media (max-width:860px) and (orientation:portrait){
+  :where(.film-on) .film{--hold:var(--hold-p);--tr:var(--tr-p);--mh:calc(min(100vw * var(--arh),36svh) + 18px)}
+  :where(.film-on) .fm-box{width:min(100%,calc(36svh * var(--arn)))}
+  :where(.film-on) .fm-band{background:linear-gradient(var(--paper),rgba(18,19,20,0))}
+  :where(.film-on) .fm-cue{display:block;position:static;margin:6px 16px 0;text-align:center;font:600 12px/1.3 var(--sans);color:var(--ink-2);opacity:clamp(0,1 - var(--t) * 4,1)}
+  :where(.film-on) .film-cue{display:none}
+  :where(.film-on) .sw span{display:none}
+  :where(.film-on) .sw{padding:4px;min-height:32px}
+  :where(.film-on) .fm-swatches{bottom:8px;gap:5px}
 }
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference) and (max-width:860px){
-  .film{--hold:var(--hold-p);--tr:var(--tr-p);--mh:calc(min(100vw * var(--arh),36svh) + 18px)}
-  .fm-box{width:min(100%,calc(36svh * var(--arn)))}
-  .fm-band{background:linear-gradient(var(--paper),rgba(18,19,20,0))}
-  .fm-cue{display:block;position:static;margin:6px 16px 0;text-align:center;font:600 12px/1.3 var(--sans);color:var(--ink-2);opacity:clamp(0,1 - var(--t) * 4,1)}
-  .film-cue{display:none}
-  .sw span{display:none}
-  .sw{padding:4px;min-height:32px}
-  .fm-swatches{bottom:8px;gap:5px}
+@media (max-width:860px) and (orientation:portrait){
+  :where(.film-on) .hero-mark{display:none} 
+  :where(.film-on) .sw i{width:24px;height:24px}
+  :where(.film-on) .sw{padding:3px;min-height:30px}
+  :where(.film-on) .fm-swatches{gap:4px;flex-wrap:nowrap}
 }
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference) and (max-width:860px){
-  .hero-mark{display:none} /* the header carries the logo on phones, so the hero's first screen keeps the art and the call to action */
-  .sw i{width:24px;height:24px}
-  .sw{padding:3px;min-height:30px}
-  .fm-swatches{gap:4px;flex-wrap:nowrap}
-}
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference){
-  .fm-object img{position:absolute;inset:0} /* the finish layers stack exactly on one another (they cross-fade in place) */
-}
-
-/* ======================= review dark-1 + owner's quality bar (natural scroll, eased motion, art first) ======================= */
-/* the footer and other parts that used --ink as a background stay dark with light words on the dark home */
+  :where(.film-on) .fm-object img{position:absolute;inset:0} 
 .home .foot{background:#0d0e0f;color:#c4beb4;border-top:1px solid var(--line)}
 .home .foot h2{color:#ece8e1}
 .home .foot a{color:#ece8e1}
 .home .foot-note{color:#a39d94}
 .home .plan-pick{border-color:#ece8e1}
-/* the page scrolls exactly as the browser and the device do; only a tap on the jump bar glides (tools/widgets/home-film.mjs) */
 html:has(body.home){scroll-behavior:auto}
-/* calmer headline so the art leads; the invitation and a larger indicator sit on the first screen */
 .home .film h1{font-size:clamp(34px,3.7vw,52px)}
 .film-cue{display:flex;align-items:center;gap:14px;margin-top:22px;font-size:15px;font-weight:600;color:var(--ink-2)}
 .film-cue svg{flex:none}
-/* per-product lines in the words column */
 .p-lines{list-style:none;padding:0;margin:14px 0 0;color:var(--muted);font-size:15px}
 .p-lines li{margin:6px 0}
-
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference){
-  /* eased motion: every phase goes through a smoothstep (gentle in and out), still driven by the scroll position */
-  .film{
+  :where(.film-on) .film{
     --pwl:clamp(0,var(--t),1); --pw:calc(var(--pwl) * var(--pwl) * (3 - 2 * var(--pwl)));
     --pbl:clamp(0,var(--t) - 2,1); --pb:calc(var(--pbl) * var(--pbl) * (3 - 2 * var(--pbl)));
     --pzi:clamp(0,var(--t) - 4,1); --pzo:clamp(0,(var(--t) - 6) / .6,1);
     --pz:calc(var(--pzi) * var(--pzi) * (3 - 2 * var(--pzi)) - var(--pzo) * var(--pzo) * (3 - 2 * var(--pzo)));
     --ppl:clamp(0,(var(--t) - 6.2) / .8,1); --pp:calc(var(--ppl) * var(--ppl) * (3 - 2 * var(--ppl)));
   }
-  .fm-over figure{--x:clamp(0,var(--t) - var(--at) + .5,1);opacity:calc(var(--x) * var(--x) * (3 - 2 * var(--x)))}
-  .fm-over figure:not([data-ready]){opacity:0!important}
-  .fm-over .fm-base{opacity:1}
-  /* the hero: the frame large on the dark stage (about 88% of it), then the wall comes in and the camera settles on the frame */
-  .fm-cam{transform:translate(calc(var(--sxh) + (var(--sx0) - var(--sxh)) * var(--pw) - var(--sx0) * var(--pb) + var(--sxp) * var(--pp)),
+  :where(.film-on) .fm-over figure{--x:clamp(0,var(--t) - var(--at) + .5,1);opacity:calc(var(--x) * var(--x) * (3 - 2 * var(--x)))}
+  :where(.film-on) .fm-over figure:not([data-ready]){opacity:0!important}
+  :where(.film-on) .fm-over .fm-base{opacity:1}
+  :where(.film-on) .fm-cam{transform:translate(calc(var(--sxh) + (var(--sx0) - var(--sxh)) * var(--pw) - var(--sx0) * var(--pb) + var(--sxp) * var(--pp)),
       calc(var(--syh) + (var(--sy0) - var(--syh)) * var(--pw) - var(--sy0) * var(--pb) + var(--syp) * var(--pp)))
     scale(calc(var(--kh) + (.92 * var(--k0) - var(--kh)) * var(--pw) - (.92 * var(--k0) - 1) * var(--pb) + (var(--kp) - 1) * var(--pp)))}
-  .film-hero{justify-content:center}
-  /* swatches: over the foot of the stage on laptops; on phones under the stage (moved there by home-film.mjs), 44 px targets */
-  .fm-swatches{flex-wrap:wrap;row-gap:4px;bottom:14px}
-  .sw{min-height:40px}
-  .sw[data-k="metal"] i{border-radius:5px}
-  .sw-name{flex-basis:100%;margin:2px 0 0;text-align:center;font:600 12px/1.2 var(--sans);color:var(--ink-2)}
-  .film-media > .fm-swatches{display:flex;position:static;opacity:clamp(0,1 - var(--t) * 4,1);padding:10px 12px 0}
-  .p-lines li{transition:color .3s ease}
-  .p-lines li.on{color:var(--ink)}
-}
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference) and (max-width:860px){
-  .film{--mh:calc(min(100vw * var(--arh),34svh) + 18px + 74px)}
-  .fm-box{width:min(100%,calc(34svh * var(--arn)))}
-  .film-hero .film-cue{order:-1;display:flex;margin:4px 0 14px;font-size:13px;gap:10px}
-  .film-hero .film-cue svg{width:18px;height:28px}
-  .home .film h1{font-size:30px}
-  .film-media > .fm-swatches{gap:2px;flex-wrap:wrap;justify-content:center}
-  .film-media > .fm-swatches .sw{width:44px;height:44px;min-height:44px;padding:0;justify-content:center;background:transparent}
-  .film-media > .fm-swatches .sw i{width:28px;height:28px}
-  .film-media > .fm-swatches .sw[aria-pressed="true"]{background:rgba(236,232,225,.14);box-shadow:inset 0 0 0 1.5px #ece8e1}
-  .film-media > .fm-swatches .sw span{display:none}
-  .film-media > .fm-swatches .sw-name{margin:0}
+  :where(.film-on) .film-hero{justify-content:center}
+  :where(.film-on) .fm-swatches{flex-wrap:wrap;row-gap:4px;bottom:14px}
+  :where(.film-on) .sw{min-height:40px}
+  :where(.film-on) .sw[data-k="metal"] i{border-radius:5px}
+  :where(.film-on) .sw-name{flex-basis:100%;margin:2px 0 0;text-align:center;font:600 12px/1.2 var(--sans);color:var(--ink-2)}
+  :where(.film-on) .film-media > .fm-swatches{display:flex;position:static;opacity:clamp(0,1 - var(--t) * 4,1);padding:10px 12px 0}
+  :where(.film-on) .p-lines li{transition:color .3s ease}
+  :where(.film-on) .p-lines li.on{color:var(--ink)}
+@media (max-width:860px) and (orientation:portrait){
+  :where(.film-on) .film{--mh:calc(min(100vw * var(--arh),34svh) + 18px + 74px)}
+  :where(.film-on) .fm-box{width:min(100%,calc(34svh * var(--arn)))}
+  :where(.film-on) .film-hero .film-cue{order:-1;display:flex;margin:4px 0 14px;font-size:13px;gap:10px}
+  :where(.film-on) .film-hero .film-cue svg{width:18px;height:28px}
+  :where(.film-on) .home .film h1{font-size:30px}
+  :where(.film-on) .film-media > .fm-swatches{gap:2px;flex-wrap:wrap;justify-content:center}
+  :where(.film-on) .film-media > .fm-swatches .sw{width:44px;height:44px;min-height:44px;padding:0;justify-content:center;background:transparent}
+  :where(.film-on) .film-media > .fm-swatches .sw i{width:28px;height:28px}
+  :where(.film-on) .film-media > .fm-swatches .sw[aria-pressed="true"]{background:rgba(236,232,225,.14);box-shadow:inset 0 0 0 1.5px #ece8e1}
+  :where(.film-on) .film-media > .fm-swatches .sw span{display:none}
+  :where(.film-on) .film-media > .fm-swatches .sw-name{margin:0}
 }
 .home .film-cue{letter-spacing:0;font-weight:500;line-height:1.45}
-/* final notes: "Photoshop-quality" never splits; desktop swatches in a balanced 4 + 3; on phones the first screen keeps the stage,
-   the swatches, the invitation and the hero's own "Try it free" */
 .nw{white-space:nowrap}
 .sw-break{display:none}
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference){
-  .fm-box > .fm-swatches .sw-break{display:block;flex-basis:100%;height:0}
+  :where(.film-on) .fm-box > .fm-swatches .sw-break{display:block;flex-basis:100%;height:0}
+@media (max-width:860px) and (orientation:portrait){
+  :where(.film-on) .film-media{padding:6px 0 4px}
+  :where(.film-on) .film-media > .fm-swatches{padding:4px 12px 0}
+  :where(.film-on) .film-media > .fm-swatches .sw{height:40px;min-height:40px;width:44px}
+  :where(.film-on) .film-hero{padding:6px 0 24px}
+  :where(.film-on) .film-hero .film-cue{margin:0 0 8px;font-size:12.5px;line-height:1.35}
+  :where(.film-on) .film-hero .film-cue svg{width:15px;height:24px}
+  :where(.film-on) .film-hero .eyebrow{margin-bottom:8px}
+  :where(.film-on) .film-hero h1{margin-bottom:.3em}
+  :where(.film-on) .film-hero .lede{font-size:15px;line-height:1.5;margin-bottom:0}
+  :where(.film-on) .film-hero .hero-cta{margin-top:12px}
+  :where(.film-on) .film{--mh:calc(min(100vw * var(--arh),34svh) + 10px + 66px)}
 }
-@media (scripting:enabled) and (prefers-reduced-motion:no-preference) and (max-width:860px){
-  .film-media{padding:6px 0 4px}
-  .film-media > .fm-swatches{padding:4px 12px 0}
-  .film-media > .fm-swatches .sw{height:40px;min-height:40px;width:44px}
-  .film-hero{padding:6px 0 24px}
-  .film-hero .film-cue{margin:0 0 8px;font-size:12.5px;line-height:1.35}
-  .film-hero .film-cue svg{width:15px;height:24px}
-  .film-hero .eyebrow{margin-bottom:8px}
-  .film-hero h1{margin-bottom:.3em}
-  .film-hero .lede{font-size:15px;line-height:1.5;margin-bottom:0}
-  .film-hero .hero-cta{margin-top:12px}
-  .film{--mh:calc(min(100vw * var(--arh),34svh) + 10px + 66px)}
-}
-/* the phone fade band appears with the first scroll, so it never dims the invitation on the first screen */
 .fm-band{transition:opacity .3s ease}
 html:not([data-scrolled]) .fm-band{opacity:0}
+.fx-img > picture{display:contents}
+.fx-img > picture > img{width:100%;height:100%;object-fit:cover}
+.step-more>summary,.ph-more>summary{display:none}
+.step-more,.ph-more{margin:0}
+@media (max-width:860px){
+  .step-more>summary,.ph-more>summary{display:flex;align-items:center;gap:8px;min-height:44px;font:600 16px/1.2 var(--sans);color:var(--ink-2);cursor:pointer;list-style:none}
+  .step-more>summary::-webkit-details-marker,.ph-more>summary::-webkit-details-marker{display:none}
+  .ph-more > p{color:var(--muted);margin:0 0 18px}
+  .step-more>summary::after,.ph-more>summary::after{content:"+";font-weight:400;font-size:18px}
+  .step-more[open]>summary::after,.ph-more[open]>summary::after{content:"\2013"}
+  .home main p,.home main li{font-size:16px;line-height:1.5}
+  .home main .lede{font-size:17px}
+  .home main h2{font-size:clamp(26px,7.2vw,30px)}
+  .sw:active,.fx-zoom:active,.jump a:active,.btn:active,.step-more>summary:active,.ph-more>summary:active{transform:scale(.97)}
+  .home .jump a{min-height:44px;display:inline-flex;align-items:center;font-size:15px;padding:0 14px}
+  .home .btn{font-size:16px;min-height:48px}
+  .home .sets-grid figcaption,.home .sets-grid strong{font-size:16px}
+  .home .kit-crops figcaption,.home .kit-crops strong{font-size:15px}
+  .home .tool-groups h3{font-size:15px}
+  .home .tool-groups ul{gap:6px}
+  .home .tool-groups li a{display:flex;align-items:center;min-height:44px}
+  .home .tool-groups li span{font-size:16px;margin-top:0}
+  .home .feature-more:not(.in-text) a,.home .tools-list > p > a,.home .proof-chips a{display:inline-flex;align-items:center;min-height:44px}
+  .home .top-in{padding:4px 0 2px;row-gap:0}
+  .home .mark,.home .nav a,.home .top-cta a,.home .skip{min-height:44px;display:inline-flex;align-items:center}
+  .home .nav-try{min-height:44px;padding:0 14px}
+  .home .foot ul{gap:0}
+  .home .foot a{display:inline-flex;align-items:center;min-height:44px;min-width:44px;font-size:16px}
+  .bulk-grid{grid-template-columns:repeat(5,44vw);grid-template-rows:repeat(4,auto);grid-auto-flow:row;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:16px;
+    margin-inline:-16px;padding:0 16px 8px;gap:8px;scrollbar-width:none;overscroll-behavior-x:contain}
+  .bulk-grid::-webkit-scrollbar{display:none}
+  .bulk-grid figure{scroll-snap-align:start}
+  .film-cue svg{display:none}
+  .step-in:has(> .p-lines){display:flex;flex-direction:column;align-items:flex-start}
+  .step-in > .eyebrow{order:-2}
+  .step-in > .p-lines{order:-1}
+}
+@media (max-width:700px){
+  .fx-grid,.sets-grid{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:16px;gap:12px;margin-inline:-16px;padding:0 16px 8px;scrollbar-width:none;overscroll-behavior-x:contain}
+  .fx-grid::-webkit-scrollbar,.sets-grid::-webkit-scrollbar{display:none}
+  .fx,.sets-grid figure{flex:0 0 80vw;scroll-snap-align:start}
+  .sets-grid figure{animation:none}
+  .sets-grid{align-items:flex-start} 
+  .home .fx-zoom{display:inline-block;box-sizing:border-box;min-height:44px;padding:12px 0;line-height:20px;font-size:15px}
+  .home .fx figcaption{font-size:16px}
+}
+@media (max-width:860px) and (orientation:portrait){
+  :where(.film-on) .film{--mh:min(100vw * var(--arh),var(--vh0,100svh) * .6)} 
+  :where(.film-on) .film-hero{display:contents}
+  :where(.film-on) .home .film-hero > h1{order:-9;margin:10px 0 6px}
+  :where(.film-on) .film-media{order:-8;margin-inline:-16px;padding:0;background:var(--paper)}
+  :where(.film-on) .fm-box{width:100vw;aspect-ratio:auto;height:var(--mh);margin:0}
+  :where(.film-on) .fm-box > .fm-cam,:where(.film-on) .fm-box > .fm-corner{inset:auto;left:0;width:100%;height:auto;aspect-ratio:var(--ar);
+    top:calc((var(--mh) - 100vw * var(--arh)) * .42)}
+  :where(.film-on) .fm-box > .fm-corner{top:0} 
+  :where(.film-on) .fm-box > .fm-swatches{bottom:10px;gap:0 2px;padding:0;flex-wrap:wrap}
+  :where(.film-on) .fm-box > .fm-swatches .sw-break{display:none}
+  :where(.film-on) .fm-box > .fm-swatches .sw{width:44px;height:44px;min-height:44px;padding:0;justify-content:center;background:transparent}
+  :where(.film-on) .fm-box > .fm-swatches .sw i{width:28px;height:28px}
+  :where(.film-on) .fm-box > .fm-swatches .sw[aria-pressed="true"]{background:rgba(236,232,225,.14);box-shadow:inset 0 0 0 1.5px #ece8e1}
+  :where(.film-on) .fm-box > .fm-swatches .sw span{display:none}
+  :where(.film-on) .fm-box > .fm-swatches .sw-name{flex-basis:100%;margin:2px 0 0;text-align:center;font:600 16px/1.3 var(--sans);color:var(--ink)}
+  :where(.film-on) .film-hero > .hero-cta{order:-7;display:flex;align-items:flex-start;gap:14px;margin:10px 0 0}
+  :where(.film-on) .film-hero .cta-row{flex:none;margin:0}
+  :where(.film-on) .film-hero #try-note{flex:1;margin:0;font-size:16px;line-height:1.5;color:var(--ink-2)}
+  :where(.film-on) .tn-x{display:none}
+  :where(.film-on) .film-hero > .film-cue{order:-5;display:flex;margin:10px 0 0;font-size:16px;line-height:1.5;gap:10px;color:var(--ink)}
+  :where(.film-on) .film-hero > .film-cue svg{display:none} 
+  :where(.film-on) .film-hero > .eyebrow{order:-4;margin:28px 0 0}
+  :where(.film-on) .film-hero > .lede{order:-3;margin:6px 0 0}
+  :where(.film-on) .film-hero > .jump{order:-2;margin:14px 0 24px}
+  :where(.film-on) .step-in{top:calc(var(--mh) + 40px);padding:4px 0 18px}
+  :where(.film-on) .fm-band{height:44px}
+  :where(.film-on) .step .eyebrow{display:none}
+  :where(.film-on) .home .step h2{font:600 17px/1.45 var(--sans);letter-spacing:0;margin:0 0 4px}
+  :where(.film-on) .p-lines{margin:0}
+  :where(.film-on) .home .p-lines{min-height:48px} 
+  :where(.film-on) .home .p-lines li{display:none;font-size:16px;line-height:1.5;color:var(--ink-2);margin:0}
+  :where(.film-on) .home .p-lines li.on{display:block}
+  :where(.film-on) .pl-n{display:none}
+  :where(.film-on) .p-lines li::first-letter{text-transform:uppercase}
+  :where(.film-on) .step-in{display:flex;flex-direction:column;align-items:flex-start}
+  :where(.film-on) .step-in > .p-lines{order:-1}
+  :where(.film-on) .home .fm-tab{font-size:14px;padding:8px 12px}
+  :where(.film-on) .home .fm-tabs .fm-finish{font-size:14px}
+  :where(.film-on) .step-more>summary{min-height:44px}
+}
+.hero-kw,.step-sub{display:none}
+@media (max-width:860px){
+  .bulk-grid{-webkit-mask-image:linear-gradient(90deg,transparent 0,#000 14px);mask-image:linear-gradient(90deg,transparent 0,#000 14px)}
+}
+@media (max-width:700px){
+  .fx-grid,.sets-grid{-webkit-mask-image:linear-gradient(90deg,transparent 0,#000 14px);mask-image:linear-gradient(90deg,transparent 0,#000 14px)}
+  .home .fx figcaption span,.home .fx-zoom{font-size:16px}
+}
+@media (max-width:860px) and (orientation:portrait){
+  :where(.film-on) .h1-x,:where(.film-on) .cue-x{display:none}
+  :where(.film-on) .home .film-hero > h1{order:-10}
+  :where(.film-on) .film-hero > .hero-kw{display:block;order:-9;margin:-2px 0 8px;font:500 16px/1.4 var(--sans);color:var(--ink-2)}
+  :where(.film-on) .step-sub{display:block;margin:0 0 2px;font-size:16px;line-height:1.5;color:var(--ink-2)}
+  :where(.film-on) .step-in > .step-more{order:2}
+  :where(.film-on) .step-in > p:has(> .btn){order:3;margin-top:8px}
+  :where(.film-on) .step-in > .co-legend{order:1;margin:2px 0 4px;gap:4px 14px;font-size:16px;color:var(--ink-2)}
+  :where(.film-on) .step-in > .co-legend b{width:22px;height:22px;font-size:12px}
+  :where(.film-on) .film-media > .fm-tabs{position:absolute;top:100%;left:0;right:0;bottom:auto;transform:none;width:auto;z-index:3;padding:10px 16px 4px;
+    text-align:left;background:var(--paper);pointer-events:none}
+  :where(.film-on) .film-media > .fm-tabs::after{content:"";position:absolute;left:0;right:0;top:100%;height:20px;background:linear-gradient(var(--paper),rgba(18,19,20,0))}
+  :where(.film-on) .film-media > .fm-tabs p{display:inline-flex;flex-wrap:wrap;max-width:100%}
+  :where(.film-on) .home .film-media > .fm-tabs .fm-finish{display:block;width:auto;margin:8px 0 0;padding:0;background:none;font:600 17px/1.35 var(--sans);color:var(--ink);white-space:normal}
+  :where(.film-on) .step:is([data-step="canvas"],[data-step="print"],[data-step="metal"]) .step-in{top:calc(var(--mh) + 96px)}}
+.soon{padding:clamp(28px,4vw,48px) 0 0}
+.soon-h{font-size:clamp(22px,2.2vw,28px);margin:0 0 14px}
+.soon-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.soon-list li{margin:0}
+.soon-list li > strong,.soon-card strong{display:block;color:var(--ink);font-size:17px}
+.soon-list li > span,.soon-card span{display:block;color:var(--muted);font-size:15px;line-height:1.45;margin-top:2px}
+.soon-list li:not(:first-child){padding:14px 16px;border:1px solid var(--line);border-radius:14px}
+.soon-card{appearance:none;width:100%;min-height:44px;text-align:left;padding:14px 16px;border:1px solid #4b4c50;border-radius:14px;background:var(--soft);color:var(--ink);font:inherit;cursor:pointer}
+.soon-card span{text-decoration:underline;text-underline-offset:3px}
+.soon-card:active{transform:scale(.98)}
+.soon-sheet{max-width:min(600px,calc(100vw - 32px));padding:16px;border:1px solid var(--line);border-radius:18px;background:#17181a;color:var(--ink)}
+.soon-sheet::backdrop{background:rgba(0,0,0,.6)}
+.soon-sheet figure{margin:0}
+.soon-sheet img{width:100%;height:auto;border-radius:10px}
+.soon-sheet figcaption{margin-top:6px;font-size:14px;color:var(--muted)}
+.soon-sheet h3{margin:12px 0 4px}
+.soon-sheet p{margin:0 0 14px}
+@media (max-width:860px){
+  .soon-list{grid-template-columns:1fr;gap:8px}
+  .soon-sheet{position:fixed;inset:auto 0 0 0;margin:0;max-width:none;width:100%;border-radius:18px 18px 0 0;padding:16px 16px 24px}
+  .home .soon-list li > span,.home .soon-card span{font-size:16px}
+}
