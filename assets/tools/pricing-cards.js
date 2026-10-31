@@ -40,6 +40,7 @@ function mount() {
       const cents = node.dataset.priceKind === "monthly" ? p.monthlyAmounts[currency] : node.dataset.priceKind === "annual" ? p.annualAmounts[currency] : Math.round(p.annualAmounts[currency] / 12);
       node.textContent = formatMoney(cents, currency);
     }
+    for (const node of document.querySelectorAll("[data-free-price]")) node.textContent = formatMoney(0, currency);
     for (const entry of schemas) {
       updateSchema(entry.value, currency);
       entry.node.textContent = JSON.stringify(entry.value).replace(/</g, "\\u003c");
