@@ -62,7 +62,7 @@
 <section aria-labelledby="measured"><h2 id="measured">How we measured it on our examples</h2>
 <p>We checked the art in every image of WallMock's published example set: 61 room images made with WallMock from 30 artwork files, including sets, panoramas and tall pieces (the 6 close-ups on the <a href="/wall-art-mockup-examples/">examples page</a> are crops of these images). Each panel of a set was checked on its own, so that is 68 placed artworks. Two checks ran on each one:</p>
 <ol>
-<li><strong>The renderer's own check.</strong> The art area of the finished image is mapped back to a flat, straight-on view and compared with your file. To pass, it must score at least 0.90 for structural similarity and under 3 for average colour difference.</li>
+<li><strong>The renderer's own check.</strong> The art area of every finished image is compared with your file. To pass, it must score at least 0.90 for structural similarity and under 3 for average colour difference.</li>
 <li><strong>A separate check.</strong> A second check, run apart from the renderer, compares the art area with the unmodified source file: structural similarity on brightness in small 8 × 8 pixel windows, and the average colour difference (CIE76 ΔE) across the art.</li>
 </ol>
 <p>Structural similarity compares shapes, edges and fine detail: 1 out of 1 means identical (<a href="https://en.wikipedia.org/wiki/Structural_similarity_index_measure" rel="noopener">structural similarity</a>). Colour difference measures how far apart two colours are: 0 means the same colour, and about 2.3 is usually given as the smallest difference most people can notice (<a href="https://en.wikipedia.org/wiki/Color_difference" rel="noopener">colour difference</a>, checked 2026-10-29).</p>
