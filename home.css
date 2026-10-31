@@ -455,7 +455,8 @@ html:not([data-scrolled]) .fm-band{opacity:0}
   :where(.film-on) .film-media > .fm-tabs::after{content:"";position:absolute;left:0;right:0;top:100%;height:20px;background:linear-gradient(var(--paper),rgba(18,19,20,0))}
   :where(.film-on) .film-media > .fm-tabs p{display:inline-flex;flex-wrap:wrap;max-width:100%}
   :where(.film-on) .home .film-media > .fm-tabs .fm-finish{display:block;width:auto;margin:8px 0 0;padding:0;background:none;font:600 17px/1.35 var(--sans);color:var(--ink);white-space:normal}
-  :where(.film-on) .step:is([data-step="canvas"],[data-step="print"],[data-step="metal"]) .step-in{top:calc(var(--mh) + 96px)}}
+  :where(.film-on) .step:is([data-step="canvas"],[data-step="print"],[data-step="metal"]) .step-in{top:calc(var(--mh) + 96px)}
+  :where(.film-on) .film{padding-bottom:calc(var(--step) + 100px)}}
 .soon{padding:clamp(28px,4vw,48px) 0 0}
 .soon-h{font-size:clamp(22px,2.2vw,28px);margin:0 0 14px}
 .soon-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}

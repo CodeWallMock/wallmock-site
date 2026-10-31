@@ -4,7 +4,6 @@
 
 Your exact artwork in hundreds of realistic, curated rooms, for every design in your shop: set up favourite rooms once, add a whole collection, download listing-ready images. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Rooms are curated, digitally staged interiors reviewed by WallMock. Previews and images are made in your browser, on your device.
 
-WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies.
 WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 ## Key facts (checked 2026-10-28)
@@ -19,7 +18,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Access: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code.
 - Billing: Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 - Frames: Black, White, Natural oak, Walnut, Espresso, Gold, Silver. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
-- Speed: In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
+- Speed: In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
 - Size and scale: Enter your artwork's real size in centimetres or inches (long side 4 to 60 in). In the 332 library rooms with a published estimated wall scale, the artwork can be drawn at that size against the room's scale, and size matches show the estimate's range; other rooms use a reviewed placement size. The scale is estimated from the room photo, not measured on a wall, so check sizes against your product. A 2000 px size guide image compares the sizes you sell, or example sizes, side by side without frames, labelled in centimetres and inches.
 - History: WallMock has been in development since July 2026. Free previews opened to everyone on 26 October 2026, and paid plans on 28 October 2026.
 - Works in a web browser; no Photoshop or PSD files.
@@ -42,7 +41,7 @@ Made by the WallMock team. About WallMock, how the examples are made and how the
 Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App privacy policy: https://app.wallmock.com/privacy
 
 ## Questions
-- What is WallMock? WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
+- What is WallMock? WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection.
 - Who is it for? Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 - Is my artwork changed or redrawn? WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
 - Can I make mockups for a whole collection at once? Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Sets of 2, 3 or 4 are supported.
@@ -50,9 +49,9 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Can I match my print-on-demand supplier's frame? Match the frame your print-on-demand provider ships, even when it is not a standard finish. Choose from black, white, natural oak, walnut, espresso, gold and silver, or design your own frame. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come in a 20 mm wood frame, a 31.75 mm gallery wood frame or a 9.65 mm slim aluminum frame, each with or without a mat.
 - Can I design my own frame colour? Yes. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. It is not a fixed list of frames: design as many as your shop needs.
 - Which frames can I show for framed prints? Framed prints come in a 20 mm wood frame, a 31.75 mm gallery wood frame or a 9.65 mm slim aluminum frame, each with or without a mat. Mats come in white, warm white, cream, warm grey or black. Aluminum framed prints come in black, gold or silver.
-- Why choose WallMock over other mockup tools? Photoshop-quality framed canvas and print mockups of your exact art, made for a whole collection at once. Floating frames show the gap and the frame casts a soft wall shadow; your file is never redrawn; you set up favourite rooms once and every artwork goes into every chosen room; and you can try it with no sign-up. In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
-- How fast is WallMock? In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once. Previews are quicker, and a whole collection runs in one go: add your artworks, pick your saved rooms, and WallMock makes every image in turn.
-- Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4096 px image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
+- Why choose WallMock over other mockup tools? Photoshop-quality framed canvas and print mockups of your exact art, made for a whole collection at once. Floating frames show the gap and the frame casts a soft wall shadow; your file is never redrawn; you set up favourite rooms once and every artwork goes into every chosen room; and you can try it with no sign-up. In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
+- How fast is WallMock? In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once. Previews are quicker, and a whole collection runs in one go: add your artworks, pick your saved rooms, and WallMock makes every image in turn.
+- Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4K image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
 - How much does it cost? Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
@@ -64,7 +63,7 @@ URL: https://wallmock.com/
 Photoshop-quality 4K wall mockups, about 7 to 12 seconds each in our tests: floating frame canvas, framed and metal prints in 500+ rooms. Your exact art.
 
 Q: What is WallMock?
-A: WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection. It is not WallMockup (wallmockup.net), a different company.
+A: WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection.
 Q: Who is it for?
 A: Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 Q: Is my artwork changed or redrawn?
@@ -80,11 +79,11 @@ A: Yes. Design your own frame: pick wood grain, metallic or painted, then any co
 Q: Which frames can I show for framed prints?
 A: Framed prints come in a 20 mm wood frame, a 31.75 mm gallery wood frame or a 9.65 mm slim aluminum frame, each with or without a mat. Mats come in white, warm white, cream, warm grey or black. Aluminum framed prints come in black, gold or silver.
 Q: Why choose WallMock over other mockup tools?
-A: Photoshop-quality framed canvas and print mockups of your exact art, made for a whole collection at once. Floating frames show the gap and the frame casts a soft wall shadow; your file is never redrawn; you set up favourite rooms once and every artwork goes into every chosen room; and you can try it with no sign-up. In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
+A: Photoshop-quality framed canvas and print mockups of your exact art, made for a whole collection at once. Floating frames show the gap and the frame casts a soft wall shadow; your file is never redrawn; you set up favourite rooms once and every artwork goes into every chosen room; and you can try it with no sign-up. In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
 Q: How fast is WallMock?
-A: In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once. Previews are quicker, and a whole collection runs in one go: add your artworks, pick your saved rooms, and WallMock makes every image in turn.
+A: In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once. Previews are quicker, and a whole collection runs in one go: add your artworks, pick your saved rooms, and WallMock makes every image in turn.
 Q: Do I need Photoshop or PSD files?
-A: No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4096 px image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
+A: No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4K image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
 Q: How much does it cost?
 A: Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
 Q: Can I use it today?
@@ -94,12 +93,10 @@ A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It i
 
 ## About WallMock: the Wall Art Mockup Generator for Etsy Sellers
 URL: https://wallmock.com/about/
-WallMock in one line, who it is for, what it does to your artwork, how our examples are made and how facts are checked. Not WallMockup. Contact hello@wallmock.com.
+WallMock in one line, who it is for, what it does to your artwork, how our examples are made and how facts are checked. Not wallmock.app. Contact hello@wallmock.com.
 
 Q: What is WallMock?
 A: WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. It runs in a web browser and makes listing photos for one design or a whole collection.
-Q: Is WallMock the same as WallMockup?
-A: No. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies. WallMock is at wallmock.com and app.wallmock.com.
 Q: Is wallmock.com the same as wallmock.app?
 A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 Q: Who makes WallMock?
@@ -124,7 +121,7 @@ A: With PSD templates, each design goes into each template's smart object one by
 Q: Does bulk mockup work with Printify, Printful or Gelato designs?
 A: Yes. Upload the same artwork files you send to your print provider and choose the matching product, such as framed canvas or a framed poster. Then use the images in your Etsy or Shopify listings.
 Q: Is the quality high enough for Etsy zoom?
-A: Clean images are up to 4096 px, and your artwork is placed as supplied, never upscaled or repainted by AI. Start from a high-resolution file for the sharpest result.
+A: Clean images are up to 4K (4096 px), and your artwork is placed as supplied, never upscaled or repainted by AI. Start from a high-resolution file for the sharpest result.
 Q: How many images does a bulk run use?
 A: Designs multiplied by rooms. 30 designs in 8 rooms is 240 images. Lite includes 200 clean 4K images a month; Pro and Studio include unlimited clean 4K (4096 px) images. Previews are free and watermarked.
 Q: Can one batch mix square, portrait and panoramic art?
@@ -185,7 +182,7 @@ A: Every plan makes clean 4K (4096 px) images with the same rooms and frames. Pr
 Q: How many images can I make?
 A: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio).
 Q: How fast is it?
-A: In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
+A: In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
 Q: Do I need Photoshop?
 A: No. WallMock runs in your web browser, with no PSD files or smart objects to edit.
 
@@ -233,14 +230,14 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 
 ## Free Canvas Mockup Generator: What's Free, What's Paid
 URL: https://wallmock.com/free-canvas-mockup-generator/
-Free canvas mockup previews with no sign-up, watermarked. Clean 4096 px images need a plan from $5 a month. What to check in any free canvas mockup tool.
+Free canvas mockup previews with no sign-up, watermarked. Clean 4K images need a plan from $5 a month. What to check in any free canvas mockup tool.
 
-Short answer: Free canvas mockup generator: WallMock makes watermarked canvas previews free, with no sign-up and no card, for up to three artworks in 8 sample rooms. A free account adds 10 watermark-free downloads (1024 px) every 30 days, in every room for its first 10. Clean 4K images up to 4096 px need a paid plan, from $5 a month. In any free tool, check five things: the watermark, the image size, whether your art is redrawn, the canvas edge and the floating-frame gap.
+Short answer: Free canvas mockup generator: WallMock makes watermarked canvas previews free, with no sign-up and no card, for up to three artworks in 8 sample rooms. A free account adds 10 watermark-free downloads (1024 px) every 30 days, in every room for its first 10. Clean 4K (4096 px) images need a paid plan, from $5 a month. In any free tool, check five things: the watermark, the image size, whether your art is redrawn, the canvas edge and the floating-frame gap.
 
 Q: Is there a free canvas mockup generator with no sign-up?
 A: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. The previews carry a WallMock watermark.
 Q: Do free canvas mockups have a watermark?
-A: Previews do: every free preview is watermarked, in the guest studio and in a free account. A free account also gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images, up to 4096 px, come with a paid plan.
+A: Previews do: every free preview is watermarked, in the guest studio and in a free account. A free account also gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K (4096 px) images come with a paid plan.
 Q: How much does a clean canvas mockup cost?
 A: The Lite plan is $5 a month for 200 clean 4K images, so about 2.5 cents an image if you use them all. Pro ($12) and Studio ($24) include unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Watermarked previews are free.
 Q: Is there a free framed canvas mockup?
@@ -282,7 +279,7 @@ A: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8
 Q: What files can I upload to WallMock?
 A: JPEG, PNG or WebP artwork files, one at a time or a whole collection. Each file keeps its own proportions, from square to 3:1 panoramas and 1:3 tall pieces, and is never stretched or cropped to fit a room.
 Q: What size are WallMock's images?
-A: Clean images download in 4K: 4096 px on the long side, high quality and large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are smaller and watermarked.
+A: Clean images download in 4K (4096 px on the long side), high quality and large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are smaller and watermarked.
 Q: Does WallMock change my artwork?
 A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Lettering, signatures, colours and proportions stay exactly as they are in your file.
 
@@ -420,10 +417,10 @@ A: Images still in the tab are cleared. Download them first; downloading never u
 URL: https://wallmock.com/help/is-wallmock-the-same-as-wallmock-app/
 No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a…
 
-Short answer: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies.
+Short answer: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 Q: Is wallmock.com the same as wallmock.app?
-A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies.
+A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 Q: What is WallMock?
 A: WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints.
 Q: Who is WallMock for?
@@ -444,12 +441,12 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 
 ## What size are WallMock's images | WallMock Help
 URL: https://wallmock.com/help/what-size-are-wallmock-images/
-Clean images download in 4K: 4096 px on the long side, high quality and large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are…
+Clean images download in 4K (4096 px on the long side), high quality and large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are…
 
-Short answer: Clean images download in 4K: 4096 px on the long side, high quality and large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are smaller and watermarked.
+Short answer: Clean images download in 4K (4096 px on the long side), high quality and large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are smaller and watermarked.
 
 Q: What size are WallMock's images?
-A: Clean images download in 4K: 4096 px on the long side, high quality and large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are smaller and watermarked.
+A: Clean images download in 4K (4096 px on the long side), high quality and large enough to crop for Etsy, Shopify, Pinterest and Instagram. Free previews are smaller and watermarked.
 Q: Can I zoom in on the frame?
 A: Yes. Look at the full-size examples to see frame corners, the floating-frame gap and the canvas edge.
 Q: Does downloading again use a credit?
@@ -542,7 +539,7 @@ A: A framed print look with a white mat is closest to how works on paper are usu
 Q: Can I show a whole series at once?
 A: Yes. Save your favourite rooms and frame once, add the series, and every artwork is made in every chosen room. A pair, trio or set of four can also hang together on one wall.
 Q: Is it free to try?
-A: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. Clean images up to 4096 px come with a plan, from $5 a month.
+A: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. Clean images up to 4K come with a plan, from $5 a month.
 
 ## Poster Mockup Generator for Framed Posters and Prints
 URL: https://wallmock.com/poster-mockup-generator/
@@ -601,7 +598,7 @@ A: Gelato says Mockup Studio is available for Gelato+ subscribers, and users wit
 Q: Which framed canvas should my mockup show?
 A: The one your provider makes. Prodigi's is a floater frame with a 5 mm gap; Gelato states a 12 mm gap and black, natural wood or dark brown frames; Printful's reviews describe a floater frame. Pick the matching finish and show the gap if the frame floats.
 Q: What resolution do canvas mockups need for Etsy?
-A: Etsy recommends listing photos at least 2000 px on the shortest side. WallMock exports 4096 px images, so there is room to crop to Etsy's square thumbnail.
+A: Etsy recommends listing photos at least 2000 px on the shortest side. WallMock exports 4K (4096 px) images, so there is room to crop to Etsy's square thumbnail.
 
 ## WallMock Privacy: This Website and the App
 URL: https://wallmock.com/privacy/
@@ -657,9 +654,9 @@ Short answer: these are wall art mockup examples made with WallMock: framed canv
 Q: Are these real WallMock results?
 A: Yes. Every image on this page was made with WallMock from the artwork file as supplied, and checked against that file. Rooms are curated, digitally staged interiors reviewed by WallMock.
 Q: Can I zoom in?
-A: Yes. Click any room image or "Full size" to open a 2400 px version and look at the frame corners, the floating-frame gap and the canvas edge. The close-ups are 720 px squares cut from the 4096 px image at 100%, with nothing enlarged.
+A: Yes. Click any room image or "Full size" to open a 2400 px version and look at the frame corners, the floating-frame gap and the canvas edge. The close-ups are 720 px squares cut from the 4K image at 100%, with nothing enlarged.
 Q: What size are the images I download?
-A: Clean images are 4096 px on the long side, large enough to crop for Etsy, Shopify, Pinterest and Instagram.
+A: Clean images are 4K (4096 px on the long side), large enough to crop for Etsy, Shopify, Pinterest and Instagram.
 Q: Which frame colours are there?
 A: Black, white, natural oak, walnut, espresso, gold and silver, for floating-frame canvas and framed prints.
 Q: Is the artwork changed?
@@ -760,7 +757,7 @@ Short answer: Placeit is a broad design platform with mockups for many products,
 Q: What is a good Placeit alternative for wall art?
 A: If you sell framed canvas, stretched canvas or framed prints and want your exact artwork in curated rooms for a whole collection, WallMock is built for that one job. If you also need logos, videos and mockups for apparel or devices, Placeit's broad library may still suit you better.
 Q: Is there a free alternative to Placeit?
-A: WallMock gives free account: 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over), with watermarked previews. your first 10 free downloads work in all 500+ rooms; after that the free plan keeps 8 rooms. 4k (4096 px) images, watermark-free previews, every room, sets (any plan) and listing videos (pro and studio) need a plan; clean images need a plan, from $5 a month. Placeit also has some free templates; see its site for what they include.
+A: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. A free WallMock account adds 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images need a plan, from $5 a month. Placeit also has some free templates; see its site for what they include.
 Q: How much does Placeit cost?
 A: Placeit sells one subscription with no download limit. On 2026-10-26 its pricing page showed it from $7.47 a month, billed yearly in US dollars. Check Placeit's pricing page for today's price before you decide.
 Q: Does WallMock change my artwork?
@@ -774,7 +771,7 @@ A: Anyone can try free watermarked previews with no sign-up, then create a free 
 URL: https://wallmock.com/compare/smartist-alternative/
 Smartist runs only on Apple devices. WallMock runs in any browser on Windows, Android or Mac, for whole wall art collections. Facts checked 2026-10-29.
 
-Short answer: Smartist alternative for Windows and Android users: WallMock runs in any web browser, while Smartist is an app for iPhone, iPad, Mac and Apple Vision Pro, with no Android or web version yet. Smartist leads on its polished Apple app, your own room, augmented reality and a large ratings base. WallMock makes whole collections in saved rooms, draws the floating-frame gap, never redraws your art and exports 4096 px images. Published by WallMock; facts checked 2026-10-29.
+Short answer: Smartist alternative for Windows and Android users: WallMock runs in any web browser, while Smartist is an app for iPhone, iPad, Mac and Apple Vision Pro, with no Android or web version yet. Smartist leads on its polished Apple app, your own room, augmented reality and a large ratings base. WallMock makes whole collections in saved rooms, draws the floating-frame gap, never redraws your art and exports 4K (4096 px) images. Published by WallMock; facts checked 2026-10-29.
 
 Q: Is there a Smartist alternative for Windows?
 A: Yes. Smartist's help centre says it is only available on Apple devices (checked 2026-10-29), so there is no Windows version. WallMock runs in a web browser, so it works on a Windows PC with nothing to install.
@@ -787,7 +784,7 @@ A: On 2026-10-29 Smartist's site showed Pro at $19.99 a month, or $7.49 a month 
 Q: Can I use a photo of my own room in WallMock, as in Smartist?
 A: No. WallMock uses its own 500+ curated rooms and has no upload for your own room photo. If you need your own space or augmented reality, Smartist does both.
 Q: What image size do Smartist and WallMock export?
-A: Smartist's help centre gives a maximum of 3840 by 2400 pixels (checked 2026-10-29). WallMock's clean images go up to 4096 px.
+A: Smartist's help centre gives a maximum of 3840 by 2400 pixels (checked 2026-10-29). WallMock's clean images go up to 4K (4096 px).
 
 ## WallMock vs WallMockup: Two Different Mockup Tools
 URL: https://wallmock.com/compare/wallmock-vs-wallmockup/
@@ -802,7 +799,7 @@ A: On 2026-10-29 WallMockup's Pro Monthly plan was $4.99 a month with exports no
 Q: Which has better frame quality?
 A: Judge it by eye. WallMock's wall art mockup examples open every frame at full size, so you can check the corners, the floating-frame gap, the shine and the wall shadow; its frames come in 7 finishes plus any colour you design, and framed prints in 20 mm wood, 31.75 mm gallery wood or slim aluminum, with or without a mat. WallMockup lists 54 frame styles with adjustable thickness and an optional mat.
 Q: Which is faster?
-A: In our tests, a full-size 4096 px image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once. WallMockup's home page says a mockup takes under 60 seconds. WallMock also makes every artwork in every saved room in one run.
+A: In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once. WallMockup's home page says a mockup takes under 60 seconds. WallMock also makes every artwork in every saved room in one run.
 Q: Does WallMockup show art at true scale?
 A: Yes, according to its own home page: every scene is measured, so the print shows at the size you sell, in inches and centimetres. WallMock also takes your real size: Enter your artwork's real size in centimetres or inches (long side 4 to 60 in). In the 332 library rooms with a published estimated wall scale, the artwork can be drawn at that size against the room's scale, and size matches show the estimate's range; other rooms use a reviewed placement size. The scale is estimated from the room photo, not measured on a wall, so check sizes against your product.
 Q: Can both make mockups for many designs at once?
@@ -2022,7 +2019,7 @@ A: Etsy asks for a horizontal (landscape) or square first photo. Vertical photos
 Q: Why does my Etsy thumbnail cut off the art?
 A: Thumbnails are cropped, and Etsy advises leaving enough border that an image can be cropped to square. Keep the artwork inside the dashed square the checker draws, away from the edges of a landscape photo.
 Q: Is there a file size limit for Etsy photos?
-A: Etsy's image help article notes that images larger than 1 MB may not finish uploading, especially on a slower connection. The checker flags files over 1 MB as worth knowing, not as a failure: a sharp 4096 px export is often larger and uploads fine on a good connection.
+A: Etsy's image help article notes that images larger than 1 MB may not finish uploading, especially on a slower connection. The checker flags files over 1 MB as worth knowing, not as a failure: a sharp 4K (4096 px) export is often larger and uploads fine on a good connection.
 Q: Which file types does Etsy accept?
 A: Etsy's help article lists .jpg, .gif, .png, .svg and .heic. Save WebP, TIFF or AVIF files as JPEG or PNG before you upload them.
 Q: Are my photos uploaded?

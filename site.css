@@ -386,3 +386,4 @@ p{margin:0 0 1em}
 .gloss-matte figure{margin:0}
 .gloss-matte figcaption{margin-top:8px;font-size:15px;color:var(--muted)}
 @media (max-width:520px){.gloss-matte{gap:12px}.gloss-matte figcaption{font-size:14px}}
+.gloss-matte + p{margin-top:32px}
