@@ -1,19 +1,18 @@
-// Home/pricing cards share the app's exact regional resolver. Price data is public, approved minor units.
-import { CURRENCIES, preferredCurrency, formatMoney, saveCurrency } from "/pricing-currency.js?v=1";
+// Home/pricing cards use WallMock's server region and the app's shared formatter. Price data is public, approved minor units.
+import { CURRENCIES, fetchPricingRegion, formatMoney } from "/pricing-currency.js?v=2";
 
-const select = document.getElementById("pricing-currency");
 const source = document.getElementById("pricing-amounts");
 const help = document.getElementById("pricing-currency-help");
 const status = document.getElementById("pricing-currency-status");
 
 function mount() {
-  if (!select || !source || !help || !status) return;
+  if (!source || !help || !status) return;
   let plans, schemas;
   try {
     plans = JSON.parse(source.textContent);
     if (!Array.isArray(plans) || plans.length !== 2 || plans.some((p) => !["lite", "pro"].includes(p.id) || typeof p.name !== "string" || !CURRENCIES.every((c) => [p.monthlyAmounts?.[c], p.annualAmounts?.[c]].every((n) => Number.isSafeInteger(n) && n > 0)))) return;
     schemas = [...document.querySelectorAll('script[type="application/ld+json"]')].map((node) => ({ node, value: JSON.parse(node.textContent) }));
-  } catch { return; } // The static USD cards remain usable if local-price data cannot load.
+  } catch { return; } // Static prices remain explicitly USD references if data cannot load.
 
   const updateSchema = (node, currency) => {
     if (!node || typeof node !== "object") return;
@@ -33,7 +32,7 @@ function mount() {
     }
   };
 
-  function paint(currency, announce = false) {
+  function paint(currency) {
     if (!CURRENCIES.includes(currency)) currency = "usd";
     for (const node of document.querySelectorAll("[data-price-plan][data-price-kind]")) {
       const p = plans.find((p) => p.id === node.dataset.pricePlan);
@@ -50,23 +49,25 @@ function mount() {
       let destination;
       try { destination = new URL(anchor.getAttribute("href"), location.href); } catch { continue; }
       if (destination.origin !== "https://app.wallmock.com" || destination.username || destination.password) continue;
-      destination.searchParams.set("currency", currency);
+      destination.searchParams.delete("currency");
       anchor.href = destination.href;
     }
-    select.value = currency;
-    select.disabled = false;
-    help.textContent = `Cards show ${currency.toUpperCase()}. Your device region suggests a currency; you can change it here. Unsupported regions use USD. Other price examples are in USD. Taxes may apply at checkout.`;
     document.documentElement.dataset.pricingCurrency = currency;
-    if (announce) status.textContent = `Prices now shown in ${currency.toUpperCase()}.`;
   }
 
-  select.addEventListener("change", () => {
-    if (!CURRENCIES.includes(select.value)) return;
-    saveCurrency(select.value);
-    paint(select.value, true);
-  });
-  const restore = () => paint(preferredCurrency(null, CURRENCIES));
-  restore();
-  window.addEventListener("pageshow", restore);
+  let request = 0;
+  async function refresh() {
+    const current = ++request;
+    document.documentElement.dataset.pricingState = "loading";
+    help.textContent = "Checking price region… USD reference prices are shown until the check completes.";
+    const region = await fetchPricingRegion({ endpoint: "https://app.wallmock.com/api/pricing-region" });
+    if (current !== request) return;
+    paint(region?.currency ?? "usd");
+    document.documentElement.dataset.pricingState = region ? "ready" : "unavailable";
+    help.textContent = region ? `Cards show ${region.currency.toUpperCase()}. ${region.source === "fallback" ? "Your connection's country could not be determined, so USD prices apply." : "Price region is set automatically from your connection."} Your existing subscription keeps its billing currency. A VPN or proxy can affect the result. Other price examples are in USD. Taxes may apply at checkout.` : "USD reference prices. Price region could not be checked. The app must load prices before you can subscribe; no different amount is charged silently.";
+    status.textContent = region ? `Prices shown in ${region.currency.toUpperCase()}.` : "Price region is unavailable. USD reference prices shown.";
+  }
+  refresh();
+  window.addEventListener("pageshow", (event) => { if (event.persisted) refresh(); });
 }
 mount();
