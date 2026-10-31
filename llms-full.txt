@@ -6,17 +6,18 @@ Your exact artwork in hundreds of realistic, curated rooms, for every design in 
 
 WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
-## Key facts (checked 2026-10-28)
+## Key facts (checked 2026-10-31)
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal print (art on a frameless aluminium panel); Aluminum framed print (black, gold or silver), with or without a mat. Sets of 2, 3, 4.
 - Metal prints: A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen, or choose matte for a canvas-like finish. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Examples: https://wallmock.com/metal-print-mockup/
 - Rooms: 500+ curated room settings; images up to 4096 px. New rooms are added to the library over time.
 - Frame quality: each image is a clean 4096 px render; floating frames show the gap around the canvas, frames have a natural shine and each piece casts a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup, made for a whole collection at once with no PSDs. Zoom in and check the corners at full size: https://wallmock.com/wall-art-mockup-examples/
-- Price: Free account: 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over), with watermarked previews. Your first 10 free downloads work in all 500+ rooms; after that the free plan keeps 8 rooms. 4K (4096 px) images, watermark-free previews, every room, sets (any plan) and listing videos (Pro and Studio) need a plan. Plans: Lite $5/month or $39/year: 200 clean 4K (4096 px) images a month; Pro $12/month or $89/year: Unlimited clean 4K (4096 px) images; Studio $24/month or $179/year: Unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
+- Price: Free account: 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over), with watermarked previews. Your first 10 free downloads work in all 500+ rooms; after that the free plan keeps 8 rooms. 4K (4096 px) images, watermark-free previews, every room, sets (any plan) and listing videos (Pro) need a plan. Plans: Lite $5/month or $39/year: 200 clean 4K (4096 px) images a month; Pro $15/month or $144/year: Unlimited clean 4K (4096 px) images. Studio: Coming soon. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD; the pricing cards and app also offer EUR, GBP, CAD, AUD, INR and BRL.
+- Regional plan prices (monthly / annual paid upfront): Lite: USD 5 / 39; EUR 5 / 39; GBP 5 / 35; CAD 7 / 55; AUD 8 / 59; INR 299 / 2999; BRL 19.9 / 191.04. Pro: USD 15 / 144; EUR 15 / 144; GBP 12.5 / 120; CAD 20 / 192; AUD 22.5 / 216; INR 999 / 9999; BRL 59.9 / 575.04. Existing subscriptions keep their purchased terms.
 - Image quality: Every clean image downloads in 4K (4096 px), high quality and ready to list.
 - Try it free: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. https://app.wallmock.com/try
 - Access: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code.
-- Billing: Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+- Billing: Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 - Frames: Black, White, Natural oak, Walnut, Espresso, Gold, Silver. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
 - Speed: In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
 - Size and scale: Enter your artwork's real size in centimetres or inches (long side 4 to 60 in). In the 332 library rooms with a published estimated wall scale, the artwork can be drawn at that size against the room's scale, and size matches show the estimate's range; other rooms use a reviewed placement size. The scale is estimated from the room photo, not measured on a wall, so check sizes against your product. A 2000 px size guide image compares the sizes you sell, or example sizes, side by side without frames, labelled in centimetres and inches.
@@ -26,7 +27,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Contact: hello@wallmock.com
 
 ## Best for
-Print-on-demand and wall art shops that list many designs as framed canvas, stretched canvas or framed prints and want the same premium rooms across the whole shop, with unlimited clean 4K (4096 px) images on Pro and Studio.
+Print-on-demand and wall art shops that list many designs as framed canvas, stretched canvas or framed prints and want the same premium rooms across the whole shop, with unlimited clean 4K (4096 px) images on Pro.
 
 ## Why sellers choose WallMock
 - Photoshop-quality framing: the gap around floating-frame canvas, a natural shine on every frame and a soft wall shadow, in clean 4K (4096 px) images.
@@ -34,7 +35,7 @@ Print-on-demand and wall art shops that list many designs as framed canvas, stre
 - Whole collections: save favourite rooms once, and every artwork goes into every chosen room in one run, sets of 2, 3 or 4 included.
 - Frames: 7 finishes plus design-your-own frames in any colour; floating frames in balanced premium proportions, or True size to match a supplier's face width (10, 12 or 15 mm); framed prints in 20 mm wood, 31.75 mm gallery wood or slim aluminum, with or without a mat.
 - Speed: in our tests, about 7 to 12 seconds per full-size image in the browser, and a laptop makes up to 4 at once.
-- Try it with no sign-up and no card; plans from $5 a month, and unlimited clean 4K (4096 px) images on Pro from $12.
+- Try it with no sign-up and no card; plans from $5 a month, and unlimited clean 4K (4096 px) images on Pro from $15.
 
 ## Who makes WallMock
 Made by the WallMock team. About WallMock, how the examples are made and how these facts are checked: https://wallmock.com/about/
@@ -52,8 +53,8 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Why choose WallMock over other mockup tools? Photoshop-quality framed canvas and print mockups of your exact art, made for a whole collection at once. Floating frames show the gap and the frame casts a soft wall shadow; your file is never redrawn; you set up favourite rooms once and every artwork goes into every chosen room; and you can try it with no sign-up. In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
 - How fast is WallMock? In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once. Previews are quicker, and a whole collection runs in one go: add your artworks, pick your saved rooms, and WallMock makes every image in turn.
 - Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4K image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
-- How much does it cost? Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
-- Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+- How much does it cost? Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD; the pricing cards and app also offer EUR, GBP, CAD, AUD, INR and BRL.
+- Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 # Every page in full (130 pages)
@@ -85,9 +86,9 @@ A: In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in t
 Q: Do I need Photoshop or PSD files?
 A: No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4K image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
 Q: How much does it cost?
-A: Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
+A: Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD; the pricing cards and app also offer EUR, GBP, CAD, AUD, INR and BRL.
 Q: Can I use it today?
-A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 Q: Is WallMock the same as wallmock.app?
 A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
@@ -102,11 +103,11 @@ A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It i
 Q: Who makes WallMock?
 A: Made by the WallMock team. You can reach us at hello@wallmock.com.
 Q: Why do sellers choose WallMock?
-A: Photoshop-quality framing: the gap around floating-frame canvas, a natural shine on every frame and a soft wall shadow, in clean 4K (4096 px) images. Your exact art: never redrawn, repainted or upscaled by AI, with a published check. Whole collections: save favourite rooms once, and every artwork goes into every chosen room in one run, sets of 2, 3 or 4 included. Frames: 7 finishes plus design-your-own frames in any colour; floating frames in balanced premium proportions, or True size to match a supplier's face width (10, 12 or 15 mm); framed prints in 20 mm wood, 31.75 mm gallery wood or slim aluminum, with or without a mat. Speed: in our tests, about 7 to 12 seconds per full-size image in the browser, and a laptop makes up to 4 at once. Try it with no sign-up and no card; plans from $5 a month, and unlimited clean 4K (4096 px) images on Pro from $12.
+A: Photoshop-quality framing: the gap around floating-frame canvas, a natural shine on every frame and a soft wall shadow, in clean 4K (4096 px) images. Your exact art: never redrawn, repainted or upscaled by AI, with a published check. Whole collections: save favourite rooms once, and every artwork goes into every chosen room in one run, sets of 2, 3 or 4 included. Frames: 7 finishes plus design-your-own frames in any colour; floating frames in balanced premium proportions, or True size to match a supplier's face width (10, 12 or 15 mm); framed prints in 20 mm wood, 31.75 mm gallery wood or slim aluminum, with or without a mat. Speed: in our tests, about 7 to 12 seconds per full-size image in the browser, and a laptop makes up to 4 at once. Try it with no sign-up and no card; plans from $5 a month, and unlimited clean 4K (4096 px) images on Pro from $15.
 Q: Does WallMock change my artwork?
 A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. It keeps its own proportions and is never stretched to fit a room.
 Q: Can I use WallMock today?
-A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 
 ## Bulk Mockup Generator for Wall Art Collections
 URL: https://wallmock.com/bulk-mockup-generator/
@@ -123,7 +124,7 @@ A: Yes. Upload the same artwork files you send to your print provider and choose
 Q: Is the quality high enough for Etsy zoom?
 A: Clean images are up to 4K (4096 px), and your artwork is placed as supplied, never upscaled or repainted by AI. Start from a high-resolution file for the sharpest result.
 Q: How many images does a bulk run use?
-A: Designs multiplied by rooms. 30 designs in 8 rooms is 240 images. Lite includes 200 clean 4K images a month; Pro and Studio include unlimited clean 4K (4096 px) images. Previews are free and watermarked.
+A: Designs multiplied by rooms. 30 designs in 8 rooms is 240 images. Lite includes 200 clean 4K images a month; Pro includes unlimited clean 4K (4096 px) images. Previews are free and watermarked.
 Q: Can one batch mix square, portrait and panoramic art?
 A: Yes. Each artwork keeps its own proportions and is never stretched. Room options vary by artwork shape, so a room reviewed for portrait art may not offer a panoramic piece.
 Q: Do I lose my setup after the first collection?
@@ -178,9 +179,9 @@ A: Make listing photos for a whole collection at once: every artwork in every ro
 Q: Which frames and products does WallMock show?
 A: Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal print (art on a frameless aluminium panel), Aluminum framed print (black, gold or silver), with or without a mat. Design your own frame: pick wood grain, metallic or painted, then any colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
 Q: Is every feature in every plan?
-A: Every plan makes clean 4K (4096 px) images with the same rooms and frames. Pro and Studio include unlimited clean 4K (4096 px) images. Pro and Studio include listing videos. Free previews are watermarked. A free account gets 10 watermark-free downloads (1024 px) every 30 days, one free account per person; previews stay watermarked. Its first 10 free downloads work in every room, then the free plan keeps 8 rooms.
+A: Every plan makes clean 4K (4096 px) images with the same rooms and frames. Pro includes unlimited clean 4K (4096 px) images. Pro includes listing videos. Free previews are watermarked. A free account gets 10 watermark-free downloads (1024 px) every 30 days, one free account per person; previews stay watermarked. Its first 10 free downloads work in every room, then the free plan keeps 8 rooms.
 Q: How many images can I make?
-A: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio).
+A: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server.
 Q: How fast is it?
 A: In our tests, a full-size 4K (4096 px) image takes about 7 to 12 seconds in the browser, and a laptop makes up to 4 images at once.
 Q: Do I need Photoshop?
@@ -239,13 +240,13 @@ A: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8
 Q: Do free canvas mockups have a watermark?
 A: Previews do: every free preview is watermarked, in the guest studio and in a free account. A free account also gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K (4096 px) images come with a paid plan.
 Q: How much does a clean canvas mockup cost?
-A: The Lite plan is $5 a month for 200 clean 4K images, so about 2.5 cents an image if you use them all. Pro ($12) and Studio ($24) include unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Watermarked previews are free.
+A: The Lite plan is $5 a month for 200 clean 4K images, so about 2.5 cents an image if you use them all. Pro ($15) includes unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Watermarked previews are free.
 Q: Is there a free framed canvas mockup?
 A: Yes, as a watermarked preview. Choose Canvas, then a floating frame in black, white, natural oak, walnut, espresso, gold or silver. The preview shows the narrow gap between the canvas and the frame.
 Q: Does WallMock show the side edge of a stretched canvas?
 A: No. WallMock shows stretched canvas front-on with its shadow on the wall, and has no edge-colour option. If your buyers need to see the wrap, add a photo of your sample's side.
 Q: Can I cancel a plan at any time?
-A: Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+A: Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 
 ## Gallery Wall Mockup Generator for Pairs, Trios and Sets
 URL: https://wallmock.com/gallery-wall-mockup-generator/
@@ -273,7 +274,7 @@ Straight answers about WallMock: what it costs, how credits work, file types, im
 Short answer: straight answers about WallMock, each on its own page: price and credits, files and image size, privacy, frames and products, using mockups on Etsy, cancelling and signing in. For anything else, email hello@wallmock.com.
 
 Q: How much does WallMock cost?
-A: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Paying yearly costs $39, $89, $179. Watermarked previews are free, a free account gets 10 watermark-free downloads (1024 px) every 30 days, and you can try WallMock with no sign-up and no card.
+A: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Paying yearly costs $39, $144. Watermarked previews are free, a free account gets 10 watermark-free downloads (1024 px) every 30 days, and you can try WallMock with no sign-up and no card.
 Q: Can I try WallMock for free?
 A: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. A free account adds 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over); all 500+ rooms for your first 10 downloads, then 8 rooms, so you can check the look before you choose a plan.
 Q: What files can I upload to WallMock?
@@ -337,14 +338,14 @@ A: Yes. Typography and fine lines show exactly as they are in your file.
 
 ## How do WallMock credits work | WallMock Help
 URL: https://wallmock.com/help/how-do-credits-work/
-On Lite, one credit is one successful clean 4K image, 200 a month. Pro and Studio include unlimited clean 4K (4096 px) images. Fair use: up to 150 new…
+On Lite, one credit is one successful clean 4K image, 200 a month. Pro includes unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day…
 
-Short answer: On Lite, one credit is one successful clean 4K image, 200 a month. Pro and Studio include unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Watermarked previews are free, failed or cancelled images never count, and downloading again is free.
+Short answer: On Lite, one credit is one successful clean 4K image, 200 a month. Pro includes unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Watermarked previews are free, failed or cancelled images never count, and downloading again is free.
 
 Q: How do WallMock credits work?
-A: On Lite, one credit is one successful clean 4K image, 200 a month. Pro and Studio include unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Watermarked previews are free, failed or cancelled images never count, and downloading again is free.
+A: On Lite, one credit is one successful clean 4K image, 200 a month. Pro includes unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Watermarked previews are free, failed or cancelled images never count, and downloading again is free.
 Q: Do unused credits roll over?
-A: No. On Lite, each month's credits end with that month. Pro and Studio have no monthly image count, under the fair-use limit.
+A: No. On Lite, each month's credits end with that month. Pro has no monthly image count, under the fair-use limit.
 Q: Are previews charged?
 A: No. Watermarked previews, including the live preview while you set up a room, are free.
 
@@ -389,14 +390,14 @@ A: Not in the public product today.
 
 ## How much does WallMock cost | WallMock Help
 URL: https://wallmock.com/help/how-much-does-wallmock-cost/
-Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Paying yearly costs $39, $89,…
+Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Paying yearly costs $39, $144.…
 
-Short answer: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Paying yearly costs $39, $89, $179. Watermarked previews are free, a free account gets 10 watermark-free downloads (1024 px) every 30 days, and you can try WallMock with no sign-up and no card.
+Short answer: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Paying yearly costs $39, $144. Watermarked previews are free, a free account gets 10 watermark-free downloads (1024 px) every 30 days, and you can try WallMock with no sign-up and no card.
 
 Q: How much does WallMock cost?
-A: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Paying yearly costs $39, $89, $179. Watermarked previews are free, a free account gets 10 watermark-free downloads (1024 px) every 30 days, and you can try WallMock with no sign-up and no card.
+A: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Paying yearly costs $39, $144. Watermarked previews are free, a free account gets 10 watermark-free downloads (1024 px) every 30 days, and you can try WallMock with no sign-up and no card.
 Q: Is there a free plan?
-A: Free account: 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over), with watermarked previews. Your first 10 free downloads work in all 500+ rooms; after that the free plan keeps 8 rooms. 4K (4096 px) images, watermark-free previews, every room, sets (any plan) and listing videos (Pro and Studio) need a plan. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device.
+A: Free account: 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over), with watermarked previews. Your first 10 free downloads work in all 500+ rooms; after that the free plan keeps 8 rooms. 4K (4096 px) images, watermark-free previews, every room, sets (any plan) and listing videos (Pro) need a plan. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device.
 Q: Can I cancel any time?
 A: Yes. Cancel in Billing & plans, then Manage subscription. Your plan runs to the end of the period you paid for.
 
@@ -562,22 +563,24 @@ A: Yes. Save the rooms you like once, add every poster in the collection, and ea
 
 ## WallMock Pricing: Plans for Wall Art and POD Sellers
 URL: https://wallmock.com/pricing/
-WallMock pricing: free plan with 10 watermark-free downloads every 30 days, Lite $5 for 200 clean 4K images, or unlimited 4K images on Pro $12 or Studio $24.
+WallMock pricing in USD: Lite $5/month for 200 clean 4K images, Pro $15/month or $144/year for unlimited 4K images. Try free with 10 downloads every 30 days.
 
-Short answer: WallMock's plans: Lite $5 a month for 200 clean 4K (4096 px) images; Pro $12 and Studio $24 a month for unlimited clean 4K (4096 px) images. Yearly billing costs less. Watermarked previews are free, a free account gets 10 watermark-free downloads (1024 px) every 30 days, and you can try it with no sign-up and no card.
+Short answer: WallMock's plans: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Yearly billing costs less. Watermarked previews are free, a free account gets 10 watermark-free downloads (1024 px) every 30 days, and you can try it with no sign-up and no card.
 
 Q: Is there a free option?
-A: Free account: 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over), with watermarked previews. Your first 10 free downloads work in all 500+ rooms; after that the free plan keeps 8 rooms. 4K (4096 px) images, watermark-free previews, every room, sets (any plan) and listing videos (Pro and Studio) need a plan. Free downloads are 1024 px; a plan gives clean 4K (4096 px) images.
+A: Free account: 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over), with watermarked previews. Your first 10 free downloads work in all 500+ rooms; after that the free plan keeps 8 rooms. 4K (4096 px) images, watermark-free previews, every room, sets (any plan) and listing videos (Pro) need a plan. Free downloads are 1024 px; a plan gives clean 4K (4096 px) images.
 Q: What counts as one image?
 A: One clean 4K (4096 px) download of one artwork in one room. Watermarked previews don't count.
-Q: Is there a limit on Pro and Studio?
-A: Pro and Studio include unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Lite includes 200 clean 4K images a month.
+Q: Is there a limit on Pro?
+A: Pro includes unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Lite includes 200 clean 4K images a month.
 Q: Which plan should I pick?
-A: Most shops that add new designs every week start with Pro. Pick Lite if you list a few designs a month, Studio if you run several shops or make mockups for clients.
+A: Pick Lite for up to 200 clean 4K images a month. Choose Pro for larger collections, unlimited clean 4K (4096 px) images under fair use, listing videos and priority email support.
 Q: Can I pay yearly?
-A: Yes. Yearly prices are Lite $39, Pro $89, Studio $179. Prices in USD; the app shows local prices in EUR, GBP, CAD, AUD, INR and BRL.
+A: Yes. Yearly prices are Lite $39, Pro $144. Reference prices are USD; the pricing cards and app also offer EUR, GBP, CAD, AUD, INR and BRL. Annual plans are paid upfront.
+Q: What happens to an existing subscription?
+A: Existing subscriptions keep their purchased terms.
 Q: Can I use WallMock today?
-A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 
 ## Print-on-Demand Wall Art Mockup Generator
 URL: https://wallmock.com/print-on-demand-canvas-mockups/
@@ -624,7 +627,7 @@ Short answer: How refunds work for WallMock plans. Plans are subscriptions that 
 Q: Does WallMock give refunds?
 A: Yes. Within 14 days of your first subscription payment, WallMock refunds what you paid minus the value of the credits you've used.
 Q: How is the refund worked out?
-A: Each clean image you used is valued at your plan's monthly price divided by its rate base (Lite 200, Pro 5,000, Studio 10,000): 2.5, 0.24 and 0.24 US cents an image. That is deducted from what you paid. Pro and Studio are unlimited; the rate base only values the images you've used.
+A: Each clean image you used is valued at your subscription's standard monthly price divided by its rate base: Lite 200 and Pro 5,000. At the current USD prices, that is 2.5 US cents on Lite and 0.30 US cents on Pro. Existing subscriptions use their purchased price and rate base. That value is deducted from what you paid; a rate base is not a monthly image cap.
 Q: Are renewals refundable?
 A: No, except an accidental renewal with no credits used, if you write within 7 days. Cancel any time before your renewal date.
 Q: How do I ask for a refund?
@@ -698,7 +701,7 @@ A: Yes. Every comparison has a section on when the other tool is the better choi
 Q: What makes WallMock different from other mockup tools?
 A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. It is built for wall art only, with curated rooms, favourite-room setups you reuse across a collection, and every artwork made in every chosen room.
 Q: Can I try WallMock?
-A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Free account: 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over), with watermarked previews. Your first 10 free downloads work in all 500+ rooms; after that the free plan keeps 8 rooms. 4K (4096 px) images, watermark-free previews, every room, sets (any plan) and listing videos (Pro and Studio) need a plan.
+A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Free account: 10 watermark-free downloads (1024 px), back to 10 every 30 days (unused ones don't carry over), with watermarked previews. Your first 10 free downloads work in all 500+ rooms; after that the free plan keeps 8 rooms. 4K (4096 px) images, watermark-free previews, every room, sets (any plan) and listing videos (Pro) need a plan.
 
 ## ArtPlacer Alternative for Etsy Wall Art Sellers (2026)
 URL: https://wallmock.com/compare/artplacer-alternative/
@@ -780,7 +783,7 @@ A: Not yet. On 2026-10-29 Smartist's help centre answered "Not yet" and said an 
 Q: Is there an app like Smartist that works in a browser?
 A: WallMock is a browser-based alternative: open it at app.wallmock.com, with no download. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device.
 Q: How much does Smartist cost compared with WallMock?
-A: On 2026-10-29 Smartist's site showed Pro at $19.99 a month, or $7.49 a month on the yearly plan, and its help centre says the price depends on your region. WallMock plans are Lite $5, Pro $12, Studio $24 a month, or $39, $89 and $179 a year.
+A: On 2026-10-29 Smartist's site showed Pro at $19.99 a month, or $7.49 a month on the yearly plan, and its help centre says the price depends on your region. WallMock plans are Lite $5, Pro $15 a month, or Lite $39 and Pro $144 a year.
 Q: Can I use a photo of my own room in WallMock, as in Smartist?
 A: No. WallMock uses its own 500+ curated rooms and has no upload for your own room photo. If you need your own space or augmented reality, Smartist does both.
 Q: What image size do Smartist and WallMock export?
@@ -795,7 +798,7 @@ Short answer: WallMock (wallmock.com) and WallMockup (wallmockup.net) are differ
 Q: Is WallMock the same company as WallMockup?
 A: No. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies. WallMock's website is wallmock.com and its app is app.wallmock.com.
 Q: Which is cheaper, WallMock or WallMockup?
-A: On 2026-10-29 WallMockup's Pro Monthly plan was $4.99 a month with exports not capped, plus 10 credits a month, and a $5.99 one-time pack of 100 credits. Its 10 credits a month buy 2 preview 1K AI rooms or 1 listing-ready 2K AI room, and no page we read states its export size in pixels. WallMock's Lite is $5 a month for 200 clean 4K images, and Pro, at $12, includes unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). WallMockup costs less a month; every WallMock image is a full-size 4K file.
+A: On 2026-10-29 WallMockup's Pro Monthly plan was $4.99 a month with exports not capped, plus 10 credits a month, and a $5.99 one-time pack of 100 credits. Its 10 credits a month buy 2 preview 1K AI rooms or 1 listing-ready 2K AI room, and no page we read states its export size in pixels. WallMock's Lite is $5 a month for 200 clean 4K images, and Pro, at $15, includes unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. WallMockup costs less a month; every WallMock image is a full-size 4K file.
 Q: Which has better frame quality?
 A: Judge it by eye. WallMock's wall art mockup examples open every frame at full size, so you can check the corners, the floating-frame gap, the shine and the wall shadow; its frames come in 7 finishes plus any colour you design, and framed prints in 20 mm wood, 31.75 mm gallery wood or slim aluminum, with or without a mat. WallMockup lists 54 frame styles with adjustable thickness and an optional mat.
 Q: Which is faster?
@@ -892,7 +895,7 @@ A: No. Etsy's bulk editing covers titles, tags, descriptions, prices, custom opt
 Q: How many mockups can I publish from Printify to Etsy?
 A: Up to 20 per product, across all colour variants. Publishing fails above that.
 Q: How many room images will my collection need?
-A: Artworks multiplied by rooms. 20 artworks in 6 rooms is 120 images. WallMock's Lite plan includes 200 clean 4K images a month; Pro and Studio include unlimited clean 4K (4096 px) images.
+A: Artworks multiplied by rooms. 20 artworks in 6 rooms is 120 images. WallMock's Lite plan includes 200 clean 4K images a month; Pro includes unlimited clean 4K (4096 px) images.
 Q: Does WallMock upload to Printify or Etsy?
 A: No. WallMock makes the room photos in bulk; you add them to Printify's Mockup Library or to your Etsy listings yourself.
 
@@ -1785,7 +1788,7 @@ A: This checklist verifies the listing before publication. A sample check compar
 URL: https://wallmock.com/guides/wall-art-mockup-costs/
 Work out the real cost per listing photo for mockup packs, subscriptions and per-room pricing, including your time, with a worked example and WallMock's prices.
 
-Short answer: Compare cost per finished listing image, not the price tag. A one-off pack costs its price divided by the images you'll actually make from it, plus your editing time. A subscription costs its monthly price divided by the images you make that month. Per-room or per-image pricing is cheap for a few images and grows with every one. For most shops, time is the biggest cost. WallMock costs $5 a month for 200 images, or $12 for unlimited clean 4K (4096 px) images.
+Short answer: Compare cost per finished listing image, not the price tag. A one-off pack costs its price divided by the images you'll actually make from it, plus your editing time. A subscription costs its monthly price divided by the images you make that month. Per-room or per-image pricing is cheap for a few images and grows with every one. For most shops, time is the biggest cost. WallMock costs $5 a month for 200 images, or $15 for unlimited clean 4K (4096 px) images.
 
 Q: How much do wall art mockups cost?
 A: It depends on the model and your time. On one Etsy search we ran on 29 October 2026, half the framed canvas mockup bundles cost about 5 to 15 US dollars. Subscriptions charge monthly. Compare cost per image, including your time.
@@ -1794,7 +1797,7 @@ A: They cost nothing up front, but you still pay in time, and some need attribut
 Q: Is a mockup subscription worth it?
 A: If you list new designs regularly, usually yes, because the setup is reused and the time per image drops. For a few designs a year, a pack can be cheaper.
 Q: How much does WallMock cost?
-A: Lite is $5 a month for 200 clean 4K images. Pro ($12) and Studio ($24) include unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server (600 on Studio). Previews are free and watermarked.
+A: Lite is $5 a month for 200 clean 4K images. Pro ($15) includes unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Previews are free and watermarked.
 Q: What counts as one image in WallMock?
 A: One clean, full-size download of one artwork in one room. Watermarked previews don't count.
 Q: Can I keep using WallMock images after I cancel?

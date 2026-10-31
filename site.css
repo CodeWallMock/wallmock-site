@@ -387,3 +387,10 @@ p{margin:0 0 1em}
 .gloss-matte figcaption{margin-top:8px;font-size:15px;color:var(--muted)}
 @media (max-width:520px){.gloss-matte{gap:12px}.gloss-matte figcaption{font-size:14px}}
 .gloss-matte + p{margin-top:32px}
+
+/* Regional pricing: the same selector on home and pricing, with an explicit USD fallback. */
+.pricing-controls{display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;margin-top:22px;max-width:78ch}
+.pricing-controls label{display:flex;align-items:center;gap:10px;font-weight:600}
+.pricing-controls select{font:inherit;min-height:44px;padding:8px 32px 8px 12px;border:1px solid var(--muted);background:var(--paper);color:var(--ink);max-width:100%}
+.pricing-controls p{margin:0;flex:1 1 320px}
+.pricing-controls .sr{flex:none}

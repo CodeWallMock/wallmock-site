@@ -1,0 +1,53 @@
+/* Public website gallery palette. Shared by generated and frozen pages, without a theme/storage script.
+   Artwork, room photographs, swatches, canvas pixels and paper diagrams keep their original colours. */
+:root{
+  color-scheme:dark;
+  --paper:#121314;--soft:#17181a;--sage:#1a1b1d;--line:#34363a;
+  --ink:#ece8e1;--ink-2:#cdc7bd;--muted:#a19b92;
+  --accent:#d6f395;--ok:#9bc88b;--warn:#e1b66c;--bad:#ed9d91;
+}
+html,body{background:var(--paper);color:var(--ink)}
+:focus-visible{outline-color:var(--accent)}
+.dot,.brand-period{color:#a9bd7c}
+.skip,.nav-try,.btn,.plan-badge,.button,.header .nav-cta{
+  background:#ece8e1;color:#121314;border-color:#ece8e1;
+}
+.nav-try:hover,.btn:hover,.button:hover,.header .nav-cta:hover{background:#fff;color:#121314}
+.btn.ghost{background:transparent;color:var(--ink);border-color:#77736d}
+.btn.ghost:hover{background:#1e1f22;color:var(--ink)}
+.plan-pick{border-color:var(--ink)}
+.foot{background:#0d0e0f;color:#c4beb4;border-top:1px solid var(--line)}
+.foot h2,.foot a{color:var(--ink)}
+.foot-note{color:var(--muted)}
+.band.soft .feature-grid article{background:var(--soft)}
+/* Native fields remain readable on all article/tool routes and in the currency selector. */
+input,select,textarea{color:var(--ink);accent-color:var(--accent)}
+input:not([type=range]):not([type=checkbox]):not([type=radio]):not([type=file]):not([type=submit]):not([type=button]),select,textarea{
+  background:var(--paper);border-color:#77736d;
+}
+input::placeholder,textarea::placeholder{color:var(--muted);opacity:1}
+.tool :is(input,select,textarea){border-color:#77736d}
+.tool-err{color:var(--bad)}
+.tool-warn,.fit-a-little-narrow td:last-child,.fit-a-little-wide td:last-child{color:var(--warn)}
+.fit-in-range td:last-child{color:var(--ok)}
+.status-list .ico{color:#121314}
+/* Comparison labels/handles are annotations over the original images, not artwork recolouring. */
+.cmp-tag{background:rgba(18,19,20,.92);color:var(--ink)}
+.cmp-line::after{background-image:linear-gradient(90deg,transparent 13px,#182b30 13px,#182b30 15px,transparent 15px,transparent 25px,#182b30 25px,#182b30 27px,transparent 27px)}
+/* Frozen room, language and guide pages have explicit colours in their original stylesheets. */
+.room-gallery figcaption,.hub-card p,.facts dd,.guide-card p,.breadcrumbs,.byline,.contents a,
+.article-body p,.guide-diagram figcaption,.content-fig figcaption,.tool-card p,.feature-grid p,.lang-switch a{
+  color:var(--muted);
+}
+.facts dt,.hub-card,.type-list a,.guide-card,.tool-card,.lang-switch a[aria-current]{color:var(--ink)}
+.guide-card,.article-note,.contents,.tool-card,.check-card,.content-table th,.shell .tool{
+  background:var(--soft);border-color:var(--line);
+}
+.guide-card:hover{background:#202124;border-color:#77736d}
+.type-list a{border-color:#77736d}
+.promise{background:#0d0e0f;color:var(--ink)}
+.early-access{background:#1e2418;color:var(--ink)}
+.mail-note{color:#c5d5b2}
+.hero-visual figcaption{background:var(--soft);color:var(--ink)}
+.format-option:hover{background:var(--soft)}
+.format-option[aria-pressed=true]>span:last-child{background:var(--ink);color:var(--paper)}
