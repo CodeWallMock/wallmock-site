@@ -62,7 +62,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
-# Every page in full (132 pages)
+# Every page in full (133 pages)
 
 ## WallMock: Wall Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
@@ -690,6 +690,21 @@ Q: Does a worked example count as a timed collection test?
 A: No. Multiplying artworks by compatible rooms explains the expected output count. A performance result also needs the actual files, device, browser, app version, completed outputs and elapsed time.
 Q: Can you show that these mockups increase sales?
 A: We have not published a controlled sales study. The founder’s shop experience explains the product decisions; it does not establish a conversion lift for another shop.
+
+## WallMock Collection Workflow: Three Artworks, Nine Downloads
+URL: https://wallmock.com/testing/three-artwork-collection/
+Follow a recorded live WallMock collection workflow: three source files, three rooms and nine verified Free-plan downloads, with the actual ZIP to inspect.
+
+Short answer: We used the live WallMock Studio to make three original test artworks in three saved rooms. The batch produced nine watermark-free Free-plan images. We downloaded the ZIP, opened all nine JPEGs and checked their sizes and hashes. This walkthrough shows the choices, the files and the Free-plan limits encountered along the way.
+
+Q: Can I inspect the actual files?
+A: Yes. Download the original nine-image ZIP and its manifest, or the three source PNGs, from this page. The source designs are original diagnostic charts, not customer artwork.
+Q: Are these 4K images?
+A: These are Free-plan images with a 1024 px long edge: six are 1024 × 1024 and three are 818 × 1024. Paid plans include 4K downloads; this run does not test paid output.
+Q: Can I repeat this in the same three rooms on Free?
+A: Check your account’s room access and remaining allowance first. The first ten lifetime Free downloads have full-library access. After that, Free keeps eight rooms; a monthly allowance refill does not restore the full library.
+Q: Does this prove a supplier’s frame or a typical rendering time?
+A: It demonstrates this collection workflow and the downloaded files. It does not establish a physical supplier match or a typical speed across devices. Previews were already warm, and the automated download observer stalled, so no end-to-end speed benchmark is reported.
 
 ## Wall Art Mockup Examples: Framed Canvas, Prints, Sets
 URL: https://wallmock.com/wall-art-mockup-examples/

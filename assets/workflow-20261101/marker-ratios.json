@@ -1,0 +1,479 @@
+[
+  {
+    "file": "01-diagnostic-portrait-pale-2x3-french-hearth-side-art-bay-silver.jpg",
+    "manual_artwork_roi": [
+      460,
+      300,
+      665,
+      605
+    ],
+    "markers": {
+      "TL": {
+        "box": [
+          473,
+          318,
+          494,
+          339
+        ],
+        "pixels": 444
+      },
+      "TR": {
+        "box": [
+          631,
+          319,
+          652,
+          339
+        ],
+        "pixels": 430
+      },
+      "BL": {
+        "box": [
+          473,
+          566,
+          494,
+          587
+        ],
+        "pixels": 457
+      },
+      "BR": {
+        "box": [
+          631,
+          566,
+          652,
+          587
+        ],
+        "pixels": 449
+      }
+    },
+    "projected_width_px": 180.0,
+    "projected_height_px": 269.5,
+    "projected_ratio": 0.6679035250463822,
+    "source_ratio": 0.6666666666666666,
+    "relative_difference_percent": 0.18552875695734272,
+    "method": "RGB distance <=35 to known corner-marker colours; 4-connected components, >=35pixels, bbox aspect0.6..1.6 and fill>0.4; largest remaining component per marker in manually bounded artwork ROI. Projected outer edge dimensions, no source-ratio fitting or perspective correction."
+  },
+  {
+    "file": "02-diagnostic-portrait-pale-2x3-mediterranean-olive-salon-natural-oak.jpg",
+    "manual_artwork_roi": [
+      270,
+      145,
+      566,
+      580
+    ],
+    "markers": {
+      "TL": {
+        "box": [
+          285,
+          159,
+          317,
+          191
+        ],
+        "pixels": 1055
+      },
+      "TR": {
+        "box": [
+          521,
+          159,
+          553,
+          191
+        ],
+        "pixels": 1033
+      },
+      "BL": {
+        "box": [
+          285,
+          529,
+          317,
+          561
+        ],
+        "pixels": 1039
+      },
+      "BR": {
+        "box": [
+          521,
+          529,
+          553,
+          562
+        ],
+        "pixels": 1023
+      }
+    },
+    "projected_width_px": 269.0,
+    "projected_height_px": 403.5,
+    "projected_ratio": 0.6666666666666666,
+    "source_ratio": 0.6666666666666666,
+    "relative_difference_percent": 0.0,
+    "method": "RGB distance <=35 to known corner-marker colours; 4-connected components, >=35pixels, bbox aspect0.6..1.6 and fill>0.4; largest remaining component per marker in manually bounded artwork ROI. Projected outer edge dimensions, no source-ratio fitting or perspective correction."
+  },
+  {
+    "file": "03-diagnostic-portrait-pale-2x3-hero-scandi-white-walnut-framed-print.jpg",
+    "manual_artwork_roi": [
+      290,
+      130,
+      540,
+      490
+    ],
+    "markers": {
+      "TL": {
+        "box": [
+          302,
+          140,
+          329,
+          167
+        ],
+        "pixels": 733
+      },
+      "TR": {
+        "box": [
+          501,
+          140,
+          528,
+          167
+        ],
+        "pixels": 746
+      },
+      "BL": {
+        "box": [
+          302,
+          453,
+          329,
+          480
+        ],
+        "pixels": 743
+      },
+      "BR": {
+        "box": [
+          501,
+          453,
+          529,
+          480
+        ],
+        "pixels": 742
+      }
+    },
+    "projected_width_px": 227.5,
+    "projected_height_px": 341.0,
+    "projected_ratio": 0.6671554252199413,
+    "source_ratio": 0.6666666666666666,
+    "relative_difference_percent": 0.07331378299120228,
+    "method": "RGB distance <=35 to known corner-marker colours; 4-connected components, >=35pixels, bbox aspect0.6..1.6 and fill>0.4; largest remaining component per marker in manually bounded artwork ROI. Projected outer edge dimensions, no source-ratio fitting or perspective correction."
+  },
+  {
+    "file": "04-diagnostic-landscape-dark-3x2-french-hearth-side-art-bay-silver.jpg",
+    "manual_artwork_roi": [
+      365,
+      315,
+      765,
+      590
+    ],
+    "markers": {
+      "TL": {
+        "box": [
+          378,
+          330,
+          408,
+          360
+        ],
+        "pixels": 904
+      },
+      "TR": {
+        "box": [
+          719,
+          331,
+          748,
+          360
+        ],
+        "pixels": 863
+      },
+      "BL": {
+        "box": [
+          378,
+          547,
+          408,
+          576
+        ],
+        "pixels": 892
+      },
+      "BR": {
+        "box": [
+          719,
+          547,
+          748,
+          576
+        ],
+        "pixels": 850
+      }
+    },
+    "projected_width_px": 371.0,
+    "projected_height_px": 246.5,
+    "projected_ratio": 1.5050709939148073,
+    "source_ratio": 1.5,
+    "relative_difference_percent": 0.33806626098715764,
+    "method": "RGB distance <=35 to known corner-marker colours; 4-connected components, >=35pixels, bbox aspect0.6..1.6 and fill>0.4; largest remaining component per marker in manually bounded artwork ROI. Projected outer edge dimensions, no source-ratio fitting or perspective correction."
+  },
+  {
+    "file": "05-diagnostic-landscape-dark-3x2-mediterranean-olive-salon-natural-oak.jpg",
+    "manual_artwork_roi": [
+      205,
+      210,
+      637,
+      515
+    ],
+    "markers": {
+      "TL": {
+        "box": [
+          217,
+          225,
+          249,
+          258
+        ],
+        "pixels": 1061
+      },
+      "TR": {
+        "box": [
+          588,
+          226,
+          620,
+          258
+        ],
+        "pixels": 1041
+      },
+      "BL": {
+        "box": [
+          217,
+          461,
+          249,
+          494
+        ],
+        "pixels": 1011
+      },
+      "BR": {
+        "box": [
+          588,
+          462,
+          620,
+          493
+        ],
+        "pixels": 1000
+      }
+    },
+    "projected_width_px": 404.0,
+    "projected_height_px": 269.0,
+    "projected_ratio": 1.5018587360594795,
+    "source_ratio": 1.5,
+    "relative_difference_percent": 0.12391573729864103,
+    "method": "RGB distance <=35 to known corner-marker colours; 4-connected components, >=35pixels, bbox aspect0.6..1.6 and fill>0.4; largest remaining component per marker in manually bounded artwork ROI. Projected outer edge dimensions, no source-ratio fitting or perspective correction."
+  },
+  {
+    "file": "06-diagnostic-landscape-dark-3x2-hero-scandi-white-walnut-framed-print.jpg",
+    "manual_artwork_roi": [
+      198,
+      160,
+      633,
+      460
+    ],
+    "markers": {
+      "TL": {
+        "box": [
+          210,
+          174,
+          243,
+          206
+        ],
+        "pixels": 1058
+      },
+      "TR": {
+        "box": [
+          586,
+          174,
+          619,
+          206
+        ],
+        "pixels": 1074
+      },
+      "BL": {
+        "box": [
+          210,
+          413,
+          243,
+          445
+        ],
+        "pixels": 1072
+      },
+      "BR": {
+        "box": [
+          586,
+          413,
+          619,
+          445
+        ],
+        "pixels": 1055
+      }
+    },
+    "projected_width_px": 410.0,
+    "projected_height_px": 272.0,
+    "projected_ratio": 1.5073529411764706,
+    "source_ratio": 1.5,
+    "relative_difference_percent": 0.4901960784313708,
+    "method": "RGB distance <=35 to known corner-marker colours; 4-connected components, >=35pixels, bbox aspect0.6..1.6 and fill>0.4; largest remaining component per marker in manually bounded artwork ROI. Projected outer edge dimensions, no source-ratio fitting or perspective correction."
+  },
+  {
+    "file": "07-diagnostic-square-colour-1x1-french-hearth-side-art-bay-silver.jpg",
+    "manual_artwork_roi": [
+      415,
+      300,
+      710,
+      605
+    ],
+    "markers": {
+      "TL": {
+        "box": [
+          428,
+          319,
+          454,
+          344
+        ],
+        "pixels": 675
+      },
+      "TR": {
+        "box": [
+          671,
+          319,
+          697,
+          344
+        ],
+        "pixels": 660
+      },
+      "BL": {
+        "box": [
+          428,
+          562,
+          454,
+          587
+        ],
+        "pixels": 666
+      },
+      "BR": {
+        "box": [
+          671,
+          562,
+          697,
+          587
+        ],
+        "pixels": 656
+      }
+    },
+    "projected_width_px": 270.0,
+    "projected_height_px": 269.0,
+    "projected_ratio": 1.003717472118959,
+    "source_ratio": 1,
+    "relative_difference_percent": 0.3717472118959009,
+    "method": "RGB distance <=35 to known corner-marker colours; 4-connected components, >=35pixels, bbox aspect0.6..1.6 and fill>0.4; largest remaining component per marker in manually bounded artwork ROI. Projected outer edge dimensions, no source-ratio fitting or perspective correction."
+  },
+  {
+    "file": "08-diagnostic-square-colour-1x1-mediterranean-olive-salon-natural-oak.jpg",
+    "manual_artwork_roi": [
+      205,
+      145,
+      637,
+      580
+    ],
+    "markers": {
+      "TL": {
+        "box": [
+          218,
+          159,
+          256,
+          198
+        ],
+        "pixels": 1519
+      },
+      "TR": {
+        "box": [
+          581,
+          159,
+          620,
+          198
+        ],
+        "pixels": 1534
+      },
+      "BL": {
+        "box": [
+          218,
+          523,
+          257,
+          562
+        ],
+        "pixels": 1535
+      },
+      "BR": {
+        "box": [
+          581,
+          523,
+          620,
+          562
+        ],
+        "pixels": 1508
+      }
+    },
+    "projected_width_px": 403.0,
+    "projected_height_px": 404.0,
+    "projected_ratio": 0.9975247524752475,
+    "source_ratio": 1,
+    "relative_difference_percent": -0.24752475247524774,
+    "method": "RGB distance <=35 to known corner-marker colours; 4-connected components, >=35pixels, bbox aspect0.6..1.6 and fill>0.4; largest remaining component per marker in manually bounded artwork ROI. Projected outer edge dimensions, no source-ratio fitting or perspective correction."
+  },
+  {
+    "file": "09-diagnostic-square-colour-1x1-hero-scandi-white-walnut-framed-print.jpg",
+    "manual_artwork_roi": [
+      245,
+      135,
+      588,
+      482
+    ],
+    "markers": {
+      "TL": {
+        "box": [
+          255,
+          149,
+          286,
+          180
+        ],
+        "pixels": 997
+      },
+      "TR": {
+        "box": [
+          545,
+          149,
+          576,
+          180
+        ],
+        "pixels": 982
+      },
+      "BL": {
+        "box": [
+          255,
+          440,
+          286,
+          470
+        ],
+        "pixels": 946
+      },
+      "BR": {
+        "box": [
+          545,
+          439,
+          576,
+          470
+        ],
+        "pixels": 966
+      }
+    },
+    "projected_width_px": 322.0,
+    "projected_height_px": 322.0,
+    "projected_ratio": 1.0,
+    "source_ratio": 1,
+    "relative_difference_percent": 0.0,
+    "method": "RGB distance <=35 to known corner-marker colours; 4-connected components, >=35pixels, bbox aspect0.6..1.6 and fill>0.4; largest remaining component per marker in manually bounded artwork ROI. Projected outer edge dimensions, no source-ratio fitting or perspective correction."
+  }
+]

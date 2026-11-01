@@ -1,0 +1,120 @@
+{
+  "recorded": "2026-11-01",
+  "task": "Three diagnostic artworks across three saved rooms through the live WallMock Studio",
+  "mode": "Free1K single-artwork batch",
+  "inputs": [
+    {
+      "file": "diagnostic-portrait-pale-2x3.png",
+      "width": 800,
+      "height": 1200,
+      "ratio": "2:3",
+      "sha256": "0a501b29a67ff6169eefc91a92334de5bf2311f8607206a6b94efc7b89414d26"
+    },
+    {
+      "file": "diagnostic-landscape-dark-3x2.png",
+      "width": 1200,
+      "height": 800,
+      "ratio": "3:2",
+      "sha256": "d3197a09d569c0ec88db0a288ad2e0556877c44eb757c224a948823de6753940"
+    },
+    {
+      "file": "diagnostic-square-colour-1x1.png",
+      "width": 1000,
+      "height": 1000,
+      "ratio": "1:1",
+      "sha256": "98f099ba6a44d71fdba4a0d2d4facc346d859647f91fe1d13f15b321626bc9d4"
+    }
+  ],
+  "images": [
+    {
+      "file": "01-diagnostic-portrait-pale-2x3-french-hearth-side-art-bay-silver.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 425009,
+      "sha256": "f3e8bf020030d1ab72f6de627403098026608cf699b5c14b41412c017744373e"
+    },
+    {
+      "file": "02-diagnostic-portrait-pale-2x3-mediterranean-olive-salon-natural-oak.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 459781,
+      "sha256": "01695078b2a2f45608ac85aa29df3b2345fe9f479280e4c9820f7e8b8a37a3b2"
+    },
+    {
+      "file": "03-diagnostic-portrait-pale-2x3-hero-scandi-white-walnut-framed-print.jpg",
+      "width": 818,
+      "height": 1024,
+      "bytes": 485527,
+      "sha256": "7812db4fcb3054ebe51df679186317b99c79c9b9b940777d93959977d5b8cb5c"
+    },
+    {
+      "file": "04-diagnostic-landscape-dark-3x2-french-hearth-side-art-bay-silver.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 430265,
+      "sha256": "025de7e9bb564e5e6ada419f3495086164b84c82389617829f39eee94aec2c4a"
+    },
+    {
+      "file": "05-diagnostic-landscape-dark-3x2-mediterranean-olive-salon-natural-oak.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 467530,
+      "sha256": "a337ed7e3c9cb238078a601f54d07b473b2fc4d73212fe6c3c5d3256249680e9"
+    },
+    {
+      "file": "06-diagnostic-landscape-dark-3x2-hero-scandi-white-walnut-framed-print.jpg",
+      "width": 818,
+      "height": 1024,
+      "bytes": 493710,
+      "sha256": "bf3f7428f41e3746b8bdaa65aa1da9cd77bd60a42a289c1d7dde2d09cd687136"
+    },
+    {
+      "file": "07-diagnostic-square-colour-1x1-french-hearth-side-art-bay-silver.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 422604,
+      "sha256": "5f19fd3bc2917856e15a7cf6e51e0c7f2a838b7e24de987a034a5dec1b3f5ef4"
+    },
+    {
+      "file": "08-diagnostic-square-colour-1x1-mediterranean-olive-salon-natural-oak.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 451633,
+      "sha256": "2c3b01946fc89b647e80794e806630c9c9e8dfdaa5226f85f8298dd82fefdb5b"
+    },
+    {
+      "file": "09-diagnostic-square-colour-1x1-hero-scandi-white-walnut-framed-print.jpg",
+      "width": 818,
+      "height": 1024,
+      "bytes": 486644,
+      "sha256": "974cf4b6e5e6925ce1a73494ebf1a180759887479c79c77362e98119ba310210"
+    }
+  ],
+  "archive": {
+    "path": "/assets/workflow-20261101/nine-images.zip",
+    "bytes": 4125882,
+    "sha256": "8f5896114ecf8fe13aadd3adad8041d1765547e9ba435b5b6f504ba153c251fa"
+  },
+  "conditions": [
+    "Chrome on macOS, one computer; previews already rendered before Generate.",
+    "Three original code-native test files; no customer artwork.",
+    "No exact speed benchmark reported; automation download-event capture stalled and normal downloaded archive was independently verified.",
+    "No physical supplier-match or paid4K claim."
+  ],
+  "review": {
+    "imageCount": 9,
+    "uniqueArtRoomPairs": 9,
+    "crc": "pass",
+    "manifestHashesDimensionsBytes": "all9match",
+    "visibleCornerMarkers": 36,
+    "maxAbsoluteProjectedRatioDifferencePercent": 0.49,
+    "method": "Known corner-colour segmentation in manually bounded, nearly front-on artwork regions. No fitting to expected ratio. JPEG boundaries and colour-threshold uncertainty apply.",
+    "notEstablished": [
+      "lossless pixel identity",
+      "physical print color",
+      "supplier frame equivalence",
+      "general perspective correction",
+      "all-device speed"
+    ]
+  }
+}

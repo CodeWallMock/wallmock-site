@@ -104,6 +104,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [Why I Built WallMock for My Etsy Art Shop](https://wallmock.com/story/)
 - [WallMock Terms of Service](https://wallmock.com/terms/)
 - [WallMock Testing: Artwork Checks and Listing Examples](https://wallmock.com/testing/)
+- [WallMock Collection Workflow: Three Artworks, Nine Downloads](https://wallmock.com/testing/three-artwork-collection/)
 - [Wall Art Mockup Examples: Framed Canvas, Prints, Sets](https://wallmock.com/wall-art-mockup-examples/)
 - [WallMock Updates and Changelog: What's New](https://wallmock.com/whats-new/)
 - [Wandbild-Mockups für Bilderrahmen und Leinwand](https://wallmock.com/de/)
