@@ -214,3 +214,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 
 ## Rooms
 - [All rooms by type](https://wallmock.com/rooms/): 258 room pages. Full list: https://wallmock.com/sitemap.xml
+
+## Automated access
+
+Search and shopping assistants may read and link to public pages and help users compare plans. Studio automation, reverse engineering and extraction or reuse of source code, room layers and frame assets are subject to the [WallMock terms](https://wallmock.com/terms/#t-use).

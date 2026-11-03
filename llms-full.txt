@@ -2319,3 +2319,7 @@ Q: Does it work in centimetres?
 A: Yes. Switch the unit to cm; the chart labels each size in both units, and ISO sizes such as A3 and A2 are named.
 Q: Is my data uploaded?
 A: No. The chart is drawn and saved in your browser; nothing is sent anywhere.
+
+## Automated access
+
+Search and shopping assistants may read and link to public pages and help users compare plans. Studio automation, reverse engineering and extraction or reuse of source code, room layers and frame assets are subject to the [WallMock terms](https://wallmock.com/terms/#t-use).
