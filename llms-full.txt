@@ -18,7 +18,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Image quality: Paid plans include clean 4K (4096 px) downloads. Free accounts include 10 watermark-free 1K (1024 px) single-artwork downloads every 30 days.
 - Try it free: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. https://app.wallmock.com/try
 - Access: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code.
-- Billing: Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+- Billing: Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
 - Frames: Black, White, Natural oak, Walnut, Espresso, Gold, Silver. On Lite or Pro, save up to five custom frame colours and reuse them in product profiles. Choose wood grain, metallic or painted, then pick a colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
 - Speed: Rendering runs in your browser. Time varies with your device, artwork files, selected rooms and batch size; try a representative file before starting a collection.
 - Size and scale: Enter your artwork's real size in centimetres or inches (long side 4 to 60 in). In the 332 library rooms with a published estimated wall scale, the artwork can be drawn at that size against the room's scale, and size matches show the estimate's range; other rooms use a reviewed placement size. The scale is estimated from the room photo, not measured on a wall, so check sizes against your product. A 2000 px size guide image compares the sizes you sell, or example sizes, side by side without frames, labelled in centimetres and inches.
@@ -60,7 +60,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - What happens when I use my 10 free downloads? Your account stays Free, with no automatic charge. Watermarked previews continue in your included rooms. Your next 10 download credits arrive at your normal 30-day reset; unused credits do not roll over.
 - Which rooms are included in Free? Your first 10 free downloads over your account's lifetime can use all 500+ rooms. After those downloads, 8 free rooms remain. The 30-day refill restores downloads, not full-library access.
 - How much does it cost? Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD. Pricing cards and the app set USD, EUR, GBP, CAD, AUD, INR or BRL automatically from your connection; existing subscriptions keep their billing currency.
-- Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+- Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 # Every page in full (133 pages)
@@ -100,7 +100,7 @@ A: Your first 10 free downloads over your account's lifetime can use all 500+ ro
 Q: How much does it cost?
 A: Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD. Pricing cards and the app set USD, EUR, GBP, CAD, AUD, INR or BRL automatically from your connection; existing subscriptions keep their billing currency.
 Q: Can I use it today?
-A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
 Q: Is WallMock the same as wallmock.app?
 A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
@@ -119,7 +119,7 @@ A: Framing detail: the floating-frame gap, material highlights and a wall shadow
 Q: Does WallMock change my artwork?
 A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. It keeps its own proportions and is never stretched to fit a room.
 Q: Can I use WallMock today?
-A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
 
 ## Bulk Mockup Generator for Wall Art Collections
 URL: https://wallmock.com/bulk-mockup-generator/
@@ -258,7 +258,7 @@ A: Yes, as a watermarked preview. Choose Canvas, then a floating frame in black,
 Q: Does WallMock show the side edge of a stretched canvas?
 A: No. WallMock shows stretched canvas front-on with its shadow on the wall, and has no edge-colour option. If your buyers need to see the wrap, add a photo of your sample's side.
 Q: Can I cancel a plan at any time?
-A: Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+A: Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
 
 ## Gallery Wall Mockup Generator for Pairs, Trios and Sets
 URL: https://wallmock.com/gallery-wall-mockup-generator/
@@ -370,7 +370,7 @@ Short answer: Open Billing & plans in the profile menu, then Manage subscription
 Q: How do I cancel my WallMock plan?
 A: Open Billing & plans in the profile menu, then Manage subscription, and cancel. You don't need to contact us. Your plan and its credits continue to the end of the period you paid for, then stop renewing.
 Q: Will I get a refund if I cancel?
-A: Cancelling doesn't refund the current period, except the 14-day refund on a first subscription, minus credits used.
+A: Cancelling stops the next renewal; your plan keeps working to the end of the period you paid for. A first subscription can get a refund of its unused days within 7 days; see the refund policy.
 Q: Do I keep my downloaded images?
 A: Yes. Clean images you downloaded keep their commercial-use licence.
 
@@ -594,7 +594,7 @@ A: Yes. Yearly prices are Lite $39, Pro $144. Reference prices are USD. Pricing 
 Q: What happens to an existing subscription?
 A: Existing subscriptions keep their purchased terms.
 Q: Can I use WallMock today?
-A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
 
 ## Print-on-Demand Wall Art Mockup Generator
 URL: https://wallmock.com/print-on-demand-canvas-mockups/
@@ -632,18 +632,18 @@ A: The app at app.wallmock.com, including the free previews at https://app.wallm
 Q: How do I ask WallMock to delete my email?
 A: Email hello@wallmock.com and ask us to delete your messages or to stop contacting you.
 
-## WallMock Refund Policy: 14 Days on Your First Plan
+## WallMock Refund Policy: Cancel Any Time
 URL: https://wallmock.com/refunds/
-WallMock refunds your first subscription within 14 days, minus credits already used. How renewals, duplicate charges and failed images are handled.
+Cancel WallMock any time. A first subscription can get a refund of its unused days within 7 days. How renewals, duplicate charges and mistakes are handled.
 
-Short answer: How refunds work for WallMock plans. Plans are subscriptions that add credits each month; WallMock doesn't sell one-time credit packs.
+Short answer: Cancel any time and your plan runs to the end of the period you paid for. A first subscription can get a refund of its unused days within 7 days of the first payment. Renewals aren't refundable.
 
 Q: Does WallMock give refunds?
-A: Yes. Within 14 days of your first subscription payment, WallMock refunds what you paid minus the value of the credits you've used.
+A: Yes, on a first subscription. Within 7 days of your first payment, WallMock refunds the unused days of that period, unless more than 100 clean images have been downloaded.
 Q: How is the refund worked out?
-A: Each clean image you used is valued at your subscription's standard monthly price divided by its rate base: Lite 200 and Pro 5,000. At the current USD prices, that is 2.5 US cents on Lite and 0.30 US cents on Pro. Existing subscriptions use their purchased price and rate base. That value is deducted from what you paid; a rate base is not a monthly image cap.
+A: By days: what you paid, divided by the days in the period, times the days left. The day you paid counts as used. For example, Pro monthly at $15 for a 30-day month, asked on day 3, refunds $13.50.
 Q: Are renewals refundable?
-A: No, except an accidental renewal with no credits used, if you write within 7 days. Cancel any time before your renewal date.
+A: No. Cancel any time before your renewal date. An accidental renewal with no clean downloads since it renewed is refunded in full if you write within 7 days.
 Q: How do I ask for a refund?
 A: Email hello@wallmock.com from the address you sign in with, with the payment date and amount. Refunds go back to your card through Stripe.
 

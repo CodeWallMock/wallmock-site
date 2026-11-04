@@ -18,7 +18,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Image quality: Paid plans include clean 4K (4096 px) downloads. Free accounts include 10 watermark-free 1K (1024 px) single-artwork downloads every 30 days.
 - Try it free: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. https://app.wallmock.com/try
 - Access: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code.
-- Billing: Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+- Billing: Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
 - Frames: Black, White, Natural oak, Walnut, Espresso, Gold, Silver. On Lite or Pro, save up to five custom frame colours and reuse them in product profiles. Choose wood grain, metallic or painted, then pick a colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
 - Speed: Rendering runs in your browser. Time varies with your device, artwork files, selected rooms and batch size; try a representative file before starting a collection.
 - Size and scale: Enter your artwork's real size in centimetres or inches (long side 4 to 60 in). In the 332 library rooms with a published estimated wall scale, the artwork can be drawn at that size against the room's scale, and size matches show the estimate's range; other rooms use a reviewed placement size. The scale is estimated from the room photo, not measured on a wall, so check sizes against your product. A 2000 px size guide image compares the sizes you sell, or example sizes, side by side without frames, labelled in centimetres and inches.
@@ -60,7 +60,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - What happens when I use my 10 free downloads? Your account stays Free, with no automatic charge. Watermarked previews continue in your included rooms. Your next 10 download credits arrive at your normal 30-day reset; unused credits do not roll over.
 - Which rooms are included in Free? Your first 10 free downloads over your account's lifetime can use all 500+ rooms. After those downloads, 8 free rooms remain. The 30-day refill restores downloads, not full-library access.
 - How much does it cost? Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD. Pricing cards and the app set USD, EUR, GBP, CAD, AUD, INR or BRL automatically from your connection; existing subscriptions keep their billing currency.
-- Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time; new subscribers can get a refund within 14 days, minus credits used.
+- Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 ## Main pages
@@ -101,7 +101,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [WallMock Pricing: Plans for Wall Art and POD Sellers](https://wallmock.com/pricing/)
 - [Print-on-Demand Wall Art Mockup Generator](https://wallmock.com/print-on-demand-canvas-mockups/)
 - [WallMock Privacy: This Website and the App](https://wallmock.com/privacy/)
-- [WallMock Refund Policy: 14 Days on Your First Plan](https://wallmock.com/refunds/)
+- [WallMock Refund Policy: Cancel Any Time](https://wallmock.com/refunds/)
 - [Why I Built WallMock for My Etsy Art Shop](https://wallmock.com/story/)
 - [WallMock Terms of Service](https://wallmock.com/terms/)
 - [WallMock Testing: Artwork Checks and Listing Examples](https://wallmock.com/testing/)
