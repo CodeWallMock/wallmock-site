@@ -639,7 +639,7 @@ Cancel WallMock any time. A first subscription can get a refund of its unused da
 Short answer: Cancel any time and your plan runs to the end of the period you paid for. A first subscription can get a refund of its unused days within 7 days of the first payment. Renewals aren't refundable.
 
 Q: Does WallMock give refunds?
-A: Yes, on a first subscription. Within 7 days of your first payment, WallMock refunds the unused days of that period, unless more than 100 clean images have been downloaded.
+A: Yes, on a first subscription. Within 7 days of your first payment, WallMock refunds the unused days of that period, unless more than 100 clean images have been downloaded or 100 or more different rooms have been opened.
 Q: How is the refund worked out?
 A: By days: what you paid, divided by the days in the period, times the days left. The day you paid counts as used. For example, Pro monthly at $15 for a 30-day month, asked on day 3, refunds $13.50.
 Q: Are renewals refundable?
