@@ -343,7 +343,7 @@ Short answer: No. WallMock places your file as it is: it is never redrawn, repai
 
 Q: Does WallMock change my artwork?
 A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Lettering, signatures, colours and proportions stay exactly as they are in your file.
-Q: Is the room AI-generated?
+Q: What kind of room appears in the mockup?
 A: Rooms are curated, digitally staged interiors reviewed by WallMock. The artwork in them is yours, unchanged.
 Q: Will text in my design stay sharp?
 A: Yes. Typography and fine lines show exactly as they are in your file.
@@ -852,12 +852,12 @@ A: Smartist's help centre gives a maximum of 3840 by 2400 pixels (checked 2026-1
 URL: https://wallmock.com/compare/wallmock-vs-wallmockup/
 WallMock vs WallMockup: different products from different companies. Rooms, frames, speed and price side by side, checked 2026-10-29, and which to choose.
 
-Short answer: WallMock (wallmock.com) and WallMockup (wallmockup.net) are different products from different companies. WallMockup is a true-scale mockup editor with 720 room scenes, 54 frame styles, AI-made rooms and a $4.99 monthly plan. WallMock makes Photoshop-quality framed canvas and print mockups of your exact art in 500+ curated rooms, for a whole collection at once, with standard finishes plus up to five saved custom frame colours on Lite or Pro, and unlimited clean 4K (4096 px) images on Pro. Published by WallMock; facts checked 2026-10-29.
+Short answer: WallMock (wallmock.com) and WallMockup (wallmockup.net) are different products from different companies. WallMockup is a true-scale mockup editor with 720 room scenes, 54 frame styles, custom rooms and a $4.99 monthly plan. WallMock makes Photoshop-quality framed canvas and print mockups of your exact art in 500+ curated rooms, for a whole collection at once, with standard finishes plus up to five saved custom frame colours on Lite or Pro, and unlimited clean 4K (4096 px) images on Pro. Published by WallMock; facts checked 2026-10-29.
 
 Q: Is WallMock the same company as WallMockup?
 A: No. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are different products from different companies. WallMock's website is wallmock.com and its app is app.wallmock.com.
 Q: Which is cheaper, WallMock or WallMockup?
-A: On 2026-10-29 WallMockup's Pro Monthly plan was $4.99 a month with exports not capped, plus 10 credits a month, and a $5.99 one-time pack of 100 credits. Its 10 credits a month buy 2 preview 1K AI rooms or 1 listing-ready 2K AI room, and no page we read states its export size in pixels. WallMock's Lite is $5 a month for 200 clean 4K images, and Pro, at $15, includes unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. WallMockup costs less a month; WallMock paid downloads are 4K; Free downloads are 1K.
+A: On 2026-10-29 WallMockup's Pro Monthly plan was $4.99 a month with exports not capped, plus 10 credits a month, and a $5.99 one-time pack of 100 credits. Its 10 credits a month buy 2 preview 1K custom rooms or 1 listing-ready 2K custom room, and no page we read states its export size in pixels. WallMock's Lite is $5 a month for 200 clean 4K images, and Pro, at $15, includes unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. WallMockup costs less a month; WallMock paid downloads are 4K; Free downloads are 1K.
 Q: Which has better frame quality?
 A: Judge it by eye. WallMock's wall art mockup examples open every frame at full size, so you can check the corners, the floating-frame gap, the shine and the wall shadow; its frames come in 7 finishes plus any colour you design, and framed prints in 20 mm wood, 31.75 mm gallery wood or slim aluminum, with or without a mat. WallMockup lists 54 frame styles with adjustable thickness and an optional mat.
 Q: Which is faster?
@@ -867,7 +867,7 @@ A: Yes, according to its own home page: every scene is measured, so the print sh
 Q: Can both make mockups for many designs at once?
 A: Yes. WallMockup's batch page says one set holds up to 60 room-and-frame combinations that you can reuse. WallMock saves your favourite rooms and frame looks once and makes every artwork in every chosen room.
 Q: Does either tool redraw my artwork?
-A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. WallMockup's credits also pay for custom rooms made with AI around your art; its dated home-page description says your artwork remains a separate layer and is never sent to its AI model. That is the vendor's statement, not an independent test.
+A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. WallMockup's credits also pay for custom rooms built around your art; its dated home-page description says your artwork remains a separate layer and is never sent to its AI model. That is the vendor's statement, not an independent test.
 Q: Can I try both for free?
 A: WallMockup offers a 7-day trial with no credit card. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device.
 
@@ -886,10 +886,10 @@ A: The images are made with WallMock. Rooms are curated, digitally staged interi
 URL: https://wallmock.com/guides/ai-wall-art-mockup-generator/
 Make framed canvas, framed print and metal print mockups from your original artwork. See what changes in a mockup and what Etsy and Shopify sellers should check.
 
-Short answer: WallMock uses the artwork you upload to make mockups of framed canvas, framed prints and metal prints. Your art is never redrawn, repainted or upscaled by AI. WallMock renders the frame, canvas edge, mat or metal finish using your file, then places it in a reviewed, AI-generated room.
+Short answer: WallMock uses the artwork you upload to make mockups of framed canvas, framed prints and metal prints. Your art is never redrawn, repainted or upscaled by AI. WallMock renders the frame, canvas edge, mat or metal finish using your file, then places it in a curated, digitally staged room.
 
 Q: Does WallMock use AI to change my artwork?
-A: WallMock uses the file you upload. It never redraws, repaints or upscales the artwork with AI. The room background is AI-generated. Perspective, lighting and export settings can affect how the artwork appears in the finished image.
+A: WallMock uses the file you upload. It never redraws, repaints or upscales the artwork with AI. Perspective, lighting and export settings can affect how the artwork appears in the finished image.
 Q: How can I tell if an AI mockup generator redrew my design?
 A: Compare the full-size mockup with the source. Check small lettering, signatures, fine lines and all four edges. A different letter or missing detail is a reason to reject the image. A shift in brightness can come from scene lighting.
 Q: Can I use WallMock mockups on Etsy?
@@ -903,12 +903,12 @@ A: Yes. Use the same uploaded file and select the product you actually sell. Che
 URL: https://wallmock.com/guides/are-ai-mockups-allowed-on-etsy/
 Etsy allows edited and AI-assisted listing photos if they show exactly what the buyer gets. What its rules say, the unedited-photo rule, and why art must stay exact.
 
-Short answer: Yes, within limits. Etsy lets you edit listing photos, including with AI, as long as they accurately show what the buyer will receive. Most items also need at least one unedited photo of the actual item; Etsy allows an authorised stock photo mockup when a production partner prints your original design on a standard base product. So an AI-made room can be fine, but AI-redrawn art is not: if the art in the photo differs from the print, the photo misrepresents the item.
+Short answer: Yes, within limits. Etsy lets you edit listing photos, including with AI, as long as they accurately show what the buyer will receive. Most items also need at least one unedited photo of the actual item; Etsy allows an authorised stock photo mockup when a production partner prints your original design on a standard base product. A staged mockup must show the artwork and product accurately.
 
 Q: Are mockups allowed on Etsy?
 A: Yes. Etsy allows edited images, including mockups, as long as they accurately show what the buyer receives. Most physical items also need at least one unedited photo of the actual item.
 Q: Can I use AI-generated mockups on Etsy?
-A: You can use AI to make or edit the room, as long as the item is shown accurately. Don't let a tool redraw the artwork itself, because the photo then shows a different picture from the print.
+A: You can use edited supplemental images as long as they show the item accurately. Don't let a tool redraw the artwork itself, because the photo then shows a different picture from the print.
 Q: Do I need an unedited photo of my print on Etsy?
 A: For most items, yes. Etsy allows an authorised stock photo mockup when a production partner prints your original design on a standard base product. A photo of a sample is still the strongest proof.
 Q: Do I have to say my photos are mockups?
@@ -1628,10 +1628,10 @@ A: Yes. Use the same artwork file, choose the matching product and frame in Wall
 URL: https://wallmock.com/guides/prodigi-mockups-for-wall-art/
 Prodigi's 3D and AI mockups for wall art, the framed canvas, box frame and mount specs your photos must match, and when to add your own room photos.
 
-Short answer: Prodigi makes 3D rendered mockups in its dashboard for wall art such as classic frames, box frames and stretched, framed and rolled canvas, and AI scene mockups (15 free to try). Its framed canvas is a floater frame with a 5 mm gap and a 12 mm frame face; its box frames stand 33 mm from the wall; mounts come in snow white, off-white or black. Use the 3D views for product detail, and add room photos that show the same frame, gap and mount.
+Short answer: Prodigi makes 3D rendered mockups in its dashboard for wall art such as classic frames, box frames and stretched, framed and rolled canvas, and custom scene mockups (15 free to try). Its framed canvas is a floater frame with a 5 mm gap and a 12 mm frame face; its box frames stand 33 mm from the wall; mounts come in snow white, off-white or black. Use the 3D views for product detail, and add room photos that show the same frame, gap and mount.
 
 Q: Does Prodigi have a mockup generator?
-A: Yes. Prodigi makes 3D rendered mockups in its dashboard image editor, with three views per product, and AI scene mockups where you choose the lighting and describe the setting.
+A: Yes. Prodigi makes 3D rendered mockups in its dashboard image editor, with three views per product, and custom scene mockups where you choose the lighting and describe the setting.
 Q: Are Prodigi mockups free?
 A: Prodigi says you can try 15 AI mockups free and that Prodigi Pro merchants get more access (checked 2026-10-29). Its 3D mockups are in the dashboard when you create an order.
 Q: What is the gap on Prodigi's framed canvas?
