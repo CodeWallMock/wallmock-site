@@ -479,3 +479,12 @@ html:not([data-scrolled]) .fm-band{opacity:0}
   .soon-sheet{position:fixed;inset:auto 0 0 0;margin:0;max-width:none;width:100%;border-radius:18px 18px 0 0;padding:16px 16px 24px}
   .home .soon-list li > span,.home .soon-card span{font-size:16px}
 }
+/* Metal print surfaces (site-metal-1): .fx tile layout without the corner-zoom script, which binds to .fx */
+.ms{margin:0}
+.ms figcaption{margin-top:8px;font-size:14px;line-height:1.35;color:var(--muted)}
+.ms figcaption strong{color:var(--ink);display:block}
+.ms figcaption span{display:block}
+@media (max-width:700px){
+  .ms{flex:0 0 80vw;scroll-snap-align:start}
+  .home .ms figcaption{font-size:16px}
+}
