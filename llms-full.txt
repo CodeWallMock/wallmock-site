@@ -886,7 +886,7 @@ A: The images are made with WallMock. Rooms are curated, digitally staged interi
 URL: https://wallmock.com/guides/ai-wall-art-mockup-generator/
 Make framed canvas, framed print and metal print mockups from your original artwork. See what changes in a mockup and what Etsy and Shopify sellers should check.
 
-Short answer: WallMock places the artwork file you upload and renders the frame, canvas edge, mat or metal finish around it. It never redraws, repaints or upscales your artwork with AI. The room backgrounds are AI-generated and reviewed by WallMock. For physical wall art, pair a real product photo with room mockups that accurately show what you sell.
+Short answer: WallMock uses the artwork you upload to make mockups of framed canvas, framed prints and metal prints. Your art is never redrawn, repainted or upscaled by AI. WallMock renders the frame, canvas edge, mat or metal finish using your file, then places it in a reviewed, AI-generated room.
 
 Q: Does WallMock use AI to change my artwork?
 A: WallMock uses the file you upload. It never redraws, repaints or upscales the artwork with AI. The room background is AI-generated. Perspective, lighting and export settings can affect how the artwork appears in the finished image.
@@ -894,8 +894,8 @@ Q: How can I tell if an AI mockup generator redrew my design?
 A: Compare the full-size mockup with the source. Check small lettering, signatures, fine lines and all four edges. A different letter or missing detail is a reason to reject the image. A shift in brightness can come from scene lighting.
 Q: Can I use WallMock mockups on Etsy?
 A: Use accurate mockups as supplemental listing images. Etsy generally requires an unedited photo of the actual item against a real background. Etsy has a specific allowance for authorized stock-photo mockups when a production partner prints a seller’s original design on a standard base product.
-Q: Does Shopify ban AI-edited product photos?
-A: Shopify offers AI tools that can generate product-image backgrounds. Sellers can also upload WallMock downloads as product media. For physical wall art, show the artwork, construction and finish the buyer will receive.
+Q: What should my Shopify product photos show?
+A: Show the exact artwork, product construction and finish the buyer will receive. Use separate images for different variants and include a real close-up of the frame or surface.
 Q: Can I use the same artwork for framed canvas, framed print and metal print?
 A: Yes. Use the same uploaded file and select the product you actually sell. Check the floating-frame gap for canvas, the mat opening for framed paper and the surface sheen for a frameless metal print.
 
