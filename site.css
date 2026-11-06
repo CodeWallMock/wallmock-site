@@ -398,3 +398,14 @@ p{margin:0 0 1em}
 /* Automatic regional pricing notices on home and pricing; explicit USD references while loading or unavailable. */
 .pricing-controls{display:grid;gap:8px;margin-top:22px;max-width:78ch}
 .pricing-controls p{margin:0}
+/* site-metal-2 (2026-11-06): key facts list, CTA sub-line, surface table */
+ul.keyfacts{list-style:none;padding:0;margin:22px 0 0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 32px;max-width:none}
+ul.keyfacts li{border-top:1px solid var(--line);padding:12px 0 0;margin:0;color:var(--muted);font-size:16px}
+ul.keyfacts strong{color:var(--ink);display:block;font-size:15px;margin-bottom:2px}
+@media (max-width:640px){ul.keyfacts{grid-template-columns:1fr;gap:8px}}
+.cta-sub{font-size:14px;color:var(--muted);margin:0 0 6px;max-width:60ch}
+.cta-row+.cta-sub{margin-top:-4px}
+.surf-table td:first-child{white-space:nowrap;font-weight:600;color:var(--ink)}
+@media (max-width:520px){.surf-table td:first-child{white-space:normal}}
+.gloss-matte+.surf-h3{margin-top:36px}
+.prose.prose-wide{max-width:980px}

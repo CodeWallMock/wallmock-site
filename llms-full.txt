@@ -10,6 +10,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal print (art on a frameless aluminium panel); Aluminum framed print (black, gold or silver), with or without a mat. Sets of 2, 3, 4.
 - Metal prints: A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen that follows the room light (the default), high gloss with a clear window reflection, or matte for a low-glare, canvas-like finish. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Examples: https://wallmock.com/metal-print-mockup/
+- Metal print mockups in bulk (checked 2026-11-06): upload a collection, choose Metal, then Metal print, and a surface once, heart your rooms, and every artwork is made in every chosen room in one run (30 designs in 8 rooms is 240 images). Corners are a rounded 1/8 in (3.2 mm) at every print size. No PSD templates, smart objects or Photoshop. Aluminium framed prints (paper in a slim 9.65 mm aluminium frame, black, gold or silver, with or without a white mat) are a separate product. Surfaces compared side by side: https://wallmock.com/guides/glossy-vs-matte-metal-print-mockups/
 - Rooms: 500+ curated room settings; images up to 4096 px. New rooms are added to the library over time.
 - Frame quality: paid plans offer clean 4K (4096 px) downloads; floating frames show the gap around the canvas, frames have a natural shine and each piece casts a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup, made for a whole collection at once with no PSDs. Zoom in and check the corners at full size: https://wallmock.com/wall-art-mockup-examples/
 - Price: Free account: Unlimited watermarked previews on your device, in your included rooms. Usage safeguards and device limits apply. You get 10 watermark-free 1K (1024 px) downloads every 30 days; unused downloads do not carry over. The first 10 free downloads over your account's lifetime can use all 500+ rooms; after that, 8 free rooms remain. When the allowance is used, previews continue in your included rooms until the next 30-day reset. Refills do not reopen the full library. Free downloads are for single artworks. Clean 4K downloads, sets and listing kits need a paid plan; listing videos need Pro. Plans: Lite $5/month or $39/year: 200 clean 4K (4096 px) images a month; Pro $15/month or $144/year: Unlimited clean 4K (4096 px) images. Studio: Coming soon. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD. Pricing cards and the app set USD, EUR, GBP, CAD, AUD, INR or BRL automatically from your connection; existing subscriptions keep their billing currency.
@@ -55,6 +56,8 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Which frames can I show for framed prints? Framed prints come in a 20 mm wood frame, a 31.75 mm gallery wood frame or a 9.65 mm slim aluminum frame, each with or without a mat. Mats come in white, warm white, cream, warm grey or black. Aluminum framed prints come in black, gold or silver.
 - Why choose WallMock over other mockup tools? Photoshop-quality framed canvas and print mockups of your exact art, made for a whole collection at once. Floating frames show the gap and the frame casts a soft wall shadow; your file is never redrawn; you set up favourite rooms once and every artwork goes into every chosen room; and you can try it with no sign-up. Rendering runs in your browser. Time varies with your device, artwork files, selected rooms and batch size; try a representative file before starting a collection.
 - How fast is WallMock? Rendering runs in your browser. Time varies with your device, artwork files, selected rooms and batch size; try a representative file before starting a collection. Previews are quicker, and a whole collection runs in one go: add your artworks, pick your saved rooms, and WallMock makes every image in turn.
+- Can I make metal print mockups in bulk? Yes. Upload a collection, choose Metal print and a surface once, and heart your rooms. WallMock makes every artwork in every chosen room in one run, one artwork per image: 30 designs in 8 rooms is 240 images. Your hearted rooms stay saved; on Lite or Pro, save the product as a reusable profile.
+- Is High gloss or Matte better for metal print listings? Neither is better on its own: show the surface your provider sells. High gloss shows a clear window reflection, which reads best on skies and dark backgrounds. Matte shows the art with no sheen and low glare. Gloss, the default, sits between them with a soft sheen on the side the light comes from.
 - Do I need Photoshop or PSD files? No. WallMock runs in your web browser. There are no PSD files or smart objects to edit. You still get a clean 4K image with the floating-frame gap, natural frame shine and a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup; zoom into the wall art mockup examples and check the corners yourself.
 - What does the Free plan include? Free account: Unlimited watermarked previews on your device, in your included rooms. Usage safeguards and device limits apply. You get 10 watermark-free 1K (1024 px) downloads every 30 days; unused downloads do not carry over. The first 10 free downloads over your account's lifetime can use all 500+ rooms; after that, 8 free rooms remain. When the allowance is used, previews continue in your included rooms until the next 30-day reset. Refills do not reopen the full library. Free downloads are for single artworks. Clean 4K downloads, sets and listing kits need a paid plan; listing videos need Pro.
 - What happens when I use my 10 free downloads? Your account stays Free, with no automatic charge. Watermarked previews continue in your included rooms. Your next 10 download credits arrive at your normal 30-day reset; unused credits do not roll over.
@@ -63,7 +66,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
-# Every page in full (133 pages)
+# Every page in full (134 pages)
 
 ## WallMock: Wall Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
@@ -499,28 +502,38 @@ A: Etsy's listing image rules (updated 22 October 2026): most listings need at l
 
 ## Metal Print Mockup: Frameless Aluminium Panels in Rooms
 URL: https://wallmock.com/metal-print-mockup/
-Show your art as a metal print: a frameless aluminium panel with rounded corners, floating off the wall, in 500+ curated rooms. Your exact file, never redrawn.
+Metal print mockups for a whole collection: every artwork on a frameless aluminium panel in every room you pick. Gloss, High gloss or Matte. Try it free.
 
-Short answer: A metal print mockup shows your art printed on a metal panel, hanging in a room. In WallMock, choose Metal, then Metal print: your art on a frameless aluminium panel with small rounded corners and a thin metal edge, floating just off the wall with a soft shadow, in 500+ curated rooms. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI.
+Short answer: WallMock is a metal print mockup generator built for print-on-demand sellers. Upload a collection, pick your rooms once, and every artwork comes back as a frameless aluminium metal print in every chosen room, in one run. Choose Gloss, High gloss or Matte. Your file is placed as supplied and never redrawn; any sheen is a light effect on the panel.
 
 Q: What is a metal print mockup?
-A: A photo of your artwork printed on a metal panel, usually aluminium, hanging on a room wall. It shows buyers the frameless look, the thin edge and how the panel sits off the wall, before they order.
+A: A room preview of your artwork on a metal panel, usually aluminum. It shows buyers the frameless look, the thin edge and how the panel sits off the wall, before they order.
 Q: Does WallMock make metal print mockups?
-A: Yes. In the Studio, choose Metal, then Metal print. A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen that follows the room light (the default), high gloss with a clear window reflection, or matte for a low-glare, canvas-like finish.
+A: Yes, for one design or a whole collection. In the Studio, choose Metal, then Metal print. WallMock’s model shows a frameless aluminum panel with small rounded corners, a thin exposed edge and a soft shadow from a hidden rear mount. Choose Gloss for a simulated sheen, High gloss for a simulated window reflection, or Matte for a more even surface. Compare your supplier’s actual panel and mount before listing.
+Q: Can I make metal print mockups in bulk?
+A: Yes. Upload a collection, choose Metal print and a surface once, and heart your rooms. WallMock makes every artwork in every chosen room in one run, one artwork per image: 30 designs in 8 rooms is 240 images. Your hearted rooms stay saved; on Lite or Pro, save the product as a reusable profile.
+Q: Is High gloss or Matte better for metal print listings?
+A: Neither is better on its own: show the surface your provider sells. High gloss shows a clear window reflection, which reads best on skies and dark backgrounds. Matte shows the art with no sheen and low glare. Gloss, the default, sits between them with a soft sheen on the side the light comes from.
+Q: Which metal print surfaces does WallMock offer?
+A: Three. Gloss is the default, with a natural, gentle sheen on the side the room light comes from. High gloss shows a clear reflection of the room's window, like a high-gloss aluminium panel. Matte has no sheen, so the artwork reads as it does on canvas. Choose in the Studio's Metal print panel (Surface: Gloss | High gloss | Matte). WallMock does not show brushed metal: if your provider sells it, say so in the listing, and check your sample against the photo.
+Q: What corners and wall gap does the metal print mockup show?
+A: Rounded 1/8 in (3.2 mm) corners at every print size, a thin exposed edge, and a hidden rear mount that holds the panel about ½ in (12.7 mm) off the wall, so it casts a soft shadow.
+Q: Do I need Photoshop or PSD templates?
+A: No. WallMock works in a web browser. There are no PSD files, smart objects or actions: you choose the product, the surface and the rooms once.
+Q: Can I try metal print mockups for free?
+A: Yes. Try Free needs no sign-up and no card: it makes watermarked previews with up to three artworks in 8 sample rooms. A free account adds 10 watermark-free 1K (1024 px) downloads every 30 days. Clean 4K downloads need a paid plan.
 Q: Can I show a metal print in a set of 2, 3 or 4?
 A: Not yet. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Sets work with canvas and framed prints.
 Q: Is my artwork changed?
 A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. The panel's corners, edge and shadow are drawn around your file; the art itself comes from your file.
 Q: What is the difference between a metal print and an aluminum framed print?
 A: A metal print is the art itself printed on an aluminium panel, with no frame and no mat. An aluminum framed print is a paper print behind a slim aluminium frame, in black, gold or silver, with or without a mat. Show the one your provider ships.
-Q: Gloss, high gloss or matte?
-A: All three. Gloss is the default, with a natural, gentle sheen on the side the room light comes from. High gloss shows a clear reflection of the room's window, like a high-gloss aluminium panel. Matte has no sheen, so the artwork reads as it does on canvas. Choose in the Studio's Metal print panel (Surface: Gloss | High gloss | Matte). WallMock does not show brushed metal: if your provider sells it, say so in the listing, and check your sample against the photo.
 
 ## Metal Frame Mockup: Aluminum Framed Prints in 3 Colours
 URL: https://wallmock.com/metal-frame-mockup/
 Show your print in a slim aluminum frame in black, gold or silver, with or without a white mat, in 500+ curated rooms. Your exact file, never redrawn.
 
-Short answer: Metal frame mockup images show your print in a slim metal picture frame on a room wall. WallMock's aluminum framed print uses a thin aluminium frame in black, gold or silver, with a white mat or none, in 500+ curated rooms. Your file is placed as it is, never redrawn, for one design or a whole collection. Choose the construction and dimensions your provider lists. Frame colours are visual approximations; a mockup is not a physical finish sample.
+Short answer: Metal frame mockups show your print in a slim metal picture frame on a room wall. WallMock's aluminum framed print uses a thin aluminium frame in black, gold or silver, with a white mat or none, in 500+ curated rooms. Your file is placed as it is, never redrawn, for one design or a whole collection.
 
 Q: What is a metal frame mockup?
 A: A photo of your print inside a slim metal picture frame, usually aluminium, hanging in a room. It shows buyers the frame colour, how thin the frame is and whether there is a mat, before they order.
@@ -532,6 +545,10 @@ Q: Aluminium or aluminum: is there a difference?
 A: No. Aluminium is the British spelling and aluminum the American one. Both mean the same light metal frame, so match whichever word your print provider uses in its product name.
 Q: Can I show a metal frame on a canvas?
 A: Not as an aluminum-framed canvas. In WallMock the aluminium frame is for paper prints. Canvas goes in a floating frame instead, in black, white, natural oak, walnut, espresso, gold or silver. For metal with no frame at all, choose Metal print: your art on a frameless aluminium panel.
+Q: What is the difference between a metal frame mockup and a metal print mockup?
+A: A metal frame mockup shows a paper print inside a slim aluminium frame, with or without a mat. A metal print mockup shows the art printed on a frameless aluminium panel, in Gloss, High gloss or Matte. Show the product your provider ships.
+Q: Can I make metal frame mockups in bulk?
+A: Yes. Choose Aluminum framed print, the frame colour and the mat once, heart your rooms, and WallMock makes every design in every chosen room in one run. On Lite or Pro, save the look as a profile to reuse on your next collection.
 Q: Will the frame or mat cover part of my print?
 A: A little, as in a real frame. The frame lip or the mat overlaps the outer edge of the print, so keep signatures and text away from the very edge. WallMock keeps your file's own proportions and never stretches it.
 
@@ -1411,7 +1428,7 @@ A: 7,200 × 10,800 px at 150 DPI, or 14,400 × 21,600 px at 300 DPI. Add the wra
 URL: https://wallmock.com/guides/metal-print-vs-metal-frame/
 A metal print has art on an aluminum panel; a metal frame holds a paper print. Compare the look, finish, sample checks, and what to show buyers.
 
-Short answer: A metal print is the artwork printed directly onto a coated aluminum panel, usually with no visible frame. A metal-framed print is paper artwork inside a separate metal frame. Choose the first when the product you ship is an aluminum panel; choose the second when you ship paper behind a frame. The names vary by supplier, so check the materials and sample before you write the listing.
+Short answer: A metal print is artwork printed directly on a coated aluminium panel, usually with no visible frame or mat. A metal-framed print is a paper print inside a slim metal frame, often with a mat. Show the one you ship. WallMock makes mockups of both: metal prints in Gloss, High gloss or Matte, and aluminium framed prints in black, gold or silver.
 
 Q: Is a metal print the same as a metal-framed print?
 A: No. A metal print places the image on an aluminum panel. A metal-framed print uses paper surrounded by a separate metal frame.
@@ -1421,6 +1438,31 @@ Q: Is a metal print waterproof or scratchproof?
 A: Claims depend on the panel coating, print process, and supplier. Use only the exact product’s current care and durability information.
 Q: Which metal product should I show in a mockup?
 A: Show the construction you sell: a panel for a metal print, or a paper print inside a frame for a metal-framed print. Match the finish and options, then compare with a physical sample.
+Q: Can WallMock make mockups of both?
+A: Yes. In the Studio, choose Metal, then Metal print for a frameless aluminium panel in Gloss, High gloss or Matte, or Aluminum framed print for a paper print in a black, gold or silver aluminium frame, with or without a white mat. Both work for one design or a whole collection.
+Q: Which surfaces can a WallMock metal print show?
+A: Gloss (the default, a soft sheen on the side the room light comes from), High gloss (a clear reflection of the room's window) or Matte (no sheen, low glare). WallMock does not show brushed aluminium.
+
+## Glossy vs Matte Metal Print Mockups for Etsy
+URL: https://wallmock.com/guides/glossy-vs-matte-metal-print-mockups/
+Gloss, High gloss and Matte metal print mockups compared side by side with real WallMock renders: what each shows, when to choose it, and what to check.
+
+Short answer: Show the surface your provider ships. In the WallMock metal print mockup generator, choose Metal, then Metal print, then Gloss (the default, a soft sheen from the room light), High gloss (a clear window reflection) or Matte (no sheen, low glare). Same art, same room, one choice apart. Pick the one closest to your sample, and show brushed metal with a real sample photo.
+
+Q: Is High gloss or Matte better for metal print listings?
+A: Neither is better on its own: show the surface your provider sells. High gloss shows a clear window reflection, which reads best on skies and dark backgrounds. Matte shows the art with no sheen and low glare. Gloss, the default, sits between them with a soft sheen on the side the light comes from.
+Q: What is the difference between Gloss and High gloss in WallMock?
+A: Gloss adds a soft sheen on the side the room light comes from. High gloss adds a clear reflection of the room's window, like a high-gloss aluminium panel. In both, the artwork comes from your file; the sheen is a light effect on the panel.
+Q: Which metal print surface is the default?
+A: Gloss. Choose High gloss or Matte in the Studio's Metal print panel (Surface: Gloss | High gloss | Matte).
+Q: Can I switch surfaces without uploading my art again?
+A: Yes. Change Surface in the Metal print panel and the preview is made again with the same art and room.
+Q: Why is the High gloss reflection faint on some artworks?
+A: WallMock keeps the window reflection off the main subject, so it is clearest on open areas such as skies and dark backgrounds, and smaller where the subject fills the panel or the room is dark.
+Q: Does WallMock show brushed aluminium?
+A: No. WallMock shows Gloss, High gloss and Matte. If your provider sells brushed aluminium, say so in the listing and add a photo of your sample that shows the grain.
+Q: Can I try metal print mockups for free?
+A: Yes. Try Free needs no sign-up and no card: it makes watermarked previews with up to three artworks in 8 sample rooms. A free account adds 10 watermark-free 1K (1024 px) downloads every 30 days. Clean 4K downloads need a paid plan.
 
 ## Mockup Licences and Commercial Use: Etsy, Shopify, Printify
 URL: https://wallmock.com/guides/mockup-licences-and-commercial-use/
