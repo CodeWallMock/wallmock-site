@@ -495,7 +495,7 @@ A: These numbers come from WallMock's published example set, not from a check on
 Q: Is the room a photo of someone's home?
 A: No. Rooms are curated, digitally staged interiors reviewed by WallMock. Only the artwork comes from your file, and it is placed exactly as supplied.
 Q: Do I still need a photo of the actual print for Etsy?
-A: Etsy's listing image rules (updated 22 October 2026): most listings need at least one unedited photo of the actual item against a real background, with no editing or AI tools on that photo. Other photos may be edited if they show the item accurately. Print-on-demand items made by a production partner may use an authorised mockup instead, and digital downloads need a preview of the content. So use WallMock images for your room and detail photos, and add one real photo of the print or canvas unless you sell print on demand or downloads.
+A: Etsy's listing image rules (checked 6 November 2026): most listings need at least one unedited photo of the actual item against a real background, with no editing or AI tools on that photo. Other photos may be edited if they show the item accurately. Etsy allows an authorised stock photo mockup when a production partner prints your original design on a standard base product, and digital downloads need a preview of the content. So use WallMock images for your room and detail photos, and add one real photo of the print or canvas unless you sell print on demand or downloads.
 
 ## Metal Print Mockup: Frameless Aluminium Panels in Rooms
 URL: https://wallmock.com/metal-print-mockup/
@@ -882,37 +882,35 @@ A: Yes. Every guide and free tool is free to read and use, with no sign-up.
 Q: Are the room images real?
 A: The images are made with WallMock. Rooms are curated, digitally staged interiors reviewed by WallMock. The artwork in them is placed exactly as supplied.
 
-## AI Mockup Generator for Wall Art: Exact Art or Redrawn?
+## Wall art mockups without AI redrawing for Etsy and Shopify
 URL: https://wallmock.com/guides/ai-wall-art-mockup-generator/
-Some AI mockup generators redraw your art with the room, changing text, signatures and colours. Learn why print sellers need the exact file placed instead.
+Make framed canvas, framed print and metal print mockups from your original artwork. See what changes in a mockup and what Etsy and Shopify sellers should check.
 
-Short answer: An AI mockup generator either regenerates the whole picture, room and artwork together, or places your exact file into a scene. Regenerating can quietly change lettering, signatures, colours and proportions. Then the listing no longer matches the print the buyer receives. For print sellers, choose a tool that places your file as supplied, and zoom in to check the art before you upload. WallMock places your file as it is: it is never redrawn by AI.
+Short answer: WallMock places the artwork file you upload and renders the frame, canvas edge, mat or metal finish around it. It never redraws, repaints or upscales your artwork with AI. The room backgrounds are AI-generated and reviewed by WallMock. For physical wall art, pair a real product photo with room mockups that accurately show what you sell.
 
-Q: Does an AI mockup generator use my exact artwork or redraw it?
-A: It depends on the tool. Some regenerate the whole image, art included, which can change text, signatures and colours. Others place your file as supplied. Test with a file that has small text and compare at 200% zoom.
 Q: Does WallMock use AI to change my artwork?
-A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Rooms are curated, digitally staged interiors reviewed by WallMock.
-Q: Do I need to disclose AI-generated mockups on Etsy?
-A: Etsy's AI disclosure rule is about items created with AI. Listing photos fall under Etsy's listing image requirements, which allow edits that don't misrepresent the item. Etsy also recommends noting in your description if any listing photos were edited with AI. Read both Etsy pages for your case, because rules change.
-Q: Can I use AI to edit my Etsy listing photos?
-A: Etsy says you can use AI tools to adjust lighting or colour, crop or change backgrounds in photos other than your required unedited photo, as long as the item doesn't look different from what buyers receive.
-Q: Is there an AI wall art mockup generator without a watermark?
-A: Free tiers differ between tools. WallMock gives watermarked previews free, and a free account adds 10 watermark-free downloads (1024 px) every 30 days; clean 4K images come with a plan. Whatever tool you use, check that the art is unchanged.
-Q: Can I use Midjourney to make wall art mockups?
-A: You can use it to make empty room backgrounds if its terms suit your use. Don't let it draw your artwork: place your real file on top, at the right ratio and size.
+A: WallMock uses the file you upload. It never redraws, repaints or upscales the artwork with AI. The room background is AI-generated. Perspective, lighting and export settings can affect how the artwork appears in the finished image.
+Q: How can I tell if an AI mockup generator redrew my design?
+A: Compare the full-size mockup with the source. Check small lettering, signatures, fine lines and all four edges. A different letter or missing detail is a reason to reject the image. A shift in brightness can come from scene lighting.
+Q: Can I use WallMock mockups on Etsy?
+A: Use accurate mockups as supplemental listing images. Etsy generally requires an unedited photo of the actual item against a real background. Etsy has a specific allowance for authorized stock-photo mockups when a production partner prints a seller’s original design on a standard base product.
+Q: Does Shopify ban AI-edited product photos?
+A: Shopify offers AI tools that can generate product-image backgrounds. Sellers can also upload WallMock downloads as product media. For physical wall art, show the artwork, construction and finish the buyer will receive.
+Q: Can I use the same artwork for framed canvas, framed print and metal print?
+A: Yes. Use the same uploaded file and select the product you actually sell. Check the floating-frame gap for canvas, the mat opening for framed paper and the surface sheen for a frameless metal print.
 
 ## Are AI Mockups Allowed on Etsy? Rules for Wall Art Sellers
 URL: https://wallmock.com/guides/are-ai-mockups-allowed-on-etsy/
 Etsy allows edited and AI-assisted listing photos if they show exactly what the buyer gets. What its rules say, the unedited-photo rule, and why art must stay exact.
 
-Short answer: Yes, within limits. Etsy lets you edit listing photos, including with AI, as long as they accurately show what the buyer will receive. Most items also need at least one unedited photo of the actual item; for print-on-demand items, Etsy allows a stock photo mockup if its owner has authorised its use. So an AI-made room can be fine, but AI-redrawn art is not: if the art in the photo differs from the print, the photo misrepresents the item.
+Short answer: Yes, within limits. Etsy lets you edit listing photos, including with AI, as long as they accurately show what the buyer will receive. Most items also need at least one unedited photo of the actual item; Etsy allows an authorised stock photo mockup when a production partner prints your original design on a standard base product. So an AI-made room can be fine, but AI-redrawn art is not: if the art in the photo differs from the print, the photo misrepresents the item.
 
 Q: Are mockups allowed on Etsy?
 A: Yes. Etsy allows edited images, including mockups, as long as they accurately show what the buyer receives. Most physical items also need at least one unedited photo of the actual item.
 Q: Can I use AI-generated mockups on Etsy?
 A: You can use AI to make or edit the room, as long as the item is shown accurately. Don't let a tool redraw the artwork itself, because the photo then shows a different picture from the print.
 Q: Do I need an unedited photo of my print on Etsy?
-A: For most items, yes. For print-on-demand items, Etsy says you may use a stock photo mockup if its owner has authorised its use. A photo of a sample is still the strongest proof.
+A: For most items, yes. Etsy allows an authorised stock photo mockup when a production partner prints your original design on a standard base product. A photo of a sample is still the strongest proof.
 Q: Do I have to say my photos are mockups?
 A: Etsy recommends noting in the description whether images were edited. One plain line saying the room photos are digitally staged mockups covers it.
 Q: Is AI-redrawn art in a mockup against Etsy's rules?

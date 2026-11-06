@@ -433,7 +433,8 @@ html:not([data-scrolled]) .fm-band{opacity:0}
   :where(.film-on) .home .fm-tabs .fm-finish{font-size:14px}
   :where(.film-on) .step-more>summary{min-height:44px}
 }
-.hero-kw,.step-sub{display:none}
+.hero-kw{margin:0 0 10px;font:500 16px/1.4 var(--sans);color:var(--ink-2)}
+.step-sub{display:none}
 @media (max-width:860px){
   .bulk-grid{-webkit-mask-image:linear-gradient(90deg,transparent 0,#000 14px);mask-image:linear-gradient(90deg,transparent 0,#000 14px)}
 }
