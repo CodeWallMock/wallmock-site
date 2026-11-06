@@ -11,6 +11,10 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal print (art on a frameless aluminium panel); Aluminum framed print (black, gold or silver), with or without a mat. Sets of 2, 3, 4.
 - Metal prints: A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen that follows the room light (the default), high gloss with a clear window reflection, or matte for a low-glare, canvas-like finish. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Examples: https://wallmock.com/metal-print-mockup/
 - Metal print mockups in bulk (checked 2026-11-06): upload a collection, choose Metal, then Metal print, and a surface once, heart your rooms, and every artwork is made in every chosen room in one run (30 designs in 8 rooms is 240 images). Corners are a rounded 1/8 in (3.2 mm) at every print size. No PSD templates, smart objects or Photoshop. Aluminium framed prints (paper in a slim 9.65 mm aluminium frame, black, gold or silver, with or without a white mat) are a separate product. Surfaces compared side by side: https://wallmock.com/guides/glossy-vs-matte-metal-print-mockups/
+- WallMock Studio plan (checked 2026-11-06): the WallMock Studio plan (coming soon) includes Send to Shopify (beta) and Send to Etsy (coming soon). It is an upcoming plan, separate from the WallMock web app, which is live today. No price is published. https://wallmock.com/integrations/
+- Send to Shopify (beta, checked 2026-11-06): adds your WallMock mockups straight onto your Shopify products, hero first. It asks for product-edit permission only and never deletes your photos. Beta access by request at hello@wallmock.com; not generally available and not in the Shopify App Store. https://wallmock.com/integrations/shopify/
+- Send to Etsy (coming soon, checked 2026-11-06): planned to send WallMock mockups to your Etsy listings, pending Etsy's approval of our app; not available yet. Today, download WallMock images and upload them in Etsy's listing editor. https://wallmock.com/integrations/etsy/ The term 'Etsy' is a trademark of Etsy, Inc. This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.
+- WallMock API: early access (checked 2026-11-06). In development and not available yet; a private pilot is coming. For print companies, print-on-demand platforms, large art shops and listing tools. Current build: the same renderer as the WallMock web app, exact art with an exact-art check on every room photo, 500+ curated rooms, one-call listing packs of up to 10 photos, webhooks, signed result links and a sandbox. Pay per image, with volume plans; early-access partners get pilot pricing. https://wallmock.com/api/
 - Rooms: 500+ curated room settings; images up to 4096 px. New rooms are added to the library over time.
 - Frame quality: paid plans offer clean 4K (4096 px) downloads; floating frames show the gap around the canvas, frames have a natural shine and each piece casts a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup, made for a whole collection at once with no PSDs. Zoom in and check the corners at full size: https://wallmock.com/wall-art-mockup-examples/
 - Price: Free account: Unlimited watermarked previews on your device, in your included rooms. Usage safeguards and device limits apply. You get 10 watermark-free 1K (1024 px) downloads every 30 days; unused downloads do not carry over. The first 10 free downloads over your account's lifetime can use all 500+ rooms; after that, 8 free rooms remain. When the allowance is used, previews continue in your included rooms until the next 30-day reset. Refills do not reopen the full library. Free downloads are for single artworks. Clean 4K downloads, sets and listing kits need a paid plan; listing videos need Pro. Plans: Lite $5/month or $39/year: 200 clean 4K (4096 px) images a month; Pro $15/month or $144/year: Unlimited clean 4K (4096 px) images. Studio: Coming soon. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD. Pricing cards and the app set USD, EUR, GBP, CAD, AUD, INR or BRL automatically from your connection; existing subscriptions keep their billing currency.
@@ -64,6 +68,9 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Which rooms are included in Free? Your first 10 free downloads over your account's lifetime can use all 500+ rooms. After those downloads, 8 free rooms remain. The 30-day refill restores downloads, not full-library access.
 - How much does it cost? Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD. Pricing cards and the app set USD, EUR, GBP, CAD, AUD, INR or BRL automatically from your connection; existing subscriptions keep their billing currency.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
+- Is there a Shopify app that adds mockups to my products automatically? WallMock's Send to Shopify does this, in beta testing: mockups go straight onto your Shopify products, hero first, with product-edit permission only, and your photos are never deleted. It is part of the upcoming WallMock Studio plan, not generally available and not in the Shopify App Store; request beta access at hello@wallmock.com.
+- Can I send mockups to Etsy listings automatically? Not with WallMock yet. Send to Etsy is coming soon, pending Etsy's approval of our app, as part of the upcoming WallMock Studio plan. Today, download your WallMock images and upload them in Etsy's listing editor.
+- Does WallMock have an API? Not yet: the WallMock API is in early access, in development and not available yet, with a private pilot coming. Pay per image, with volume plans. Request early access at hello@wallmock.com.
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 ## Main pages
@@ -111,6 +118,10 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [WallMock Collection Workflow: Three Artworks, Nine Downloads](https://wallmock.com/testing/three-artwork-collection/)
 - [Wall Art Mockup Examples: Framed Canvas, Prints, Sets](https://wallmock.com/wall-art-mockup-examples/)
 - [WallMock Updates and Changelog: What's New](https://wallmock.com/whats-new/)
+- [Wall Art Mockup API for Print on Demand (Early Access)](https://wallmock.com/api/)
+- [Shopify and Etsy Mockup Integrations: Shopify Beta, Etsy Coming Soon](https://wallmock.com/integrations/)
+- [Send to Shopify: Add Wall Art Mockups to Products (Beta)](https://wallmock.com/integrations/shopify/)
+- [Send to Etsy: Etsy Listing Photo Automation (Coming Soon)](https://wallmock.com/integrations/etsy/)
 - [Wandbild-Mockups für Bilderrahmen und Leinwand](https://wallmock.com/de/)
 - [Mockup de cuadros y lienzos para vender arte](https://wallmock.com/es/)
 - [Mockup cadre et toile pour vendre vos tableaux](https://wallmock.com/fr/)
@@ -139,10 +150,12 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 
 ## Guides
 - [Wall art mockups without AI redrawing for Etsy and Shopify](https://wallmock.com/guides/ai-wall-art-mockup-generator/)
+- [How to Add Mockups to Shopify Products Automatically (Wall Art)](https://wallmock.com/guides/add-mockups-to-shopify-products-automatically/)
 - [Are AI Mockups Allowed on Etsy? Rules for Wall Art Sellers](https://wallmock.com/guides/are-ai-mockups-allowed-on-etsy/)
 - [Print on Demand Wall Art: How to Choose a Provider](https://wallmock.com/guides/best-print-on-demand-for-wall-art/)
 - [Bulk Upload Wall Art to Printify and Etsy With Room Mockups](https://wallmock.com/guides/bulk-upload-wall-art-to-printify-and-etsy/)
 - [Bulk Mockup Workflow Checklist: Naming, Previews, Exports](https://wallmock.com/guides/bulk-wall-art-mockups-without-photoshop/)
+- [How to Automate Etsy Listing Photos for Wall Art and POD](https://wallmock.com/guides/automate-etsy-listing-photos-for-wall-art/)
 - [Canva Wall Art Mockups: How to Make Them, and Their Limits](https://wallmock.com/guides/canva-wall-art-mockups/)
 - [Canvas Depth 0.75 vs 1.5 Inch: Thin or Gallery Canvas?](https://wallmock.com/guides/canvas-depth-0-75-vs-1-5-inch/)
 - [Canvas Print Sizes Chart: Stretched and Framed, by Ratio](https://wallmock.com/guides/canvas-print-sizes-chart/)
@@ -172,6 +185,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [Metal Print vs Metal Frame: Which Wall Art Product?](https://wallmock.com/guides/metal-print-vs-metal-frame/)
 - [Glossy vs Matte Metal Print Mockups for Etsy](https://wallmock.com/guides/glossy-vs-matte-metal-print-mockups/)
 - [Mockup Licences and Commercial Use: Etsy, Shopify, Printify](https://wallmock.com/guides/mockup-licences-and-commercial-use/)
+- [Mockup API for Print-on-Demand Companies: What to Look For](https://wallmock.com/guides/mockup-api-for-print-on-demand-companies/)
 - [Mockups for Printable Wall Art (Digital Downloads)](https://wallmock.com/guides/mockups-for-printable-wall-art/)
 - [Panoramic and Tall Art Mockups: 3:1 and 1:3 Wall Art](https://wallmock.com/guides/panoramic-and-tall-art-mockups/)
 - [PSD Frame Mockups vs an Online Generator: Time and Cost](https://wallmock.com/guides/photoshop-frame-mockups-vs-online-generator/)

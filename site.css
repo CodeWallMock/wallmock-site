@@ -409,3 +409,23 @@ ul.keyfacts strong{color:var(--ink);display:block;font-size:15px;margin-bottom:2
 @media (max-width:520px){.surf-table td:first-child{white-space:normal}}
 .gloss-matte+.surf-h3{margin-top:36px}
 .prose.prose-wide{max-width:980px}
+/* site-api-1 (2026-11-06): early-access status labels, listing-pack rows, code sample, Etsy notice */
+.status{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;border:1px solid var(--accent);color:var(--ink);padding:3px 8px;line-height:1.4}
+.status-note{max-width:64ch;font-size:15px;color:var(--muted);border:1px dashed var(--line);padding:12px 16px;margin:16px 0 0}
+.status-note strong{color:var(--ink)}
+.lp-row{display:flex;gap:10px;margin-top:20px;align-items:flex-start}
+.lp-row figure{margin:0;min-width:0}
+.lp-row figure>a{display:block}
+.lp-row img{width:100%;height:auto}
+.lp-row figcaption{font-size:13px;color:var(--muted);margin-top:6px;line-height:1.35}
+.lp-row figcaption b{color:var(--ink);font-weight:650;display:block}
+.lp-row+.lp-row{margin-top:14px}
+.lp-set+.small,.lp-set+p{margin-top:12px}
+@media (max-width:760px){.lp-set{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;align-items:end;margin-top:20px}.lp-set .lp-row{display:contents}}
+@media (max-width:480px){.lp-set{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.code-sample{margin:20px 0 0;max-width:860px}
+.code-sample figcaption{font-size:13px;color:var(--muted);margin:0 0 8px}
+.code-sample pre{margin:0;overflow-x:auto;background:#0d0e0f;border:1px solid var(--line);padding:16px 18px;font:13.5px/1.55 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:var(--ink);tab-size:2}
+.code-sample+.code-sample{margin-top:18px}
+.legal-note{font-size:13px;color:var(--muted);max-width:80ch;margin:14px 0 0}
+.feature-grid .status{margin:0 0 8px}
