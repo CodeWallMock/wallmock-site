@@ -11,10 +11,10 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal print (art on a frameless aluminium panel); Aluminum framed print (black, gold or silver), with or without a mat. Sets of 2, 3, 4.
 - Metal prints: A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen that follows the room light (the default), high gloss with a clear window reflection, or matte for a low-glare, canvas-like finish. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Examples: https://wallmock.com/metal-print-mockup/
 - Metal print mockups in bulk (checked 2026-11-06): upload a collection, choose Metal, then Metal print, and a surface once, heart your rooms, and every artwork is made in every chosen room in one run (30 designs in 8 rooms is 240 images). Corners are a rounded 1/8 in (3.2 mm) at every print size. No PSD templates, smart objects or Photoshop. Aluminium framed prints (paper in a slim 9.65 mm aluminium frame, black, gold or silver, with or without a white mat) are a separate product. Surfaces compared side by side: https://wallmock.com/guides/glossy-vs-matte-metal-print-mockups/
-- WallMock Studio plan (checked 2026-11-06): the WallMock Studio plan (coming soon) includes Send to Shopify (beta) and Send to Etsy (coming soon). It is an upcoming plan, separate from the WallMock web app, which is live today. No price is published. https://wallmock.com/integrations/
+- WallMock Studio plan and planned plan split (checked 2026-11-06; none of it is live yet): the WallMock Studio plan is an upcoming plan (coming soon, no price), separate from the WallMock web app, which is live today. When Send to Shopify (now in beta) launches, Pro includes Send to Shopify for 1 store and up to 25 products a month. The WallMock Studio plan includes Send to Shopify for 5 stores with unlimited products; Send to Etsy; one-click listing sets for a whole collection at once (a full photo set per artwork, rooms picked automatically, every frame colour, a different hero for every listing, Etsy- and Shopify-ready sizes); sending a whole collection onto all products; saved frame and partner presets for listing sets; and 20% off WallMock API images. The WallMock API stays early access, pay per image. https://wallmock.com/pricing/#plan-studio
 - Send to Shopify (beta, checked 2026-11-06): adds your WallMock mockups straight onto your Shopify products, hero first. It asks for product-edit permission only and never deletes your photos. Beta access by request at hello@wallmock.com; not generally available and not in the Shopify App Store. https://wallmock.com/integrations/shopify/
 - Send to Etsy (coming soon, checked 2026-11-06): planned to send WallMock mockups to your Etsy listings, pending Etsy's approval of our app; not available yet. Today, download WallMock images and upload them in Etsy's listing editor. https://wallmock.com/integrations/etsy/ The term 'Etsy' is a trademark of Etsy, Inc. This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.
-- WallMock API: early access (checked 2026-11-06). In development and not available yet; a private pilot is coming. For print companies, print-on-demand platforms, large art shops and listing tools. Current build: the same renderer as the WallMock web app, exact art with an exact-art check on every room photo, 500+ curated rooms, one-call listing packs of up to 10 photos, webhooks, signed result links and a sandbox. Pay per image, with volume plans; early-access partners get pilot pricing. https://wallmock.com/api/
+- WallMock API: early access (checked 2026-11-06). In development and not available yet; a private pilot is coming. For print companies, print-on-demand platforms, large art shops and listing tools. Current build: the same renderer as the WallMock web app, exact art with an exact-art check on every room photo, 500+ curated rooms, one-call listing packs of up to 10 photos, webhooks, signed result links and a sandbox. Pay per image, with volume plans; early-access partners get pilot pricing; planned 20% off API images with the WallMock Studio plan (coming soon). https://wallmock.com/api/
 - Rooms: 500+ curated room settings; images up to 4096 px. New rooms are added to the library over time.
 - Frame quality: paid plans offer clean 4K (4096 px) downloads; floating frames show the gap around the canvas, frames have a natural shine and each piece casts a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup, made for a whole collection at once with no PSDs. Zoom in and check the corners at full size: https://wallmock.com/wall-art-mockup-examples/
 - Price: Free account: Unlimited watermarked previews on your device, in your included rooms. Usage safeguards and device limits apply. You get 10 watermark-free 1K (1024 px) downloads every 30 days; unused downloads do not carry over. The first 10 free downloads over your account's lifetime can use all 500+ rooms; after that, 8 free rooms remain. When the allowance is used, previews continue in your included rooms until the next 30-day reset. Refills do not reopen the full library. Free downloads are for single artworks. Clean 4K downloads, sets and listing kits need a paid plan; listing videos need Pro. Plans: Lite $5/month or $39/year: 200 clean 4K (4096 px) images a month; Pro $15/month or $144/year: Unlimited clean 4K (4096 px) images. Studio: Coming soon. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD. Pricing cards and the app set USD, EUR, GBP, CAD, AUD, INR or BRL automatically from your connection; existing subscriptions keep their billing currency.
@@ -68,8 +68,8 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Which rooms are included in Free? Your first 10 free downloads over your account's lifetime can use all 500+ rooms. After those downloads, 8 free rooms remain. The 30-day refill restores downloads, not full-library access.
 - How much does it cost? Free: watermarked previews, and a free account gets 10 watermark-free downloads (1024 px) every 30 days. Clean 4K images in every room come with a plan: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD. Pricing cards and the app set USD, EUR, GBP, CAD, AUD, INR or BRL automatically from your connection; existing subscriptions keep their billing currency.
 - Can I use it today? Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
-- Is there a Shopify app that adds mockups to my products automatically? WallMock's Send to Shopify does this, in beta testing: mockups go straight onto your Shopify products, hero first, with product-edit permission only, and your photos are never deleted. It is part of the upcoming WallMock Studio plan, not generally available and not in the Shopify App Store; request beta access at hello@wallmock.com.
-- Can I send mockups to Etsy listings automatically? Not with WallMock yet. Send to Etsy is coming soon, pending Etsy's approval of our app, as part of the upcoming WallMock Studio plan. Today, download your WallMock images and upload them in Etsy's listing editor.
+- Is there a Shopify app that adds mockups to my products automatically? WallMock's Send to Shopify does this, in beta testing: mockups go straight onto your Shopify products, hero first, with product-edit permission only, and your photos are never deleted. It is not generally available and not in the Shopify App Store; request beta access at hello@wallmock.com. When it launches, Pro is planned to include 1 store and up to 25 products a month, and the WallMock Studio plan (coming soon) includes 5 stores with unlimited products.
+- Can I send mockups to Etsy listings automatically? Not with WallMock yet. Send to Etsy is coming soon, pending Etsy's approval of our app, and is planned for the WallMock Studio plan (coming soon, no price yet), not Pro. Today, download your WallMock images and upload them in Etsy's listing editor.
 - Does WallMock have an API? Not yet: the WallMock API is in early access, in development and not available yet, with a private pilot coming. Pay per image, with volume plans. Request early access at hello@wallmock.com.
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
@@ -209,7 +209,7 @@ A: Rendering runs in your browser. Time varies with your device, artwork files, 
 Q: Do I need Photoshop?
 A: No. WallMock runs in your web browser, with no PSD files or smart objects to edit.
 Q: Does WallMock have a Shopify app, an Etsy integration or an API?
-A: Send to Shopify is in beta testing: it adds your mockups to your Shopify products, hero first, with product-edit permission only, and never deletes your photos. Send to Etsy is coming soon, pending Etsy's approval of our app. Both are part of the upcoming WallMock Studio plan. The WallMock API is in early access for print companies and platforms. See integrations.
+A: Send to Shopify is in beta testing: it adds your mockups to your Shopify products, hero first, with product-edit permission only, and never deletes your photos. Send to Etsy is coming soon, pending Etsy's approval of our app. When Send to Shopify launches, Pro includes 1 store and up to 25 products a month; the WallMock Studio plan (coming soon, no price yet) adds Send to Shopify for 5 stores with unlimited products; Send to Etsy; one-click listing sets for whole collections; and 20% off API images. None of this is live yet. The WallMock API is in early access for print companies and platforms. See integrations.
 
 ## Frame Mockup Generator for Framed Prints, Mats and Colours
 URL: https://wallmock.com/frame-mockup-generator/
@@ -621,6 +621,10 @@ Q: What happens to an existing subscription?
 A: Existing subscriptions keep their purchased terms.
 Q: Can I use WallMock today?
 A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
+Q: What is the WallMock Studio plan?
+A: A planned plan, coming soon, with no price yet. It is separate from the Studio web app you can use today. It is planned to include Send to Shopify for 5 stores with unlimited products; Send to Etsy, pending Etsy's approval of our app; one-click listing sets for a whole collection at once; sending a whole collection onto all your products; saved frame and partner presets for listing sets; and 20% off WallMock API images. Join the waitlist.
+Q: Which plans will include Send to Shopify?
+A: Planned: when Send to Shopify launches, Pro includes 1 store and up to 25 products a month, and the WallMock Studio plan (coming soon) includes 5 stores with unlimited products. Send to Shopify is in beta now; request access.
 
 ## Print-on-Demand Wall Art Mockup Generator
 URL: https://wallmock.com/print-on-demand-canvas-mockups/
@@ -790,22 +794,22 @@ A: In the current build, yes: a saved partner preset keeps your own frame names,
 Q: How fast is the WallMock API?
 A: In development tests, about 3 to 5 seconds per 4K image per worker, and a full listing pack in about 15 seconds. Speeds on production hardware may differ.
 Q: How much will the WallMock API cost?
-A: Prices are not published yet. Pay per image, with volume plans. Early-access partners get pilot pricing.
+A: Prices are not published yet. Pay per image, with volume plans. Early-access partners get pilot pricing. The WallMock Studio plan (coming soon) is planned to include 20% off API images.
 Q: Is there a sandbox or test mode?
 A: In the current build, yes: a sandbox test mode returns watermarked images, so you can build and test an integration before making clean images. The API itself is in early access and not available yet.
 Q: What happens to the artwork we send?
 A: Artworks are deleted after processing and never used for training. Finished images are delivered through signed result links, and webhooks tell your system when a job is done.
 Q: Is there a Shopify or Etsy integration?
-A: Not generally yet. Send to Shopify is in beta testing (request access), and Send to Etsy is coming soon, pending Etsy's approval of our app. Both are part of the upcoming WallMock Studio plan. See Shopify and Etsy integrations.
+A: Not generally yet. Send to Shopify is in beta testing (request access), and Send to Etsy is coming soon, pending Etsy's approval of our app. When Send to Shopify launches, Pro is planned to include 1 store and up to 25 products a month; the WallMock Studio plan (coming soon) adds 5 stores and Send to Etsy. See Shopify and Etsy integrations.
 
 ## Shopify and Etsy Mockup Integrations: Shopify Beta, Etsy Coming Soon
 URL: https://wallmock.com/integrations/
 Send to Shopify (beta) and Send to Etsy (coming soon) for wall art sellers: WallMock mockups onto your Shopify products, hero first, never deleting your photos.
 
-Short answer: WallMock is building native Shopify and Etsy integrations for wall art sellers. Send to Shopify, in beta testing, adds your mockups straight onto your Shopify products, hero first, with product-edit permission only, and never deletes your photos. Send to Etsy is coming soon, pending Etsy's approval of our app. Both are part of the upcoming WallMock Studio plan; neither is generally available yet.
+Short answer: WallMock is building native Shopify and Etsy integrations for wall art sellers. Send to Shopify, in beta testing, adds your mockups straight onto your Shopify products, hero first, with product-edit permission only, and never deletes your photos. Send to Etsy is coming soon, pending Etsy's approval of our app. Neither is generally available yet. When Send to Shopify launches, Pro includes 1 store and up to 25 products a month; the WallMock Studio plan (coming soon) adds 5 stores, Send to Etsy and one-click listing sets.
 
 Q: Is there a Shopify app that adds mockups to my products automatically?
-A: WallMock's Send to Shopify does this, in beta testing: your WallMock mockups go straight onto your Shopify products, hero first. It is not generally available and it is not in the Shopify App Store. It is part of the upcoming WallMock Studio plan; request beta access.
+A: WallMock's Send to Shopify does this, in beta testing: your WallMock mockups go straight onto your Shopify products, hero first. It is not generally available and it is not in the Shopify App Store. When it launches, Pro is planned to include 1 store and up to 25 products a month, and the WallMock Studio plan (coming soon) 5 stores with unlimited products; request beta access.
 Q: Can I send mockups to Etsy listings automatically?
 A: Not with WallMock yet. Send to Etsy is coming soon, pending Etsy's approval of our app. Today, download your WallMock images and upload them in Etsy's listing editor; on paid plans, the listing kit ZIP includes crops for a 4:3 Etsy first photo, alt text for every photo and a listing checklist.
 Q: Does it work with print-on-demand?
@@ -814,8 +818,8 @@ Q: Will it delete or replace my product photos?
 A: No. Send to Shopify only adds images. It never deletes your photos.
 Q: What Shopify permission does WallMock ask for?
 A: Only permission to edit products, which it needs to add images to them.
-Q: Which WallMock plan includes Send to Shopify and Send to Etsy?
-A: The upcoming WallMock Studio plan, which is coming soon. Shopify: beta, request access. Etsy: coming soon.
+Q: Which WallMock plan will include Send to Shopify and Send to Etsy?
+A: Planned: when Send to Shopify launches, Pro includes 1 store and up to 25 products a month. The WallMock Studio plan (coming soon) includes Send to Shopify for 5 stores with unlimited products; Send to Etsy; one-click listing sets for whole collections; sending a whole collection onto all products; saved frame and partner presets; and 20% off API images. None of this is live yet, and the WallMock Studio plan has no price yet. Shopify: beta, request access. Etsy: coming soon.
 Q: Who are the integrations for?
 A: Print-on-demand wall art sellers, print shops, and anyone selling framed canvas, posters, framed prints or metal prints on Shopify or Etsy.
 Q: Is there an API for print companies and platforms?
@@ -827,7 +831,7 @@ A: Yes. Try Free needs no sign-up and no card: it makes watermarked previews wit
 URL: https://wallmock.com/integrations/shopify/
 Send to Shopify (beta) adds WallMock wall art mockups straight onto your Shopify products, hero first. Product-edit permission only; never deletes your photos.
 
-Short answer: Send to Shopify is WallMock's native Shopify integration for wall art sellers, in beta testing. It adds your WallMock mockups straight onto your Shopify products, hero first. It asks for product-edit permission only and never deletes your photos. It is part of the upcoming WallMock Studio plan, is not generally available and is not in the Shopify App Store; request beta access by email.
+Short answer: Send to Shopify is WallMock's native Shopify integration for wall art sellers, in beta testing. It adds your WallMock mockups straight onto your Shopify products, hero first. It asks for product-edit permission only and never deletes your photos. It is not generally available and is not in the Shopify App Store; request beta access by email. When it launches, Pro includes 1 store and up to 25 products a month, and the WallMock Studio plan (coming soon) includes 5 stores with unlimited products.
 
 Q: Is there a Shopify app that adds wall art mockups to my products automatically?
 A: Send to Shopify does this, in beta testing: WallMock mockups go straight onto your Shopify products, hero first. It is not generally available and not in the Shopify App Store; request beta access.
@@ -841,8 +845,8 @@ Q: In what order are the images added?
 A: Hero first, followed by the rest of your images.
 Q: Does Send to Shopify work with print-on-demand products?
 A: It adds images to the products in your Shopify store and does not connect to your print provider. If a print-on-demand app manages a product, check that app's publish settings so a later sync does not replace your photos.
-Q: Which plan includes Send to Shopify?
-A: The upcoming WallMock Studio plan, which is coming soon. During the beta, access is by request.
+Q: Which plan will include Send to Shopify?
+A: Planned: when Send to Shopify launches, Pro includes 1 store and up to 25 products a month, and the WallMock Studio plan (coming soon) includes 5 stores with unlimited products. During the beta, access is by request. The WallMock Studio plan has no price yet.
 Q: Is Send to Shopify in the Shopify App Store?
 A: No. It is in beta testing with sellers who request access, and it is not listed in the Shopify App Store.
 
@@ -850,7 +854,7 @@ A: No. It is in beta testing with sellers who request access, and it is not list
 URL: https://wallmock.com/integrations/etsy/
 Send to Etsy is coming soon, pending Etsy's approval of our app: WallMock wall art mockups sent to your Etsy listings. What you can automate today.
 
-Short answer: Send to Etsy is a planned WallMock integration that will send your wall art mockups to your Etsy listings. It is coming soon, pending Etsy's approval of our app, and is not available yet. It will be part of the upcoming WallMock Studio plan. Today, WallMock makes the listing photos for a whole collection and you upload them in Etsy's listing editor.
+Short answer: Send to Etsy is a planned WallMock integration that will send your wall art mockups to your Etsy listings. It is coming soon, pending Etsy's approval of our app, and is not available yet. It is planned for the WallMock Studio plan (coming soon, no price yet), not Pro. Today, WallMock makes the listing photos for a whole collection and you upload them in Etsy's listing editor.
 
 Q: Can I send mockups to Etsy listings automatically?
 A: Not with WallMock yet. Send to Etsy is coming soon, pending Etsy's approval of our app. Today, download your WallMock images and upload them in Etsy's listing editor.
@@ -859,7 +863,7 @@ A: When Etsy approves our app. We do not have a date, and we will not call it av
 Q: Is WallMock endorsed by Etsy?
 A: No. The term 'Etsy' is a trademark of Etsy, Inc. This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.
 Q: Which plan will include Send to Etsy?
-A: The upcoming WallMock Studio plan, which is coming soon.
+A: The WallMock Studio plan (coming soon), which has no price yet. Pro is planned to include Send to Shopify only: 1 store and up to 25 products a month once it launches.
 Q: How can I automate Etsy listing photos for wall art today?
 A: Automate the part that takes longest: making the photos. In WallMock, save your rooms and frames once and make every artwork in every chosen room in one run. On paid plans, the listing kit ZIP adds crops for a 4:3 Etsy first photo, alt text for every photo and a listing checklist. Then upload them in Etsy's listing editor.
 Q: Does it work with print-on-demand?
@@ -1022,6 +1026,8 @@ Q: What permission does an app need to add product images?
 A: Permission to edit products. Send to Shopify asks for that permission only.
 Q: Will automatic uploads delete my existing photos?
 A: It depends on the tool, so check before you connect it. Send to Shopify only adds images; it never deletes your photos.
+Q: Which WallMock plan will include Send to Shopify?
+A: Planned: when Send to Shopify launches, Pro includes 1 store and up to 25 products a month, and the WallMock Studio plan (coming soon) includes 5 stores with unlimited products. The WallMock Studio plan has no price yet.
 
 ## How to Automate Etsy Listing Photos for Wall Art and POD
 URL: https://wallmock.com/guides/automate-etsy-listing-photos-for-wall-art/
@@ -1053,7 +1059,7 @@ A: The WallMock API is built for that: the art is placed as supplied and never r
 Q: What should a print company look for in a mockup API?
 A: Exact artwork with a per-image check, the same output as the app your team approves, the products and finishes you actually sell, a large room library, listing sets in one call, webhooks, a sandbox, clear data deletion, and measured speed and per-image cost.
 Q: How much does a mockup API cost?
-A: It varies by provider; ask for per-image and volume pricing. The WallMock API will be pay per image, with volume plans, and early-access partners get pilot pricing.
+A: It varies by provider; ask for per-image and volume pricing. The WallMock API will be pay per image, with volume plans; early-access partners get pilot pricing, and the WallMock Studio plan (coming soon) is planned to include 20% off API images.
 Q: Can a mockup API create Etsy and Shopify listing photo sets?
 A: In its current build (early access, not yet available), the WallMock API returns listing packs with Etsy, Shopify and generic size presets. Sending photos to a store is a separate step; see Shopify and Etsy integrations.
 
