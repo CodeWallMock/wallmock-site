@@ -759,7 +759,7 @@ Short answer: We used the live WallMock Studio to make three original test artwo
 Q: Can I inspect the actual files?
 A: Yes. Download the original nine-image ZIP and its manifest, or the three source PNGs, from this page. The source designs are original diagnostic charts, not customer artwork.
 Q: Are these 4K images?
-A: These are Free-plan images with a 1024 px long edge: six are 1024 × 1024 and three are 818 × 1024. Paid plans include 4K downloads; this run does not test paid output.
+A: These are Free-plan images with a 1024 px long edge: six are 1024 × 1024 and three are 818 × 1024. It was recorded before Free downloads moved to 4K (4096 px); every clean download, Free or paid, is now 4K.
 Q: Can I repeat this in the same three rooms on Free?
 A: Check your account’s room access and remaining allowance first. The first ten lifetime Free downloads have full-library access. After that, Free keeps eight rooms; a monthly allowance refill does not restore the full library.
 Q: Does this prove a supplier’s frame or a typical rendering time?
