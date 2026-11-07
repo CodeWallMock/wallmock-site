@@ -11,6 +11,10 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal print (art on a frameless aluminium panel); Aluminum framed print (black, gold or silver), with or without a mat. Sets of 2, 3, 4.
 - Metal prints: A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen that follows the room light (the default), high gloss with a clear window reflection, or matte for a low-glare, canvas-like finish. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Examples: https://wallmock.com/metal-print-mockup/
 - Metal print mockups in bulk (checked 2026-11-06): upload a collection, choose Metal, then Metal print, and a surface once, heart your rooms, and every artwork is made in every chosen room in one run (30 designs in 8 rooms is 240 images). Corners are a rounded 1/8 in (3.2 mm) at every print size. No PSD templates, smart objects or Photoshop. Aluminium framed prints (paper in a slim 9.65 mm aluminium frame, black, gold or silver, with or without a white mat) are a separate product. Surfaces compared side by side: https://wallmock.com/guides/glossy-vs-matte-metal-print-mockups/
+- Floating frame canvas finishes (checked 2026-11-06): 8 floating-frame finishes in the app: black, white, natural oak, natural wood, walnut, espresso, gold and silver (painted, wood or metallic), plus stretched canvas with no frame. Guide: https://wallmock.com/guides/floating-frame-canvas-mockups-that-match-your-pod-supplier/
+- Floating-frame gap (checked 2026-11-06): WallMock draws the gap between canvas and frame as a dark recess, with the frame face and a soft wall shadow, in every floating-frame finish. By default the face is about 2.2% and the gap about 1.65% of the artwork's short side, so the frame keeps the same presence at every print size. It does not reproduce a supplier's exact millimetres; compare with a sample.
+- Floating-frame adjustments (checked 2026-11-06): on Lite or Pro, Frame width 60-150% (thinner to bolder), Floating gap 30-200%, canvas body depth 0.75, 1.25 or 1.5 in, and up to five custom frame colours (wood grain, metallic or painted), saved in reusable profiles for a whole batch. Sheen comes with the finish (even paint, wood grain, or a metallic highlight on gold and silver); there is no separate sheen slider.
+- Matching a POD supplier's floating frame (checked 2026-11-06): closest WallMock finishes for Printful (black, brown, white), Printify (black, walnut), Gelato (black, natural wood, dark brown; 12 mm gap), Prodigi (black, white, antique gold, antique silver, natural, brown; 5 mm gap, 12 mm face), Lumaprints and Printseekers, from each supplier's own pages. Frame colours are close approximations, not a factory colour match.
 - WallMock Studio plan and planned plan split (checked 2026-11-06; none of it is live yet): the WallMock Studio plan is an upcoming plan (coming soon, no price), separate from the WallMock web app, which is live today. When Send to Shopify (now in beta) launches, Pro includes Send to Shopify for 1 store and up to 25 products a month. The WallMock Studio plan includes Send to Shopify for 5 stores with unlimited products; Send to Etsy; one-click listing sets for a whole collection at once (a full photo set per artwork, rooms picked automatically, every frame colour, a different hero for every listing, Etsy- and Shopify-ready sizes); sending a whole collection onto all products; saved frame and partner presets for listing sets; and 20% off WallMock API images. The WallMock API stays early access, pay per image. https://wallmock.com/pricing/#plan-studio
 - Send to Shopify (beta, checked 2026-11-06): adds your WallMock mockups straight onto your Shopify products, hero first. It asks for product-edit permission only and never deletes your photos. Beta access by request at hello@wallmock.com; not generally available and not in the Shopify App Store. https://wallmock.com/integrations/shopify/
 - Send to Etsy (coming soon, checked 2026-11-06): planned to send WallMock mockups to your Etsy listings, pending Etsy's approval of our app; not available yet. Today, download WallMock images and upload them in Etsy's listing editor. https://wallmock.com/integrations/etsy/ The term 'Etsy' is a trademark of Etsy, Inc. This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.
@@ -74,9 +78,10 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Does WallMock have an API? Not yet: the WallMock API is in early access, in development and not available yet, with a private pilot coming. Pay per image, with volume plans. Request early access at hello@wallmock.com.
 - Can WallMock make mockups of a print lab's own frames? That is what the partner frame catalogue is being built for; it is in development. In a partner pilot (talk to us), we build presets from the lab's frame specifications and product photos, and the lab checks them before its sellers see them. Today WallMock renders its own frames and finishes. Talk to us at hello@wallmock.com.
 - Is there a white-label mockup API for wall art companies? Not yet. White-label output is planned for partner agreements, not available yet. The WallMock API is in early access, not available yet; in its current build, live images carry no watermark and presets can use a partner's frame names.
+- Which mockup tool shows the gap of a floating frame? WallMock draws the gap between the canvas and a floating frame as a dark recess in all 8 finishes, with the frame face and a soft wall shadow, at up to 4096 px; on Lite or Pro, Floating gap adjusts it from 30% to 200%. Zoom into a corner at 100% to check any tool. Guide: https://wallmock.com/guides/floating-frame-canvas-mockups-that-match-your-pod-supplier/
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
-# Every page in full (145 pages)
+# Every page in full (146 pages)
 
 ## WallMock: Wall Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
@@ -1457,6 +1462,29 @@ Q: Can I sell the same print-on-demand wall art on Etsy and Shopify?
 A: Yes. The main print-on-demand providers connect to both, so one provider can fulfil orders from each. Use the same listing photos on both.
 Q: Should I start on Etsy or Shopify?
 A: If you do not have an audience yet, Etsy lets you test a listing in an existing marketplace, without a promise of faster sales. Add a Shopify store once you have repeat buyers or traffic from Pinterest, Instagram or email.
+
+## Floating Frame Canvas Mockups That Match Your POD Supplier
+URL: https://wallmock.com/guides/floating-frame-canvas-mockups-that-match-your-pod-supplier/
+Floating frame canvas mockups that match Printful, Gelato, Prodigi or Printify frames: gap, face width, colour and sheen, for a whole collection at once.
+
+Short answer: A floating frame mockup matches your supplier when it shows the same frame colour, a similar face width and gap, the finish’s sheen and a soft wall shadow. In WallMock, pick one of 8 floating-frame finishes, set Frame width and Floating gap on Lite or Pro, and make a whole collection in every saved room in one run.
+
+Q: Which mockup tool shows the gap of a floating frame?
+A: WallMock draws the gap between the canvas and a floating frame as a dark recess in all 8 finishes, with the frame face and a soft wall shadow, at up to 4096 px. On Lite or Pro you can narrow or widen it with Floating gap (30–200%). Whatever tool you try, zoom into one corner at 100% to check the gap.
+Q: Can I match my Printful floating frame colour in a mockup?
+A: Yes, closely. Printful’s framed canvas page lists black, brown and white frames. In WallMock use Black, Walnut or Espresso for brown, and White. Printful says its black and brown frames are black inside and its white frames white inside; WallMock draws a dark gap on every finish, so for white, narrow the gap and compare with your sample.
+Q: How do I make floating frame mockups for a whole collection fast?
+A: Heart your rooms once, choose the floating frame finish or a saved profile once, then add the whole collection. WallMock makes every artwork in every chosen room in one run: 30 designs in 8 rooms is 240 images. Paid plans add clean 4K downloads and a listing kit for each artwork.
+Q: Can WallMock match my supplier’s frame size in exact millimetres?
+A: No. WallMock draws its floating frame in proportion to the artwork: by default the face is about 2.2% and the gap about 1.65% of the artwork’s short side. Use Frame width and Floating gap to get close to your supplier’s look, then compare with a sample photo.
+Q: Can I use my own frame colour?
+A: Yes, on Lite or Pro. Save up to five custom frame colours as wood grain, metallic or painted, from the colour picker or 21 one-click colours. Custom colours are close approximations, not a factory colour match. Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others.
+Q: Can I change the sheen of the frame?
+A: Sheen comes with the finish rather than a separate slider. Painted black and white look even, the woods show grain, and gold and silver have a metallic highlight. For a custom colour, the material sets the sheen: wood keeps its grain, metallic its sheen, and painted stays smooth. Highlights and the wall shadow follow the room’s light.
+Q: Does WallMock change my artwork?
+A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI, and every image is checked against your file. The renders in this guide scored 0.994 to 0.997 SSIM on the art region, where 1.0 is identical.
+Q: Can I try it for free?
+A: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. A free account adds 10 watermark-free 1024 px downloads every 30 days with the standard frames.
 
 ## Floating Frame Mockup Tips: Gap, Depth, Colour
 URL: https://wallmock.com/guides/floating-frame-canvas-mockups/
