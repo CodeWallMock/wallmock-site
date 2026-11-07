@@ -878,7 +878,7 @@ A: In beta testing, by request and not generally available: Send to Shopify adds
 URL: https://wallmock.com/partners/
 Partner pilots for print labs, POD suppliers and marketplaces: presets of your frame range in staged rooms (in development), exact art. Talk to us.
 
-Short answer: WallMock partner pilots are for print labs, print-on-demand suppliers, art marketplaces and wall-art brands that want room mockups showing the products they actually sell. In a pilot, we work with you to turn your frame range into presets in WallMock's renderer, private to you, for your sellers and your own listings. Partner pilots: talk to us. The partner frame catalogue is in development, and the WallMock API is in early access.
+Short answer: WallMock partner pilots are for print labs, print-on-demand suppliers, art marketplaces and wall-art brands that want room mockups showing the products they actually sell. In a pilot, we work with you to turn your frame range into presets in WallMock's renderer, private to you, for your sellers and your own listings. Partner early access is open: talk to us. The partner frame catalogue is in development, and the WallMock API is in early access.
 
 Q: What is a WallMock partner pilot?
 A: A small, hands-on project with one print lab, supplier, marketplace or brand. We turn a handful of your frames into presets in WallMock's renderer, send you sample images to judge against your own product photos, and only then agree how images reach your sellers. To discuss a pilot, talk to us at hello@wallmock.com.
