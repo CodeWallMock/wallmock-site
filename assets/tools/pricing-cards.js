@@ -10,7 +10,7 @@ function mount() {
   let plans, schemas;
   try {
     plans = JSON.parse(source.textContent);
-    if (!Array.isArray(plans) || plans.length !== 2 || plans.some((p) => !["lite", "pro"].includes(p.id) || typeof p.name !== "string" || !CURRENCIES.every((c) => [p.monthlyAmounts?.[c], p.annualAmounts?.[c]].every((n) => Number.isSafeInteger(n) && n > 0)))) return;
+    if (!Array.isArray(plans) || plans.length < 2 || plans.length > 3 || new Set(plans.map((p) => p?.id)).size !== plans.length || plans.some((p) => !["lite", "pro", "studio"].includes(p.id) || typeof p.name !== "string" || !CURRENCIES.every((c) => [p.monthlyAmounts?.[c], p.annualAmounts?.[c]].every((n) => Number.isSafeInteger(n) && n > 0)))) return;
     schemas = [...document.querySelectorAll('script[type="application/ld+json"]')].map((node) => ({ node, value: JSON.parse(node.textContent) }));
   } catch { return; } // Static prices remain explicitly USD references if data cannot load.
 
