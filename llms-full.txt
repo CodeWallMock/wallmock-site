@@ -15,6 +15,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Send to Shopify (beta, checked 2026-11-06): adds your WallMock mockups straight onto your Shopify products, hero first. It asks for product-edit permission only and never deletes your photos. Beta access by request at hello@wallmock.com; not generally available and not in the Shopify App Store. https://wallmock.com/integrations/shopify/
 - Send to Etsy (coming soon, checked 2026-11-06): planned to send WallMock mockups to your Etsy listings, pending Etsy's approval of our app; not available yet. Today, download WallMock images and upload them in Etsy's listing editor. https://wallmock.com/integrations/etsy/ The term 'Etsy' is a trademark of Etsy, Inc. This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.
 - WallMock API: early access (checked 2026-11-06). In development and not available yet; a private pilot is coming. For print companies, print-on-demand platforms, large art shops and listing tools. Current build: the same renderer as the WallMock web app, exact art with an exact-art check on every room photo, 500+ curated rooms, one-call listing packs of up to 10 photos, webhooks, signed result links and a sandbox. Pay per image, with volume plans; early-access partners get pilot pricing; planned 20% off API images with the WallMock Studio plan (coming soon). https://wallmock.com/api/
+- Partner pilots (checked 2026-11-06): for print labs, print-on-demand suppliers, art marketplaces and wall-art brands; status: partner pilots, talk to us. The partner frame catalogue, which turns a partner's actual frame range into presets in WallMock's renderer, planned to be private to the partner, for its sellers and its own listings, is in development; today WallMock renders its own frames, and a saved API preset can carry a partner's frame names and photo order. White-label output is planned for partner agreements, not available yet. No prices are published; pilot terms are agreed per partner. Talk to us at hello@wallmock.com. https://wallmock.com/partners/ and https://wallmock.com/print-labs/
 - Rooms: 500+ curated room settings; images up to 4096 px. New rooms are added to the library over time.
 - Frame quality: paid plans offer clean 4K (4096 px) downloads; floating frames show the gap around the canvas, frames have a natural shine and each piece casts a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup, made for a whole collection at once with no PSDs. Zoom in and check the corners at full size: https://wallmock.com/wall-art-mockup-examples/
 - Price: Free account: Unlimited watermarked previews on your device, in your included rooms. Usage safeguards and device limits apply. You get 10 watermark-free 1K (1024 px) downloads every 30 days; unused downloads do not carry over. The first 10 free downloads over your account's lifetime can use all 500+ rooms; after that, 8 free rooms remain. When the allowance is used, previews continue in your included rooms until the next 30-day reset. Refills do not reopen the full library. Free downloads are for single artworks. Clean 4K downloads, sets and listing kits need a paid plan; listing videos need Pro. Plans: Lite $5/month or $39/year: 200 clean 4K (4096 px) images a month; Pro $15/month or $144/year: Unlimited clean 4K (4096 px) images. Studio: Coming soon. Fair use: up to 150 new rooms a day and 400 in 30 days, and up to 300 images a day made on WallMock's server. Reference prices are USD. Pricing cards and the app set USD, EUR, GBP, CAD, AUD, INR or BRL automatically from your connection; existing subscriptions keep their billing currency.
@@ -71,9 +72,11 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Is there a Shopify app that adds mockups to my products automatically? WallMock's Send to Shopify does this, in beta testing: mockups go straight onto your Shopify products, hero first, with product-edit permission only, and your photos are never deleted. It is not generally available and not in the Shopify App Store; request beta access at hello@wallmock.com. When it launches, Pro is planned to include 1 store and up to 25 products a month, and the WallMock Studio plan (coming soon) includes 5 stores with unlimited products.
 - Can I send mockups to Etsy listings automatically? Not with WallMock yet. Send to Etsy is coming soon, pending Etsy's approval of our app, and is planned for the WallMock Studio plan (coming soon, no price yet), not Pro. Today, download your WallMock images and upload them in Etsy's listing editor.
 - Does WallMock have an API? Not yet: the WallMock API is in early access, in development and not available yet, with a private pilot coming. Pay per image, with volume plans. Request early access at hello@wallmock.com.
+- Can WallMock make mockups of a print lab's own frames? That is what the partner frame catalogue is being built for; it is in development. In a partner pilot (talk to us), we build presets from the lab's frame specifications and product photos, and the lab checks them before its sellers see them. Today WallMock renders its own frames and finishes. Talk to us at hello@wallmock.com.
+- Is there a white-label mockup API for wall art companies? Not yet. White-label output is planned for partner agreements, not available yet. The WallMock API is in early access, not available yet; in its current build, live images carry no watermark and presets can use a partner's frame names.
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
-# Every page in full (141 pages)
+# Every page in full (145 pages)
 
 ## WallMock: Wall Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
@@ -758,10 +761,10 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 URL: https://wallmock.com/whats-new/
 WallMock updates and changelog, newest first: what changed in the app and on this site, with dates. Frame shadows, a faster Studio, Help Center, plans.
 
-Short answer: These are WallMock updates, newest first. The latest recorded here, on 6 November 2026: metal prints gain a High gloss surface, Gloss now follows the room light, and the corners are a true ⅛ in at every size. The same day, this site added pages for Send to Shopify (beta), Send to Etsy (coming soon) and the WallMock API (early access). On 29 October 2026: premium shine on every frame, frame shadows in four window-lit rooms now fall away from the window, a faster Studio, a Help Center and a zoomable examples page. Paid plans and open sign-up started on 28 October 2026. WallMock has been in development since July 2026.
+Short answer: These are WallMock updates, newest first. The latest recorded here, on 6 November 2026: metal prints gain a High gloss surface, Gloss now follows the room light, and the corners are a true ⅛ in at every size. The same day, this site added pages for Send to Shopify (beta), Send to Etsy (coming soon) and the WallMock API (early access), plus partner pilot pages for print labs. On 29 October 2026: premium shine on every frame, frame shadows in four window-lit rooms now fall away from the window, a faster Studio, a Help Center and a zoomable examples page. Paid plans and open sign-up started on 28 October 2026. WallMock has been in development since July 2026.
 
 Q: What changed in WallMock most recently?
-A: On 6 November 2026: metal prints gained a new High gloss surface with a clear window reflection, Gloss now puts its sheen on the side the room light comes from, and metal print corners are a true ⅛ in (3.2 mm) at every size, and this site added pages for Send to Shopify (beta), Send to Etsy (coming soon) and the WallMock API (early access). Before that, on 29 October 2026: premium shine on every frame, frame shadows in four window-lit rooms now fall away from the window, the Studio is faster, favourite rooms and Size & position show the framed product, and there is a new Help Center and a zoomable examples page.
+A: On 6 November 2026: metal prints gained a new High gloss surface with a clear window reflection, Gloss now puts its sheen on the side the room light comes from, and metal print corners are a true ⅛ in (3.2 mm) at every size, and this site added pages for Send to Shopify (beta), Send to Etsy (coming soon) and the WallMock API (early access), plus partner pilot pages for print labs. Before that, on 29 October 2026: premium shine on every frame, frame shadows in four window-lit rooms now fall away from the window, the Studio is faster, favourite rooms and Size & position show the framed product, and there is a new Help Center and a zoomable examples page.
 Q: How long has WallMock been in development?
 A: WallMock has been in development since July 2026. Free previews opened to everyone on 26 October 2026, and paid plans on 28 October 2026. The section "Before public launch" on this page lists what was built each month.
 Q: Do I need to install WallMock updates?
@@ -870,6 +873,56 @@ Q: Does it work with print-on-demand?
 A: WallMock makes photos for the products you sell, whoever prints them. It does not connect to your print provider.
 Q: Is there a Shopify integration?
 A: In beta testing, by request and not generally available: Send to Shopify adds mockups to your Shopify products, hero first. Request access by email.
+
+## Partner Pilots: Mockups of Your Exact Frames for Your Sellers
+URL: https://wallmock.com/partners/
+Partner pilots for print labs, POD suppliers and marketplaces: presets of your frame range in staged rooms (in development), exact art. Talk to us.
+
+Short answer: WallMock partner pilots are for print labs, print-on-demand suppliers, art marketplaces and wall-art brands that want room mockups showing the products they actually sell. In a pilot, we work with you to turn your frame range into presets in WallMock's renderer, private to you, for your sellers and your own listings. Partner pilots: talk to us. The partner frame catalogue is in development, and the WallMock API is in early access.
+
+Q: What is a WallMock partner pilot?
+A: A small, hands-on project with one print lab, supplier, marketplace or brand. We turn a handful of your frames into presets in WallMock's renderer, send you sample images to judge against your own product photos, and only then agree how images reach your sellers. To discuss a pilot, talk to us at hello@wallmock.com.
+Q: Can WallMock make mockups of our exact frames?
+A: That is what the partner frame catalogue is being built for, and it is in development. In a pilot we build presets from your frame specifications and product photos, and you check them before your sellers see them. Today, WallMock renders its own frames and finishes, and a saved preset can carry your frame names and photo order.
+Q: Who are partner pilots for?
+A: Print labs and framers with their own frame range, print-on-demand suppliers whose sellers need listing photos, art marketplaces, and wall-art brands with large catalogues.
+Q: Will partner presets be private?
+A: That is the plan: partner presets will be private to the partner and its sellers, and will not be added to WallMock's public frame list. In the current API build (early access), saved presets belong to the account that made them.
+Q: Is the artwork changed?
+A: No. The artwork is placed exactly as supplied; it is never redrawn, repainted or upscaled by AI. Every room photo gets an exact-art check against the uploaded file; close-ups are cut from a checked image.
+Q: Which products can WallMock show today?
+A: Floating canvas, stretched canvas, framed prints with or without a mat, metal prints in Gloss, High gloss or Matte, and aluminium frames in black, gold or silver, in 500+ curated, digitally staged rooms.
+Q: How do the images reach sellers?
+A: Through the WallMock API (early access, not available yet) into your own systems, with webhooks and signed result links. Send to Shopify is in beta, and Send to Etsy is coming soon, pending Etsy's approval of our app.
+Q: How fast is it?
+A: In development tests, about 3 to 5 seconds per 4K image per worker. Speeds on production hardware may differ, so we measure them with you in a pilot.
+Q: Can the images be white-label?
+A: Not yet. White-label output is planned for partner agreements. Tell us what you need and we will say what a pilot can cover today.
+Q: How much does a partner pilot cost?
+A: Prices are not published. Pilot terms are agreed with each partner. The WallMock API will be pay per image, with volume plans.
+
+## Mockups for Print Labs and POD: Custom Frames in Pilots, White-Label Planned
+URL: https://wallmock.com/print-labs/
+Room mockups for print labs and POD suppliers: exact art, 500+ staged rooms, listing packs. Custom-frame presets in pilots (in development); white-label planned.
+
+Short answer: WallMock helps print labs and print-on-demand suppliers give their sellers room mockups of the products they print: the seller's exact art in curated, digitally staged rooms, as floating canvas, stretched canvas, framed prints with or without a mat, metal prints (Gloss, High gloss or Matte) and aluminium frames. Custom-frame presets of your own range are in development, built in partner pilots, and white-label output is planned for partner agreements. For a partner pilot, talk to us; the API is in early access, not available yet.
+
+Q: Can a print lab give its sellers mockups of its own frames?
+A: That is what WallMock's partner frame catalogue is for, and it is in development. In a partner pilot we build presets from your frame specifications and product photos and check them with you before sellers see them. To discuss a pilot, talk to us.
+Q: Is there a white-label mockup API for print labs?
+A: Not yet from WallMock. White-label output is planned for partner agreements, and the API is in early access, not available yet. In the current build, live images carry no WallMock watermark, and sandbox images are watermarked.
+Q: Which products can WallMock show?
+A: Floating canvas, stretched canvas, framed prints with or without a mat, metal prints in Gloss, High gloss or Matte, and aluminium frames in black, gold or silver.
+Q: Does it keep the seller's art exact?
+A: Yes. The artwork is placed as supplied and never redrawn. Every room photo gets an exact-art check (SSIM against the uploaded file, with mirrored and rotated copies as controls), and the result comes back with each image.
+Q: Does WallMock connect to our print-on-demand integration?
+A: WallMock makes the images; it does not place orders. Through the API (early access), your system can request images and receive them by webhook and signed links. For sellers, Send to Shopify (beta) adds images to their Shopify products, and Send to Etsy is coming soon.
+Q: What happens to sellers' artwork?
+A: Artworks are deleted after processing and never used for training.
+Q: How many images can it make?
+A: In development tests, about 3 to 5 seconds per 4K image per worker. Production throughput is measured in a pilot.
+Q: What does it cost a print lab?
+A: Prices are not published. Pilot terms are agreed with each partner, and the API will be pay per image, with volume plans.
 
 ## Wall Art Mockup Tools Compared, With Dated Facts
 URL: https://wallmock.com/compare/
@@ -1062,6 +1115,40 @@ Q: How much does a mockup API cost?
 A: It varies by provider; ask for per-image and volume pricing. The WallMock API will be pay per image, with volume plans; early-access partners get pilot pricing, and the WallMock Studio plan (coming soon) is planned to include 20% off API images.
 Q: Can a mockup API create Etsy and Shopify listing photo sets?
 A: In its current build (early access, not yet available), the WallMock API returns listing packs with Etsy, Shopify and generic size presets. Sending photos to a store is a separate step; see Shopify and Etsy integrations.
+
+## How Print Labs Can Give Sellers Mockups of Their Exact Frames
+URL: https://wallmock.com/guides/print-lab-mockups-of-your-exact-frames/
+A print lab guide to mockups of your own frames: what to record about each frame, keeping art exact, checking against product photos, and delivery.
+
+Short answer: Record each frame as it is made (face width, depth, profile, finish, mat options), render the seller's exact art into rooms with those frames, check every frame against your own product photos, then deliver the images where sellers list. WallMock is building this as a partner frame catalogue, in development; for a partner pilot, talk to us.
+
+Q: How can a print lab give sellers mockups of its exact frames?
+A: Record each frame's face width, depth, profile, finish and mat options; render the seller's exact art into rooms with those frames; check every frame against your product photos; and deliver the images where sellers list, through an API or store integration.
+Q: Why not just use generic frame templates?
+A: Generic templates show a frame, not yours. Width, colour, depth, the floating-frame gap and the shadow are usually different, and buyers notice when the parcel does not match the listing.
+Q: What should a lab record about each frame?
+A: Face width, depth, profile, finish and sheen, mat colours and widths, canvas depth, metal surface and corner radius, and the sizes each frame comes in, plus a front photo and a corner close-up.
+Q: How do you know the seller's art was not changed?
+A: Ask for a check on every image. WallMock compares the art in each room photo with the uploaded file using SSIM, with mirrored and rotated copies as controls, and never redraws the art.
+Q: Does WallMock offer this today?
+A: Partly. WallMock renders its own frames and finishes today, and the API (early access) can carry your frame names and photo order. Presets of a partner's actual frames are in development, built in partner pilots; to discuss one, talk to us.
+
+## White-Label Mockup API for Wall Art Companies: What to Look For
+URL: https://wallmock.com/guides/white-label-mockup-api-for-wall-art-companies/
+A checklist for print labs, POD suppliers and marketplaces choosing a white-label mockup API: exact art, real frames, private presets, delivery, data.
+
+Short answer: Look for exact art with a per-image proof, renders of your real frames rather than flat templates, enough curated rooms, listing-pack output, white-label and private presets, webhooks and signed links, a sandbox, file deletion with no training, and throughput measured on stated hardware. Then pilot it on your own frames before you sign. WallMock's API is in early access, not available yet; white-label is planned for partner agreements.
+
+Q: What is a white-label mockup API?
+A: A service your systems call to make product mockups, where the images and links reach your sellers under your brand rather than the provider's.
+Q: What should wall art companies look for in a mockup API?
+A: Exact art with a per-image proof, renders of your real frames rather than flat templates, enough curated rooms, listing-pack output, white-label and private presets, webhooks and signed links, a sandbox, deletion of files after processing with no training, and throughput measured on hardware you can verify.
+Q: Does WallMock offer a white-label mockup API?
+A: Not yet. White-label output is planned for partner agreements. In the current early-access build, live images carry no WallMock watermark and presets can use your frame names.
+Q: Can a mockup API show our own frames?
+A: Ask for a pilot on your frames before you sign. At WallMock, presets of a partner's actual frames are built in partner pilots; the partner frame catalogue is in development.
+Q: How do I test a mockup API before committing?
+A: Use its sandbox to build the integration, then run a pilot with your own frames and a few artworks you have the rights to, and compare the images with your product photos.
 
 ## Wall art mockups without AI redrawing for Etsy and Shopify
 URL: https://wallmock.com/guides/ai-wall-art-mockup-generator/
