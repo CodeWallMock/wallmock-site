@@ -6,7 +6,7 @@ Your exact artwork in hundreds of realistic, curated rooms, for every design in 
 
 WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
-## Key facts (checked 2026-10-31)
+## Key facts (checked 2026-11-08)
 - Who it is for: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal print (art on a frameless aluminium panel); Aluminum framed print (black, gold or silver), with or without a mat. Compatible framed and canvas products support sets of 2, 3 or 4; metal panels use one artwork per image.
 - Metal prints: A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen that follows the room light (the default), high gloss with a clear window reflection, or matte for a low-glare, canvas-like finish. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Examples: https://wallmock.com/metal-print-mockup/
@@ -84,7 +84,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Which mockup tool shows the gap of a floating frame? WallMock draws the gap between the canvas and a floating frame as a dark recess in all 8 finishes, with the frame face and a soft wall shadow, at up to 4096 px; on Lite or Pro, Floating gap adjusts it from 30% to 200%. Zoom into a corner at 100% to check any tool. Guide: https://wallmock.com/guides/floating-frame-canvas-mockups-that-match-your-pod-supplier/
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
-# Every page in full (146 pages)
+# Every page in full (166 pages)
 
 ## WallMock: Wall Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
@@ -831,7 +831,7 @@ A: Artworks are deleted after processing and never used for training. Finished i
 Q: Is there a Shopify or Etsy integration?
 A: For Shopify, yes: Send to Shopify (beta) is included in Pro (1 store, up to 10 products a month) and the WallMock Studio plan (up to 3 stores, unlimited products). Send to Etsy is coming soon, pending Etsy's approval of our app, and will be added to the WallMock Studio plan at no extra cost when it launches. See Shopify and Etsy integrations.
 
-## Shopify and Etsy Mockup Integrations: Shopify Beta, Etsy Coming Soon
+## Shopify and Etsy Mockup Integrations
 URL: https://wallmock.com/integrations/
 Send to Shopify (beta) and Send to Etsy (coming soon) for wall art sellers: WallMock mockups onto your Shopify products, hero first, never deleting your photos.
 
@@ -900,7 +900,7 @@ A: WallMock makes photos for the products you sell, whoever prints them. It does
 Q: Is there a Shopify integration?
 A: Yes, in beta: Send to Shopify adds mockups to your Shopify products, hero first. It is included in Pro (1 store, up to 10 products a month) and the WallMock Studio plan (up to 3 stores, unlimited products).
 
-## Partner Pilots: Mockups of Your Exact Frames for Your Sellers
+## Partner Pilots for Print Labs: Your Exact Frames
 URL: https://wallmock.com/partners/
 Partner pilots for print labs, POD suppliers and marketplaces: presets of your frame range in staged rooms (in development), exact art. Talk to us.
 
@@ -927,7 +927,7 @@ A: Not yet. White-label output is planned for partner agreements. Tell us what y
 Q: How much does a partner pilot cost?
 A: Prices are not published. Pilot terms are agreed with each partner. The WallMock API will be pay per image, with volume plans.
 
-## Mockups for Print Labs and POD: Custom Frames in Pilots, White-Label Planned
+## Mockups for Print Labs and POD Companies
 URL: https://wallmock.com/print-labs/
 Room mockups for print labs and POD suppliers: exact art, 500+ staged rooms, listing packs. Custom-frame presets in pilots (in development); white-label planned.
 
@@ -1055,7 +1055,7 @@ A: No. WallMock uses its own 500+ curated rooms and has no upload for your own r
 Q: What image size do Smartist and WallMock export?
 A: Smartist's help centre gives a maximum of 3840 by 2400 pixels (checked 2026-10-29). WallMock's downloads are 4K (4096 px) on Free and paid plans.
 
-## WallMock vs WallMockup: Two Different Mockup Tools
+## WallMockup Alternative? WallMock vs WallMockup Compared
 URL: https://wallmock.com/compare/wallmock-vs-wallmockup/
 WallMock vs WallMockup: different products from different companies. Rooms, frames, speed and price side by side, checked 2026-10-29, and which to choose.
 
@@ -1089,7 +1089,7 @@ A: Yes. Every guide and free tool is free to read and use, with no sign-up.
 Q: Are the room images real?
 A: The images are made with WallMock. Rooms are curated, digitally staged interiors reviewed by WallMock. The artwork in them is placed exactly as supplied.
 
-## How to Add Mockups to Shopify Products Automatically (Wall Art)
+## Add Mockups to Shopify Products Automatically
 URL: https://wallmock.com/guides/add-mockups-to-shopify-products-automatically/
 Add wall art mockups to Shopify products by hand or automatically: the admin steps, what an app needs, and Send to Shopify (beta), hero first.
 
@@ -1142,7 +1142,7 @@ A: It varies by provider; ask for per-image and volume pricing. The WallMock API
 Q: Can a mockup API create Etsy and Shopify listing photo sets?
 A: In its current build (early access, not yet available), the WallMock API returns listing packs with Etsy, Shopify and generic size presets. Sending photos to a store is a separate step; see Shopify and Etsy integrations.
 
-## How Print Labs Can Give Sellers Mockups of Their Exact Frames
+## Print Lab Mockups of Your Exact Frames
 URL: https://wallmock.com/guides/print-lab-mockups-of-your-exact-frames/
 A print lab guide to mockups of your own frames: what to record about each frame, keeping art exact, checking against product photos, and delivery.
 
@@ -1159,7 +1159,7 @@ A: Ask for a check on every image. WallMock compares the art in each room photo 
 Q: Does WallMock offer this today?
 A: Partly. WallMock renders its own frames and finishes today, and the API (early access) can carry your frame names and photo order. Presets of a partner's actual frames are in development, built in partner pilots; to discuss one, talk to us.
 
-## White-Label Mockup API for Wall Art Companies: What to Look For
+## White-Label Mockup API for Wall Art Companies
 URL: https://wallmock.com/guides/white-label-mockup-api-for-wall-art-companies/
 A checklist for print labs, POD suppliers and marketplaces choosing a white-label mockup API: exact art, real frames, private presets, delivery, data.
 
@@ -1212,7 +1212,7 @@ A: If the redrawn art differs from what you ship, the photo no longer accurately
 Q: Can I use WallMock images on Etsy?
 A: Yes. WallMock's terms allow clean downloads in shop listings. The artwork is your file, placed as it is, and you should still follow Etsy's photo rules.
 
-## Print on Demand Wall Art: How to Choose a Provider
+## Print on Demand Wall Art: How to Choose a Provider (2026)
 URL: https://wallmock.com/guides/best-print-on-demand-for-wall-art/
 Printify, Printful, Gelato, Prodigi, Lumaprints and Gooten compared on wall art products, where they print and Etsy and Shopify links, using dated facts.
 
@@ -1985,7 +1985,7 @@ A: Not currently, according to Prodigi's Etsy FAQ. Create the listing on Etsy fi
 Q: Does Prodigi framed canvas come with hanging hardware?
 A: No. Prodigi's framed canvas page says hanging equipment is not included, so say so in your listing.
 
-## Prodigi vs Gelato for Framed Prints and Canvas (UK, EU, US)
+## Prodigi vs Gelato (2026): Framed Prints and Canvas
 URL: https://wallmock.com/guides/prodigi-vs-gelato/
 Prodigi and Gelato compared for wall art sellers in the UK, EU and US: framed canvas gap and depth, frames, mounts, where each prints, samples and mockups.
 
@@ -2100,7 +2100,7 @@ A: On Etsy, yes: sellers are asked to disclose AI use in the listing description
 Q: Can I use mockups made with AI?
 A: Mockup rooms can be digitally staged, but the artwork shown must be your actual file at its true proportions, so buyers see what they will receive.
 
-## Shopify Wall Art Product Images: Variant Photos That Match
+## Shopify Product Image Size for Wall Art: Variant Photos
 URL: https://wallmock.com/guides/shopify-wall-art-product-images/
 Shopify product images for wall art: options for size and frame, one image per variant, the gallery order, image sizes, and fixing photos a print-on-demand sync broke.
 
@@ -2477,7 +2477,7 @@ A: Enter your provider's product and shipping cost. The break-even price is the 
 Q: Is anything I type sent anywhere?
 A: No. The calculator runs in your browser; nothing you type leaves your device.
 
-## Etsy Listing Photo Checker: Size, Shape and Thumbnail Crop
+## Etsy Photo Size Checker: Listing Photo Size and Thumbnail
 URL: https://wallmock.com/tools/etsy-photo-checker/
 Free Etsy listing photo checker: see each image's pixel size, shape, file type and square thumbnail crop against Etsy's own photo guidance. Nothing is uploaded.
 
@@ -2663,3 +2663,169 @@ A: No. The chart is drawn and saved in your browser; nothing is sent anywhere.
 ## Automated access
 
 Search and shopping assistants may read and link to public pages and help users compare plans. Studio automation, reverse engineering and extraction or reuse of source code, room layers and frame assets are subject to the [WallMock terms](https://wallmock.com/terms/#t-use).
+
+## Framed Canvas Mockups for Australian POD Sellers
+URL: https://wallmock.com/guides/framed-canvas-mockups-australia/
+Make framed canvas listing images for an Australian Etsy or Shopify shop. Compare two Prodigi builds, check metric sizes and see WallMock prices in AUD.
+
+
+## Wall Art Mockups for Sellers in India
+URL: https://wallmock.com/guides/wall-art-mockups-india/
+Preview framed prints and canvas from India. See WallMock prices in INR, check Etsy’s international shop rules and prepare mockups for the buyers you ship to.
+
+
+## Wall Art Mockups for EU Print-on-Demand Sellers
+URL: https://wallmock.com/guides/wall-art-mockups-eu/
+Prepare A-series wall art mockups for EU shops. See how a 2:3 artwork fits an A3 print, verify the supplier’s regional sizes and check WallMock’s EUR pricing.
+
+
+## Framed Print Mockups for UK Wall Art Sellers
+URL: https://wallmock.com/guides/framed-print-mockups-uk/
+Make framed print mockups for a UK Etsy or Shopify shop. Show mounted and unmounted options accurately, label the three sizes buyers need and check GBP pricing.
+
+
+## Canvas Mockups for Canadian Print-on-Demand Sellers
+URL: https://wallmock.com/guides/canvas-mockups-canada/
+Prepare canvas listing images for Canadian and US buyers, check wrap edges and supplier routing, and see WallMock’s CAD prices.
+
+
+## Framed Poster Mockups for German POD Sellers
+URL: https://wallmock.com/guides/framed-poster-mockups-germany/
+Compare A2 and 50 × 70 cm framed posters, check the outside dimensions, and build product images for a German Etsy or Shopify shop.
+
+
+## Framed Print Mockups for French Wall Art Sellers
+URL: https://wallmock.com/guides/framed-print-mockups-france/
+Show which prints include a frame or passe-partout, fit 30 × 40 cm artwork to A3, and make clear photos for a French wall art shop.
+
+
+## Wall Art Mockups for Dutch POD Sellers
+URL: https://wallmock.com/guides/wall-art-mockups-netherlands/
+Build one wall art gallery for Dutch and Belgian buyers, with reusable room photos and clear size labels for each storefront language.
+
+
+## Wall Art Mockups for Swiss Print-on-Demand Sellers
+URL: https://wallmock.com/guides/wall-art-mockups-switzerland/
+Show the difference between a framed and unframed print, and check delivery details before listing wall art for Swiss customers.
+
+
+## Wall Art Mockups for Latvian POD Sellers
+URL: https://wallmock.com/guides/printseekers-wall-art-mockups-latvia/
+Compare Printseekers and Printful wall art options from Latvia. Check edge treatment, frame measurements and delivery before reusing a listing mockup.
+
+
+## Wall Art Listing Mockups for Bulgarian POD Sellers
+URL: https://wallmock.com/guides/wall-art-mockups-bulgaria/
+Update older Bulgarian wall art listings after the move to EUR. Replace stale price images and make reusable canvas and framed print galleries.
+
+
+## Wall Art Mockups for Print-on-Demand Sellers in Türkiye
+URL: https://wallmock.com/guides/wall-art-mockups-turkey/
+Make separate framed print images for European and US buyers from Türkiye. Compare A3 with 12 × 18 in and check WallMock’s USD prices.
+
+
+## Wall Art Mockups for Ukrainian Print-on-Demand Sellers
+URL: https://wallmock.com/guides/wall-art-mockups-ukraine/
+Prepare wall art listings from Ukraine. Check Etsy’s Payoneer setup, verify fulfilment by buyer destination and make the right room image for each variant.
+
+
+## Wall Art Mockups for Romanian Print-on-Demand Sellers
+URL: https://wallmock.com/guides/wall-art-mockups-romania/
+Prepare size images for Romanian and international shops. Keep metric and inch variants accurate and check shop payout and WallMock billing currencies separately.
+
+
+## From POD Sample to Etsy Listing: Wall Art Mockups
+URL: https://wallmock.com/guides/wall-art-mockups-for-pod-suppliers/
+Selling wall art with Lumaprints, Printseekers, Prodigi, Gelato or Sensaria? Match your supplier’s canvas, framed print or metal panel to the right room mockup.
+
+
+## Print on Demand Framed Posters: Paper, Frames, Mockups
+URL: https://wallmock.com/guides/print-on-demand-posters-and-framed-posters/
+Print on demand posters and framed posters compared: Printful, Printify, Gelato and Prodigi paper, frames, mats and sizes, plus listing photos that match.
+
+Short answer: Choose a poster supplier by three details your buyer will notice: the paper (matte, luster or semi-gloss, and its weight), the frame (material, colour and whether a mat is offered) and how it arrives (ready to hang, or frame and poster in one box). Printful, Printify, Gelato and Prodigi all make framed posters but differ on each of those. Pick sizes in your artwork’s ratio, order a sample, then show that exact frame, mat and finish in every listing photo.
+
+Q: What is the best print on demand for framed posters?
+A: It depends on the frame and paper you want and where your buyers are. Prodigi lists the most frame colours and optional mounts; Gelato offers five papers and wood or metal frames; Printful and Printify offer wood frames in common colours. Order a sample of the exact product before you list it.
+Q: Do print-on-demand framed posters arrive ready to hang?
+A: Printful says its framed posters arrive mounted and ready to hang, and Prodigi’s classic frames arrive ready to hang. Gelato ships the poster and frame together but unmounted unless you choose its ready-to-hang service. Printify depends on the print provider. Say which in your listing.
+Q: Should I choose matte or luster paper for posters?
+A: Matte for illustration, line art and rooms with strong light, because it adds no sheen. Luster or semi-gloss for photography and saturated colour, accepting more glare. Under an acrylic front, the front reflects either way.
+Q: What size file do I need for a 24×36 poster?
+A: At 300 ppi, 7,200 × 10,800 pixels; at 150 ppi, 3,600 × 5,400. Check your supplier’s file guide and test the file with a print resolution checker before you list the size.
+Q: Can WallMock make unframed poster mockups?
+A: No. WallMock shows framed posters and framed prints, with or without a mat, and slim aluminium frames. For an unframed poster, show the flat artwork and a photo of your sample.
+Q: Can I make framed poster mockups for a whole collection?
+A: Yes. In WallMock, choose the framed print, frame colour and mat once, heart your rooms, and add the collection; every artwork is made in every chosen room in one run.
+
+## Print on Demand Metal Prints: Suppliers and Surfaces
+URL: https://wallmock.com/guides/print-on-demand-metal-prints/
+Print on demand metal prints compared: Printful, Prodigi, Gelato and Lumaprints aluminium panels, finishes, sizes and mounts, plus photos that match.
+
+Short answer: A metal print is art printed onto an aluminium panel, usually by dye sublimation, and hung on a hidden mount so it floats off the wall. Suppliers differ in the base (white, silver or brushed), the surface (gloss, matte or lustre), the size range and where they ship: Printful and Prodigi’s gloss aluminium prints ship to the US only, while Gelato lists over 60 sizes. Choose the panel, order a sample, then show that surface and edge in your photos.
+
+Q: Which print-on-demand companies make metal prints?
+A: Among the suppliers we checked on 8 November 2026: Printful (glossy aluminium, six sizes, US only), Prodigi (gloss aluminium prints from the US, and dibond in matte, gloss or lustre from the EU, UK and US), Gelato (3 mm dibond, white or brushed silver base, over 60 sizes) and Lumaprints (glossy white or silver aluminium, 5×5 to 40×60 in). We did not find a metal print on Printify’s site that day.
+Q: Do metal prints show white?
+A: Only if the base is white. Gelato notes white ink isn’t used, so on its brushed silver base white and transparent areas show the metal. Choose a white-base panel for art with white backgrounds, or test a sample.
+Q: Is a metal print better glossy or matte?
+A: Neither on its own: show the surface your supplier sells. Gloss gives the strongest colour and reflects windows; matte cuts glare and looks closer to paper or canvas.
+Q: How far off the wall does a metal print hang?
+A: It depends on the mount: Printful says ½ in, Prodigi 15 mm for its aluminium prints, and Lumaprints’ inset frame ¾ in. WallMock draws its metal print about ½ in (12.7 mm) off the wall.
+Q: Can I make metal print mockups in bulk?
+A: Yes. In WallMock, choose Metal print and a surface once, heart your rooms, and add the collection. Every artwork is made in every chosen room in one run, one artwork per image.
+
+## Metal Print vs Canvas vs Framed Print: Which to Sell
+URL: https://wallmock.com/guides/metal-print-vs-canvas-vs-framed-print/
+Metal print vs canvas vs framed print for wall art sellers: surface, glare, edge, depth and which art suits each, with one artwork shown as all four products.
+
+Short answer: Canvas has a soft woven texture and no glare, and suits paintings and warm, textured art. A framed print is the most traditional, with the option of a mat and glazing, and suits illustration, line art and fine-art photography. A metal print is the sharpest and most saturated, with a modern frameless edge, but gloss surfaces reflect light. Choose by the art and the buyer’s room, offer each as its own listing or variant, and show each product’s own edge in the photos.
+
+Q: Is a metal print better than canvas?
+A: Not better, different. Metal is sharper and more saturated with a modern frameless edge, and gloss reflects light. Canvas is softer, textured and low-glare. Choose by the art: photography and graphic art often suit metal, paintings often suit canvas.
+Q: Canvas or framed print: which sells better?
+A: It depends on the art and the buyer. Canvas suits painterly art and large sizes; framed prints suit illustration, line art and gallery walls, and a mat makes them look finished. Test both with the same artwork and compare your own sales.
+Q: Do metal prints have glare?
+A: Gloss metal prints reflect windows and lamps; matte or lustre surfaces reduce glare. Show the surface your supplier actually sells, and add a close-up.
+Q: Can I sell the same artwork as canvas, framed print and metal?
+A: Yes, if the file has enough pixels and its ratio matches the sizes each product offers. Give each product its own photos, because the edge and surface differ.
+Q: Can WallMock show the same art as all three?
+A: Yes. WallMock makes floating-frame and stretched canvas, framed prints with or without a mat, aluminium framed prints and metal prints from the same file, in the same saved rooms.
+
+## How to Photograph Artwork for Etsy Listings
+URL: https://wallmock.com/guides/how-to-photograph-artwork-for-etsy/
+How to photograph artwork for Etsy: light, camera position, glare under glass, canvas edges and colour, for the unedited photo most listings need.
+
+Short answer: Shoot in soft, even daylight from a window to one side, or with two equal lights at about 45° to the wall. Hang or stand the art flat, put the camera level with its centre and square to it, turn off the flash, and step back and zoom in slightly to avoid distortion. For framed art, angle the light and wear dark clothes to keep reflections out. Set white balance before you shoot, so the photo can stay unedited, then use room mockups in your other slots.
+
+Q: How do I photograph artwork without glare?
+A: Light the art from the sides at about 45°, not from behind the camera, and move the lights out until their reflections leave the frame. Darken the room opposite the art and wear dark clothes. Turn off the flash.
+Q: What is the best light for photographing artwork?
+A: Soft, even daylight from a large window out of direct sun, or two identical daylight lamps at about 45° to the wall. Use one kind of light only, so colours stay true.
+Q: Can I photograph art with my phone?
+A: Yes. Use the main or 2× lens rather than ultra-wide, keep the phone level and centred on the art, lock focus and exposure, and use a tripod or the self-timer.
+Q: Does Etsy require a real photo of wall art?
+A: Etsy asks most listings for at least one unedited photo of the actual item against a real background. Print-on-demand items made by a production partner can use an authorised mockup instead, and digital downloads need a preview of the content (as checked on 2026-11-06).
+Q: How do I photograph a canvas edge?
+A: Take a three-quarter view of one corner in side light, so the depth and the printed edge are visible. Keep the straight-on photo as well; the corner photo is extra.
+Q: Can I use mockups for the rest of the listing?
+A: Yes, as long as they show the item accurately. Use room mockups of your exact artwork for the hero, scale and alternative rooms, and keep the real photo for the product detail.
+
+## How to Sell Canvas Prints on Etsy: Sizes, Depth, Photos
+URL: https://wallmock.com/guides/sell-canvas-prints-on-etsy/
+How to sell canvas prints on Etsy: choose depth, edge and frame, pick sizes in your art’s ratio, check pixels, set variations and make photos that match.
+
+Short answer: Decide the canvas you sell first: thin (about 0.75 in) or gallery depth (about 1.5 in), how the edge is printed, and whether it comes in a floating frame. Offer sizes from your artwork’s ratio family, with at least 150 and ideally 300 pixels per inch at each size. Use a print-on-demand partner or make them yourself and disclose it, set size and frame as variations with a photo for each, and lead with a clean room photo, then scale, the edge and the frame options.
+
+Q: Is selling canvas prints on Etsy worth it?
+A: It can be, if your art and photos stand out: canvas is a crowded category on Etsy, and the base product is often identical between shops using the same supplier. Price each size from cost, show the depth and edge clearly, and give buyers a reason to choose your art.
+Q: What canvas sizes sell best on Etsy?
+A: We don’t publish sales rankings. Offer sizes from your artwork’s ratio family that suit common furniture: for example 16×20 or 18×24 in above a small sofa, and 24×36 in or larger above a large one. Use a size guide image so buyers can compare.
+Q: What resolution do I need for canvas prints?
+A: Aim for 300 pixels per inch at the printed size; providers treat about 150 as the minimum. A 16×20 in canvas needs 4,800 × 6,000 pixels at 300, or 2,400 × 3,000 at 150. Add the depth to each side for an image-wrapped edge.
+Q: Should I sell stretched or framed canvas?
+A: Many shops offer both: stretched canvas as the lower price and a floating frame as the finished option. Show each in the same room so buyers see only the frame change.
+Q: Do I need a real photo of my canvas on Etsy?
+A: Etsy asks most listings for at least one unedited photo of the actual item; print-on-demand items made by a production partner can use an authorised mockup instead (as checked on 2026-11-06). A photo of your sample is still the best proof.
+Q: Can I make canvas mockups for my whole Etsy shop at once?
+A: Yes. In WallMock, save your rooms and canvas finish once, add the collection, and every artwork is made in every chosen room in one run.

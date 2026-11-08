@@ -67,7 +67,7 @@
 <li><strong>The renderer report.</strong> For this example set, the saved renderer reports compare the placed artwork with its source file.</li>
 <li><strong>A separate comparison.</strong> Saved checks compare each example's artwork with its source using structural similarity and average colour difference (CIE76 ΔE). This was an internal check run separately from the renderer, not an external audit of the service.</li>
 </ol>
-<p>Structural similarity compares shapes, edges and fine detail: 1 out of 1 means identical (<a href="https://ece.uwaterloo.ca/~z70wang/research/ssim/" rel="noopener">structural similarity</a>). CIE76 colour difference is a numeric distance between two colours: 0 means the same colour. These measurements describe the compared pixels; they do not establish how people perceive the image.</p>
+<p>Structural similarity compares shapes, edges and fine detail: 1 out of 1 means identical (<a href="https://doi.org/10.1109/TIP.2003.819861" rel="noopener">structural similarity</a>). CIE76 colour difference is a numeric distance between two colours: 0 means the same colour. These measurements describe the compared pixels; they do not establish how people perceive the image.</p>
 <p>All 68 passed both checks. Here are the results:</p>
 <div class="table-scroll"><table>
 <thead><tr><th>Measure</th><th>Typical (median)</th><th>Weakest result</th><th>What it means</th></tr></thead>
@@ -98,7 +98,7 @@
 <p>Our guide to <a href="/guides/ai-wall-art-mockup-generator/">AI mockup generators: exact art or redrawn?</a> explains the two kinds of tool and how to test each. When your images are ready, the free <a href="/tools/etsy-photo-checker/">Etsy listing photo checker</a> checks their size and thumbnail crop.</p></section>
 <section class="sources"><h2>Sources</h2><ul>
 <li><a href="https://www.etsy.com/legal/policy/listing-image-requirements/253962679005" rel="noopener">Etsy: listing image requirements</a>, checked 2026-10-29</li>
-<li><a href="https://ece.uwaterloo.ca/~z70wang/research/ssim/" rel="noopener">Wang, Bovik, Sheikh and Simoncelli: the SSIM index and original research</a>, checked 2026-10-31</li>
+<li><a href="https://doi.org/10.1109/TIP.2003.819861" rel="noopener">Wang, Bovik, Sheikh and Simoncelli: the SSIM index and original research</a>, checked 2026-10-31</li>
 <li>WallMock's published example set: the images on the <a href="/wall-art-mockup-examples/">wall art mockup examples</a> page and their historical measurement records, dated 28 to 29 October 2026</li>
 </ul></section>
   </div>
