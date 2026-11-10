@@ -517,14 +517,14 @@ A: Yes, for framed prints and aluminum framed prints, with or without.
 URL: https://wallmock.com/how-wallmock-keeps-your-art-exact/
 WallMock places your file as it is, never redrawn by AI. See how we measured exact art on our published examples, why it matters on Etsy, and what to check.
 
-Short answer: WallMock is a mockup generator that doesn't change your art. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. On the 61 room images in our published example set, the art matched its source file with a structural similarity of at least 0.99 out of 1 and an average colour difference of 0.72 or less. The room is a digitally staged scene; your art is exact.
+Short answer: WallMock is a mockup generator that doesn't change your art. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. On the 61 room images in our published example set, the art matched its source file with a detail match of at least 0.99 out of 1 and an average colour difference of 0.72 or less. The room is a digitally staged scene; your art is exact.
 
 Q: Does WallMock change my artwork?
 A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. It keeps its own proportions and is never stretched to fit a room.
 Q: Is there a mockup generator that doesn't redraw your art with AI?
 A: Yes. WallMock places your file as supplied, so lettering, signatures and colours stay as you made them. Some AI mockup tools draw a new picture, art included. Test any tool by zooming in on text in your own file.
-Q: What do structural similarity and colour difference mean?
-A: Structural similarity compares the shapes, edges and detail of two images: 1 means identical. CIE76 colour difference is a numeric distance between two colours: 0 means the same colour. These measurements describe the compared pixels; they are not a test of how people perceive the image.
+Q: What do detail match and colour difference mean?
+A: Detail match compares the shapes, edges and detail of two images: 1 means identical. Colour difference is a numeric distance between two colours: 0 means the same colour. These measurements describe the compared pixels; they are not a test of how people perceive the image.
 Q: Does the app run these checks on every image I make?
 A: These numbers come from WallMock's published example set, not from a check on each image you make. Your file is placed the same way: it is never redrawn, repainted or upscaled by AI. You can zoom in on any download to check it yourself.
 Q: Is the room a photo of someone's home?
@@ -813,7 +813,7 @@ A: Not yet: the WallMock API is in development and not available yet; a private 
 Q: Who is the WallMock API for?
 A: Print companies, print-on-demand platforms, large art shops and listing tools that need room mockups for many artworks, made automatically from their own systems.
 Q: Is there a mockup API for print on demand that keeps the artwork exact?
-A: That is what the WallMock API is built for. It runs the same renderer as the WallMock web app and places the artwork as supplied; it is never redrawn. Every room photo gets an exact-art check: the art in the image is compared with the uploaded file using SSIM, with mirrored and rotated copies of the art as controls. Close-ups are cut from a checked image. The API is in early access, not yet available.
+A: That is what the WallMock API is built for. It runs the same renderer as the WallMock web app and places the artwork as supplied; it is never redrawn. Every room photo gets an exact-art check: the art in the image is compared with the uploaded file. Close-ups are cut from a checked image. The API is in early access, not yet available.
 Q: Which products can the API show?
 A: Floating canvas in 8 finishes, stretched canvas, framed prints with or without a mat, metal prints in Gloss, High gloss or Matte, and aluminium frames in black, gold or silver.
 Q: What is a listing pack?
@@ -940,7 +940,7 @@ A: Not yet from WallMock. White-label output is planned for partner agreements, 
 Q: Which products can WallMock show?
 A: Floating canvas, stretched canvas, framed prints with or without a mat, metal prints in Gloss, High gloss or Matte, and aluminium frames in black, gold or silver.
 Q: Does it keep the seller's art exact?
-A: Yes. The artwork is placed as supplied and never redrawn. Every room photo gets an exact-art check (SSIM against the uploaded file, with mirrored and rotated copies as controls), and the result comes back with each image.
+A: Yes. The artwork is placed as supplied and never redrawn. Every room photo gets an exact-art check against the uploaded file, and the result comes back with each image.
 Q: Does WallMock connect to our print-on-demand integration?
 A: WallMock makes the images; it does not place orders. Through the API (early access), your system can request images and receive them by webhook and signed links. For sellers, Send to Shopify (limited beta) adds images to their Shopify products, and Send to Etsy is coming soon.
 Q: What happens to sellers' artwork?
@@ -1155,7 +1155,7 @@ A: Generic templates show a frame, not yours. Width, colour, depth, the floating
 Q: What should a lab record about each frame?
 A: Face width, depth, profile, finish and sheen, mat colours and widths, canvas depth, metal surface and corner radius, and the sizes each frame comes in, plus a front photo and a corner close-up.
 Q: How do you know the seller's art was not changed?
-A: Ask for a check on every image. WallMock compares the art in each room photo with the uploaded file using SSIM, with mirrored and rotated copies as controls, and never redraws the art.
+A: Ask for a check on every image. WallMock compares the art in each room photo with the uploaded file, and never redraws the art.
 Q: Does WallMock offer this today?
 A: Partly. WallMock renders its own frames and finishes today, and the API (early access) can carry your frame names and photo order. Presets of a partner's actual frames are in development, built in partner pilots; to discuss one, talk to us.
 
@@ -1503,7 +1503,7 @@ A: Yes, on Lite or Pro. Save up to five custom frame colours as wood grain, meta
 Q: Can I change the sheen of the frame?
 A: Sheen comes with the finish rather than a separate slider. Painted black and white look even, the woods show grain, and gold and silver have a metallic highlight. For a custom colour, the material sets the sheen: wood keeps its grain, metallic its sheen, and painted stays smooth. Highlights and the wall shadow follow the room’s light.
 Q: Does WallMock change my artwork?
-A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI, and every image is checked against your file. The renders in this guide scored 0.994 to 0.997 SSIM on the art region, where 1.0 is identical.
+A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI, and every image is checked against your file. The renders in this guide scored 0.994 to 0.997 out of 1 for match with the file, where 1.0 is identical.
 Q: Can I try it for free?
 A: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. A free account adds 10 watermark-free 4K (4096 px) downloads every 30 days with the standard frames.
 

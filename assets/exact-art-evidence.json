@@ -43,16 +43,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9895,
-            "meanDeltaE": 0.799,
+          "ownCheck": {
+            "detailMatch": 0.9895,
+            "meanColourDifference": 0.799,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9989,
-            "meanDeltaE76": 0.318,
-            "mirrorControlMaxStructuralSimilarity": 0.4124,
-            "channelGain": [
+            "detailMatch": 0.9989,
+            "meanColourDifference": 0.318,
+            "controlMaxDetailMatch": 0.4124,
+            "colourBalance": [
               0.9999,
               1.0001,
               1.0001
@@ -80,16 +80,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9856,
-            "meanDeltaE": 1.125,
+          "ownCheck": {
+            "detailMatch": 0.9856,
+            "meanColourDifference": 1.125,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9984,
-            "meanDeltaE76": 0.43,
-            "mirrorControlMaxStructuralSimilarity": 0.5713,
-            "channelGain": [
+            "detailMatch": 0.9984,
+            "meanColourDifference": 0.43,
+            "controlMaxDetailMatch": 0.5713,
+            "colourBalance": [
               1.0001,
               0.9997,
               0.9991
@@ -117,16 +117,16 @@
             254
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.99,
-            "meanDeltaE": 0.655,
+          "ownCheck": {
+            "detailMatch": 0.99,
+            "meanColourDifference": 0.655,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9987,
-            "meanDeltaE76": 0.326,
-            "mirrorControlMaxStructuralSimilarity": 0.7057,
-            "channelGain": [
+            "detailMatch": 0.9987,
+            "meanColourDifference": 0.326,
+            "controlMaxDetailMatch": 0.7057,
+            "colourBalance": [
               1.0001,
               1.0001,
               1
@@ -154,16 +154,16 @@
             254
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9895,
-            "meanDeltaE": 0.465,
+          "ownCheck": {
+            "detailMatch": 0.9895,
+            "meanColourDifference": 0.465,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9983,
-            "meanDeltaE76": 0.146,
-            "mirrorControlMaxStructuralSimilarity": 0.8079,
-            "channelGain": [
+            "detailMatch": 0.9983,
+            "meanColourDifference": 0.146,
+            "controlMaxDetailMatch": 0.8079,
+            "colourBalance": [
               1,
               1.0001,
               0.9999
@@ -191,16 +191,16 @@
             340
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9862,
-            "meanDeltaE": 0.828,
+          "ownCheck": {
+            "detailMatch": 0.9862,
+            "meanColourDifference": 0.828,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9981,
-            "meanDeltaE76": 0.396,
-            "mirrorControlMaxStructuralSimilarity": 0.8184,
-            "channelGain": [
+            "detailMatch": 0.9981,
+            "meanColourDifference": 0.396,
+            "controlMaxDetailMatch": 0.8184,
+            "colourBalance": [
               1,
               0.9996,
               1.0004
@@ -228,16 +228,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9835,
-            "meanDeltaE": 0.965,
+          "ownCheck": {
+            "detailMatch": 0.9835,
+            "meanColourDifference": 0.965,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9982,
-            "meanDeltaE76": 0.484,
-            "mirrorControlMaxStructuralSimilarity": 0.7027,
-            "channelGain": [
+            "detailMatch": 0.9982,
+            "meanColourDifference": 0.484,
+            "controlMaxDetailMatch": 0.7027,
+            "colourBalance": [
               0.9999,
               0.9993,
               1.0002
@@ -265,16 +265,16 @@
             339
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9888,
-            "meanDeltaE": 0.936,
+          "ownCheck": {
+            "detailMatch": 0.9888,
+            "meanColourDifference": 0.936,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.999,
-            "meanDeltaE76": 0.491,
-            "mirrorControlMaxStructuralSimilarity": 0.1968,
-            "channelGain": [
+            "detailMatch": 0.999,
+            "meanColourDifference": 0.491,
+            "controlMaxDetailMatch": 0.1968,
+            "colourBalance": [
               0.9998,
               1.0002,
               0.9999
@@ -302,16 +302,16 @@
             340
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9899,
-            "meanDeltaE": 0.648,
+          "ownCheck": {
+            "detailMatch": 0.9899,
+            "meanColourDifference": 0.648,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9985,
-            "meanDeltaE76": 0.354,
-            "mirrorControlMaxStructuralSimilarity": 0.6555,
-            "channelGain": [
+            "detailMatch": 0.9985,
+            "meanColourDifference": 0.354,
+            "controlMaxDetailMatch": 0.6555,
+            "colourBalance": [
               0.9999,
               1.0001,
               1
@@ -339,16 +339,16 @@
             339
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9766,
-            "meanDeltaE": 0.979,
+          "ownCheck": {
+            "detailMatch": 0.9766,
+            "meanColourDifference": 0.979,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.998,
-            "meanDeltaE76": 0.443,
-            "mirrorControlMaxStructuralSimilarity": 0.3069,
-            "channelGain": [
+            "detailMatch": 0.998,
+            "meanColourDifference": 0.443,
+            "controlMaxDetailMatch": 0.3069,
+            "colourBalance": [
               1,
               1.0001,
               1.0001
@@ -376,16 +376,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9847,
-            "meanDeltaE": 0.87,
+          "ownCheck": {
+            "detailMatch": 0.9847,
+            "meanColourDifference": 0.87,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9984,
-            "meanDeltaE76": 0.417,
-            "mirrorControlMaxStructuralSimilarity": 0.4007,
-            "channelGain": [
+            "detailMatch": 0.9984,
+            "meanColourDifference": 0.417,
+            "controlMaxDetailMatch": 0.4007,
+            "colourBalance": [
               1,
               1,
               0.9996
@@ -413,16 +413,16 @@
             339
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9787,
-            "meanDeltaE": 0.94,
+          "ownCheck": {
+            "detailMatch": 0.9787,
+            "meanColourDifference": 0.94,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9981,
-            "meanDeltaE76": 0.412,
-            "mirrorControlMaxStructuralSimilarity": 0.3067,
-            "channelGain": [
+            "detailMatch": 0.9981,
+            "meanColourDifference": 0.412,
+            "controlMaxDetailMatch": 0.3067,
+            "colourBalance": [
               1,
               1.0001,
               1.0001
@@ -450,16 +450,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9876,
-            "meanDeltaE": 1.032,
+          "ownCheck": {
+            "detailMatch": 0.9876,
+            "meanColourDifference": 1.032,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9986,
-            "meanDeltaE76": 0.397,
-            "mirrorControlMaxStructuralSimilarity": 0.4832,
-            "channelGain": [
+            "detailMatch": 0.9986,
+            "meanColourDifference": 0.397,
+            "controlMaxDetailMatch": 0.4832,
+            "colourBalance": [
               1,
               1.0001,
               0.9992
@@ -487,16 +487,16 @@
             340
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9887,
-            "meanDeltaE": 0.843,
+          "ownCheck": {
+            "detailMatch": 0.9887,
+            "meanColourDifference": 0.843,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9984,
-            "meanDeltaE76": 0.371,
-            "mirrorControlMaxStructuralSimilarity": 0.6896,
-            "channelGain": [
+            "detailMatch": 0.9984,
+            "meanColourDifference": 0.371,
+            "controlMaxDetailMatch": 0.6896,
+            "colourBalance": [
               0.9998,
               1,
               0.9997
@@ -524,16 +524,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9865,
-            "meanDeltaE": 1.017,
+          "ownCheck": {
+            "detailMatch": 0.9865,
+            "meanColourDifference": 1.017,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9984,
-            "meanDeltaE76": 0.403,
-            "mirrorControlMaxStructuralSimilarity": 0.6326,
-            "channelGain": [
+            "detailMatch": 0.9984,
+            "meanColourDifference": 0.403,
+            "controlMaxDetailMatch": 0.6326,
+            "colourBalance": [
               1,
               1,
               0.9994
@@ -561,16 +561,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9915,
-            "meanDeltaE": 1.046,
+          "ownCheck": {
+            "detailMatch": 0.9915,
+            "meanColourDifference": 1.046,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9995,
-            "meanDeltaE76": 0.381,
-            "mirrorControlMaxStructuralSimilarity": 0.1128,
-            "channelGain": [
+            "detailMatch": 0.9995,
+            "meanColourDifference": 0.381,
+            "controlMaxDetailMatch": 0.1128,
+            "colourBalance": [
               0.9999,
               1.0001,
               0.9996
@@ -598,16 +598,16 @@
             253
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9898,
-            "meanDeltaE": 0.664,
+          "ownCheck": {
+            "detailMatch": 0.9898,
+            "meanColourDifference": 0.664,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9987,
-            "meanDeltaE76": 0.331,
-            "mirrorControlMaxStructuralSimilarity": 0.7052,
-            "channelGain": [
+            "detailMatch": 0.9987,
+            "meanColourDifference": 0.331,
+            "controlMaxDetailMatch": 0.7052,
+            "colourBalance": [
               1,
               1.0001,
               1
@@ -635,16 +635,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9867,
-            "meanDeltaE": 0.884,
+          "ownCheck": {
+            "detailMatch": 0.9867,
+            "meanColourDifference": 0.884,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9988,
-            "meanDeltaE76": 0.311,
-            "mirrorControlMaxStructuralSimilarity": 0.7576,
-            "channelGain": [
+            "detailMatch": 0.9988,
+            "meanColourDifference": 0.311,
+            "controlMaxDetailMatch": 0.7576,
+            "colourBalance": [
               0.9999,
               1,
               0.9999
@@ -672,16 +672,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9921,
-            "meanDeltaE": 0.78,
+          "ownCheck": {
+            "detailMatch": 0.9921,
+            "meanColourDifference": 0.78,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.999,
-            "meanDeltaE76": 0.322,
-            "mirrorControlMaxStructuralSimilarity": 0.4587,
-            "channelGain": [
+            "detailMatch": 0.999,
+            "meanColourDifference": 0.322,
+            "controlMaxDetailMatch": 0.4587,
+            "colourBalance": [
               0.9999,
               1,
               1.0001
@@ -709,16 +709,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9878,
-            "meanDeltaE": 0.762,
+          "ownCheck": {
+            "detailMatch": 0.9878,
+            "meanColourDifference": 0.762,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9987,
-            "meanDeltaE76": 0.363,
-            "mirrorControlMaxStructuralSimilarity": 0.3997,
-            "channelGain": [
+            "detailMatch": 0.9987,
+            "meanColourDifference": 0.363,
+            "controlMaxDetailMatch": 0.3997,
+            "colourBalance": [
               1,
               1,
               0.9997
@@ -746,16 +746,16 @@
             254
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9898,
-            "meanDeltaE": 0.451,
+          "ownCheck": {
+            "detailMatch": 0.9898,
+            "meanColourDifference": 0.451,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9984,
-            "meanDeltaE76": 0.141,
-            "mirrorControlMaxStructuralSimilarity": 0.8083,
-            "channelGain": [
+            "detailMatch": 0.9984,
+            "meanColourDifference": 0.141,
+            "controlMaxDetailMatch": 0.8083,
+            "colourBalance": [
               1.0001,
               1.0001,
               1
@@ -783,16 +783,16 @@
             340
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9854,
-            "meanDeltaE": 0.844,
+          "ownCheck": {
+            "detailMatch": 0.9854,
+            "meanColourDifference": 0.844,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9981,
-            "meanDeltaE76": 0.413,
-            "mirrorControlMaxStructuralSimilarity": 0.8179,
-            "channelGain": [
+            "detailMatch": 0.9981,
+            "meanColourDifference": 0.413,
+            "controlMaxDetailMatch": 0.8179,
+            "colourBalance": [
               1,
               0.9996,
               1.0005
@@ -820,16 +820,16 @@
             340
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9851,
-            "meanDeltaE": 0.801,
+          "ownCheck": {
+            "detailMatch": 0.9851,
+            "meanColourDifference": 0.801,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9984,
-            "meanDeltaE76": 0.369,
-            "mirrorControlMaxStructuralSimilarity": 0.6143,
-            "channelGain": [
+            "detailMatch": 0.9984,
+            "meanColourDifference": 0.369,
+            "controlMaxDetailMatch": 0.6143,
+            "colourBalance": [
               0.9999,
               1.0001,
               0.9999
@@ -857,16 +857,16 @@
             339
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9904,
-            "meanDeltaE": 0.853,
+          "ownCheck": {
+            "detailMatch": 0.9904,
+            "meanColourDifference": 0.853,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9992,
-            "meanDeltaE76": 0.417,
-            "mirrorControlMaxStructuralSimilarity": 0.1976,
-            "channelGain": [
+            "detailMatch": 0.9992,
+            "meanColourDifference": 0.417,
+            "controlMaxDetailMatch": 0.1976,
+            "colourBalance": [
               0.9998,
               1.0001,
               0.9999
@@ -894,16 +894,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9885,
-            "meanDeltaE": 0.84,
+          "ownCheck": {
+            "detailMatch": 0.9885,
+            "meanColourDifference": 0.84,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9989,
-            "meanDeltaE76": 0.331,
-            "mirrorControlMaxStructuralSimilarity": 0.4122,
-            "channelGain": [
+            "detailMatch": 0.9989,
+            "meanColourDifference": 0.331,
+            "controlMaxDetailMatch": 0.4122,
+            "colourBalance": [
               0.9999,
               1.0001,
               1.0001
@@ -931,16 +931,16 @@
             339
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9872,
-            "meanDeltaE": 1.015,
+          "ownCheck": {
+            "detailMatch": 0.9872,
+            "meanColourDifference": 1.015,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9987,
-            "meanDeltaE76": 0.459,
-            "mirrorControlMaxStructuralSimilarity": 0.4909,
-            "channelGain": [
+            "detailMatch": 0.9987,
+            "meanColourDifference": 0.459,
+            "controlMaxDetailMatch": 0.4909,
+            "colourBalance": [
               1,
               1,
               1.0002
@@ -968,16 +968,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9908,
-            "meanDeltaE": 1.113,
+          "ownCheck": {
+            "detailMatch": 0.9908,
+            "meanColourDifference": 1.113,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9995,
-            "meanDeltaE76": 0.405,
-            "mirrorControlMaxStructuralSimilarity": 0.113,
-            "channelGain": [
+            "detailMatch": 0.9995,
+            "meanColourDifference": 0.405,
+            "controlMaxDetailMatch": 0.113,
+            "colourBalance": [
               0.9999,
               1.0001,
               0.9996
@@ -1005,16 +1005,16 @@
             339
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9786,
-            "meanDeltaE": 0.942,
+          "ownCheck": {
+            "detailMatch": 0.9786,
+            "meanColourDifference": 0.942,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9981,
-            "meanDeltaE76": 0.415,
-            "mirrorControlMaxStructuralSimilarity": 0.3066,
-            "channelGain": [
+            "detailMatch": 0.9981,
+            "meanColourDifference": 0.415,
+            "controlMaxDetailMatch": 0.3066,
+            "colourBalance": [
               1,
               1.0001,
               1.0001
@@ -1042,16 +1042,16 @@
             253
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.988,
-            "meanDeltaE": 0.531,
+          "ownCheck": {
+            "detailMatch": 0.988,
+            "meanColourDifference": 0.531,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.998,
-            "meanDeltaE76": 0.171,
-            "mirrorControlMaxStructuralSimilarity": 0.8098,
-            "channelGain": [
+            "detailMatch": 0.998,
+            "meanColourDifference": 0.171,
+            "controlMaxDetailMatch": 0.8098,
+            "colourBalance": [
               1.0001,
               1.0001,
               0.9999
@@ -1079,16 +1079,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9866,
-            "meanDeltaE": 1.075,
+          "ownCheck": {
+            "detailMatch": 0.9866,
+            "meanColourDifference": 1.075,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9982,
-            "meanDeltaE76": 0.503,
-            "mirrorControlMaxStructuralSimilarity": 0.5999,
-            "channelGain": [
+            "detailMatch": 0.9982,
+            "meanColourDifference": 0.503,
+            "controlMaxDetailMatch": 0.5999,
+            "colourBalance": [
               0.9997,
               1.0001,
               0.9997
@@ -1116,16 +1116,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.988,
-            "meanDeltaE": 1.014,
+          "ownCheck": {
+            "detailMatch": 0.988,
+            "meanColourDifference": 1.014,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9987,
-            "meanDeltaE76": 0.391,
-            "mirrorControlMaxStructuralSimilarity": 0.4832,
-            "channelGain": [
+            "detailMatch": 0.9987,
+            "meanColourDifference": 0.391,
+            "controlMaxDetailMatch": 0.4832,
+            "colourBalance": [
               1,
               1.0001,
               0.9992
@@ -1153,16 +1153,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9812,
-            "meanDeltaE": 1.221,
+          "ownCheck": {
+            "detailMatch": 0.9812,
+            "meanColourDifference": 1.221,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9981,
-            "meanDeltaE76": 0.496,
-            "mirrorControlMaxStructuralSimilarity": 0.4822,
-            "channelGain": [
+            "detailMatch": 0.9981,
+            "meanColourDifference": 0.496,
+            "controlMaxDetailMatch": 0.4822,
+            "colourBalance": [
               1,
               1.0001,
               0.9991
@@ -1190,16 +1190,16 @@
             339
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.985,
-            "meanDeltaE": 1.074,
+          "ownCheck": {
+            "detailMatch": 0.985,
+            "meanColourDifference": 1.074,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9985,
-            "meanDeltaE76": 0.512,
-            "mirrorControlMaxStructuralSimilarity": 0.49,
-            "channelGain": [
+            "detailMatch": 0.9985,
+            "meanColourDifference": 0.512,
+            "controlMaxDetailMatch": 0.49,
+            "colourBalance": [
               1,
               1,
               1.0002
@@ -1227,16 +1227,16 @@
             1024
           ],
           "comparisonSizeStatus": "recorded-in-source-manifest",
-          "renderer": {
-            "structuralSimilarity": 0.9856,
-            "meanDeltaE": 0.838,
+          "ownCheck": {
+            "detailMatch": 0.9856,
+            "meanColourDifference": 0.838,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9927,
-            "meanDeltaE76": 0.715,
-            "mirrorControlMaxStructuralSimilarity": 0.7071,
-            "channelGain": [
+            "detailMatch": 0.9927,
+            "meanColourDifference": 0.715,
+            "controlMaxDetailMatch": 0.7071,
+            "colourBalance": [
               0.9997,
               1.0001,
               0.9995
@@ -1244,16 +1244,16 @@
             "passed": true
           },
           "exception": {
-            "type": "mirror-control-recheck",
-            "note": "This example was rechecked at 1024 px after its 512 px mirror comparison was inconclusive. Both recorded results are retained.",
+            "type": "control-recheck",
+            "note": "This example was rechecked at 1024 px after its 512 px control comparison was inconclusive. Both recorded results are retained.",
             "standardComparison": {
               "size": [
                 512,
                 512
               ],
-              "ssim": 0.9978,
-              "meanDeltaE76": 0.433,
-              "mirrorControlMaxSsim": 0.9037,
+              "detailMatch": 0.9978,
+              "meanColourDifference": 0.433,
+              "controlMaxDetailMatch": 0.9037,
               "passed": false
             }
           },
@@ -1277,16 +1277,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9861,
-            "meanDeltaE": 1.006,
+          "ownCheck": {
+            "detailMatch": 0.9861,
+            "meanColourDifference": 1.006,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9983,
-            "meanDeltaE76": 0.411,
-            "mirrorControlMaxStructuralSimilarity": 0.7566,
-            "channelGain": [
+            "detailMatch": 0.9983,
+            "meanColourDifference": 0.411,
+            "controlMaxDetailMatch": 0.7566,
+            "colourBalance": [
               0.9999,
               1,
               0.9998
@@ -1314,16 +1314,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9911,
-            "meanDeltaE": 0.786,
+          "ownCheck": {
+            "detailMatch": 0.9911,
+            "meanColourDifference": 0.786,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9992,
-            "meanDeltaE76": 0.425,
-            "mirrorControlMaxStructuralSimilarity": 0.1595,
-            "channelGain": [
+            "detailMatch": 0.9992,
+            "meanColourDifference": 0.425,
+            "controlMaxDetailMatch": 0.1595,
+            "colourBalance": [
               0.9999,
               1.0001,
               0.9998
@@ -1351,16 +1351,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9867,
-            "meanDeltaE": 0.904,
+          "ownCheck": {
+            "detailMatch": 0.9867,
+            "meanColourDifference": 0.904,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9988,
-            "meanDeltaE76": 0.355,
-            "mirrorControlMaxStructuralSimilarity": 0.4114,
-            "channelGain": [
+            "detailMatch": 0.9988,
+            "meanColourDifference": 0.355,
+            "controlMaxDetailMatch": 0.4114,
+            "colourBalance": [
               0.9999,
               1.0001,
               1.0001
@@ -1388,16 +1388,16 @@
             339
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.99,
-            "meanDeltaE": 0.875,
+          "ownCheck": {
+            "detailMatch": 0.99,
+            "meanColourDifference": 0.875,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9991,
-            "meanDeltaE76": 0.434,
-            "mirrorControlMaxStructuralSimilarity": 0.1966,
-            "channelGain": [
+            "detailMatch": 0.9991,
+            "meanColourDifference": 0.434,
+            "controlMaxDetailMatch": 0.1966,
+            "colourBalance": [
               0.9998,
               1.0001,
               0.9999
@@ -1425,16 +1425,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9847,
-            "meanDeltaE": 0.869,
+          "ownCheck": {
+            "detailMatch": 0.9847,
+            "meanColourDifference": 0.869,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9984,
-            "meanDeltaE76": 0.417,
-            "mirrorControlMaxStructuralSimilarity": 0.4001,
-            "channelGain": [
+            "detailMatch": 0.9984,
+            "meanColourDifference": 0.417,
+            "controlMaxDetailMatch": 0.4001,
+            "colourBalance": [
               1,
               1,
               0.9996
@@ -1462,16 +1462,16 @@
             340
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9886,
-            "meanDeltaE": 0.852,
+          "ownCheck": {
+            "detailMatch": 0.9886,
+            "meanColourDifference": 0.852,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9984,
-            "meanDeltaE76": 0.376,
-            "mirrorControlMaxStructuralSimilarity": 0.6891,
-            "channelGain": [
+            "detailMatch": 0.9984,
+            "meanColourDifference": 0.376,
+            "controlMaxDetailMatch": 0.6891,
+            "colourBalance": [
               0.9997,
               1,
               0.9997
@@ -1499,16 +1499,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9869,
-            "meanDeltaE": 0.83,
+          "ownCheck": {
+            "detailMatch": 0.9869,
+            "meanColourDifference": 0.83,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9987,
-            "meanDeltaE76": 0.348,
-            "mirrorControlMaxStructuralSimilarity": 0.5146,
-            "channelGain": [
+            "detailMatch": 0.9987,
+            "meanColourDifference": 0.348,
+            "controlMaxDetailMatch": 0.5146,
+            "colourBalance": [
               1.0002,
               1.0002,
               1.0002
@@ -1536,16 +1536,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.989,
-            "meanDeltaE": 0.76,
+          "ownCheck": {
+            "detailMatch": 0.989,
+            "meanColourDifference": 0.76,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9983,
-            "meanDeltaE76": 0.461,
-            "mirrorControlMaxStructuralSimilarity": 0.4907,
-            "channelGain": [
+            "detailMatch": 0.9983,
+            "meanColourDifference": 0.461,
+            "controlMaxDetailMatch": 0.4907,
+            "colourBalance": [
               0.9999,
               1.0001,
               0.9997
@@ -1573,16 +1573,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9869,
-            "meanDeltaE": 1.062,
+          "ownCheck": {
+            "detailMatch": 0.9869,
+            "meanColourDifference": 1.062,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9982,
-            "meanDeltaE76": 0.485,
-            "mirrorControlMaxStructuralSimilarity": 0.5999,
-            "channelGain": [
+            "detailMatch": 0.9982,
+            "meanColourDifference": 0.485,
+            "controlMaxDetailMatch": 0.5999,
+            "colourBalance": [
               0.9997,
               1.0001,
               0.9997
@@ -1610,16 +1610,16 @@
             169
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9774,
-            "meanDeltaE": 0.662,
+          "ownCheck": {
+            "detailMatch": 0.9774,
+            "meanColourDifference": 0.662,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9991,
-            "meanDeltaE76": 0.262,
-            "mirrorControlMaxStructuralSimilarity": 0.5136,
-            "channelGain": [
+            "detailMatch": 0.9991,
+            "meanColourDifference": 0.262,
+            "controlMaxDetailMatch": 0.5136,
+            "colourBalance": [
               1,
               1,
               1
@@ -1647,16 +1647,16 @@
             168
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9762,
-            "meanDeltaE": 0.692,
+          "ownCheck": {
+            "detailMatch": 0.9762,
+            "meanColourDifference": 0.692,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9989,
-            "meanDeltaE76": 0.318,
-            "mirrorControlMaxStructuralSimilarity": 0.5137,
-            "channelGain": [
+            "detailMatch": 0.9989,
+            "meanColourDifference": 0.318,
+            "controlMaxDetailMatch": 0.5137,
+            "colourBalance": [
               1.0001,
               1,
               1
@@ -1684,16 +1684,16 @@
             168
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9748,
-            "meanDeltaE": 0.693,
+          "ownCheck": {
+            "detailMatch": 0.9748,
+            "meanColourDifference": 0.693,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.999,
-            "meanDeltaE76": 0.295,
-            "mirrorControlMaxStructuralSimilarity": 0.5144,
-            "channelGain": [
+            "detailMatch": 0.999,
+            "meanColourDifference": 0.295,
+            "controlMaxDetailMatch": 0.5144,
+            "colourBalance": [
               1,
               1,
               1
@@ -1721,16 +1721,16 @@
             168
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9885,
-            "meanDeltaE": 0.884,
+          "ownCheck": {
+            "detailMatch": 0.9885,
+            "meanColourDifference": 0.884,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9991,
-            "meanDeltaE76": 0.361,
-            "mirrorControlMaxStructuralSimilarity": 0.5833,
-            "channelGain": [
+            "detailMatch": 0.9991,
+            "meanColourDifference": 0.361,
+            "controlMaxDetailMatch": 0.5833,
+            "colourBalance": [
               1,
               1.0001,
               0.9999
@@ -1758,16 +1758,16 @@
             168
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9912,
-            "meanDeltaE": 0.768,
+          "ownCheck": {
+            "detailMatch": 0.9912,
+            "meanColourDifference": 0.768,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9993,
-            "meanDeltaE76": 0.304,
-            "mirrorControlMaxStructuralSimilarity": 0.5879,
-            "channelGain": [
+            "detailMatch": 0.9993,
+            "meanColourDifference": 0.304,
+            "controlMaxDetailMatch": 0.5879,
+            "colourBalance": [
               1,
               1.0001,
               0.9999
@@ -1795,16 +1795,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9663,
-            "meanDeltaE": 1.461,
+          "ownCheck": {
+            "detailMatch": 0.9663,
+            "meanColourDifference": 1.461,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9979,
-            "meanDeltaE76": 0.546,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.9979,
+            "meanColourDifference": 0.546,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -1817,16 +1817,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9766,
-            "meanDeltaE": 1.045,
+          "ownCheck": {
+            "detailMatch": 0.9766,
+            "meanColourDifference": 1.045,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9981,
-            "meanDeltaE76": 0.481,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.9981,
+            "meanColourDifference": 0.481,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -1850,16 +1850,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9467,
-            "meanDeltaE": 1.548,
+          "ownCheck": {
+            "detailMatch": 0.9467,
+            "meanColourDifference": 1.548,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9981,
-            "meanDeltaE76": 0.505,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.9981,
+            "meanColourDifference": 0.505,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -1872,16 +1872,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9706,
-            "meanDeltaE": 1.105,
+          "ownCheck": {
+            "detailMatch": 0.9706,
+            "meanColourDifference": 1.105,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9983,
-            "meanDeltaE76": 0.443,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.9983,
+            "meanColourDifference": 0.443,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -1905,16 +1905,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9644,
-            "meanDeltaE": 1.443,
+          "ownCheck": {
+            "detailMatch": 0.9644,
+            "meanColourDifference": 1.443,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.998,
-            "meanDeltaE76": 0.511,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.998,
+            "meanColourDifference": 0.511,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -1927,16 +1927,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9772,
-            "meanDeltaE": 1.044,
+          "ownCheck": {
+            "detailMatch": 0.9772,
+            "meanColourDifference": 1.044,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9983,
-            "meanDeltaE76": 0.452,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.9983,
+            "meanColourDifference": 0.452,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -1960,16 +1960,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9876,
-            "meanDeltaE": 0.729,
+          "ownCheck": {
+            "detailMatch": 0.9876,
+            "meanColourDifference": 0.729,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9973,
-            "meanDeltaE76": 0.462,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.9973,
+            "meanColourDifference": 0.462,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -1982,16 +1982,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9886,
-            "meanDeltaE": 0.685,
+          "ownCheck": {
+            "detailMatch": 0.9886,
+            "meanColourDifference": 0.685,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9973,
-            "meanDeltaE76": 0.451,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.9973,
+            "meanColourDifference": 0.451,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -2004,16 +2004,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9878,
-            "meanDeltaE": 0.717,
+          "ownCheck": {
+            "detailMatch": 0.9878,
+            "meanColourDifference": 0.717,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9972,
-            "meanDeltaE76": 0.457,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.9972,
+            "meanColourDifference": 0.457,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -2037,16 +2037,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9892,
-            "meanDeltaE": 0.711,
+          "ownCheck": {
+            "detailMatch": 0.9892,
+            "meanColourDifference": 0.711,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9972,
-            "meanDeltaE76": 0.476,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.9972,
+            "meanColourDifference": 0.476,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -2059,16 +2059,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9897,
-            "meanDeltaE": 0.673,
+          "ownCheck": {
+            "detailMatch": 0.9897,
+            "meanColourDifference": 0.673,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9972,
-            "meanDeltaE76": 0.465,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.9972,
+            "meanColourDifference": 0.465,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -2081,16 +2081,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9886,
-            "meanDeltaE": 0.707,
+          "ownCheck": {
+            "detailMatch": 0.9886,
+            "meanColourDifference": 0.707,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9971,
-            "meanDeltaE76": 0.47,
-            "mirrorControlMaxStructuralSimilarity": null,
-            "channelGain": null,
+            "detailMatch": 0.9971,
+            "meanColourDifference": 0.47,
+            "controlMaxDetailMatch": null,
+            "colourBalance": null,
             "passed": true
           },
           "exception": null,
@@ -2114,16 +2114,16 @@
             1024
           ],
           "comparisonSizeStatus": "recorded-in-source-manifest",
-          "renderer": {
-            "structuralSimilarity": 0.9869,
-            "meanDeltaE": 0.794,
+          "ownCheck": {
+            "detailMatch": 0.9869,
+            "meanColourDifference": 0.794,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9954,
-            "meanDeltaE76": 0.62,
-            "mirrorControlMaxStructuralSimilarity": 0.7095,
-            "channelGain": [
+            "detailMatch": 0.9954,
+            "meanColourDifference": 0.62,
+            "controlMaxDetailMatch": 0.7095,
+            "colourBalance": [
               0.9997,
               1.0001,
               0.9995
@@ -2131,16 +2131,16 @@
             "passed": true
           },
           "exception": {
-            "type": "mirror-control-recheck",
-            "note": "This example was rechecked at 1024 px after its 512 px mirror comparison was inconclusive. Both recorded results are retained.",
+            "type": "control-recheck",
+            "note": "This example was rechecked at 1024 px after its 512 px control comparison was inconclusive. Both recorded results are retained.",
             "standardComparison": {
               "size": [
                 512,
                 512
               ],
-              "ssim": 0.998,
-              "meanDeltaE76": 0.383,
-              "mirrorControlMaxSsim": 0.9046,
+              "detailMatch": 0.998,
+              "meanColourDifference": 0.383,
+              "controlMaxDetailMatch": 0.9046,
               "passed": false
             }
           },
@@ -2164,16 +2164,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9893,
-            "meanDeltaE": 0.806,
+          "ownCheck": {
+            "detailMatch": 0.9893,
+            "meanColourDifference": 0.806,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9989,
-            "meanDeltaE76": 0.32,
-            "mirrorControlMaxStructuralSimilarity": 0.4127,
-            "channelGain": [
+            "detailMatch": 0.9989,
+            "meanColourDifference": 0.32,
+            "controlMaxDetailMatch": 0.4127,
+            "colourBalance": [
               0.9999,
               1.0001,
               1.0001
@@ -2201,16 +2201,16 @@
             254
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9901,
-            "meanDeltaE": 0.651,
+          "ownCheck": {
+            "detailMatch": 0.9901,
+            "meanColourDifference": 0.651,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9987,
-            "meanDeltaE76": 0.323,
-            "mirrorControlMaxStructuralSimilarity": 0.7066,
-            "channelGain": [
+            "detailMatch": 0.9987,
+            "meanColourDifference": 0.323,
+            "controlMaxDetailMatch": 0.7066,
+            "colourBalance": [
               1,
               1.0001,
               1
@@ -2238,16 +2238,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9909,
-            "meanDeltaE": 1.101,
+          "ownCheck": {
+            "detailMatch": 0.9909,
+            "meanColourDifference": 1.101,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9995,
-            "meanDeltaE76": 0.402,
-            "mirrorControlMaxStructuralSimilarity": 0.1125,
-            "channelGain": [
+            "detailMatch": 0.9995,
+            "meanColourDifference": 0.402,
+            "controlMaxDetailMatch": 0.1125,
+            "colourBalance": [
               0.9999,
               1.0001,
               0.9996
@@ -2275,16 +2275,16 @@
             340
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9898,
-            "meanDeltaE": 0.913,
+          "ownCheck": {
+            "detailMatch": 0.9898,
+            "meanColourDifference": 0.913,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.999,
-            "meanDeltaE76": 0.388,
-            "mirrorControlMaxStructuralSimilarity": 0.4887,
-            "channelGain": [
+            "detailMatch": 0.999,
+            "meanColourDifference": 0.388,
+            "controlMaxDetailMatch": 0.4887,
+            "colourBalance": [
               1,
               1,
               1.0002
@@ -2312,16 +2312,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9896,
-            "meanDeltaE": 0.694,
+          "ownCheck": {
+            "detailMatch": 0.9896,
+            "meanColourDifference": 0.694,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9983,
-            "meanDeltaE76": 0.352,
-            "mirrorControlMaxStructuralSimilarity": 0.7047,
-            "channelGain": [
+            "detailMatch": 0.9983,
+            "meanColourDifference": 0.352,
+            "controlMaxDetailMatch": 0.7047,
+            "colourBalance": [
               0.9999,
               1.0005,
               1.0001
@@ -2349,16 +2349,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9906,
-            "meanDeltaE": 1.114,
+          "ownCheck": {
+            "detailMatch": 0.9906,
+            "meanColourDifference": 1.114,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9995,
-            "meanDeltaE76": 0.395,
-            "mirrorControlMaxStructuralSimilarity": 0.1705,
-            "channelGain": [
+            "detailMatch": 0.9995,
+            "meanColourDifference": 0.395,
+            "controlMaxDetailMatch": 0.1705,
+            "colourBalance": [
               0.9999,
               1.0001,
               0.9997
@@ -2386,16 +2386,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9896,
-            "meanDeltaE": 0.695,
+          "ownCheck": {
+            "detailMatch": 0.9896,
+            "meanColourDifference": 0.695,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9983,
-            "meanDeltaE76": 0.353,
-            "mirrorControlMaxStructuralSimilarity": 0.7047,
-            "channelGain": [
+            "detailMatch": 0.9983,
+            "meanColourDifference": 0.353,
+            "controlMaxDetailMatch": 0.7047,
+            "colourBalance": [
               0.9999,
               1.0005,
               1.0001
@@ -2423,16 +2423,16 @@
             512
           ],
           "comparisonSizeStatus": "matched-to-existing-measurement-receipt",
-          "renderer": {
-            "structuralSimilarity": 0.9886,
-            "meanDeltaE": 1.248,
+          "ownCheck": {
+            "detailMatch": 0.9886,
+            "meanColourDifference": 1.248,
             "passed": true
           },
           "independent": {
-            "structuralSimilarity": 0.9994,
-            "meanDeltaE76": 0.473,
-            "mirrorControlMaxStructuralSimilarity": 0.1686,
-            "channelGain": [
+            "detailMatch": 0.9994,
+            "meanColourDifference": 0.473,
+            "controlMaxDetailMatch": 0.1686,
+            "colourBalance": [
               0.9999,
               1.0001,
               0.9996
