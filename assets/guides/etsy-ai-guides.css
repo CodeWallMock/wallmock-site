@@ -1,0 +1,69 @@
+/* Long-form Etsy guides; scoped to these two articles. */
+.guide-long .article-head{max-width:920px}
+.guide-long .article-head h1{font-size:clamp(36px,4.8vw,64px);max-width:24ch;line-height:1.08}
+.guide-long .answer{font-size:clamp(18px,1.7vw,21px);line-height:1.55;max-width:72ch}
+.guide-long .guide-date{display:inline-block;border:1px solid var(--line);padding:5px 10px;font-size:13px;color:var(--ink-2)}
+.guide-long .guide-layout{display:grid;grid-template-columns:220px minmax(0,760px);gap:48px;align-items:start;margin-top:34px}
+.guide-long .prose{max-width:760px;min-width:0;font-size:17px;line-height:1.75}
+.guide-long .prose>section:first-of-type h2{margin-top:0}
+.guide-long .prose h2{line-height:1.18;letter-spacing:-.02em;scroll-margin-top:24px}
+.guide-long .prose h3{font-size:21px;line-height:1.3}
+.guide-long .prose p{max-width:73ch}
+.guide-long .guide-sidebar{position:sticky;top:22px;min-width:0}
+.guide-long .guide-toc{border:1px solid var(--line);background:var(--soft);padding:18px;font-size:14px;line-height:1.45}
+.guide-long .guide-toc h2{font:700 13px/1.4 var(--sans);letter-spacing:.06em;text-transform:uppercase;margin:0 0 12px}
+.guide-long .guide-toc ol{padding-left:20px;margin:0;max-height:calc(100vh - 150px);overflow:auto;scrollbar-width:thin}
+.guide-long .guide-toc li{margin:0 0 10px;padding-left:2px}
+.guide-long .guide-toc a{text-decoration-thickness:1px;text-underline-offset:3px}
+.guide-long .guide-toc a:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.guide-long .guide-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:22px 0}
+.guide-long .guide-card,.guide-long .guide-example{background:var(--soft);border:1px solid var(--line);padding:18px}
+.guide-long .guide-card h3,.guide-long .guide-example h3{margin:0 0 10px;font-size:20px}
+.guide-long .guide-card p,.guide-long .guide-example p{font-size:15px;line-height:1.6;margin:0}
+.guide-long .guide-example{margin:16px 0}
+.guide-long .guide-recommendation{border-left:3px solid var(--accent);padding:14px 18px;background:var(--soft)}
+.guide-long .guide-discussions li{margin-bottom:16px}
+.guide-long .table-scroll{max-width:100%;overflow:auto;scrollbar-width:thin}
+.guide-long .table-scroll:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+.guide-long .prose table{min-width:540px;font-size:15px;line-height:1.5}
+.guide-long .prose tbody th{font-weight:650;letter-spacing:0;text-transform:none;background:transparent}
+.guide-long .guide-examples{margin:0 0 32px}
+.guide-long .guide-examples h2{font-size:27px;margin:0 0 12px}
+.guide-long .guide-example-row{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.guide-long .guide-example-row figure{margin:0;min-width:0;border:1px solid var(--line);background:var(--soft)}
+.guide-long .guide-example-row img{width:100%;height:auto;display:block}
+.guide-long .guide-example-row figcaption{font-size:13px;padding:12px;margin:0;line-height:1.5}
+.guide-long .guide-example-row strong{display:block;color:var(--ink);margin-bottom:3px}
+.guide-long .sources{margin-top:40px;padding-top:20px;border-top:1px solid var(--line)}
+.guide-long .faq{padding:0;margin:40px 0 0}
+.guide-long .faq p{line-height:1.65}
+.guide-long .guide-cta{border-top:1px solid var(--line);margin:38px 0 0;padding-top:24px}
+.guide-long .guide-disclosure{font-size:14px;color:var(--muted);max-width:80ch}
+@media(max-width:1050px){
+ .guide-long .guide-layout{grid-template-columns:190px minmax(0,1fr);gap:26px}
+ .guide-long .guide-grid{grid-template-columns:1fr}
+}
+@media(max-width:760px){
+ .guide-long .article-head h1{font-size:38px;max-width:20ch}
+ .guide-long .guide-layout{display:block;margin-top:24px}
+ .guide-long .guide-sidebar{position:static;margin-bottom:28px}
+ .guide-long .guide-toc{padding:16px}
+ .guide-long .guide-toc ol{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 24px;max-height:240px}
+ .guide-long .guide-toc li{break-inside:avoid;margin-bottom:12px}
+ .guide-long .prose{font-size:16px;line-height:1.7}
+ .guide-long .prose h2{font-size:29px}
+ .guide-long .table-scroll::before{content:"Scroll horizontally to read the full table";display:block;padding:8px 12px;font-size:12px;color:var(--muted);background:var(--soft)}
+ .guide-long .guide-example-row{grid-template-columns:repeat(3,minmax(220px,1fr));overflow:auto;scroll-snap-type:x proximity;max-width:100%}
+ .guide-long .guide-example-row figure{scroll-snap-align:start}
+}
+@media print{
+ .guide-long .top,.guide-long .foot,.guide-long .guide-sidebar,.guide-long .band,.guide-long .guide-cta{display:none}
+ .guide-long,.guide-long .prose,.guide-long .guide-card,.guide-long .guide-example{background:white!important;color:black!important}
+ .guide-long .guide-layout{display:block}
+ .guide-long .article,.guide-long .prose{max-width:none;width:100%;font-size:11pt}
+ .guide-long .article h1{font-size:28pt}
+ .guide-long .table-scroll{overflow:visible}
+ .guide-long .prose table{min-width:0;font-size:9pt}
+ .guide-long a{color:black}
+ .guide-long .guide-example-row{grid-template-columns:repeat(3,minmax(0,1fr));overflow:visible}
+}

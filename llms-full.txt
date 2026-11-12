@@ -1176,41 +1176,43 @@ A: Ask for a pilot on your frames before you sign. At WallMock, presets of a par
 Q: How do I test a mockup API before committing?
 A: Use its sandbox to build the integration, then run a pilot with your own frames and a few artworks you have the rights to, and compare the images with your product photos.
 
-## Wall art mockups without AI redrawing for Etsy and Shopify
+## Etsy wall-art mockups after the AI update: a practical guide for POD sellers
 URL: https://wallmock.com/guides/ai-wall-art-mockup-generator/
-Make framed canvas, framed print and metal print mockups from your original artwork. See what changes in a mockup and what Etsy and Shopify sellers should check.
+A practical Etsy wall-art mockup workflow: preserve your artwork, match frames and finishes, check size and crop, and build clear POD listing images.
 
-Short answer: WallMock uses the artwork you upload to make mockups of framed canvas, framed prints and metal prints. Your art is never redrawn, repainted or upscaled by AI. WallMock renders the frame, canvas edge, mat or metal finish using your file, then places it in a curated, digitally staged room.
+Updated: 2026-11-12. Full guide includes dated primary sources, original examples and practical checklists.
 
-Q: Does WallMock use AI to change my artwork?
-A: WallMock uses the file you upload. It never redraws, repaints or upscales the artwork with AI. Perspective, lighting and export settings can affect how the artwork appears in the finished image.
-Q: How can I tell if an AI mockup generator redrew my design?
-A: Compare the full-size mockup with the source. Check small lettering, signatures, fine lines and all four edges. A different letter or missing detail is a reason to reject the image. A shift in brightness can come from scene lighting.
-Q: Can I use WallMock mockups on Etsy?
-A: Use accurate mockups as supplemental listing images. Etsy generally requires an unedited photo of the actual item against a real background. Etsy has a specific allowance for authorized stock-photo mockups when a production partner prints a seller’s original design on a standard base product.
-Q: What should my Shopify product photos show?
-A: Show the exact artwork, product construction and finish the buyer will receive. Use separate images for different variants and include a real close-up of the frame or surface.
-Q: Can I use the same artwork for framed canvas, framed print and metal print?
-A: Yes. Use the same uploaded file and select the product you actually sell. Check the floating-frame gap for canvas, the mat opening for framed paper and the surface sheen for a frameless metal print.
+Q: Does WallMock redraw my artwork with AI?
+A: WallMock composites the supplied artwork into a configured product and room scene; it does not generatively redraw, repaint or upscale that artwork. Perspective, scale, lighting and export processing still change its displayed pixels.
+Q: Does preserving the artwork make every mockup Etsy-compliant?
+A: No. Check the offered product, the image rights and your category's photo rules. A faithful artwork file can still be displayed in the wrong frame, at a misleading size, or as a physical product when the offer is a download.
+Q: Should I stop using every AI image tool?
+A: Evaluate what each tool changes. We recommend keeping the fulfilment artwork intact and avoiding regenerated substitutes for it. Etsy's policy does not make every AI-assisted edit prohibited. The required-photo rules and the accuracy of the finished depiction are separate questions.
+Q: Can I match any supplier frame by entering its HEX colour?
+A: No. Colour alone cannot reproduce profile, depth, grain, coating or reflection. Compatible colour controls help approximate an offered finish; use the supplier's actual specification and a sample to judge the result.
+Q: Can I use the same mockups for canvas, paper and metal?
+A: Reuse the artwork source where appropriate, but select and check a representation for each actual product. Those materials have different edges, surfaces and construction. A different product needs a fresh review even when the design is unchanged.
+Q: Do room images prove the artwork's physical size?
+A: No. They provide context. Label the offered dimensions and distinguish the image opening from the finished frame's outside size. Treat furniture in a digitally staged scene as context rather than a measured reference.
 
-## Are AI Mockups Allowed on Etsy? Rules for Wall Art Sellers
+## Etsy’s AI policy update: a detailed 2026 seller guide
 URL: https://wallmock.com/guides/are-ai-mockups-allowed-on-etsy/
-Etsy allows edited and AI-assisted listing photos if they show exactly what the buyer gets. What its rules say, the unedited-photo rule, and why art must stay exact.
+Understand Etsy’s 2026 AI update, the 2027 photo-enforcement plan, POD exceptions, seller warnings and practical steps for accurate listings.
 
-Short answer: Yes, within limits. Etsy lets you edit listing photos, including with AI, as long as they accurately show what the buyer will receive. Most items also need at least one unedited photo of the actual item; Etsy allows an authorised stock photo mockup when a production partner prints your original design on a standard base product. A staged mockup must show the artwork and product accurately.
+Updated: 2026-11-12. Full guide includes dated primary sources, original examples and practical checklists.
 
-Q: Are mockups allowed on Etsy?
-A: Yes. Etsy allows edited images, including mockups, as long as they accurately show what the buyer receives. Most physical items also need at least one unedited photo of the actual item.
-Q: Can I use AI-generated mockups on Etsy?
-A: You can use edited supplemental images as long as they show the item accurately. Don't let a tool redraw the artwork itself, because the photo then shows a different picture from the print.
-Q: Do I need an unedited photo of my print on Etsy?
-A: For most items, yes. Etsy allows an authorised stock photo mockup when a production partner prints your original design on a standard base product. A photo of a sample is still the strongest proof.
-Q: Do I have to say my photos are mockups?
-A: Etsy recommends noting in the description whether images were edited. One plain line saying the room photos are digitally staged mockups covers it.
-Q: Is AI-redrawn art in a mockup against Etsy's rules?
-A: If the redrawn art differs from what you ship, the photo no longer accurately represents the item, which Etsy's image rules require. Keep the artwork exact and stage only the room.
-Q: Can I use WallMock images on Etsy?
-A: Yes. WallMock's terms allow clean downloads in shop listings. The artwork is your file, placed as it is, and you should still follow Etsy's photo rules.
+Q: Does Etsy’s 2026 AI update ban AI artwork?
+A: No blanket ban was announced. Seller-prompted work still needs an individual creative role and the required disclosure. Read the AI-art section for the separate content restrictions.
+Q: Do all my listing images need to be unedited?
+A: No. Most listings need one qualifying photo, subject to product-specific exceptions; the other images must remain accurate. See the current photo explanation.
+Q: Does an AI upload warning mean my shop is banned?
+A: No. An upload notice, a listing removal and an account suspension are different events. Read the actual message and use the notice checklist.
+Q: Does keeping my artwork unchanged automatically make a mockup compliant?
+A: No. Check the product construction, offered options, scale, rights and applicable photo requirements too. A faithful design can still appear inside a misleading product illustration.
+Q: Will a real photo or a non-generative mockup automatically improve Etsy rankings?
+A: There is no supported automatic ranking promise here. Etsy describes multiple search factors, including relevance, quality, service and buyer context. Use imagery to answer buyers’ questions, not as a supposed ranking switch. Etsy’s ranking disclosure.
+Q: Does WallMock guarantee Etsy acceptance?
+A: No. WallMock helps preserve the supplied artwork and configure its presentation. Sellers remain responsible for the actual product and listing; see the terms and marketplace notice.
 
 ## Print on Demand Wall Art: How to Choose a Provider (2026)
 URL: https://wallmock.com/guides/best-print-on-demand-for-wall-art/

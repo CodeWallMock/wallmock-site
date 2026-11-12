@@ -162,9 +162,9 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [Gallery wall layout planner](https://wallmock.com/tools/gallery-wall-layout-planner/): Frame positions and nail heights, drawn to scale.
 
 ## Guides
-- [Wall art mockups without AI redrawing for Etsy and Shopify](https://wallmock.com/guides/ai-wall-art-mockup-generator/)
+- [Etsy wall-art mockups after the AI update: a practical guide for POD sellers](https://wallmock.com/guides/ai-wall-art-mockup-generator/)
 - [Add Mockups to Shopify Products Automatically](https://wallmock.com/guides/add-mockups-to-shopify-products-automatically/)
-- [Are AI Mockups Allowed on Etsy? Rules for Wall Art Sellers](https://wallmock.com/guides/are-ai-mockups-allowed-on-etsy/)
+- [Etsy’s AI policy update: a detailed 2026 seller guide](https://wallmock.com/guides/are-ai-mockups-allowed-on-etsy/)
 - [Print on Demand Wall Art: How to Choose a Provider (2026)](https://wallmock.com/guides/best-print-on-demand-for-wall-art/)
 - [Bulk Upload Wall Art to Printify and Etsy With Room Mockups](https://wallmock.com/guides/bulk-upload-wall-art-to-printify-and-etsy/)
 - [Bulk Mockup Workflow Checklist: Naming, Previews, Exports](https://wallmock.com/guides/bulk-wall-art-mockups-without-photoshop/)
