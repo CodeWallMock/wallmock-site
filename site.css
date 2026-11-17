@@ -118,7 +118,6 @@ p{margin:0 0 1em}
 .price{font-size:15px;color:var(--muted)}
 .price span{font:400 44px/1 var(--serif);color:var(--ink);letter-spacing:-.02em}
 .price s.price-later{font:400 24px/1 var(--serif);color:var(--muted);margin-right:10px;text-decoration-thickness:1.5px}
-html[data-pricing-currency]:not([data-pricing-currency="usd"]) .price s.price-later{display:none}
 .price-launch{margin:6px 0 0;color:var(--ink)}
 .price-launch strong{color:var(--accent,inherit)}
 .plan-list{padding-left:22px;max-width:70ch}

@@ -1,6 +1,9 @@
 // Home/pricing cards use WallMock's server region and the app's shared formatter. Price data is public, approved minor units.
 import { CURRENCIES, fetchPricingRegion, formatMoney } from "/pricing-currency.js?v=2";
 
+// Lite's price for new subscribers from 1 January 2027, per region (monthly, minor units). Shown crossed out beside today's price.
+const LATER_MONTHLY = Object.freeze({ lite: Object.freeze({ usd: 1000, eur: 1000, gbp: 800, cad: 1300, aud: 1500, inr: 59900, brl: 3990 }) });
+
 const source = document.getElementById("pricing-amounts");
 const help = document.getElementById("pricing-currency-help");
 const status = document.getElementById("pricing-currency-status");
@@ -41,6 +44,10 @@ function mount() {
       node.textContent = formatMoney(cents, currency);
     }
     for (const node of document.querySelectorAll("[data-free-price]")) node.textContent = formatMoney(0, currency);
+    for (const node of document.querySelectorAll("[data-price-later]")) {
+      const cents = Object.hasOwn(LATER_MONTHLY, node.dataset.priceLater) ? LATER_MONTHLY[node.dataset.priceLater][currency] : undefined;
+      if (Number.isSafeInteger(cents) && cents > 0) node.textContent = formatMoney(cents, currency);
+    }
     for (const entry of schemas) {
       updateSchema(entry.value, currency);
       entry.node.textContent = JSON.stringify(entry.value).replace(/</g, "\\u003c");
