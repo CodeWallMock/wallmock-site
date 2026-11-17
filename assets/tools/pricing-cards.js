@@ -3,6 +3,7 @@ import { CURRENCIES, fetchPricingRegion, formatMoney } from "/pricing-currency.j
 
 // Lite's price for new subscribers from 1 January 2027, per region (monthly, minor units). Shown crossed out beside today's price.
 const LATER_MONTHLY = Object.freeze({ lite: Object.freeze({ usd: 1000, eur: 1000, gbp: 800, cad: 1300, aud: 1500, inr: 59900, brl: 3990 }) });
+const LATER_ANNUAL = Object.freeze({ lite: Object.freeze({ usd: 7900, eur: 7900, gbp: 6300, cad: 10300, aud: 11900, inr: 599900, brl: 31500 }) });
 
 const source = document.getElementById("pricing-amounts");
 const help = document.getElementById("pricing-currency-help");
@@ -45,7 +46,8 @@ function mount() {
     }
     for (const node of document.querySelectorAll("[data-free-price]")) node.textContent = formatMoney(0, currency);
     for (const node of document.querySelectorAll("[data-price-later]")) {
-      const cents = Object.hasOwn(LATER_MONTHLY, node.dataset.priceLater) ? LATER_MONTHLY[node.dataset.priceLater][currency] : undefined;
+      const table = node.dataset.priceLaterKind === "annual" ? LATER_ANNUAL : LATER_MONTHLY;
+      const cents = Object.hasOwn(table, node.dataset.priceLater) ? table[node.dataset.priceLater][currency] : undefined;
       if (Number.isSafeInteger(cents) && cents > 0) node.textContent = formatMoney(cents, currency);
     }
     for (const entry of schemas) {
