@@ -117,7 +117,7 @@ p{margin:0 0 1em}
 .plan-pick{border:2px solid var(--ink);box-shadow:inset 0 6px 0 var(--accent)}
 .price{font-size:15px;color:var(--muted)}
 .price span{font:400 44px/1 var(--serif);color:var(--ink);letter-spacing:-.02em}
-.price s.price-later{font:400 24px/1 var(--serif);color:var(--muted);margin-right:10px;text-decoration-thickness:1.5px}
+.price s.price-later{display:block;width:max-content;font:400 20px/1 var(--serif);color:var(--muted);margin:0 0 6px;text-decoration-thickness:1.5px}
 .price-launch{margin:6px 0 0;color:var(--ink)}
 .price-launch strong{color:var(--accent,inherit)}
 .plan-list{padding-left:22px;max-width:70ch}
