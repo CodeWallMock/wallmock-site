@@ -11,6 +11,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal print (art on a frameless aluminium panel); Aluminum framed print (black, gold or silver), with or without a mat. Compatible framed and canvas products support sets of 2, 3 or 4; metal panels use one artwork per image.
 - Metal prints: A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen that follows the room light (the default), high gloss with a clear window reflection, or matte for a low-glare, canvas-like finish. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Examples: https://wallmock.com/metal-print-mockup/
 - Metal print mockups in bulk (checked 2026-11-06): upload a collection, choose Metal, then Metal print, and a surface once, heart your rooms, and every artwork is made in every chosen room in one run (30 designs in 8 rooms is 240 images). Corners are a rounded 1/8 in (3.2 mm) at every print size. No PSD templates, smart objects or Photoshop. Aluminium framed prints (paper in a slim 9.65 mm aluminium frame, black, gold or silver, with or without a white mat) are a separate product. Surfaces compared side by side: https://wallmock.com/guides/glossy-vs-matte-metal-print-mockups/
+- Frame finishes up close (checked 2026-11-18): every WallMock frame finish shown at the corner, cut from 4096 px images: brushed gold and silver, satin black and white, wood grain on natural oak, walnut, espresso and natural wood, framed prints (gold, black, walnut, white) and aluminium (gold, silver), each with a 45° mitre and, on canvas, the floating gap. Buyers who zoom into a 4K WallMock image see the grain, brushing and mitre rather than a flat outline. https://wallmock.com/frame-finishes/
 - Version 3 frames (checked 2026-11-18): WallMock 3.0, released 17 November 2026, gives every frame a new surface: brushed gold and silver with fine lines along each rail and a sheen on the lit side; satin black and white; wood grain on natural oak, walnut and espresso; fine straight grain on natural wood; a mitred corner on every frame. Applies to floating-frame canvas, framed prints and aluminium framed prints; stretched canvas and metal prints are unchanged. The finishes are modelled on the frames print-on-demand labs commonly offer: labs such as Lumaprints and Printseekers list black, white, gold, silver and wood floating frames, and Lumaprints lists natural oak and walnut with wood grain (public product pages, checked 2026-11-18); WallMock does not copy any one lab’s frame. Close-ups of every finish at 100% from 4K images: https://wallmock.com/whats-new/wallmock-3/ . The artwork is never altered: it is placed exactly as supplied, never redrawn, and checked in every image.
 - Floating frame canvas finishes (checked 2026-11-06): 8 floating-frame finishes in the app: black, white, natural oak, natural wood, walnut, espresso, gold and silver (painted, wood or metallic), plus stretched canvas with no frame. Guide: https://wallmock.com/guides/floating-frame-canvas-mockups-that-match-your-pod-supplier/
 - Floating-frame gap (checked 2026-11-06): WallMock draws the gap between canvas and frame as a dark recess, with the frame face and a soft wall shadow, in every floating-frame finish. By default the face is about 2.2% and the gap about 1.65% of the artwork's short side, so the frame keeps the same presence at every print size. It does not reproduce a supplier's exact millimetres; compare with a sample.
@@ -87,7 +88,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Which mockup tool shows the gap of a floating frame? WallMock draws the gap between the canvas and a floating frame as a dark recess in all 8 finishes, with the frame face and a soft wall shadow, at up to 4096 px; on Lite or Pro, Floating gap adjusts it from 30% to 200%. Zoom into a corner at 100% to check any tool. Guide: https://wallmock.com/guides/floating-frame-canvas-mockups-that-match-your-pod-supplier/
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
-# Every page in full (169 pages)
+# Every page in full (170 pages)
 
 ## WallMock: Wall Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
@@ -2920,3 +2921,37 @@ Q: Does the new look apply to framed prints and aluminium frames?
 A: Yes. Framed prints in wood and painted frames, with or without a mat, and aluminium framed prints in black, gold and silver get the new look. Stretched canvas and metal prints are unchanged.
 Q: Will buyers see the detail in my listing photos?
 A: From a normal viewing distance a frame looks smooth and calm. The grain, brushed lines and mitred corner show when someone zooms in. Download at 4K to keep that detail.
+
+
+## Frame finishes up close
+https://wallmock.com/frame-finishes/
+
+Every WallMock frame finish at the corner: brushed gold and silver, satin black and white, oak, walnut, espresso and natural wood, framed prints and aluminium.
+
+Short answer: WallMock draws each frame finish the way print-on-demand frames are commonly made: brushed gold and silver, satin black and white, and wood grain on natural oak, walnut, espresso and natural wood, with a 45° mitre at every corner and the floating gap on canvas. Downloads are 4096 px, so buyers who zoom in see the grain, brushing and mitre instead of a flat outline. Your artwork is placed exactly as supplied.
+
+Brushed gold: A warm gold with fine brushing that runs along each rail and a soft sheen on the side the room light comes from. The 45° mitre is drawn where the rails meet, and the floating gap reads as a dark recess around the canvas. Zoomed out, it looks like smooth metal; up close, the brushing shows. Lumaprints lists gold floating frames (it describes its gold as a metallic finish), and Printseekers lists a pure gold floating frame.
+Brushed silver: A cool silver with fine brushing along each rail, a bright outer edge where the light catches it and a shaded inner edge. The mitre and the floating gap are drawn at every corner. Lumaprints describes its silver floating frame as a brushed finish, and Printseekers lists a pure silver floating frame.
+Satin black: A smooth painted black with no grain or texture. The shape comes from the light: a soft highlight along the outer edge, a darker inner edge and a slight change in tone from one rail to the next, so the frame does not read as a flat black outline. Lumaprints and Printseekers both list black floating frames.
+Satin white: A clean satin white with a crisp mitre and a soft shadow on the wall, so the frame still separates from a pale wall. The dark floating gap frames the canvas edge. Lumaprints and Printseekers both list white floating frames.
+Natural oak: A light oak with visible grain along each rail. The grain changes direction at the mitre, as it does where two lengths of moulding meet. Lumaprints lists a natural oak floating frame with a light wood-grain finish; Printseekers lists light wood frames.
+Walnut: A mid-brown walnut with flowing grain and a soft satin finish. The grain meets at the mitre and the floating gap stays dark and deep. Lumaprints lists a walnut floating frame with a dark wood-grain finish; Printseekers lists dark wood frames.
+Espresso: A dark, cool brown with a subtle wood figure that keeps its depth instead of reading as black. Lumaprints lists an espresso floating frame.
+Natural wood: A pale wood with fine, straight grain lines, quieter than natural oak. Lumaprints lists a natural wood floating frame.
+Gold framed print: A gold frame around a print with a white mat: the mitre, the lit edge of the frame and the shadow the frame casts onto the mat. Lumaprints lists gold frames for framed paper prints.
+Black framed print: A satin black frame with a crisp mitre and a soft shadow from the frame onto the white mat. Lumaprints lists black frames for framed paper prints.
+Walnut framed print: Walnut grain runs along each rail and changes direction at the mitre; the warm white mat sits inside.
+White framed print: A satin white frame where the mitre and the shadow onto the mat keep the frame visible against a white mat. Lumaprints lists white frames for framed paper prints.
+Gold aluminium: A slim aluminium profile in gold with brushing along the rail and a mitred corner, around a print with a white mat.
+Silver aluminium: A slim silver aluminium profile with a bright lit edge, brushing along the rail and a mitred corner.
+
+Q: Do the mockup frames match my print-on-demand supplier?
+A: They are the same kinds of finishes labs list: labs such as Lumaprints and Printseekers list black, white, gold, silver and wood floating frames, and Lumaprints lists natural oak and walnut with wood grain (public product pages, checked 18 November 2026). Colours and profiles vary between suppliers, so pick the closest finish and compare a mockup with a photo of your supplier’s sample. On Lite or Pro you can also adjust frame width and the floating gap.
+Q: Can I zoom in on the frame in a WallMock image?
+A: Yes. Downloads are 4096 px on the long edge, and every close-up on this page is cut from such an image. At 100% you see the mitre, the grain or brushing and the floating gap.
+Q: Which frame finishes are available?
+A: Floating-frame canvas comes in eight finishes: black, white, natural oak, natural wood, walnut, espresso, gold and silver, plus stretched canvas with no frame. Framed prints come in wood and painted frames with or without a mat, and aluminium framed prints in black, gold or silver. Lite and Pro add custom frame colours (wood grain, metallic or painted).
+Q: Does a close-up change my artwork?
+A: No. The frame is drawn around your file, which is placed exactly as you uploaded it: never redrawn, repainted or upscaled.
+Q: Why does frame detail matter in a listing photo?
+A: The frame is part of what you sell. If a buyer zooms in and sees a flat outline, or a finish that does not look like the frame that arrives, the photo stops being trustworthy. A finish that looks like the real product, at the size buyers zoom to, avoids that.
