@@ -11,6 +11,7 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Products shown: Framed canvas (floating frame); Stretched canvas; Framed print, with or without a mat; Metal print (art on a frameless aluminium panel); Aluminum framed print (black, gold or silver), with or without a mat. Compatible framed and canvas products support sets of 2, 3 or 4; metal panels use one artwork per image.
 - Metal prints: A metal print is your art printed on a thin aluminium panel: no frame, small rounded corners and a thin bare-metal edge, hung on a hidden block about ½ in (12.7 mm) off the wall so it casts a soft, tight shadow. The surface is gloss white with a gentle sheen that follows the room light (the default), high gloss with a clear window reflection, or matte for a low-glare, canvas-like finish. Metal prints are made in WallMock's rooms, one artwork per image. They are not available in sets yet. Examples: https://wallmock.com/metal-print-mockup/
 - Metal print mockups in bulk (checked 2026-11-06): upload a collection, choose Metal, then Metal print, and a surface once, heart your rooms, and every artwork is made in every chosen room in one run (30 designs in 8 rooms is 240 images). Corners are a rounded 1/8 in (3.2 mm) at every print size. No PSD templates, smart objects or Photoshop. Aluminium framed prints (paper in a slim 9.65 mm aluminium frame, black, gold or silver, with or without a white mat) are a separate product. Surfaces compared side by side: https://wallmock.com/guides/glossy-vs-matte-metal-print-mockups/
+- Version 3 frames (checked 2026-11-18): WallMock 3.0, released 17 November 2026, gives every frame a new surface: brushed gold and silver with fine lines along each rail and a sheen on the lit side; satin black and white; wood grain on natural oak, walnut and espresso; fine straight grain on natural wood; a mitred corner on every frame. Applies to floating-frame canvas, framed prints and aluminium framed prints; stretched canvas and metal prints are unchanged. The finishes are modelled on the frames print-on-demand labs commonly offer: labs such as Lumaprints and Printseekers list black, white, gold, silver and wood floating frames, and Lumaprints lists natural oak and walnut with wood grain (public product pages, checked 2026-11-18); WallMock does not copy any one lab’s frame. Close-ups of every finish at 100% from 4K images: https://wallmock.com/whats-new/wallmock-3/ . The artwork is never altered: it is placed exactly as supplied, never redrawn, and checked in every image.
 - Floating frame canvas finishes (checked 2026-11-06): 8 floating-frame finishes in the app: black, white, natural oak, natural wood, walnut, espresso, gold and silver (painted, wood or metallic), plus stretched canvas with no frame. Guide: https://wallmock.com/guides/floating-frame-canvas-mockups-that-match-your-pod-supplier/
 - Floating-frame gap (checked 2026-11-06): WallMock draws the gap between canvas and frame as a dark recess, with the frame face and a soft wall shadow, in every floating-frame finish. By default the face is about 2.2% and the gap about 1.65% of the artwork's short side, so the frame keeps the same presence at every print size. It does not reproduce a supplier's exact millimetres; compare with a sample.
 - Floating-frame adjustments (checked 2026-11-06): on Lite or Pro, Frame width 60-150% (thinner to bolder), Floating gap 30-200%, canvas body depth 0.75, 1.25 or 1.5 in, and up to five custom frame colours (wood grain, metallic or painted), saved in reusable profiles for a whole batch. Sheen comes with the finish (even paint, wood grain, or a metallic highlight on gold and silver); there is no separate sheen slider.
@@ -86,7 +87,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Which mockup tool shows the gap of a floating frame? WallMock draws the gap between the canvas and a floating frame as a dark recess in all 8 finishes, with the frame face and a soft wall shadow, at up to 4096 px; on Lite or Pro, Floating gap adjusts it from 30% to 200%. Zoom into a corner at 100% to check any tool. Guide: https://wallmock.com/guides/floating-frame-canvas-mockups-that-match-your-pod-supplier/
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
-# Every page in full (168 pages)
+# Every page in full (169 pages)
 
 ## WallMock: Wall Mockup Generator for Print-on-Demand Sellers
 URL: https://wallmock.com/
@@ -2896,3 +2897,26 @@ Q: Do I need a real photo of my canvas on Etsy?
 A: Etsy asks most listings for at least one unedited photo of the actual item; print-on-demand items made by a production partner can use an authorised mockup instead (as checked on 2026-11-06). A photo of your sample is still the best proof.
 Q: Can I make canvas mockups for my whole Etsy shop at once?
 A: Yes. In WallMock, save your rooms and canvas finish once, add the collection, and every artwork is made in every chosen room in one run.
+
+
+## WallMock 3: a new, more realistic frame look
+https://wallmock.com/whats-new/wallmock-3/
+
+WallMock 3 (17 November 2026): brushed gold and silver, satin black and white, wood grain on oak and walnut and a mitred corner on every frame, with 4K close-ups.
+
+Short answer: WallMock 3, released on 17 November 2026, gives every frame a new, more realistic surface. Natural oak, walnut and espresso show wood grain, natural wood has a fine straight grain, gold and silver have fine brushed lines and a sheen on the side the room light comes from, and black and white are smooth satin. Every frame has a mitred corner. Your artwork is never changed.
+
+WallMock’s finishes are modelled on the frames print-on-demand labs commonly offer. Labs such as Lumaprints and Printseekers list black, white, gold, silver and wood floating frames; Lumaprints also lists natural oak and walnut with a wood-grain finish and describes its silver frame as brushed (their public product pages, checked 18 November 2026). WallMock draws brushed gold and silver, satin black and white, and wood grain on natural oak, walnut, espresso and natural wood. It is not a copy of any one lab’s frame, so compare a mockup with your supplier’s sample before you list it.
+
+Q: Do I need to do anything to get the new frame look?
+A: Make your images again. Images you made before 17 November 2026 stay as they were. New images use the new look; your rooms, profiles and saved colours are unchanged.
+Q: Does WallMock 3 change my artwork or its size on the wall?
+A: No. Your artwork is placed exactly as you uploaded it and is never redrawn. Frame width, floating gap, canvas depth, mats and placement are the same as before; only the frame’s surface and lighting change.
+Q: Which frames get wood grain?
+A: Natural oak, walnut and espresso show wood grain. Natural wood shows fine, straight grain lines. Black and white are smooth with a satin finish, and gold and silver show fine brushed lines.
+Q: Are these the same finishes print-on-demand labs offer?
+A: They are the same kinds of finishes. Labs such as Lumaprints and Printseekers list black, white, gold, silver and wood floating frames, and Lumaprints lists natural oak and walnut with wood grain (checked 18 November 2026). WallMock does not copy any one lab’s frame, so compare a mockup with your supplier’s sample.
+Q: Does the new look apply to framed prints and aluminium frames?
+A: Yes. Framed prints in wood and painted frames, with or without a mat, and aluminium framed prints in black, gold and silver get the new look. Stretched canvas and metal prints are unchanged.
+Q: Will buyers see the detail in my listing photos?
+A: From a normal viewing distance a frame looks smooth and calm. The grain, brushed lines and mitred corner show when someone zooms in. Download at 4K to keep that detail.
