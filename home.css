@@ -489,3 +489,22 @@ html:not([data-scrolled]) .fm-band{opacity:0}
   .ms{flex:0 0 80vw;scroll-snap-align:start}
   .home .ms figcaption{font-size:16px}
 }
+/* Hero corner card (site-hero-frames, 2026-11-19): the selected finish's corner, a crop of the 4096 px image, over the lower-right
+   corner of the hero picture. It sits inside the camera, so its sizes are divided by the camera's opening scale (--kh); it fades out
+   as soon as the film moves on (a short fade, never left half-transparent over the moving picture), and hides for a finish with no frame (metal print). */
+.fm-loupe{display:none}
+  :where(.film-on) .fm-loupe{--lw:calc(clamp(170px,34cqw,210px) / var(--kh));display:block;position:absolute;margin:0;width:var(--lw);height:var(--lw);
+    left:calc(var(--l) + var(--w) * .90543 - var(--lw) * .88);top:calc(var(--tp) + var(--h) * .85292 - var(--lw) * .45);
+    border-radius:calc(14px / var(--kh));overflow:hidden;background:#1b1b1d;pointer-events:none;transition:opacity .18s ease,visibility 0s;
+    box-shadow:0 0 0 calc(1px / var(--kh)) rgba(255,255,255,.4),0 calc(14px / var(--kh)) calc(32px / var(--kh)) rgba(0,0,0,.55),0 calc(3px / var(--kh)) calc(8px / var(--kh)) rgba(0,0,0,.35)}
+  :where(.film-on) .fm-loupe[hidden]{display:none}
+  :where(.film-on) .film[data-loupe-off] .fm-loupe{opacity:0;visibility:hidden;transition:opacity .18s ease,visibility 0s .18s}
+  :where(.film-on) .fm-loupe img{display:block;width:100%;height:100%;max-width:none;transition:opacity .18s ease}
+  :where(.film-on) .fm-loupe figcaption{position:absolute;left:0;right:0;bottom:0;padding:calc(18px / var(--kh)) calc(10px / var(--kh)) calc(8px / var(--kh));
+    font:600 calc(11px / var(--kh))/1.3 var(--sans);letter-spacing:.01em;color:#f3efe7;background:linear-gradient(rgba(12,12,14,0),rgba(12,12,14,.72));transition:opacity .18s ease}
+  :where(.film-on) .fm-loupe figcaption span{display:block;white-space:nowrap}
+  :where(.film-on) .fm-loupe[data-wait] :is(img,figcaption){opacity:0}
+@media (max-width:860px) and (orientation:portrait){
+  :where(.film-on) .fm-loupe{--lw:calc(132px / var(--kh));border-radius:calc(10px / var(--kh))}
+  :where(.film-on) .fm-loupe figcaption{padding:calc(12px / var(--kh)) calc(5px / var(--kh)) calc(6px / var(--kh));font-size:calc(10px / var(--kh));letter-spacing:-.01em}
+}

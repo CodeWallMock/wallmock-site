@@ -40,7 +40,7 @@ function startFilm() {
   // the phone film is for portrait phones; a landscape phone gets the laptop film (src/home.css: orientation:portrait)
   const phone = media("(max-width: 860px) and (orientation: portrait)", () => { place(); size(); });
   place();
-  let anchor = 0.6, hold = 1, tr = 0.5, vh = 0, frame = 0, settle = 0, shown = 0, reading = -1, loading = false, off = false;
+  let anchor = 0.6, hold = 1, tr = 0.5, vh = 0, frame = 0, settle = 0, shown = 0, reading = -1, loading = false, off = false, cardOff = false;
 
   // After load (or at the first scroll), fetch the room, every layer and the hero's finish layers together; mark each ready when it
   // can be drawn: decoded, or loaded where decode() gives up (WebKit can reject it for an image that is not on screen yet). They wait
@@ -64,6 +64,8 @@ function startFilm() {
       if (t > 0) preload();
       // the hero's swatches only while the hero frame is on screen
       if ((t > 0.25) !== off) { off = t > 0.25; film.toggleAttribute("data-swatches-off", off); swatches.forEach((b) => (b.tabIndex = off ? -1 : 0)); }
+      // the corner card: shown only while the hero is at rest; it fades out (a short transition) once the film starts to move
+      if ((t > 0.02) !== cardOff) { cardOff = t > 0.02; film.toggleAttribute("data-loupe-off", cardOff); }
       let on = -1;
       for (let i = 0; i < steps.length; i++) if (steps[i].getBoundingClientRect().top <= line) on = i;
       if (on !== reading) { reading = on; steps.forEach((el, i) => el.toggleAttribute("data-on", i === on)); film.toggleAttribute("data-read", on >= 0); }
@@ -94,10 +96,26 @@ function startFilm() {
   const fit = () => { if (filmFits()) { root.classList.add("film-on"); place(); size(); } else toStatic(); };
   media("(prefers-reduced-motion: reduce)", fit); media("(orientation: landscape) and (max-height: 500px)", fit);
 
-  // Hero finish swatches: the frame on the painting changes at once (a short cross-fade), from the real render of that product
+  // Hero finish swatches: the frame on the painting changes at once (a short cross-fade), from the real render of that product.
+  // The corner card shows the same finish's corner (a crop of the 4096 px image), fetched only when its swatch is picked: the card
+  // goes blank while it loads and never shows another finish's corner; a finish with no frame (data-corner absent) hides it.
+  const loupe = film.querySelector(".fm-loupe"), loupeImg = loupe?.querySelector("img"), loupeCap = loupe?.querySelector("figcaption .ln");
+  let picked = 0;
+  const showCorner = (b, token) => {
+    if (!loupe) return;
+    const name = b.dataset.corner;
+    if (!name) { loupe.hidden = true; return; }
+    const src = `/assets/home/corner/hero-corner-${b.dataset.k}.webp`;
+    if (loupeImg.getAttribute("src") === src && !loupe.hidden && !loupe.hasAttribute("data-wait")) return;
+    loupe.hidden = false; loupe.toggleAttribute("data-wait", true);
+    const done = () => { if (token !== picked) return; loupeCap.textContent = `${name} corner,`; loupe.toggleAttribute("data-wait", false); };
+    loupeImg.loading = "eager"; loupeImg.src = src;
+    loupeImg.decode ? loupeImg.decode().then(done, () => (loupeImg.complete && loupeImg.naturalWidth ? done() : loupeImg.addEventListener("load", done, { once: true }))) : loupeImg.addEventListener("load", done, { once: true });
+  };
   const pick = (b) => {
-    const k = b.dataset.k, im = objects.find((o) => o.dataset.k === k);
+    const k = b.dataset.k, im = objects.find((o) => o.dataset.k === k), token = ++picked;
     swatches.forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+    showCorner(b, token);
     const show = () => { objects.forEach((o) => o.classList.toggle("on", o === im)); film.dataset.sel = k; swName.textContent = b.dataset.name; live.textContent = `Showing: ${b.dataset.name}`; };
     if ("ready" in im.dataset || im.complete && im.naturalWidth) show(); else { film.classList.add("fm-go"); drawable(im, show); }
   };
