@@ -112,6 +112,6 @@
 <p class="foot-note">Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Rooms are curated, digitally staged interiors reviewed by WallMock. Updated 2026-11-07.</p>
 </div></footer>
 
-<script>(function(){try{var K="wm-utm",s=sessionStorage,u=JSON.parse(s.getItem(K)||"null");if(!u){u={};new URLSearchParams(location.search).forEach(function(v,n){if(/^utm_(source|medium|campaign|term|content)$/.test(n)&&/^[\w .~-]{1,100}$/.test(v))u[n]=v});if(Object.keys(u).length)s.setItem(K,JSON.stringify(u))}var k=Object.keys(u);if(!k.length)return;document.querySelectorAll('a[href^="https://app.wallmock.com"]').forEach(function(a){var x=new URL(a.href);k.forEach(function(n){if(!x.searchParams.has(n))x.searchParams.set(n,u[n])});a.href=x.toString()})}catch(e){}})()</script>
+<script>(function(){try{var K="wm-utm",s=sessionStorage,u=JSON.parse(s.getItem(K)||"null");if(!u){u={};new URLSearchParams(location.search).forEach(function(v,n){if((/^utm_(source|medium|campaign|term|content)$/.test(n)&&/^[\w .~-]{1,100}$/.test(v)||/^(gclid|gbraid|wbraid)$/.test(n)&&/^[A-Za-z0-9_-]{20,200}$/.test(v)))u[n]=v});if(Object.keys(u).length)s.setItem(K,JSON.stringify(u))}var k=Object.keys(u);if(!k.length)return;document.querySelectorAll('a[href^="https://app.wallmock.com"]').forEach(function(a){var x=new URL(a.href);k.forEach(function(n){if(!x.searchParams.has(n))x.searchParams.set(n,u[n])});a.href=x.toString()})}catch(e){}})()</script>
 </body>
 </html>
