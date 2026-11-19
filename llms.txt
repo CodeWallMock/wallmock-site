@@ -56,7 +56,7 @@ Print-on-demand and wall art shops that list many designs as framed canvas, stre
 - Try it with no sign-up and no card; plans from $5 a month, and unlimited clean 4K (4096 px) images on Pro from $15.
 
 ## Who makes WallMock
-Built by AK, the seller behind AntarmadaArtPrints on Etsy since 2023. Founder story and shop link: https://wallmock.com/story/
+Built by Akshit, the seller behind AntarmadaArtPrints on Etsy since 2023. Founder story and shop link: https://wallmock.com/story/
 Testing, methods and example limits: https://wallmock.com/testing/
 About WallMock and how facts are checked: https://wallmock.com/about/
 Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App privacy policy: https://app.wallmock.com/privacy
@@ -272,4 +272,4 @@ Search and shopping assistants may read and link to public pages and help users 
 
 ## Editorial
 - [How we write our guides](https://wallmock.com/editorial-policy/): who writes WallMock guides, sources with dates checked, AI writing tools as drafting help only, real WallMock images, corrections.
-- [AK, founder](https://wallmock.com/authors/ak/): Etsy wall-art seller since 2023 (AntarmadaArtPrints), author of the guides.
+- [Akshit, founder](https://wallmock.com/authors/ak/): Etsy wall-art seller since 2023 (AntarmadaArtPrints), author of the guides.
