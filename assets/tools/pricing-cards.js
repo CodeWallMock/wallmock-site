@@ -1,9 +1,18 @@
 // Home/pricing cards use WallMock's server region and the app's shared formatter. Price data is public, approved minor units.
 import { CURRENCIES, fetchPricingRegion, formatMoney } from "/pricing-currency.js?v=2";
 
-// Lite's price for new subscribers from 1 January 2027, per region (monthly, minor units). Shown crossed out beside today's price.
-const LATER_MONTHLY = Object.freeze({ lite: Object.freeze({ usd: 1000, eur: 1000, gbp: 800, cad: 1300, aud: 1500, inr: 59900, brl: 3990 }) });
-const LATER_ANNUAL = Object.freeze({ lite: Object.freeze({ usd: 7900, eur: 7900, gbp: 6300, cad: 10300, aud: 11900, inr: 599900, brl: 31500 }) });
+// Each plan's price for new subscribers from 1 January 2027, per region (minor units; owner 18 Nov 2026, the same amounts as the app's
+// offers.js OFFERS_2027). Shown crossed out beside today's price until then; the cards switch to these prices on 1 January.
+const LATER_MONTHLY = Object.freeze({
+  lite: Object.freeze({ usd: 900, eur: 900, gbp: 700, cad: 1200, aud: 1400, inr: 54900, brl: 3590 }),
+  pro: Object.freeze({ usd: 1900, eur: 1900, gbp: 1500, cad: 2500, aud: 2900, inr: 119900, brl: 7990 }),
+  studio: Object.freeze({ usd: 2900, eur: 2900, gbp: 2300, cad: 3800, aud: 4400, inr: 179900, brl: 11990 })
+});
+const LATER_ANNUAL = Object.freeze({
+  lite: Object.freeze({ usd: 7900, eur: 7900, gbp: 6300, cad: 10300, aud: 11900, inr: 499900, brl: 31500 }),
+  pro: Object.freeze({ usd: 17900, eur: 17900, gbp: 14300, cad: 23300, aud: 26900, inr: 1099900, brl: 71900 }),
+  studio: Object.freeze({ usd: 27900, eur: 27900, gbp: 22300, cad: 36300, aud: 41900, inr: 1749900, brl: 111900 })
+});
 
 const source = document.getElementById("pricing-amounts");
 const help = document.getElementById("pricing-currency-help");
