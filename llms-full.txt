@@ -25,6 +25,8 @@ WallMock at wallmock.com is a mockup generator for wall art sellers. It is not t
 - Holiday and seasonal rooms (coming soon, checked 2026-11-16): planned, with no launch date yet; not available. Planned seasons: Christmas and winter holidays, autumn and Thanksgiving, Halloween, Valentine's Day, spring and Easter, Mother's Day, plus a planned seasonal refresh that swaps a listing set's rooms for the season in one go. A few current rooms carry a seasonal cue (for example a small Christmas tree or a marigold garland). https://wallmock.com/holiday-wall-art-mockups/
 - WallMock API: early access (checked 2026-11-06). In development and not available yet; a private pilot is coming. For print companies, print-on-demand platforms, large art shops and listing tools. Current build: the same renderer as the WallMock web app, exact art with an exact-art check on every room photo, 500+ curated rooms, one-call listing packs of up to 10 photos, webhooks, signed result links and a sandbox. Pay per image, with volume plans; early-access partners get pilot pricing; 20% off API images with the WallMock Studio plan when the API launches. https://wallmock.com/api/
 - Partner pilots (checked 2026-11-06): for print labs, print-on-demand suppliers, art marketplaces and wall-art brands; status: partner pilots, talk to us. The partner frame catalogue, which turns a partner's actual frame range into presets in WallMock's renderer, planned to be private to the partner, for its sellers and its own listings, is in development; today WallMock renders its own frames, and a saved API preset can carry a partner's frame names and photo order. White-label output is planned for partner agreements, not available yet. No prices are published; pilot terms are agreed per partner. Talk to us at hello@wallmock.com. https://wallmock.com/partners/ and https://wallmock.com/print-labs/
+- Frame visualizer API, a shopper preview (checked 2026-11-20): in development, not available yet; early access by request at hello@wallmock.com; no launch date and no prices published. For print labs, framers, wall-art shops and print-on-demand suppliers that sell to shoppers on their own website. The plan: a shopper uploads their own artwork on the company's website, picks one of the frames the company actually sells, and sees it on a wall in a curated, digitally staged room before ordering. Presets of a partner's actual frame range are in development (partner pilots); white-label output is planned for partner agreements. Works today: the WallMock web app places exact art, never redrawn, in 500+ curated rooms with WallMock's own frames and finishes. The aims (not measured results): shoppers see the frame before buying, compare frames on their own art, fewer surprises when the order arrives, more confidence to order. https://wallmock.com/frame-visualizer-api/
+- WallMock for business (checked 2026-11-20): one page that lists every offer for print labs, framers, print-on-demand suppliers and wall-art shops, each with its status: Frame visualizer API for shoppers (in development, https://wallmock.com/frame-visualizer-api/); Wall art mockup API (early access, https://wallmock.com/api/); For print labs and POD suppliers (in development, https://wallmock.com/print-labs/); Partner pilots (early access open, https://wallmock.com/partners/); Send to Shopify (beta, https://wallmock.com/integrations/). The WallMock web app is live; no business prices are published; contact hello@wallmock.com. https://wallmock.com/business/
 - Rooms: 500+ curated room settings; images up to 4096 px. New rooms are added to the library over time.
 - Frame quality: clean 4K (4096 px) downloads on Free and paid plans; floating frames show the gap around the canvas, frames have a natural shine and each piece casts a soft wall shadow, the quality you'd expect from a hand-built Photoshop mockup, made for a whole collection at once with no PSDs. Zoom in and check the corners at full size: https://wallmock.com/wall-art-mockup-examples/
 - Price: Free account: 50 previews every 30 days on your device, with no watermark, in your included rooms; paid plans have unlimited previews. Usage safeguards and device limits apply. You get 10 watermark-free 4K (4096 px) downloads every 30 days; unused downloads do not carry over. The first 10 free downloads over your account's lifetime can use all 500+ rooms; after that, 8 free rooms remain. When the 10 downloads are used, previews continue in your included rooms, up to 50 every 30 days. Refills do not reopen the full library. Free downloads are for single artworks. Sets and listing kits need a paid plan; listing videos need Pro. Send to Shopify is in limited beta on Pro and the WallMock Studio plan; when it opens it will be on every plan. Plans (all with unlimited previews): Lite $5/month or $39/year: 200 clean 4K (4096 px) images a month; Pro $15/month or $144/year: Unlimited clean 4K (4096 px) images and Send to Shopify for 1 store; WallMock Studio plan $25/month or $240/year: everything in Pro, plus Send to Shopify for up to 3 stores. (Send to Shopify is in limited beta; when it opens to all stores it will be on every plan, with up to 10 products a month on Free, Lite and Pro and unlimited products on the WallMock Studio plan.) Fair use: paid plans can open any room in the library, with up to 300 images a day made on WallMock's server. Reference prices are USD. Pricing cards and the app set USD, EUR, GBP, CAD, AUD, INR or BRL automatically from your connection; existing subscriptions keep their billing currency.
@@ -991,6 +993,54 @@ Q: How many images can it make?
 A: In development tests, about 3 to 5 seconds per 4K image per worker. Production throughput is measured in a pilot.
 Q: What does it cost a print lab?
 A: Prices are not published. Pilot terms are agreed with each partner, and the API will be pay per image, with volume plans.
+
+## Frame Visualizer API: Preview Art in Your Frames
+URL: https://wallmock.com/frame-visualizer-api/
+In development: an API that lets your shoppers upload their art and preview it in your own frames, in a room, before they order. Request early access.
+
+Short answer: WallMock's frame visualizer API is a planned shopper preview for print labs, print-on-demand suppliers, framers and wall-art shops. On your website, a shopper uploads their own artwork, picks one of the frames you actually sell, and sees it on a wall in a curated, digitally staged room before they order. It is in development and not available yet; early access is by request. What works today: WallMock places exact art, never redrawn, in 500+ curated rooms with its own frames and finishes.
+
+Q: Is there an API that lets our customers preview their art in our frames?
+A: WallMock is building one. The frame visualizer API is in development and not available yet; early access is by request at hello@wallmock.com. It is planned to let your shoppers upload their artwork on your website and see it in your frames, in a curated, digitally staged room, before they order.
+Q: Is the shopper preview available now?
+A: No. It is in development, with no launch date yet. What works today is the WallMock web app, where sellers make room mockups of their exact art with WallMock's own frames. The WallMock API for listing mockups is in early access, not available yet.
+Q: Can it show the frames we actually sell?
+A: That is the plan. Presets of a partner's actual frame range are in development and are built in partner pilots from your frame details and product photos, then checked with you before shoppers see them. Today WallMock shows its own frames and finishes.
+Q: Will the shopper's artwork be changed?
+A: No. WallMock places the artwork as supplied; it is never redrawn. Every room photo gets an exact-art check against the uploaded file. The shopper preview is planned to work the same way.
+Q: Will it work on our website?
+A: The aim is a preview that runs on your own website through the API, whatever your site is built with. Tell us what your site runs on when you request early access, and we will say honestly what an early-access pilot can cover.
+Q: Can the preview carry our own brand?
+A: Not yet. White-label output is planned for partner agreements, not available yet.
+Q: What happens to shoppers' uploads?
+A: Today, WallMock deletes artworks after processing and never uses them for training. The shopper preview is planned to follow the same rule.
+Q: How fast will a preview be?
+A: Not measured for the shopper preview yet. In development tests, the WallMock API takes about 3 to 5 seconds per 4K image per worker. Preview sizes and speeds are measured with each partner in a pilot.
+Q: What will it cost?
+A: Prices are not published. Early-access terms are agreed with each partner.
+Q: How is this different from the WallMock API page?
+A: The WallMock API page covers listing mockups that sellers and print companies make for their product listings. This page covers a preview for your shoppers: they see their own art in your frames before they order. Both are planned to use the same WallMock renderer.
+
+## WallMock for Business: Mockup API, Preview API and Pilots
+URL: https://wallmock.com/business/
+WallMock for print labs, framers and POD suppliers: mockup API (early access), shopper preview API (in development), partner pilots, Send to Shopify (beta).
+
+Short answer: WallMock for business is for print labs, framers, print-on-demand suppliers and wall-art shops. It brings together everything we offer companies: a wall art mockup API for listing photos (early access), a frame visualizer API that lets your shoppers preview their own art in your frames (in development), mockups of a lab's own frames for its sellers, partner pilots, and Send to Shopify (beta). What works today is the WallMock web app, which places exact art, never redrawn, in 500+ curated, digitally staged rooms with WallMock's own frames.
+
+Offers: Frame visualizer API for shoppers (in development): Your shoppers upload their own art on your website and see it in your frames, in a room, before they order. Early access by request. https://wallmock.com/frame-visualizer-api/ Wall art mockup API (early access): Listing mockups made from your own systems: exact art in 500+ curated rooms, and up to 10 listing photos from one call. Not available yet. https://wallmock.com/api/ For print labs and POD suppliers (in development): Mockups of the frames you actually make, for your sellers' listings. Custom-frame presets are built in partner pilots; white-label is planned. https://wallmock.com/print-labs/ Partner pilots (early access open): Talk to us: we turn a handful of your frames into presets, private to you, and you judge the samples against your own product photos. https://wallmock.com/partners/ Send to Shopify (beta): Puts WallMock mockups on your Shopify products, hero first. In limited beta; it opens to all stores once Shopify approves it, with no date yet. https://wallmock.com/integrations/
+
+Q: Does WallMock offer an API for businesses?
+A: Not yet. The wall art mockup API is in development and not available yet; early access is by request. A shopper preview API, where your customers see their own art in your frames before they order, is also in development.
+Q: What can a business use today?
+A: The WallMock web app: your exact art in 500+ curated, digitally staged rooms with WallMock's own frames, for a whole collection at once. Send to Shopify is in limited beta. The APIs, partner frame presets and white-label output are not available yet.
+Q: Can WallMock show our own frames?
+A: That is what partner pilots are for, and it is in development. We build presets from your frame details and product photos and check them with you. Today WallMock shows its own frames and finishes.
+Q: Is the artwork changed?
+A: No. The artwork is placed as supplied; it is never redrawn. Every room photo gets an exact-art check against the uploaded file.
+Q: What does it cost?
+A: Prices for the APIs and partner pilots are not published. Terms are agreed with each partner. Plans for sellers using the web app are on the pricing page.
+Q: How do we get in touch?
+A: Email hello@wallmock.com with what you sell, your frame range and roughly how many images or previews a month you need.
 
 ## Wall Art Mockup Tools Compared, With Dated Facts
 URL: https://wallmock.com/compare/

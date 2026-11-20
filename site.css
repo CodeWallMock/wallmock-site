@@ -223,13 +223,20 @@ p{margin:0 0 1em}
   .foot-cols{grid-template-columns:1fr 1fr}
   .tool-form{grid-template-columns:minmax(0,1fr)} /* not 1fr: a long select or label must not push the column past the page gutter */
 }
-/* header on phones and narrow tablets: brand and call to action on one row, the links below */
 @media (max-width:760px){
   .plans{grid-template-columns:1fr}
+}
+/* header on phones and narrow tablets: brand and call to action on one row, the links below
+   (from 920 px down since the sixth link, For business, 2026-11-20) */
+@media (max-width:920px){
   .top-in{padding:14px 0 10px;row-gap:10px}
   .nav{order:3;width:100%;margin-left:0;gap:18px}
   .top-cta{order:2;gap:12px;border-left:0;padding-left:0}
   .nav-try{padding:7px 12px}
+}
+/* phones: the six links as a tidy 3 x 2 menu instead of a ragged wrap */
+@media (max-width:480px){
+  .nav{display:grid;grid-template-columns:repeat(3,max-content);column-gap:28px;row-gap:6px}
 }
 @media (max-width:520px){
   .hero-grid{grid-template-columns:1fr 1fr}
