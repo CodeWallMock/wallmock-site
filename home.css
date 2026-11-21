@@ -574,13 +574,16 @@ html:not([data-scrolled]) .fm-band{opacity:0}
 .film[data-mk="metal"] .mine-fr{--face:0px;--gap:0px;border:0;padding:0;background:none;border-radius:.45cqw;
   box-shadow:0 0 0 .1cqw rgba(226,229,233,.75),.2cqw .3cqw .3cqw rgba(34,32,22,.42),.8cqw 1.1cqw 1.5cqw rgba(34,32,22,.3)}
 .film[data-mk="metal"] .mine-art{border-radius:.45cqw}
+/* high gloss: a soft window reflection across the panel, like the rendered high-gloss layer (the art file itself is untouched) */
+.film[data-mk="metal"] .mine-fr::after{content:"";position:absolute;inset:0;border-radius:.45cqw;pointer-events:none;
+  background:linear-gradient(90deg,transparent 13%,rgba(255,255,255,.07) 15%,rgba(255,255,255,.12) 19%,rgba(255,255,255,.09) 24%,transparent 26%,transparent 31%,rgba(255,255,255,.06) 32%,rgba(255,255,255,.06) 35%,transparent 36%)}
 .film[data-mk="alu-silver"] .mine-fr{--face:.42cqw;--gap:var(--mat,2cqw);border-color:#f3f4f5 #c3c6ca #abaeb2 #e0e2e4;background:#f4f2ed;
   box-shadow:inset 0 0 .3cqw rgba(0,0,0,.14),.22cqw .3cqw .35cqw rgba(34,32,22,.38),1.3cqw 1.9cqw 2.8cqw rgba(34,32,22,.32)}
 .film[data-mk="alu-silver"] .mine-art{box-shadow:0 0 0 .14cqw #fbfaf6,0 0 .3cqw .16cqw rgba(0,0,0,.2)}
 /* phones: the panel hangs from a fixed top, so the second line (after a drop: the links) grows downwards and nothing moves; before a
    drop the format hint is left out to keep the picture calm */
 @media (max-width:860px) and (orientation:portrait){
-  :where(.film-on) .fm-drop{bottom:auto;top:calc(100% - 78px);padding:6px 10px 5px;gap:3px;width:min(316px,calc(100% - 20px))}
+  :where(.film-on) .fm-drop{bottom:auto;top:calc(100% - 86px);padding:6px 10px 5px;gap:3px;width:min(316px,calc(100% - 20px))}
   .film:not([data-mine]) .fd-msg:not(.fd-err){display:none}
   .fd-pick{min-height:34px;width:176px;font-size:13.5px}
   .home .fm-drop .fd-note,.home .fm-drop .fd-msg,.home .fm-drop .fd-msg a,.home .fm-drop .fd-msg button{font-size:11.5px;line-height:15px}
