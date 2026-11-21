@@ -2215,7 +2215,7 @@ A: Camera files are usually 3:2, which prints at 4×6, 8×12, 12×18, 16×24, 20
 Q: Can I use mockups for photography listings on Etsy?
 A: Yes, if they accurately show what the buyer receives. Most items also need an unedited photo; print-on-demand items may use an authorised stock mockup instead.
 
-## How to Sell Wall Art on Shopify With POD
+## How to Sell Wall Art on Shopify (Print on Demand)
 URL: https://wallmock.com/guides/sell-wall-art-on-shopify/
 Set up framed canvas, framed prints and posters on Shopify with a print-on-demand app: products, variants, image sizes and the photos each page needs.
 
