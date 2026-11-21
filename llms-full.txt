@@ -211,6 +211,27 @@ A: Yes. Save your favourite rooms once and add a whole collection; each artwork 
 Q: Do I need Photoshop?
 A: No. WallMock runs in your web browser, with no PSD files or smart objects.
 
+## Printable Wall Art Mockup Generator for Etsy
+URL: https://wallmock.com/printable-wall-art-mockup-generator/
+Built for Etsy digital download sellers: show each printable framed, with or without a mat, in 500+ rooms, a whole collection at once. Try it free.
+
+Short answer: a printable wall art mockup generator shows your digital download framed on a wall, the way a buyer will print and hang it. WallMock is built for Etsy digital wall art sellers: your file is placed exactly as it is, as a framed print with or without a mat, in 500+ curated rooms. Add rooms to Favourites once, then every new printable gets the same set, so a whole collection of listing photos comes out at once.
+
+Q: Can I use WallMock mockups in Etsy digital download listings?
+A: Yes. Clean WallMock downloads can be used in Etsy and Shopify listings, ads and social posts with no extra licence fee, even after you cancel. Etsy asks digital download listings to include a preview of the content, so add one image of the artwork itself and say that the frame and room are not included.
+Q: Is the frame included in the digital download?
+A: No. The mockup shows one way a buyer could display the print. Say 'digital download, no physical item shipped' in the first lines of your description and on one listing image.
+Q: Can I make mockups for 100 listings a day?
+A: On a paid plan, yes, with two numbers to check. 100 listings with 5 photos each is 500 images. Lite includes 200 clean 4K images a month, so that volume needs Pro or the WallMock Studio plan, which have no monthly image count. Fair use: paid plans can open any room in the library. Up to 300 images a day can be made on WallMock's server; images made in your browser, on your device, do not count toward that limit. Speed depends on your device, files and batch size, so try a representative file before a big run.
+Q: Does WallMock change my artwork?
+A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Lettering, signatures, colours and proportions stay as they are in your file.
+Q: Which ratios and sizes can I show?
+A: Each file keeps its own shape, from square to 3:1 panoramas and 1:3 tall pieces, and is never stretched. Upload one file per ratio you sell, such as 2:3, 3:4, 4:5, 11:14 and ISO A, and each one goes into rooms that suit its shape.
+Q: Can I show a set of 2, 3 or 4 printables together?
+A: Yes, on a paid plan. Compatible framed products show pairs, trios and sets of four on one wall with matching frames and even gaps. Free downloads are for single artworks.
+Q: Do I need Photoshop?
+A: No. WallMock runs in your web browser, with no PSD files or smart objects. Try it with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews.
+
 ## Mockup Features: Bulk Runs, Frames, Listing Kits
 URL: https://wallmock.com/features/
 Every WallMock feature for Etsy and Shopify wall art sellers, printable or printed: whole collections in one run, exact art, 4K frames, listing kits.

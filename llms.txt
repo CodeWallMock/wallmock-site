@@ -99,6 +99,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [Bulk Mockup Generator: Every Design, Every Room](https://wallmock.com/bulk-mockup-generator/)
 - [Canvas Mockup Generator: Stretched and Framed](https://wallmock.com/canvas-print-mockup-generator/)
 - [Etsy Mockup Generator for Wall Art and Printables](https://wallmock.com/etsy-mockup-generator/)
+- [Printable Wall Art Mockup Generator for Etsy](https://wallmock.com/printable-wall-art-mockup-generator/)
 - [Mockup Features: Bulk Runs, Frames, Listing Kits](https://wallmock.com/features/)
 - [Frame Mockup Generator: Framed Prints and Mats](https://wallmock.com/frame-mockup-generator/)
 - [Floating Frame Canvas Mockup Generator, 8 Colours](https://wallmock.com/framed-canvas-mockup-generator/)
