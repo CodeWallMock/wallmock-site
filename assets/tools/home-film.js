@@ -136,9 +136,9 @@ function startFilm() {
       st.setProperty("--aw", c(aw)); st.setProperty("--ah", c(ah / AR));
       st.setProperty("--mat", `${(0.09 * Math.min(aw, ah / AR)).toFixed(3)}cqw`);
     };
-    const say = (t) => { msg.textContent = t; live.textContent = t; };
+    const say = (t) => { msg.textContent = t; msg.classList.add("fd-err"); live.textContent = t; };
     const after = () => {
-      msg.textContent = "";
+      msg.textContent = ""; msg.classList.remove("fd-err");
       const a = document.createElement("a"); a.href = "https://app.wallmock.com/try?src=site-home-drop"; a.textContent = "See it in more rooms, free";
       const b = document.createElement("button"); b.type = "button"; b.textContent = "Back to the sample"; b.addEventListener("click", reset);
       msg.append(a, " · ", b);
@@ -160,7 +160,7 @@ function startFilm() {
       }).catch(() => { URL.revokeObjectURL(u); say("This file can't be previewed here. Try a JPG, PNG or WebP."); });
     };
     function reset() {
-      n++; delete film.dataset.mine; msg.textContent = hint;
+      n++; delete film.dataset.mine; msg.textContent = hint; msg.classList.remove("fd-err");
       live.textContent = "Showing the sample painting."; pickB.focus();
       setTimeout(() => { if (!("mine" in film.dataset) && art) { art.remove(); art = null; URL.revokeObjectURL(url); url = ""; } }, 400);
     }
