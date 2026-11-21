@@ -183,9 +183,10 @@ function startFilm() {
   addEventListener("scroll", () => { root.toggleAttribute("data-scrolled", true); ask(); clearTimeout(settle); settle = setTimeout(ask, 120); }, { passive: true });
   for (const ev of ["resize", "orientationchange", "pageshow"]) addEventListener(ev, size);
   window.visualViewport?.addEventListener("resize", ask);
-  // seo-16: the film's other layers wait 1.5 s after load (or the first scroll, or a swatch) so they never compete with the first
-  // picture on a slow connection (Lighthouse counted them in the hero's paint time)
-  if (document.readyState === "complete") setTimeout(preload, 1500); else addEventListener("load", () => setTimeout(preload, 1500), { once: true });
+  // seo-16: the film's other layers load at the first scroll, touch, click or key press (measure() also calls preload once the film
+  // moves), never during the first paint: on a slow phone they competed with the hero picture, and a visitor who never scrolls never
+  // downloads them. A swatch still loads its own layer at once; the CSS never fades to a layer that is not ready.
+  for (const ev of ["pointerdown", "touchstart", "keydown", "wheel"]) addEventListener(ev, preload, { once: true, passive: true });
   // home.css can arrive after this script on a slow connection: measure again once it has (and at load)
   for (const l of document.querySelectorAll('link[rel="stylesheet"]')) l.addEventListener("load", size);
   addEventListener("load", size, { once: true });
