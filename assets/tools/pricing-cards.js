@@ -2,8 +2,8 @@
 import { CURRENCIES, fetchPricingRegion, formatMoney } from "/pricing-currency.js?v=2";
 
 // Each plan's price for new subscribers from 1 January 2027, per region (minor units; owner 18 Nov 2026, the same amounts as the app's
-// offers.js OFFERS_2027). Shown as a plain dated line under today's price until then (seo-14: never crossed out); the cards switch
-// to these prices on 1 January.
+// offers.js OFFERS_2027). Shown as ONE plain dated line under today's price until then, monthly and yearly together (seo-14: never
+// crossed out, no second launch paragraph); every [data-price-later] span is painted below, monthly or annual, in the region's currency.
 const LATER_MONTHLY = Object.freeze({
   lite: Object.freeze({ usd: 900, eur: 900, gbp: 700, cad: 1200, aud: 1400, inr: 54900, brl: 3590 }),
   pro: Object.freeze({ usd: 1900, eur: 1900, gbp: 1500, cad: 2500, aud: 2900, inr: 119900, brl: 7990 }),
