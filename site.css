@@ -239,9 +239,13 @@ p{margin:0 0 1em}
   .top-cta{order:2;gap:12px;border-left:0;padding-left:0}
   .nav-try{padding:7px 12px}
 }
-/* phones: the six links as a tidy 3 x 2 menu instead of a ragged wrap */
-@media (max-width:480px){
-  .nav{display:grid;grid-template-columns:repeat(3,max-content);column-gap:28px;row-gap:6px}
+/* seo-14: on phones and narrow tablets the six links are one row that scrolls sideways inside itself (the page never does), with a
+   fade at the right edge, instead of two rows above the headline */
+@media (max-width:920px){
+  .nav{flex-wrap:nowrap;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;padding-right:28px;
+    -webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 32px),transparent);mask-image:linear-gradient(90deg,#000 calc(100% - 32px),transparent)}
+  .nav::-webkit-scrollbar{display:none}
+  .nav a{flex:none;white-space:nowrap}
 }
 @media (max-width:520px){
   .hero-grid{grid-template-columns:1fr 1fr}
