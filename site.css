@@ -501,3 +501,4 @@ ul.keyfacts strong{color:var(--ink);display:block;font-size:15px;margin-bottom:2
 .finish-index{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:10px;margin:26px 0 30px;max-width:1000px}.finish-index a{text-decoration:none;color:var(--ink);font-size:13px;font-weight:600}.finish-index img{width:100%;height:auto;display:block;transition:opacity .15s}.finish-index a:hover img{opacity:.86}.finish-index span{display:block;margin-top:6px}@media(max-width:700px){.finish-index{grid-template-columns:repeat(4,minmax(0,1fr))}}
 .finish-jump ul{gap:6px}.finish-jump li a{padding:6px 10px;font-size:14px;gap:6px}
 .art-print-detail-row{align-items:center}.art-print-detail-row h3{margin:0 0 8px}.art-print-detail-row p{max-width:62ch}.finish-rooms{align-items:center}
+.finish-jump ul{-webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 32px),transparent);mask-image:linear-gradient(90deg,#000 calc(100% - 32px),transparent);padding-right:24px}
