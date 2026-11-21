@@ -63,7 +63,7 @@ function startFilm() {
       film.style.setProperty("--t", t.toFixed(4));
       if (t > 0) preload();
       // the hero's swatches only while the hero frame is on screen
-      if ((t > 0.25) !== off) { off = t > 0.25; film.toggleAttribute("data-swatches-off", off); swatches.forEach((b) => (b.tabIndex = off ? -1 : 0)); }
+      if ((t > 0.25) !== off) { off = t > 0.25; film.toggleAttribute("data-swatches-off", off); swatches.forEach((b) => (b.tabIndex = off ? -1 : 0)); onOff(off); }
       let on = -1;
       for (let i = 0; i < steps.length; i++) if (steps[i].getBoundingClientRect().top <= line) on = i;
       if (on !== reading) { reading = on; steps.forEach((el, i) => el.toggleAttribute("data-on", i === on)); film.toggleAttribute("data-read", on >= 0); }
@@ -97,11 +97,85 @@ function startFilm() {
   // Hero finish swatches: the frame on the painting changes at once (a short cross-fade), from the real render of that product
   const pick = (b) => {
     const k = b.dataset.k, im = objects.find((o) => o.dataset.k === k);
+    film.dataset.mk = k; // the visitor's own artwork (below) takes the new frame at once
     swatches.forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
     const show = () => { objects.forEach((o) => o.classList.toggle("on", o === im)); film.dataset.sel = k; swName.textContent = b.dataset.name; live.textContent = `Showing: ${b.dataset.name}`; };
     if ("ready" in im.dataset || im.complete && im.naturalWidth) show(); else { film.classList.add("fm-go"); drawable(im, show); }
   };
   swatches.forEach((b) => b.addEventListener("click", () => pick(b)));
+
+  // seo-16 "Use my artwork": the visitor's own image, in the same frame on the same kitchen wall, on this device only. The file is read
+  // through an object URL and is never uploaded, stored or sent. The empty-wall plate covers the sample frame, and home.css draws the
+  // frame (the swatch's finish) around the art at the file's own shape, centred where the sample hangs. Everything sits inside the
+  // stage and the panel's lines have fixed sizes, so nothing on the page moves when the art changes.
+  let onOff = () => {};
+  const drop = film.querySelector(".fm-drop");
+  if (drop) {
+    const pickB = drop.querySelector(".fd-pick"), input = drop.querySelector(".fd-file"), msg = drop.querySelector(".fd-msg");
+    const hint = msg.textContent, MAX = 25 * 1024 * 1024, AR = 3271 / 4096; // AR: the stage's width / height (the film's --ar)
+    let layer = null, fr = null, art = null, plateReady = null, url = "", n = 0;
+    const build = () => {
+      if (layer) return plateReady;
+      layer = document.createElement("div"); layer.className = "fm-mine"; layer.setAttribute("aria-hidden", "true");
+      const plate = new Image(); plate.className = "mine-plate"; plate.alt = ""; plate.decoding = "async"; plate.src = "/assets/home/wall/wall-plate-kitchen.webp";
+      fr = document.createElement("div"); fr.className = "mine-fr";
+      layer.append(plate, fr); film.querySelector(".fm-object").after(layer);
+      plateReady = plate.decode().catch(() => new Promise((r) => (plate.complete ? r() : plate.addEventListener("load", r, { once: true }))));
+      return plateReady;
+    };
+    // the art keeps the sample's area on the wall (64.09% x 34.12% of the stage), up to 66% wide and 42.5% tall; tall art hangs lower
+    // so it never meets the swatches, and stays clear of the counter
+    const fit = (r) => {
+      let ah = Math.sqrt((64.09 * 34.12 * AR) / r), aw = (r * ah) / AR;
+      if (aw > 66) { aw = 66; ah = (aw * AR) / r; }
+      if (ah > 42.5) { ah = 42.5; aw = (r * ah) / AR; }
+      // in cqw (1% of the stage's width): the frame is placed with a transform and only its size changes, so a new file or a new
+      // frame never counts as a layout shift
+      const cx = 50.82, cy = Math.max(38.57, 21.5 + ah / 2), st = layer.style, c = (v) => `${v.toFixed(3)}cqw`;
+      st.setProperty("--tx", c(cx - aw / 2)); st.setProperty("--ty", c((cy - ah / 2) / AR));
+      st.setProperty("--aw", c(aw)); st.setProperty("--ah", c(ah / AR));
+      st.setProperty("--mat", `${(0.09 * Math.min(aw, ah / AR)).toFixed(3)}cqw`);
+    };
+    const say = (t) => { msg.textContent = t; live.textContent = t; };
+    const after = () => {
+      msg.textContent = "";
+      const a = document.createElement("a"); a.href = "https://app.wallmock.com/try?src=site-home-drop"; a.textContent = "See it in more rooms, free";
+      const b = document.createElement("button"); b.type = "button"; b.textContent = "Back to the sample"; b.addEventListener("click", reset);
+      msg.append(a, " · ", b);
+    };
+    const use = (file) => {
+      if (!file) return;
+      if (!/^image\//.test(file.type)) return say("That file is not an image. Try a JPG, PNG or WebP.");
+      if (file.size > MAX) return say("That file is over 25 MB. Try a smaller copy.");
+      const k = ++n, u = URL.createObjectURL(file), im = new Image();
+      im.className = "mine-art"; im.alt = ""; im.decoding = "async"; im.src = u;
+      Promise.all([im.decode(), build()]).then(() => {
+        if (k !== n) return URL.revokeObjectURL(u);
+        fit(im.naturalWidth / im.naturalHeight);
+        art ? art.replaceWith(im) : fr.append(im); art = im;
+        if (url) URL.revokeObjectURL(url);
+        url = u; film.dataset.mine = "";
+        after();
+        live.textContent = `Showing your artwork in the ${swName.textContent.toLowerCase()}. A quick preview on your device; nothing is uploaded.`;
+      }).catch(() => { URL.revokeObjectURL(u); say("This file can't be previewed here. Try a JPG, PNG or WebP."); });
+    };
+    function reset() {
+      n++; delete film.dataset.mine; msg.textContent = hint;
+      live.textContent = "Showing the sample painting."; pickB.focus();
+      setTimeout(() => { if (!("mine" in film.dataset) && art) { art.remove(); art = null; URL.revokeObjectURL(url); url = ""; } }, 400);
+    }
+    pickB.addEventListener("click", () => { build(); input.click(); });
+    input.addEventListener("change", () => { use(input.files[0]); input.value = ""; });
+    // a file dragged anywhere over the page while the hero frame is on screen previews in the frame (and never opens in the tab)
+    const files = (e) => [...(e.dataTransfer?.types || [])].includes("Files");
+    let depth = 0;
+    const lift = () => { depth = 0; box.classList.remove("fd-drag"); };
+    addEventListener("dragenter", (e) => { if (!files(e) || off) return; depth++; box.classList.add("fd-drag"); build(); });
+    addEventListener("dragleave", (e) => { if (files(e) && --depth <= 0) lift(); });
+    addEventListener("dragover", (e) => { if (files(e) && !off) e.preventDefault(); });
+    addEventListener("drop", (e) => { if (!files(e) || off) return; e.preventDefault(); lift(); use(e.dataTransfer.files[0]); });
+    onOff = (o) => { pickB.tabIndex = o ? -1 : 0; for (const c of msg.querySelectorAll("a,button")) c.tabIndex = o ? -1 : 0; };
+  }
 
   lines.forEach((li) => li.classList.toggle("on", li.dataset.p === "0"));
   // measured on every scroll (iOS sends them through momentum too), once more when the scrolling settles, and whenever the screen
@@ -109,7 +183,9 @@ function startFilm() {
   addEventListener("scroll", () => { root.toggleAttribute("data-scrolled", true); ask(); clearTimeout(settle); settle = setTimeout(ask, 120); }, { passive: true });
   for (const ev of ["resize", "orientationchange", "pageshow"]) addEventListener(ev, size);
   window.visualViewport?.addEventListener("resize", ask);
-  if (document.readyState === "complete") setTimeout(preload, 0); else addEventListener("load", () => setTimeout(preload, 0), { once: true });
+  // seo-16: the film's other layers wait 1.5 s after load (or the first scroll, or a swatch) so they never compete with the first
+  // picture on a slow connection (Lighthouse counted them in the hero's paint time)
+  if (document.readyState === "complete") setTimeout(preload, 1500); else addEventListener("load", () => setTimeout(preload, 1500), { once: true });
   // home.css can arrive after this script on a slow connection: measure again once it has (and at load)
   for (const l of document.querySelectorAll('link[rel="stylesheet"]')) l.addEventListener("load", size);
   addEventListener("load", size, { once: true });
@@ -152,4 +228,23 @@ if (matchMedia("(max-width: 860px)").matches) {
   }
   for (const d of document.querySelectorAll(".step-more, .ph-more")) d.open = false;
   for (const a of document.querySelectorAll(".fx-zoom")) if (a.textContent === "Corner at 100%") a.textContent = "Tap for corner at 100%";
+}
+
+// Collection reveal (seo-16, #bulk): one artwork lands in its five rooms, one tile after another, then the next artwork, about 6 s
+// each, while the section is on screen. Runs only under html.rv (motion allowed; the head script sets it before the first paint and
+// takes it away again if this module never ran, which leaves the static 4 x 5 grid). The file buttons pick an artwork and hold it;
+// Pause holds the current one.
+const rv = document.querySelector("[data-reveal]");
+if (rv && root.classList.contains("rv")) {
+  try {
+    const files = [...rv.querySelectorAll(".bulk-files button")], hold = rv.querySelector(".reveal-pause");
+    let a = 0, timer = 0, seen = false, held = false;
+    const show = (i) => { a = i; rv.dataset.a = String(i); files.forEach((b, j) => b.setAttribute("aria-pressed", String(j === i))); };
+    const tick = () => { clearTimeout(timer); if (seen && !held) timer = setTimeout(() => { show((a + 1) % files.length); tick(); }, 6000); };
+    const setHeld = (h) => { held = h; hold.setAttribute("aria-pressed", String(h)); hold.textContent = h ? "Play" : "Pause"; tick(); };
+    new IntersectionObserver(([e]) => { seen = e.isIntersecting; if (seen) rv.classList.add("rv-go"); tick(); }, { threshold: 0.3 }).observe(rv.querySelector(".reveal-grid"));
+    files.forEach((b, j) => b.addEventListener("click", () => { show(j); setHeld(true); }));
+    hold.addEventListener("click", () => setHeld(!held));
+    window.__wmRv = true;
+  } catch (e) { root.classList.remove("rv"); }
 }
