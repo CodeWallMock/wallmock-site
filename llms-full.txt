@@ -1,6 +1,6 @@
 # WallMock
 
-> WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints.
+> WallMock is a wall art mockup generator for Etsy and Shopify wall art sellers, from printable (digital download) shops to canvas and framed-print sellers: your exact art in styled rooms as framed or stretched canvas, or framed prints, for a whole collection at once.
 
 Your exact artwork in hundreds of realistic, curated rooms, for every design in your shop: set up favourite rooms once, add a whole collection, download listing-ready images. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Rooms are curated, digitally staged interiors reviewed by WallMock. Previews and images are made in your browser, on your device.
 
@@ -64,7 +64,7 @@ About WallMock and how facts are checked: https://wallmock.com/about/
 Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App privacy policy: https://app.wallmock.com/privacy
 
 ## Questions
-- What is WallMock? WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection.
+- What is WallMock? WallMock is a wall art mockup generator for Etsy and Shopify wall art sellers, from printable (digital download) shops to canvas and framed-print sellers: your exact art in styled rooms as framed or stretched canvas, or framed prints, for a whole collection at once. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection.
 - Who is it for? Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 - Is my artwork changed or redrawn? WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
 - Can I make mockups for a whole collection at once? Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Compatible framed and canvas products support sets of 2, 3 or 4; metal panels use one artwork per image.
@@ -92,12 +92,12 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 
 # Every page in full (170 pages)
 
-## WallMock: Wall Mockup Generator for Print-on-Demand Sellers
+## Wall Art Mockup Generator for Etsy Collections
 URL: https://wallmock.com/
-Wall art mockups for Etsy and Shopify sellers: save rooms and frame looks, reuse them for a collection, and keep your uploaded artwork as the source.
+Built for Etsy and Shopify wall art sellers, printable or printed: add rooms to Favourites once, then every new artwork gets the same set, exact and in 4K.
 
 Q: What is WallMock?
-A: WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection.
+A: WallMock is a wall art mockup generator for Etsy and Shopify wall art sellers, from printable (digital download) shops to canvas and framed-print sellers: your exact art in styled rooms as framed or stretched canvas, or framed prints, for a whole collection at once. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection.
 Q: Who is it for?
 A: Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 Q: Is my artwork changed or redrawn?
@@ -131,12 +131,12 @@ A: Anyone can try free watermarked previews with no sign-up, then create a free 
 Q: Is WallMock the same as wallmock.app?
 A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
-## About WallMock: the Wall Art Mockup Generator for Etsy Sellers
+## About Us: Built by an Etsy Wall Art Seller
 URL: https://wallmock.com/about/
-WallMock in one line, who it is for, what it does to your artwork, how our examples are made and how facts are checked. Not wallmock.app. Contact hello@wallmock.com.
+Who makes WallMock, who it is for, what it does to your artwork and how our examples and facts are checked. Not the wallmock.app planner.
 
 Q: What is WallMock?
-A: WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints. It runs in a web browser and makes listing photos for one design or a whole collection.
+A: WallMock is a wall art mockup generator for Etsy and Shopify wall art sellers, from printable (digital download) shops to canvas and framed-print sellers: your exact art in styled rooms as framed or stretched canvas, or framed prints, for a whole collection at once. It runs in a web browser and makes listing photos for one design or a whole collection.
 Q: Is wallmock.com the same as wallmock.app?
 A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 Q: Who makes WallMock?
@@ -148,9 +148,9 @@ A: No. WallMock places your file as it is: it is never redrawn, repainted or ups
 Q: Can I use WallMock today?
 A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
 
-## Bulk Mockup Generator for Wall Art Collections
+## Bulk Mockup Generator: Every Design, Every Room
 URL: https://wallmock.com/bulk-mockup-generator/
-Make mockups for a whole wall art collection at once: save favourite rooms once, add every design, download each in every room. No Photoshop smart objects.
+Made for sellers with whole collections: add rooms to Favourites once, then every new artwork gets the same set. 30 designs × 8 rooms in one run.
 
 Short answer: a bulk mockup generator makes room mockups for many designs at once instead of one at a time. In WallMock you save your favourite rooms and frame choices once, add a whole collection, and get every artwork in every saved room. No PSD templates or smart objects, and each file is placed exactly as supplied, without AI redrawing the art. Review the room and product setup in the previews, then spot-check your downloads.
 
@@ -173,9 +173,9 @@ A: No. Your favourite rooms and product choices are saved, so the next collectio
 Q: Can I inspect a real collection download before buying?
 A: Yes. The recorded three-artwork workflow includes three source PNGs, the nine downloaded JPEGs and a file manifest. It demonstrates one completed Free-plan run, recorded at 1K (1024 px) before Free downloads moved to 4K. It does not establish 4K speed, performance on your device or a physical supplier match. Guest previews are watermarked and need no sign-up.
 
-## Canvas Print Mockup Generator: Stretched and Gallery Wrap
+## Canvas Mockup Generator: Stretched and Framed
 URL: https://wallmock.com/canvas-print-mockup-generator/
-Make canvas listing photos that show the product: stretched canvas or a floating frame with its visible gap. Your exact art in curated rooms, whole collections.
+For canvas sellers on Etsy and Shopify: your exact art as stretched canvas or in a floating frame with its gap, in 500+ rooms, a whole collection at once.
 
 Short answer: a canvas print mockup generator shows your artwork as a canvas hanging in a room. WallMock offers stretched canvas with no frame and framed canvas in a floating frame, with the gap between canvas and frame visible, in 500+ curated rooms. Your file is placed exactly as supplied and keeps its proportions, for one design or a whole collection.
 
@@ -192,11 +192,11 @@ A: Yes, in rooms reviewed for those shapes. Your file keeps its own proportions 
 Q: Will the canvas texture change my artwork?
 A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. The colours and details in the photo come from your own file.
 
-## Etsy Mockup Generator for Wall Art, Canvas and Posters
+## Etsy Mockup Generator for Wall Art and Printables
 URL: https://wallmock.com/etsy-mockup-generator/
-Make Etsy listing photos for framed canvas, framed prints and posters: your exact artwork in 500+ realistic rooms, for a whole collection at once. No Photoshop needed.
+Built for Etsy wall art sellers, digital downloads included: your exact art in 500+ rooms, a whole collection of listing photos at once. No card needed.
 
-Short answer: an Etsy mockup generator puts your artwork into realistic room images for your listing. WallMock does it for framed canvas, stretched canvas and framed prints in 500+ realistic rooms, for a whole collection at once, with your file placed exactly as it is.
+Short answer: an Etsy mockup generator puts your artwork into realistic room images for your listing. WallMock is built for Etsy wall art sellers, digital downloads included: framed canvas, stretched canvas and framed prints in 500+ realistic rooms, with your file placed exactly as it is. Add rooms to Favourites once, then every new artwork gets the same set, so a whole collection of listing photos comes out at once.
 
 Q: What is an Etsy mockup generator?
 A: A tool that puts your artwork into realistic photos, such as a framed print on a living-room wall, so your Etsy listing shows how the piece looks at home. WallMock does this for framed canvas, stretched canvas, and framed prints and posters.
@@ -211,11 +211,11 @@ A: Yes. Save your favourite rooms once and add a whole collection; each artwork 
 Q: Do I need Photoshop?
 A: No. WallMock runs in your web browser, with no PSD files or smart objects.
 
-## Wall Art Mockup Generator Features for POD Sellers
+## Mockup Features: Bulk Runs, Frames, Listing Kits
 URL: https://wallmock.com/features/
-Every WallMock feature for print-on-demand sellers: bulk collections, Photoshop-quality frames in any colour, exact art, listing kits, videos and AR.
+Every WallMock feature for Etsy and Shopify wall art sellers, printable or printed: whole collections in one run, exact art, 4K frames, listing kits.
 
-Short answer: WallMock makes listing photos for print-on-demand collections. Save rooms and frame setups, then run many designs at once as canvas, framed prints or metal prints. It keeps your source artwork without AI redrawing and provides listing crops, size guides and other tools described below. Free accounts include 10 watermark-free 4K (4096 px) single-artwork downloads every 30 days. Paid plans add more images (Lite 200 a month, Pro unlimited), sets and listing kits; Pro adds listing videos. Send to Shopify is in limited beta on Pro and the WallMock Studio plan, and will be on every plan when it opens. Try guest previews with no sign-up.
+Short answer: WallMock makes listing photos for wall art collections, whether you sell printable downloads, canvas or framed prints. Save rooms and frame setups, then run many designs at once as canvas, framed prints or metal prints. It keeps your source artwork without AI redrawing and provides listing crops, size guides and other tools described below. Free accounts include 10 watermark-free 4K (4096 px) single-artwork downloads every 30 days. Paid plans add more images (Lite 200 a month, Pro unlimited), sets and listing kits; Pro adds listing videos. Send to Shopify is in limited beta on Pro and the WallMock Studio plan, and will be on every plan when it opens. Try guest previews with no sign-up.
 
 Q: What can WallMock do for a print-on-demand shop?
 A: Make listing photos for a whole collection at once: every artwork in every room and frame look you saved, with crops for Etsy, Pinterest and Instagram, alt text, a listing checklist and, on Pro, listing videos. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI.
@@ -232,9 +232,9 @@ A: No. WallMock runs in your web browser, with no PSD files or smart objects to 
 Q: Does WallMock have a Shopify app, an Etsy integration or an API?
 A: Send to Shopify (beta): connect your Shopify store and your mockups go straight onto your products, hero first, with no downloading or re-uploading. It asks for product-edit permission only and never deletes your photos. In the beta it is on Pro (1 store, up to 10 products a month) and the WallMock Studio plan (up to 3 stores, unlimited products); when it opens to all stores it will be on every plan, with up to 10 products a month on Free, Lite and Pro and unlimited products on the WallMock Studio plan. One-click listing sets will be added to the WallMock Studio plan at no extra cost when they launch. The WallMock API is in early access for print companies and platforms. See integrations.
 
-## Frame Mockup Generator for Framed Prints, Mats and Colours
+## Frame Mockup Generator: Framed Prints and Mats
 URL: https://wallmock.com/frame-mockup-generator/
-Framed print mockups for POD sellers: inspect real mat bevels, wood and aluminium frame corners, and room views. Reuse product profiles across your collection.
+For framed print and printable sellers: your art in a wood or aluminium frame, with or without a mat, in 500+ rooms. Inspect each corner at 100%.
 
 Short answer: a frame mockup generator puts your artwork inside a picture frame on a room wall. WallMock does it for framed prints with or without a mat, framed posters and framed canvas, in black, white, natural oak, walnut, espresso, gold or silver, plus natural wood for framed canvas. On Lite or Pro, save up to five custom frame colours and reuse them in product profiles. Your file is placed as supplied, never redrawn. Choose the construction and dimensions your provider lists. Frame colours are visual approximations; a mockup is not a physical finish sample.
 
@@ -257,9 +257,9 @@ A: Open the native detail crops on this page and their matching room views. Insp
 Q: Is an aluminium framed print the same as a metal print?
 A: No. An aluminium framed print puts paper inside a metal frame, with or without a mat. A metal print puts the artwork on a frameless aluminium panel. Choose the product you sell; the two have different edges, surfaces and wall shadows.
 
-## Floating Frame Canvas Mockup Generator
+## Floating Frame Canvas Mockup Generator, 8 Colours
 URL: https://wallmock.com/framed-canvas-mockup-generator/
-Floating frame canvas mockups with the real gap around the canvas, in 8 frame colours and 500+ rooms. Framed canvas in 4K, your exact art, free previews.
+For framed canvas sellers: floating frame mockups that show the gap around the canvas, in 8 frame colours and 500+ rooms. Your exact art in 4K.
 
 Short answer: a floating frame canvas mockup shows your artwork as a stretched canvas in a floating frame (a framed canvas), hanging in a room. WallMock draws the narrow shadow gap between canvas and frame, the detail that tells buyers it is a framed canvas and not a framed print, in 8 frame colours and 500+ curated rooms. Your exact file, for your whole collection.
 
@@ -282,9 +282,9 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 Q: Can I inspect the frame detail before choosing a plan?
 A: Yes. Open the published corner crops at their native size, then try your own artwork in watermarked guest previews with no sign-up or card. The examples show WallMock’s product designs; compare their finish and dimensions with a physical supplier sample. Clean downloads are up to 4096 px: 10 every 30 days on a free account, more on paid plans.
 
-## Free Canvas Mockup Generator: What's Free, What's Paid
+## Free Canvas Mockup Generator: What You Get Free
 URL: https://wallmock.com/free-canvas-mockup-generator/
-Free canvas mockup previews with no sign-up, watermarked. A free account adds 10 watermark-free 4K downloads every 30 days; plans from $5 a month add more. What to check in any free canvas mockup tool.
+Free canvas mockups with no card: 50 previews and 10 watermark-free 4K downloads every 30 days on a free account. What is free and what needs a plan.
 
 Short answer: Free canvas mockup generator: WallMock makes watermarked canvas previews free, with no sign-up and no card, for up to three artworks in 8 sample rooms. A free account adds 10 watermark-free 4K (4096 px) downloads every 30 days, in every room for its first 10. Paid plans, from $5 a month, add more images: Lite 200 a month, Pro unlimited. In any free tool, check five things: the watermark, the image size, whether your art is redrawn, the canvas edge and the floating-frame gap.
 
@@ -301,9 +301,9 @@ A: No. WallMock shows stretched canvas front-on with its shadow on the wall, and
 Q: Can I cancel a plan at any time?
 A: Plans are billed securely by Stripe from USD $5 a month. Cancel any time.
 
-## Gallery Wall Mockup Generator for Pairs, Trios and Sets
+## Gallery Wall Mockup Generator for Sets of 2 to 4
 URL: https://wallmock.com/gallery-wall-mockup-generator/
-Show pairs, trios and sets of four on one wall with even spacing and matching frames. Your exact artwork in curated rooms, with free spacing and layout tools.
+For sellers of pairs, trios and sets of four: show the whole set on one wall with even gaps and matching frames, your exact art, plus free spacing tools.
 
 Short answer: a gallery wall mockup generator shows several artworks hanging together, so buyers see the set as one piece. WallMock shows pairs, trios and sets of four with matching frames and even gaps, in curated rooms with wall space for a group. Each file is placed exactly as supplied. For bigger or mixed walls, plan the layout with the free planner.
 
@@ -320,9 +320,9 @@ A: One frame colour and one size can make a coordinated set read as a single pie
 Q: Will each artwork in the set stay exact?
 A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Each piece keeps its own file, without AI redrawing. Check the selected frames and sizes against the set you sell.
 
-## WallMock Help: Plans, Credits, Files, Privacy and Etsy Use
+## WallMock Help: Plans, Credits, Files, Privacy
 URL: https://wallmock.com/help/
-Straight answers about WallMock: what it costs, how credits work, file types, image size, privacy, frames and products, Etsy use, cancelling and sign-in.
+Straight answers for WallMock users: what it costs, how credits work, file types, image size, privacy, frames, Etsy use, cancelling and sign-in.
 
 Short answer: straight answers about WallMock, each on its own page: price and credits, files and image size, privacy, frames and products, using mockups on Etsy, cancelling and signing in. For anything else, email hello@wallmock.com.
 
@@ -337,9 +337,9 @@ A: Downloads are 4K (4096 px), measured on the long side, on Free and paid plans
 Q: Does WallMock change my artwork?
 A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Lettering, signatures, colours and proportions stay exactly as they are in your file.
 
-## Can WallMock make mockups for a whole collection | WallMock Help
+## Mockups for a Whole Collection at Once? Yes
 URL: https://wallmock.com/help/can-i-make-mockups-for-a-whole-collection/
-Yes. Save your favourite rooms and frame looks once, add the whole collection, and WallMock makes every artwork in every chosen room, each at its own…
+Yes. Add rooms to Favourites and save a frame look once, add the whole collection, and WallMock makes every artwork in every chosen room.
 
 Short answer: Yes. Save your favourite rooms and frame looks once, add the whole collection, and WallMock makes every artwork in every chosen room, each at its own proportions.
 
@@ -350,9 +350,9 @@ A: Yes. Square, portrait, landscape and panoramic files can share a batch.
 Q: Does WallMock upload to Etsy or Printify for me?
 A: No. You download the images and add them to your listings.
 
-## Can I try WallMock for free | WallMock Help
+## Can I Try WallMock for Free? Yes, No Card
 URL: https://wallmock.com/help/can-i-try-wallmock-for-free/
-Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. A free account…
+Yes, with no sign-up and no card: up to three artworks in 8 sample rooms as watermarked previews. A free account adds 10 clean 4K downloads.
 
 Short answer: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device, up to 50 every 30 days. A free account adds 10 watermark-free 4K (4096 px) downloads, back to 10 every 30 days (unused ones don't carry over); all 500+ rooms for your first 10 downloads, then 8 rooms, so you can check the look before you choose a plan.
 
@@ -363,9 +363,9 @@ A: No. The free try and a free account ask for no payment details.
 Q: Are free previews watermarked?
 A: Only on Try Free. Try Free previews (no sign-up) carry a watermark; previews in a free account do not. Free accounts and Try Free include 50 previews every 30 days; paid plans have unlimited previews. Free accounts also include 10 watermark-free 4K downloads every 30 days; paid plans add more images, sets and listing kits.
 
-## Can I use WallMock mockups on Etsy | WallMock Help
+## Can I Use WallMock Mockups on Etsy? Yes
 URL: https://wallmock.com/help/can-i-use-wallmock-mockups-on-etsy/
-Yes. Clean WallMock downloads can be used in Etsy and Shopify listings, ads and social posts with no extra licence fee, even after you cancel. Etsy's…
+Yes. Clean WallMock downloads can be used in Etsy and Shopify listings, ads and posts with no extra licence fee, even after you cancel.
 
 Short answer: Yes. Clean WallMock downloads can be used in Etsy and Shopify listings, ads and social posts with no extra licence fee, even after you cancel. Etsy's listing image rules (updated 22 October 2026): most listings need at least one unedited photo of the actual item against a real background, with no editing or AI tools on that photo. Other photos may be edited if they show the item accurately. Print-on-demand items made by a production partner may use an authorised mockup instead, and digital downloads need a preview of the content.
 
@@ -376,9 +376,9 @@ A: No. Previews are for trying things out; use a clean download in a listing or 
 Q: Can I resell WallMock rooms as templates?
 A: No. You can't extract or resell rooms, frames or mockups as stock images, templates or mockup packs.
 
-## Does WallMock change my artwork | WallMock Help
+## Does WallMock Change My Artwork? No
 URL: https://wallmock.com/help/does-wallmock-change-my-artwork/
-No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Lettering, signatures, colours and proportions stay exactly as…
+No. WallMock places your file as it is, never redrawn, repainted or upscaled by AI. Lettering, signatures, colours and proportions stay as they are.
 
 Short answer: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Lettering, signatures, colours and proportions stay exactly as they are in your file.
 
@@ -389,9 +389,9 @@ A: Rooms are curated, digitally staged interiors reviewed by WallMock. The artwo
 Q: Will text in my design stay sharp?
 A: Yes. Typography and fine lines show exactly as they are in your file.
 
-## How do WallMock credits work | WallMock Help
+## How Do WallMock Credits Work?
 URL: https://wallmock.com/help/how-do-credits-work/
-On Lite, one credit is one successful clean 4K image, 200 a month. Pro includes unlimited clean 4K (4096 px) images. Fair use: paid plans can open any room…
+On Lite, one credit is one clean 4K image, 200 a month; Pro has unlimited clean 4K images under fair use. Previews never use credits.
 
 Short answer: On Lite, one credit is one successful clean 4K image, 200 a month. Pro includes unlimited clean 4K (4096 px) images. Fair use: paid plans can open any room in the library, with up to 300 images a day made on WallMock's server. Previews do not use credits, failed or cancelled images never count, and downloading again is free. Free accounts and Try Free include 50 previews every 30 days, and only Try Free previews are watermarked; paid plans have unlimited previews.
 
@@ -402,9 +402,9 @@ A: No. On Lite, each month's credits end with that month. Pro has no monthly ima
 Q: Are previews charged?
 A: No. Previews, including the live preview while you set up a room, do not use credits. Free accounts and Try Free include 50 previews every 30 days, and only Try Free previews are watermarked; paid plans have unlimited previews.
 
-## How do I cancel my WallMock plan | WallMock Help
+## How Do I Cancel My WallMock Plan?
 URL: https://wallmock.com/help/how-do-i-cancel-wallmock/
-Open Billing & plans in the profile menu, then Manage subscription, and cancel. You don't need to contact us. Your plan and its credits continue to the end…
+Open Billing & plans, then Manage subscription, and cancel; no need to contact us. Your plan runs to the end of the period you paid for.
 
 Short answer: Open Billing & plans in the profile menu, then Manage subscription, and cancel. You don't need to contact us. Your plan and its credits continue to the end of the period you paid for, then stop renewing.
 
@@ -415,9 +415,9 @@ A: Cancelling stops the next renewal; your plan keeps working to the end of the 
 Q: Do I keep my downloaded images?
 A: Yes. Clean images you downloaded keep their commercial-use licence.
 
-## How do I sign in to WallMock | WallMock Help
+## How Do I Sign In to WallMock? Google or Email
 URL: https://wallmock.com/help/how-do-i-sign-in-to-wallmock/
-Use Continue with Google, or enter your email and type the 8-digit code WallMock emails you. There is no password. A code stops working after 10 minutes or…
+Sign in with Google, or enter your email and type the code WallMock sends you; there is no password. What to do in Instagram's in-app browser.
 
 Short answer: Use Continue with Google, or enter your email and type the 8-digit code WallMock emails you. There is no password. A code stops working after 10 minutes or 3 wrong tries; ask for a new one from the sign-in page.
 
@@ -428,9 +428,9 @@ A: Check the address and your spam folder, then ask for a new code.
 Q: Can I use Google and email for the same account?
 A: Yes. Sign in with an email code, then connect Google in Profile & settings.
 
-## How many rooms does WallMock have | WallMock Help
+## How Many Rooms Does WallMock Have? 500+
 URL: https://wallmock.com/help/how-many-rooms-does-wallmock-have/
-500+ curated rooms: living rooms, bedrooms, dining rooms, kitchens, offices, nurseries, hallways and café or studio spaces. Rooms are curated, digitally…
+500+ curated rooms: living rooms, bedrooms, dining rooms, kitchens, offices, nurseries, hallways and café or studio spaces, each one reviewed.
 
 Short answer: 500+ curated rooms: living rooms, bedrooms, dining rooms, kitchens, offices, nurseries, hallways and café or studio spaces. Rooms are curated, digitally staged interiors reviewed by WallMock.
 
@@ -441,9 +441,9 @@ A: Enter your artwork's real size in centimetres or inches (long side 4 to 60 in
 Q: Can I upload a photo of my own room?
 A: Not in the public product today.
 
-## How much does WallMock cost | WallMock Help
+## How Much Does WallMock Cost? Plans and Prices
 URL: https://wallmock.com/help/how-much-does-wallmock-cost/
-Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Paying yearly costs $39, $144.…
+Free to start with no card. Lite $5 a month for 200 clean 4K images, Pro $15 for unlimited. From 1 Jan 2027 new subscribers pay $9, $19 or $29 (Studio).
 
 Short answer: Lite $5 USD a month for 200 clean 4K (4096 px) images; Pro $15 USD a month for unlimited clean 4K (4096 px) images. Paying yearly costs $39, $144. Free accounts and Try Free include 50 previews every 30 days (only Try Free previews are watermarked), a free account gets 10 watermark-free 4K (4096 px) downloads every 30 days, and you can try WallMock with no sign-up and no card. Paid plans have unlimited previews.
 
@@ -454,9 +454,9 @@ A: Free account: 50 previews every 30 days on your device, with no watermark, in
 Q: Can I cancel any time?
 A: Yes. Cancel in Billing & plans, then Manage subscription. Your plan runs to the end of the period you paid for.
 
-## Is my artwork private with WallMock | WallMock Help
+## Is My Artwork Private With WallMock? Yes
 URL: https://wallmock.com/help/is-my-artwork-private/
-Yes. Previews and images are made in your browser, on your device. In WallMock's published rooms your artwork is not uploaded to WallMock, not sent to an…
+Yes. Previews and images are made in your browser, on your device; in WallMock's published rooms your art is not uploaded or used to train AI.
 
 Short answer: Yes. Previews and images are made in your browser, on your device. In WallMock's published rooms your artwork is not uploaded to WallMock, not sent to an AI image service and not used to train AI.
 
@@ -467,22 +467,22 @@ A: No. WallMock never sells your information or uses it for advertising, and you
 Q: What happens when I refresh the page?
 A: Images still in the tab are cleared. Download them first; downloading never uses credits.
 
-## Is wallmock.com the same as wallmock.app | WallMock Help
+## Is wallmock.com the Same as wallmock.app? No
 URL: https://wallmock.com/help/is-wallmock-the-same-as-wallmock-app/
-No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a…
+No. wallmock.com is a mockup generator for Etsy and Shopify wall art sellers; wallmock.app is a separate gallery-wall planner for homeowners.
 
 Short answer: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 Q: Is wallmock.com the same as wallmock.app?
 A: No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 Q: What is WallMock?
-A: WallMock is a wall art mockup generator for print-on-demand sellers on Etsy and Shopify: your exact art in styled rooms as framed or stretched canvas, or framed prints.
+A: WallMock is a wall art mockup generator for Etsy and Shopify wall art sellers, from printable (digital download) shops to canvas and framed-print sellers: your exact art in styled rooms as framed or stretched canvas, or framed prints, for a whole collection at once.
 Q: Who is WallMock for?
 A: Print-on-demand and wall art sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints and posters.
 
-## What files can I upload to WallMock | WallMock Help
+## What Files Can I Upload to WallMock? JPG, PNG
 URL: https://wallmock.com/help/what-files-can-i-upload/
-JPEG, PNG or WebP artwork files, one at a time or a whole collection. Each file keeps its own proportions, from square to 3:1 panoramas and 1:3 tall…
+JPEG, PNG or WebP artwork, one file or a whole collection. Each keeps its own shape, from square to 3:1 panoramas and 1:3 tall pieces, unstretched.
 
 Short answer: JPEG, PNG or WebP artwork files, one at a time or a whole collection. Each file keeps its own proportions, from square to 3:1 panoramas and 1:3 tall pieces, and is never stretched or cropped to fit a room.
 
@@ -493,9 +493,9 @@ A: Yes. Add a whole collection; each artwork comes out in every room you chose.
 Q: Will my file be resized or redrawn?
 A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI.
 
-## What size are WallMock's images | WallMock Help
+## What Size Are WallMock Images? 4K (4096 px)
 URL: https://wallmock.com/help/what-size-are-wallmock-images/
-Downloads are 4K (4096 px), measured on the long side, on Free and paid plans. A free account gets 10 watermark-free 4K downloads every 30 days; paid plans add more images (Lite 200 a month, Pro unlimited).…
+WallMock downloads are 4K, 4096 px on the long side, on Free and paid plans. Etsy asks for at least 2000 px, so a 4K image leaves room to crop.
 
 Short answer: Downloads are 4K (4096 px), measured on the long side, on Free and paid plans. A free account gets 10 watermark-free 4K downloads every 30 days; paid plans add more images (Lite 200 a month, Pro unlimited). Cropping reduces the finished dimensions, so check the exported file before uploading.
 
@@ -506,9 +506,9 @@ A: Yes. Look at the full-size examples to see frame corners, the floating-frame 
 Q: Does downloading again use a credit?
 A: No. Downloading an image you already made is free.
 
-## Which frames and products does WallMock show | WallMock Help
+## Which Frames and Products Does WallMock Show?
 URL: https://wallmock.com/help/which-frames-and-products-does-wallmock-show/
-Framed canvas in a floating frame, stretched canvas, metal prints (your art on a frameless aluminium panel), and framed prints in a wood frame or aluminum…
+Floating-frame canvas, stretched canvas, metal prints, and framed prints in wood or aluminium, with or without a mat, plus sets of 2, 3 or 4.
 
 Short answer: Framed canvas in a floating frame, stretched canvas, metal prints (your art on a frameless aluminium panel), and framed prints in a wood frame or aluminum framed prints (black, gold or silver), each with or without a mat. Frame colours: black, white, natural oak, walnut, espresso, gold and silver, plus natural wood for floating-frame canvas. Compatible framed and canvas products support sets of 2, 3 or 4; metal panels use one artwork per image.
 
@@ -519,9 +519,9 @@ A: Choose the closest available construction, dimensions and finish, then compar
 Q: Does WallMock show a mat?
 A: Yes, for framed prints and aluminum framed prints, with or without.
 
-## Mockup Generator That Doesn't Change Your Art, Measured
+## Mockup Generator That Doesn't Change Your Art
 URL: https://wallmock.com/how-wallmock-keeps-your-art-exact/
-WallMock places your file as it is, never redrawn by AI. See how we measured exact art on our published examples, why it matters on Etsy, and what to check.
+For sellers whose buyers zoom in: WallMock places your file as it is, never redrawn by AI. How we measured exact art on 61 published images.
 
 Short answer: WallMock is a mockup generator that doesn't change your art. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. On the 61 room images in our published example set, the art matched its source file with a detail match of at least 0.99 out of 1 and an average colour difference of 0.72 or less. The room is a digitally staged scene; your art is exact.
 
@@ -538,9 +538,9 @@ A: No. Rooms are curated, digitally staged interiors reviewed by WallMock. Only 
 Q: Do I still need a photo of the actual print for Etsy?
 A: Etsy's listing image rules (checked 6 November 2026): most listings need at least one unedited photo of the actual item against a real background, with no editing or AI tools on that photo. Other photos may be edited if they show the item accurately. Etsy allows an authorised stock photo mockup when a production partner prints your original design on a standard base product, and digital downloads need a preview of the content. So use WallMock images for your room and detail photos, and add one real photo of the print or canvas unless you sell print on demand or downloads.
 
-## Metal Print Mockup Generator for Wall Art, in Bulk
+## Metal Print Mockup Generator, for Collections
 URL: https://wallmock.com/metal-print-mockup/
-Metal print mockups for a whole collection: every artwork on a frameless aluminium panel in every room you pick. Gloss, High gloss or Matte. Try it free.
+For metal print sellers: every artwork on a frameless aluminium panel in every room you pick, in one run. Gloss, High gloss or Matte surface. Try it free.
 
 WallMock is a metal print mockup generator built for print-on-demand sellers. Upload a collection, pick your rooms once, and every artwork comes back as a frameless aluminium metal print in every chosen room, in one run. Choose Gloss, High gloss or Matte. Your file is placed as supplied and never redrawn; any sheen is a light effect on the panel.
 
@@ -571,9 +571,9 @@ A: A metal print is the art itself printed on an aluminium panel, with no frame 
 Q: Do these examples prove a match to every metal-print supplier?
 A: No. They show WallMock’s digital panel design in selected rooms. Compare the actual coating, edge, corners and mounting system with a supplier sample. Lighting and artwork can make Gloss, High gloss and Matte differences more or less visible. Metal prints currently use one artwork per image; collections can still run across multiple rooms.
 
-## Metal Frame Mockup: Aluminum Framed Prints in 3 Colours
+## Metal Frame Mockup: Aluminium Framed Prints
 URL: https://wallmock.com/metal-frame-mockup/
-Show your print in a slim aluminum frame in black, gold or silver, with or without a white mat, in 500+ curated rooms. Your exact file, never redrawn.
+For sellers of aluminium framed prints: your print in a slim black, gold or silver metal frame, with or without a white mat, in 500+ rooms. Never redrawn.
 
 Short answer: Metal frame mockups show your print in a slim metal picture frame on a room wall. WallMock's aluminum framed print uses a thin aluminium frame in black, gold or silver, with a white mat or none, in 500+ curated rooms. Your file is placed as it is, never redrawn, for one design or a whole collection.
 
@@ -594,9 +594,9 @@ A: Yes. Choose Aluminum framed print, the frame colour and the mat once, heart y
 Q: Will the frame or mat cover part of my print?
 A: A little, as in a real frame. The frame lip or the mat overlaps the outer edge of the print, so keep signatures and text away from the very edge. WallMock keeps your file's own proportions and never stretches it.
 
-## Mockup Generator for Artists: Your Painting, Never Redrawn
+## Art Mockup Generator for Artists: Never Redrawn
 URL: https://wallmock.com/mockup-generator-for-artists/
-Show your painting or illustration framed in a styled room exactly as you made it: originals, prints and whole series. Free previews, no sign-up.
+For painters and illustrators: show your artwork framed in a styled room exactly as you made it, originals, prints and whole series. Free previews.
 
 Short answer: Mockup generator for artists means a tool that shows your painting or illustration framed on a wall, exactly as you made it. WallMock places your file as it is, never redrawn, in 500+ curated rooms, as a framed canvas, stretched canvas or framed print with or without a mat. Show originals and the prints you sell of them, and run a whole series at once in the same favourite rooms.
 
@@ -613,9 +613,9 @@ A: Yes. Save your favourite rooms and frame once, add the series, and every artw
 Q: Is it free to try?
 A: Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device. A free account adds 10 watermark-free 4K downloads every 30 days; paid plans, from $5 a month, add more images.
 
-## Poster Mockup Generator for Framed Posters and Prints
+## Framed Poster Mockup Generator: 2:3, 3:4, A Sizes
 URL: https://wallmock.com/poster-mockup-generator/
-See your posters framed on realistic walls, in wood or aluminum frames with or without a mat, at 2:3, 3:4, 4:5 and A-sizes. Your exact file in 500+ rooms.
+For poster and printable sellers: see your poster framed on a wall, in wood or aluminium with or without a mat, at 2:3, 3:4, 4:5 and A sizes. 500+ rooms.
 
 Short answer: a poster mockup generator places your poster design on a wall in a realistic room. WallMock does it online for framed posters, in wood or aluminum frames with or without a mat, in 500+ curated rooms. Your file is placed exactly as it is, without AI redrawing the artwork, and you can run a whole poster collection at once.
 
@@ -632,9 +632,9 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 Q: Can I mock up a whole poster collection at once?
 A: Yes. Save the rooms you like once, add every poster in the collection, and each design is made in each saved room.
 
-## WallMock Pricing: Plans for Wall Art and POD Sellers
+## Pricing for Wall Art Sellers: Free to Studio
 URL: https://wallmock.com/pricing/
-WallMock plans in USD: Free with 10 free 4K downloads every 30 days; Lite $5/month; Pro $15/month for unlimited 4K; WallMock Studio plan $25/month for 3 Shopify stores.
+Plans for Etsy and Shopify wall art sellers: Free with 10 clean 4K downloads every 30 days, Lite $5, Pro $15, Studio $25. New prices from 1 Jan 2027.
 
 Q: What does the Free plan include?
 A: Free account: 50 previews every 30 days on your device, with no watermark, in your included rooms; paid plans have unlimited previews. Usage safeguards and device limits apply. You get 10 watermark-free 4K (4096 px) downloads every 30 days; unused downloads do not carry over. The first 10 free downloads over your account's lifetime can use all 500+ rooms; after that, 8 free rooms remain. When the 10 downloads are used, previews continue in your included rooms, up to 50 every 30 days. Refills do not reopen the full library. Free downloads are for single artworks. Sets and listing kits need a paid plan; listing videos need Pro. Send to Shopify is in limited beta on Pro and the WallMock Studio plan; when it opens it will be on every plan. Paid plans add more images: Lite 200 a month, Pro unlimited.
@@ -659,9 +659,9 @@ A: Our plan for sellers with more than one store: $25 a month, or $240 a year ($
 Q: Which plans include Send to Shopify?
 A: Today, in the limited beta, Pro includes Send to Shopify for 1 store and up to 10 products a month; when it opens to all stores it will be on every plan, with up to 10 products a month on Free, Lite and Pro. The WallMock Studio plan includes up to 3 stores with unlimited products. A product counts once in your plan month, when it first gets an image; sending again to the same product does not count. You can change stores 2 times a month. Lite and Free do not include it during the beta. Send to Shopify is in limited beta and coming soon for most stores; it opens to all stores once Shopify approves it, with no date yet.
 
-## Print-on-Demand Wall Art Mockup Generator
+## Print on Demand Wall Art Mockups by Provider
 URL: https://wallmock.com/print-on-demand-canvas-mockups/
-A print-on-demand wall art mockup generator: canvas, framed canvas, framed and metal prints for Printify, Printful, Gelato and Prodigi sellers, in 500+ rooms.
+For Printify, Printful, Gelato and Prodigi sellers: canvas, framed canvas, framed and metal print mockups that match your provider's product.
 
 Short answer: a print-on-demand wall art mockup generator should show the construction and dimensions of the product you sell: a stretched canvas (gallery wrap), a framed canvas with the floating-frame gap in the right colour, or a framed or metal print. WallMock offers these product types in 500+ curated rooms, for every design in your shop, with your file unchanged, whether you print with Printify, Printful, Gelato or Prodigi.
 
@@ -680,9 +680,9 @@ A: The one your provider makes. Prodigi's is a floater frame with a 5 mm gap; Ge
 Q: What resolution do canvas mockups need for Etsy?
 A: Etsy recommends listing photos at least 2000 px on the shortest side. WallMock exports 4K (4096 px) images, so there is room to crop to Etsy's square thumbnail.
 
-## WallMock Privacy: This Website and the App
+## Privacy: This Website and the WallMock App
 URL: https://wallmock.com/privacy/
-How wallmock.com handles your information: a static website with no cookies, analytics or ads, browser-only free tools, email contact, and the app's own policy.
+How wallmock.com treats your information: a static site with no cookies, analytics or ads, free tools that run in your browser, and the app's policy.
 
 Short answer: this website (wallmock.com) sets no cookies and has no analytics or advertising trackers. Its free tools work in your browser and don't upload your files. If you email us, we receive what you send. The WallMock app at app.wallmock.com, including the free previews, is covered by its own privacy policy.
 
@@ -695,9 +695,9 @@ A: The app at app.wallmock.com, including the free previews at https://app.wallm
 Q: How do I ask WallMock to delete my email?
 A: Email hello@wallmock.com and ask us to delete your messages or to stop contacting you.
 
-## WallMock Refund Policy: Cancel Any Time
+## Refund Policy: Cancel Any Time
 URL: https://wallmock.com/refunds/
-Cancel WallMock any time. A first subscription can get a refund of its unused days within 7 days. How renewals, duplicate charges and mistakes are handled.
+Cancel WallMock any time. A first subscription can get its unused days refunded within 7 days. How renewals, duplicate charges and mistakes are handled.
 
 Short answer: Cancel any time and your plan runs to the end of the period you paid for. A first subscription can get a refund of its unused days within 7 days of the first payment. Renewals aren't refundable.
 
@@ -712,7 +712,7 @@ A: Email hello@wallmock.com from the address you sign in with, with the payment 
 
 ## Why I Built WallMock for My Etsy Art Shop
 URL: https://wallmock.com/story/
-Akshit, the seller behind AntarmadaArtPrints on Etsy since 2023, explains the frame and repeat-listing problems that led him to build and use WallMock.
+I sell print-on-demand wall art on Etsy. The frame problems and repeat listing work that led me to build WallMock, and how I use it in my own shop today.
 
 Short answer: I’m Akshit, the seller behind AntarmadaArtPrints on Etsy since 2023. I built WallMock because choosing rooms, matching frames and exporting the same designs again and again had become part of every collection. I wanted a workflow I could reuse, with the artwork kept intact and the product shown clearly. I now use WallMock for my own listings.
 
@@ -725,9 +725,9 @@ A: The frame, mat, canvas depth and artwork crop all change what a buyer expects
 Q: Does a room mockup replace a physical sample?
 A: A sample is the way to check print colour, material, frame finish and construction. Use a room mockup to show the design in context, and make the offered product and dimensions clear.
 
-## WallMock Terms of Service
+## Terms of Service: Plans, Credits, Refunds
 URL: https://wallmock.com/terms/
-The terms for using WallMock: accounts, plans and credits, cancelling, refunds, commercial use of your mockups, and the law that applies (Alberta, Canada).
+The terms for using WallMock: your account, plans and credits, cancelling, refunds, commercial use of your mockups and the law that applies.
 
 Short answer: These terms cover using wallmock.com and the WallMock app: your account, plans and credits, cancelling, refunds, using your mockups commercially, and the law that applies (Alberta, Canada). Nothing here limits rights you have under consumer protection law.
 
@@ -740,9 +740,9 @@ A: Open Billing & plans, then Manage subscription, and cancel. Your plan runs to
 Q: Which law applies to WallMock's terms?
 A: The laws of Alberta and the federal laws of Canada that apply there. Consumer protection rights that can't be excluded still apply.
 
-## WallMock Testing: Artwork Checks and Listing Examples
+## Testing: How We Check Artwork and Examples
 URL: https://wallmock.com/testing/
-See what WallMock’s recorded artwork checks measure, use worked size and batch examples, and learn which product details still need a physical sample.
+What WallMock's recorded artwork checks measure, worked size and batch examples, and which product details still need a physical sample before you list.
 
 Start with the problem the image needs to solve. Our published artwork comparison checks detail against source files. Size and crop tools answer numerical questions. A physical sample checks print colour, material and frame finish. Each has a different job; the examples below show how to use the right check before publishing a listing.
 
@@ -757,9 +757,9 @@ A: No. Multiplying artworks by compatible rooms explains the expected output cou
 Q: Can you show that these mockups increase sales?
 A: We have not published a controlled sales study. The founder’s shop experience explains the product decisions; it does not establish a conversion lift for another shop.
 
-## WallMock Collection Workflow: Three Artworks, Nine Downloads
+## Collection Test: Three Artworks, Nine Downloads
 URL: https://wallmock.com/testing/three-artwork-collection/
-Follow a recorded live WallMock collection workflow: three source files, three rooms and nine verified Free-plan downloads, with the actual ZIP to inspect.
+A recorded WallMock collection run: three source files, three rooms and nine Free-plan downloads, with the actual ZIP and file hashes for you to inspect.
 
 Short answer: We used the live WallMock Studio to make three original test artworks in three saved rooms. The batch produced nine watermark-free Free-plan images. We downloaded the ZIP, opened all nine JPEGs and checked their sizes and hashes. This walkthrough shows the choices, the files and the Free-plan limits encountered along the way.
 
@@ -772,9 +772,9 @@ A: Check your account’s room access and remaining allowance first. The first t
 Q: Does this prove a supplier’s frame or a typical rendering time?
 A: It demonstrates this collection workflow and the downloaded files. It does not establish a physical supplier match or a typical speed across devices. Previews were already warm, and the automated download observer stalled, so no end-to-end speed benchmark is reported.
 
-## Wall Art Mockup Examples: Framed Canvas, Prints, Sets
+## Wall Art Mockup Examples at Full Size
 URL: https://wallmock.com/wall-art-mockup-examples/
-Zoom into real WallMock results: floating-frame canvas in 7 finishes, stretched canvas, framed prints with mats, panoramas and sets, at full size.
+Zoom into WallMock results at full size: floating-frame canvas in 7 finishes, stretched canvas, framed prints with mats, panoramas and sets.
 
 Short answer: these are wall art mockup examples made with WallMock: framed canvas in seven floating-frame finishes, stretched canvas, framed prints with and without a mat, panoramas, tall pieces and sets, each from the artwork file exactly as supplied. Open any image at full size to check the frame corners, the shadow gap and the canvas edge.
 
@@ -789,9 +789,9 @@ A: Black, white, natural oak, walnut, espresso, gold and silver, for floating-fr
 Q: Is the artwork changed?
 A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI.
 
-## WallMock Updates and Changelog: What's New
+## What's New: WallMock Updates and Changelog
 URL: https://wallmock.com/whats-new/
-WallMock updates and changelog, newest first: what changed in the app and on this site, with dates. Frame shadows, a faster Studio, Help Center, plans.
+WallMock updates, newest first, with dates: the WallMock 3 frame look, frame shadows, a faster Studio, the Help Center and plan changes.
 
 Short answer: These are WallMock updates, newest first. The latest recorded here, on 6 November 2026: metal prints gain a High gloss surface, Gloss now follows the room light, and the corners are a true ⅛ in at every size. The same day, the WallMock Studio plan became available ($25 a month, with Send to Shopify for up to 3 stores), Pro gained Send to Shopify for 1 store, and this site added pages for Send to Shopify (beta), Send to Etsy (since withdrawn) and the WallMock API (early access), plus partner pilot pages for print labs. On 29 October 2026: premium shine on every frame, frame shadows in four window-lit rooms now fall away from the window, a faster Studio, a Help Center and a zoomable examples page. Paid plans and open sign-up started on 28 October 2026. WallMock has been in development since July 2026.
 
@@ -808,9 +808,9 @@ A: Email hello@wallmock.com. Seller feedback is how we decide what to build next
 Q: Where can I get help with a new feature?
 A: The Help Center at wallmock.com/help/ answers common questions about plans, sign-in, files, frames and Etsy photos.
 
-## Wall Art Mockup API for Print on Demand (Early Access)
+## Wall Art Mockup API (Early Access)
 URL: https://wallmock.com/api/
-WallMock's wall art mockup API is coming soon: your exact art in 500+ rooms, one-call listing packs, webhooks and a sandbox. Request early access.
+For print companies, POD platforms and listing tools: a wall art mockup API, your exact art in 500+ rooms, one-call listing packs. Request early access.
 
 Short answer: The WallMock API is a wall art mockup API for print companies, print-on-demand platforms, large art shops and listing tools. It is in development and not available yet: a private pilot is coming, and you can request early access now. It runs the same renderer as the WallMock web app, places your exact art in 500+ curated rooms, and returns a whole listing pack in one call.
 
@@ -839,7 +839,7 @@ A: For Shopify, yes: Send to Shopify is in limited beta on Pro (1 store, up to 1
 
 ## Send to Shopify and Etsy-Ready Downloads
 URL: https://wallmock.com/integrations/
-Send to Shopify (limited beta) puts WallMock mockups on your Shopify products, hero first. Etsy sellers download Etsy-ready photos and upload them.
+For Shopify and Etsy wall art sellers: Send to Shopify (limited beta) puts mockups on your products, hero first; Etsy sellers download sized photos.
 
 Short answer: WallMock's native Shopify integration for wall art sellers, Send to Shopify (limited beta): connect your Shopify store and your mockups go straight onto your products, hero first, with no downloading or re-uploading. It asks for product-edit permission only and never deletes your photos. In the beta it is on Pro (1 store, up to 10 products a month) and the WallMock Studio plan (up to 3 stores, unlimited products); when it opens to all stores it will be on every plan, with up to 10 products a month on Free, Lite and Pro and unlimited products on the WallMock Studio plan. One-click listing sets will be added to the WallMock Studio plan at no extra cost when they launch. WallMock doesn't connect to Etsy: Etsy sellers download Etsy-ready photos and upload them in Etsy's listing editor.
 
@@ -862,9 +862,9 @@ A: The WallMock API is in development and not available yet, with a private pilo
 Q: Can I try WallMock now?
 A: Yes. Try Free needs no sign-up and no card: it makes watermarked previews with up to three artworks in 8 sample rooms. A free account adds 10 watermark-free 4K (4096 px) downloads every 30 days.
 
-## Send to Shopify: Add Wall Art Mockups to Products (Beta)
+## Shopify Wall Art Mockups: Send to Shopify (Beta)
 URL: https://wallmock.com/integrations/shopify/
-Send to Shopify (limited beta): WallMock mockups go straight onto your Shopify products, hero first. Pro: 1 store, 10 products a month; Studio: 3 stores.
+For Shopify wall art stores: Send to Shopify (limited beta) puts mockups onto your products, hero first. Pro: 1 store, 10 products a month; Studio: 3.
 
 Short answer: Send to Shopify is WallMock's native Shopify integration for wall art sellers, in limited beta and coming soon for most stores; it opens to all stores once Shopify approves it, with no date yet. Connect your Shopify store and your WallMock mockups go straight onto your products, hero first, with no downloading or re-uploading. It asks for product-edit permission only and never deletes your photos. In the beta it is on Pro (1 store, up to 10 products a month) and the WallMock Studio plan (up to 3 stores, unlimited products); when it opens to all stores it will be on every plan, with up to 10 products a month on Free, Lite and Pro and unlimited products on the WallMock Studio plan. It is not in the Shopify App Store; you connect your store from WallMock.
 
@@ -885,9 +885,9 @@ A: In the limited beta, Pro includes 1 store and up to 10 products a month, and 
 Q: Is Send to Shopify in the Shopify App Store?
 A: No. It is in limited beta on Pro and the WallMock Studio plan, will be on every plan when it opens to all stores, and is not listed in the Shopify App Store. You connect your store from WallMock.
 
-## WallMock for Etsy Sellers: Etsy-Ready Listing Photos
+## Etsy Listing Photos for Wall Art, Etsy-Ready
 URL: https://wallmock.com/integrations/etsy/
-Make wall art listing photos in WallMock, download them sized for Etsy's thumbnail and gallery, and upload them yourself. No Etsy login or shop access.
+For Etsy wall art sellers, printable or printed: make listing photos in WallMock, download them sized for Etsy and upload them. No Etsy login needed.
 
 Short answer: WallMock makes the listing photos for your Etsy wall art: your exact artwork in digitally staged rooms, for one design or a whole collection. Download them sized for Etsy and upload them in Etsy's listing editor. WallMock doesn't connect to your Etsy shop, so there is no Etsy login and no shop permission to give.
 
@@ -908,7 +908,7 @@ A: Yes, in beta: Send to Shopify adds mockups to your Shopify products, hero fir
 
 ## Wall Art Mockup App for iPhone and Android
 URL: https://wallmock.com/wall-art-mockup-app/
-WallMock on your phone: add one artwork, pick a room and frame, then share a 4K mockup to Instagram. Runs in Safari or Chrome. Included in every plan, Free too.
+WallMock in your phone's browser: add one artwork, pick a room and frame, then share a 4K mockup to Instagram or your listing. On every plan, Free too.
 
 Short answer: WallMock works as a wall art mockup app in your phone's browser, on iPhone and Android. Add one artwork, pick a room, pick a frame, tap Generate, then share or download a 4K image for Instagram, Pinterest or your listing. It is not in the App Store or Google Play: tap Save as app and it opens full screen from your home screen. It comes with every plan, Free included.
 
@@ -927,7 +927,7 @@ A: Not for Try Free previews, which are watermarked. For previews with no waterm
 
 ## Holiday Wall Art Mockups (Coming Soon)
 URL: https://wallmock.com/holiday-wall-art-mockups/
-Holiday and seasonal mockup rooms are planned for WallMock, no launch date yet: Christmas, autumn, Halloween, Valentine's Day and spring. What to use today.
+Holiday and seasonal mockup rooms are planned, with no launch date yet: Christmas, autumn, Halloween, Valentine's Day and spring. What to use today.
 
 Short answer: holiday and seasonal mockup rooms are planned for WallMock, with no launch date yet, and are not available yet. The plan is rooms styled for the selling seasons, from Christmas to Mother's Day, and a seasonal refresh that swaps a listing set's rooms for the season in one go. Today, a few rooms in the library already carry a seasonal touch, such as a small Christmas tree or a marigold garland.
 
@@ -946,7 +946,7 @@ A: No. WallMock places your file as it is: never redrawn, repainted or upscaled 
 
 ## Partner Pilots for Print Labs: Your Exact Frames
 URL: https://wallmock.com/partners/
-Partner pilots for print labs, POD suppliers and marketplaces: presets of your frame range in staged rooms (in development), exact art. Talk to us.
+For print labs, POD suppliers and marketplaces: pilots that turn your frame range into presets in staged rooms (in development), exact art. Talk to us.
 
 Short answer: WallMock partner pilots are for print labs, print-on-demand suppliers, art marketplaces and wall-art brands that want room mockups showing the products they actually sell. In a pilot, we work with you to turn your frame range into presets in WallMock's renderer, private to you, for your sellers and your own listings. Partner early access is open: talk to us. The partner frame catalogue is in development, and the WallMock API is in early access.
 
@@ -973,7 +973,7 @@ A: Prices are not published. Pilot terms are agreed with each partner. The WallM
 
 ## Mockups for Print Labs and POD Companies
 URL: https://wallmock.com/print-labs/
-Room mockups for print labs and POD suppliers: exact art, 500+ staged rooms, listing packs. Custom-frame presets in pilots (in development); white-label planned.
+For print labs and POD suppliers: room mockups of the products you print, exact art in 500+ staged rooms, custom-frame presets in pilots.
 
 Short answer: WallMock helps print labs and print-on-demand suppliers give their sellers room mockups of the products they print: the seller's exact art in curated, digitally staged rooms, as floating canvas, stretched canvas, framed prints with or without a mat, metal prints (Gloss, High gloss or Matte) and aluminium frames. Custom-frame presets of your own range are in development, built in partner pilots, and white-label output is planned for partner agreements. For a partner pilot, talk to us; the API is in early access, not available yet.
 
@@ -994,9 +994,9 @@ A: In development tests, about 3 to 5 seconds per 4K image per worker. Productio
 Q: What does it cost a print lab?
 A: Prices are not published. Pilot terms are agreed with each partner, and the API will be pay per image, with volume plans.
 
-## Frame Visualizer API: Shoppers See Art in Your Frames
+## Frame Visualizer API: Shoppers See Your Frames
 URL: https://wallmock.com/frame-visualizer-api/
-A frame visualizer for print labs and framers: shoppers upload their art and see it in your frames, to scale, in curated rooms. One snippet. Free 60-day pilot.
+For print labs and framers: shoppers upload their art and see it in your frames, to scale, in curated rooms. One snippet, in development, 60-day pilot.
 
 Short answer: WallMock's frame visualizer is a preview for print labs, framers and wall-art shops. On your product page, a shopper uploads their own artwork, picks one of your frames and a print size, and sees it framed on a wall in a set of curated, digitally staged rooms, drawn to scale. You add it with one snippet. It is in development: a working prototype runs on our test pages, and early-access pilots are open by request.
 
@@ -1025,9 +1025,9 @@ A: Yes: your frame names, sizes and colours. A small "Preview by WallMock" line 
 Q: How is this different from the WallMock API page?
 A: The WallMock API page covers listing mockups that sellers and print companies make for their own product listings. This page covers a preview for your shoppers: they see their own art in your frames before they order. Both use the same WallMock renderer.
 
-## WallMock for Business: Mockup API, Preview API and Pilots
+## Mockup API and Frame Visualizer for Business
 URL: https://wallmock.com/business/
-WallMock for print labs, framers and POD suppliers: mockup API (early access), shopper preview API (in development), partner pilots, Send to Shopify (beta).
+For print labs, framers and POD suppliers: a mockup API (early access), a shopper frame visualizer (in development), pilots and Send to Shopify (beta).
 
 Short answer: WallMock for business is for print labs, framers, print-on-demand suppliers and wall-art shops. It brings together everything we offer companies: a wall art mockup API for listing photos (early access), a frame visualizer API that lets your shoppers preview their own art in your frames (in development), mockups of a lab's own frames for its sellers, partner pilots, and Send to Shopify (beta). What works today is the WallMock web app, which places exact art, never redrawn, in 500+ curated, digitally staged rooms with WallMock's own frames.
 
@@ -1046,9 +1046,9 @@ A: The frame visualizer for shoppers starts with a free 60-day pilot, then early
 Q: How do we get in touch?
 A: Email hello@wallmock.com with what you sell, your frame range and roughly how many images or previews a month you need.
 
-## Wall Art Mockup Tools Compared, With Dated Facts
+## WallMockup & Placeit Alternatives Compared
 URL: https://wallmock.com/compare/
-Wall art mockup tools compared with dated facts from each company's own pages: who each tool suits, prices, bulk mockups and when another tool is the better pick.
+Looking for a WallMockup, Placeit, ArtPlacer or Smartist alternative? Each tool compared from its own pages, with dated prices and who each tool suits.
 
 Short answer: general mockup platforms cover many products; art-world platforms add tools for galleries and collectors. WallMock is for one job: your exact artwork, never redrawn, in 500+ curated rooms as framed canvas, stretched canvas or framed prints, for a whole collection at once. Each comparison below is dated and says when the other tool is the better choice. Published by WallMock; facts checked 2026-10-26 to 2026-10-29.
 
@@ -1065,9 +1065,9 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 Q: Can I try WallMock?
 A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Free account: 50 previews every 30 days on your device, with no watermark, in your included rooms; paid plans have unlimited previews. Usage safeguards and device limits apply. You get 10 watermark-free 4K (4096 px) downloads every 30 days; unused downloads do not carry over. The first 10 free downloads over your account's lifetime can use all 500+ rooms; after that, 8 free rooms remain. When the 10 downloads are used, previews continue in your included rooms, up to 50 every 30 days. Refills do not reopen the full library. Free downloads are for single artworks. Sets and listing kits need a paid plan; listing videos need Pro. Send to Shopify is in limited beta on Pro and the WallMock Studio plan; when it opens it will be on every plan. Paid plans add more images: Lite 200 a month, Pro unlimited.
 
-## ArtPlacer Alternative for Etsy Wall Art Sellers (2026)
+## ArtPlacer Alternative for Etsy Wall Art Sellers
 URL: https://wallmock.com/compare/artplacer-alternative/
-ArtPlacer and WallMock compared with facts checked 2026-10-26: who each suits, prices, Instant Mockups limits, bulk wall art mockups and exact art.
+ArtPlacer suits artists and galleries; WallMock suits Etsy sellers with big collections. Prices, Instant Mockups limits and bulk, checked 2026-10-26.
 
 Short answer: ArtPlacer is a marketing platform for artists and galleries, with room mockups, virtual exhibitions and website tools. WallMock is a mockup generator for Etsy and Shopify wall art sellers: your exact artwork in 500+ curated rooms, for a whole collection at once. Choose ArtPlacer for gallery and collector tools; choose WallMock for listing photos at volume. Published by WallMock; facts checked 2026-10-26.
 
@@ -1084,9 +1084,9 @@ A: No. WallMock places your file as it is: it is never redrawn, repainted or ups
 Q: Can I use WallMock today?
 A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code.
 
-## Best Wall Art Mockup Generators (2026), Honestly Compared
+## Best Wall Art Mockup Generators (2026), Compared
 URL: https://wallmock.com/compare/best-wall-art-mockup-generators/
-ArtPlacer, Smartist, WallMockup, Situ.art, Scaylr, Gelato and more compared on floating frames, canvas edges, bulk, true scale and price. Facts dated, no affiliate links.
+ArtPlacer, Smartist, WallMockup, Placeit, Canva, Mockey and more compared on floating frames, canvas edges, bulk, scale and price. Dated, no affiliates.
 
 Short answer: The best wall art mockup generator depends on what you sell. ArtPlacer suits artists and galleries; Smartist suits Apple users; WallMockup and Situ.art show true scale; Scaylr batches designs for many product types; Canva, Placeit and Mockey cover many products; Printify, Printful and Gelato mock up their own products. WallMock is for print-on-demand sellers who want their exact art as framed canvas, stretched canvas or framed prints in curated rooms, a whole collection at once. Published by WallMock; facts checked 2026-10-28 and 2026-10-29.
 
@@ -1113,9 +1113,9 @@ A: No. WallMock (wallmock.com) is not WallMockup (wallmockup.net). They are diff
 Q: How were these tools checked?
 A: We read each company's own public pages and quote only what they say: ArtPlacer, Smartist, WallMockup, Situ.art, Scaylr and Gelato on 2026-10-29, the others on 2026-10-28. Where a page doesn't say, we write "not stated"; where pages disagree, we say so. Other mockup tools' pages are cited by address, without links.
 
-## Placeit Alternative for Wall Art Mockups, Checked 2026
+## Placeit Alternative for Wall Art Mockups
 URL: https://wallmock.com/compare/placeit-alternative/
-A fair, dated look at Placeit and WallMock for wall art sellers: what each tool suits, prices, bulk mockups, exact art, and when Placeit is the better choice.
+Placeit covers many products; WallMock does wall art only, for whole collections. A dated look at prices, bulk, exact art and when Placeit fits better.
 
 Short answer: Placeit is a broad design platform with mockups for many products, logos and videos. WallMock does one thing: it puts your exact artwork into 500+ curated rooms as framed canvas, stretched canvas or framed prints, for a whole collection at once. Choose Placeit for variety across products; choose WallMock for wall art listings at volume. Published by WallMock; facts checked 2026-10-26.
 
@@ -1132,9 +1132,9 @@ A: Yes, in WallMock. Save your favourite rooms and frame once, add a whole colle
 Q: Can I use WallMock today?
 A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code.
 
-## Smartist Alternative for Windows, Android and Web (2026)
+## Smartist Alternative for Windows, Android, Web
 URL: https://wallmock.com/compare/smartist-alternative/
-Smartist runs only on Apple devices. WallMock runs in a supported modern browser on Windows, Android or Mac, for whole wall art collections. Facts checked 2026-10-29.
+Smartist runs only on Apple devices. WallMock runs in a browser on Windows, Android or Mac and makes whole wall art collections. Checked 2026-10-29.
 
 Short answer: Smartist alternative for Windows and Android users: WallMock runs in a supported modern web browser, while Smartist is an app for iPhone, iPad, Mac and Apple Vision Pro, with no Android or web version yet. Smartist leads on its polished Apple app, your own room, augmented reality and a large ratings base. WallMock makes whole collections in saved rooms, draws the floating-frame gap, never redraws your art and exports 4K (4096 px) images, including on a free account. Published by WallMock; facts checked 2026-10-29.
 
@@ -1151,9 +1151,9 @@ A: No. WallMock uses its own 500+ curated rooms and has no upload for your own r
 Q: What image size do Smartist and WallMock export?
 A: Smartist's help centre gives a maximum of 3840 by 2400 pixels (checked 2026-10-29). WallMock's downloads are 4K (4096 px) on Free and paid plans.
 
-## WallMockup Alternative? WallMock vs WallMockup Compared
+## WallMockup Alternatives: WallMock vs WallMockup
 URL: https://wallmock.com/compare/wallmock-vs-wallmockup/
-WallMock vs WallMockup: different products from different companies. Rooms, frames, speed and price side by side, checked 2026-10-29, and which to choose.
+Similar names, different products from different companies. Rooms, frames, bulk runs and price side by side, checked 2026-10-29, and when each fits.
 
 Short answer: WallMock (wallmock.com) and WallMockup (wallmockup.net) are different products from different companies. WallMockup is a true-scale mockup editor with 720 room scenes, 54 frame styles, custom rooms and a $4.99 monthly plan. WallMock makes Photoshop-quality framed canvas and print mockups of your exact art in 500+ curated rooms, for a whole collection at once, with standard finishes plus up to five saved custom frame colours on Lite or Pro, and unlimited clean 4K (4096 px) images on Pro. Published by WallMock; facts checked 2026-10-29.
 
@@ -1174,9 +1174,9 @@ A: WallMock places your file as it is: it is never redrawn, repainted or upscale
 Q: Can I try both for free?
 A: WallMockup offers a 7-day trial with no credit card. Try WallMock free with no sign-up and no card: up to three artworks in 8 sample rooms, as watermarked previews made on your device.
 
-## Guides for Wall Art Sellers: Mockups, Etsy, Print Sizes
+## Guides for Wall Art Sellers: Mockups, Etsy, Sizes
 URL: https://wallmock.com/guides/
-Free guides for print-on-demand and wall art sellers: mockups for Etsy and Shopify, Printify and Printful photos, print sizes, frames, sets and listing photos.
+Practical guides for Etsy and Shopify wall art sellers: listing photos, mockups, print sizes, frames, sets and print providers, with dated facts.
 
 Q: Who writes these guides?
 A: Published by WallMock for print-on-demand and wall art sellers. Founder Akshit runs AntarmadaArtPrints on Etsy. Worked examples, product records and dated sources support the guides; the testing page explains what each kind of evidence establishes.
@@ -1187,7 +1187,7 @@ A: The images are made with WallMock. Rooms are curated, digitally staged interi
 
 ## Add Mockups to Shopify Products Automatically
 URL: https://wallmock.com/guides/add-mockups-to-shopify-products-automatically/
-Add wall art mockups to Shopify products by hand or automatically: the admin steps, what an app needs, and Send to Shopify (limited beta), hero first.
+Add wall art mockups to Shopify products by hand or automatically: the admin steps, what an app needs, and Send to Shopify (limited beta).
 
 Short answer: By hand, upload the mockups to each product in the Shopify admin, drag the hero first and assign one image per frame variant. To do it automatically, use a script on Shopify's Admin API or an app with product-edit permission. WallMock's Send to Shopify, in beta, adds your mockups to your products hero first and never deletes your photos.
 
@@ -1204,9 +1204,9 @@ A: It depends on the tool, so check before you connect it. Send to Shopify only 
 Q: Which WallMock plan includes Send to Shopify?
 A: Pro includes 1 store and up to 10 products a month, and the WallMock Studio plan includes up to 3 stores with unlimited products. Lite and Free do not include it during the beta; when it opens to all stores it will be on every plan, with up to 10 products a month on Free, Lite and Pro and unlimited products on the WallMock Studio plan.
 
-## How to Automate Etsy Listing Photos for Wall Art and POD
+## Automate Etsy Listing Photos for Wall Art
 URL: https://wallmock.com/guides/automate-etsy-listing-photos-for-wall-art/
-Automate Etsy listing photos for wall art and POD: make a whole collection's photos in one run, with crops and alt text, then upload them to Etsy.
+For Etsy wall art sellers: make a whole collection's listing photos in one run, with Etsy crops and alt text, then upload. What stays manual.
 
 Short answer: Automate the slow part first: making the photos. Save your rooms and frames once, then make every artwork in every room in one run, with crops for Etsy's 4:3 first photo and alt text on paid plans. Uploading stays a manual step: WallMock doesn't connect to Etsy, so you add the finished photos in Etsy's listing editor.
 
@@ -1221,9 +1221,9 @@ A: Yes for making the photos: WallMock makes room photos for the products you se
 Q: Is WallMock endorsed by Etsy?
 A: No. Etsy is a trademark of Etsy, Inc. WallMock is an independent service and is not affiliated with or endorsed by Etsy.
 
-## Mockup API for Print-on-Demand Companies: What to Look For
+## Mockup API for Print-on-Demand Companies
 URL: https://wallmock.com/guides/mockup-api-for-print-on-demand-companies/
-A checklist for choosing a wall art mockup API: exact art, same output as the app, products, rooms, listing sets, webhooks, sandbox, privacy, speed and cost.
+For POD companies choosing a wall art mockup API: exact art, same output as the app, products, rooms, listing sets, webhooks, sandbox and cost.
 
 Short answer: Look for exact art with a check on every image, the same output as the app your team approves, the products and finishes you sell, a large room library that suits each artwork's ratio, listing sets in one call, webhooks and signed links, a sandbox, clear deletion of artwork, and measured speed and per-image cost. The WallMock API covers these in its current build, priced per image with pilot pricing for early-access partners; it is in early access and not available yet.
 
@@ -1240,7 +1240,7 @@ A: In its current build (early access, not yet available), the WallMock API retu
 
 ## Print Lab Mockups of Your Exact Frames
 URL: https://wallmock.com/guides/print-lab-mockups-of-your-exact-frames/
-A print lab guide to mockups of your own frames: what to record about each frame, keeping art exact, checking against product photos, and delivery.
+For print labs: give sellers mockups of your own frames. What to record about each frame, keeping art exact, checking against photos, delivery.
 
 Short answer: Record each frame as it is made (face width, depth, profile, finish, mat options), render the seller's exact art into rooms with those frames, check every frame against your own product photos, then deliver the images where sellers list. WallMock is building this as a partner frame catalogue, in development; for a partner pilot, talk to us.
 
@@ -1257,7 +1257,7 @@ A: Partly. WallMock renders its own frames and finishes today, and the API (earl
 
 ## White-Label Mockup API for Wall Art Companies
 URL: https://wallmock.com/guides/white-label-mockup-api-for-wall-art-companies/
-A checklist for print labs, POD suppliers and marketplaces choosing a white-label mockup API: exact art, real frames, private presets, delivery, data.
+For print labs, POD suppliers and marketplaces choosing a white-label mockup API: exact art, real frames, private presets, delivery and data. A checklist.
 
 Short answer: Look for exact art with a per-image proof, renders of your real frames rather than flat templates, enough curated rooms, listing-pack output, white-label and private presets, webhooks and signed links, a sandbox, file deletion with no training, and throughput measured on stated hardware. Then pilot it on your own frames before you sign. WallMock's API is in early access, not available yet; white-label is planned for partner agreements.
 
@@ -1272,9 +1272,9 @@ A: Ask for a pilot on your frames before you sign. At WallMock, presets of a par
 Q: How do I test a mockup API before committing?
 A: Use its sandbox to build the integration, then run a pilot with your own frames and a few artworks you have the rights to, and compare the images with your product photos.
 
-## Etsy wall-art mockups after the AI update: a practical guide for POD sellers
+## AI Wall Art Mockups on Etsy After the AI Update
 URL: https://wallmock.com/guides/ai-wall-art-mockup-generator/
-A practical Etsy wall-art mockup workflow: preserve your artwork, match frames and finishes, check size and crop, and build clear POD listing images.
+Don't let an AI generator redraw your art. For Etsy sellers: place your exact print file, match the frame your supplier ships and check a sample first.
 
 Updated: 2026-11-12. Full guide includes dated primary sources, original examples and practical checklists.
 
@@ -1291,9 +1291,9 @@ A: Reuse the artwork source where appropriate, but select and check a representa
 Q: Do room images prove the artwork's physical size?
 A: No. They provide context. Label the offered dimensions and distinguish the image opening from the finished frame's outside size. Treat furniture in a digitally staged scene as context rather than a measured reference.
 
-## Etsy’s AI policy update: a detailed 2026 seller guide
+## Are AI Mockups Allowed on Etsy? 2026 Rules
 URL: https://wallmock.com/guides/are-ai-mockups-allowed-on-etsy/
-Understand Etsy’s 2026 AI update, the 2027 photo-enforcement plan, POD exceptions, seller warnings and practical steps for accurate listings.
+Yes, if the mockup shows the item accurately. What Etsy's 2026 AI update changed for wall art: the unedited-photo rule, POD exceptions and fixes.
 
 Updated: 2026-11-12. Full guide includes dated primary sources, original examples and practical checklists.
 
@@ -1310,9 +1310,9 @@ A: There is no supported automatic ranking promise here. Etsy describes multiple
 Q: Does WallMock guarantee Etsy acceptance?
 A: No. WallMock helps preserve the supplied artwork and configure its presentation. Sellers remain responsible for the actual product and listing; see the terms and marketplace notice.
 
-## Print on Demand Wall Art: How to Choose a Provider (2026)
+## Print on Demand Wall Art Providers Compared
 URL: https://wallmock.com/guides/best-print-on-demand-for-wall-art/
-Printify, Printful, Gelato, Prodigi, Lumaprints and Gooten compared on wall art products, where they print and Etsy and Shopify links, using dated facts.
+Printful or Lumaprints for US buyers, Prodigi or Gelato for the UK and Europe, Printify to choose your printer. Specs, frames and canvas depths compared.
 
 Short answer: No single print-on-demand provider is best for every wall art shop. Choose by three things: the exact product you sell (framed canvas, stretched canvas or framed print), where your buyers live, and whether it connects to Etsy or Shopify. Printify, Printful, Gelato, Prodigi, Lumaprints and Gooten all list wall art and connect to both platforms, but their frames and print locations differ. Order samples before you list. Then make listing photos that match the product you chose.
 
@@ -1329,9 +1329,9 @@ A: Yes. Etsy requires sellers who use production assistance to disclose it on th
 Q: Can I use my own mockups with a print on demand provider?
 A: Yes. Printify lets you upload custom mockups to its Mockup Library. With Printful you add them directly to your Etsy or Shopify listing. Make sure the mockup matches the real product.
 
-## Bulk Upload Wall Art to Printify and Etsy With Room Mockups
+## Bulk Upload Wall Art to Printify and Etsy
 URL: https://wallmock.com/guides/bulk-upload-wall-art-to-printify-and-etsy/
-A step-by-step workflow for a whole wall art collection on Printify and Etsy: one template product, duplicates, bulk publishing, and your own room photos.
+A step-by-step workflow for a whole wall art collection on Printify and Etsy: one template product, duplicates, bulk publishing and your own room photos.
 
 Short answer: Build one Printify product as a template, duplicate it for each artwork and swap the design: Printify keeps the variants, prices, descriptions and provider settings. Make every room photo in one batch, named by artwork. Attach them per product in Printify's Mockup Library, or add them on Etsy and publish later updates with Mockups unticked. Printify can publish selected products together and Etsy can bulk-edit text fields, but photos go on one listing at a time.
 
@@ -1348,9 +1348,9 @@ A: Artworks multiplied by rooms. 20 artworks in 6 rooms is 120 images. WallMock'
 Q: Does WallMock upload to Printify or Etsy?
 A: No. WallMock makes the room photos in bulk; you add them to Printify's Mockup Library or to your Etsy listings yourself.
 
-## Bulk Mockup Workflow Checklist: Naming, Previews, Exports
+## Bulk Wall Art Mockups Without Photoshop
 URL: https://wallmock.com/guides/bulk-wall-art-mockups-without-photoshop/
-A repeatable bulk mockup workflow for wall art collections, without Photoshop: favourite rooms, a saved look, preview checks, the image count, then organised exports.
+A repeatable checklist for bulk wall art mockups with no Photoshop: favourite rooms, one saved look, preview checks, the image count and organised exports.
 
 Short answer: Decide whether you are making separate images of many artworks or one set on a wall. Save a small shortlist of favourite rooms and one frame look, preview a pale, a dark and a colourful piece, and check the planned image count and any unavailable combinations. Then download and name the files by artwork and listing. No Photoshop templates are needed.
 
@@ -1361,9 +1361,9 @@ A: Start with a small shortlist that fits the product: a clear product-led room,
 Q: Should every artwork in a collection use the same frame?
 A: Consistency helps a shop look coherent, but don't force one frame onto every artwork if it misrepresents what you sell.
 
-## Canva Wall Art Mockups: How to Make Them, and Their Limits
+## Canva Wall Art Mockups: How to Make Them, Limits
 URL: https://wallmock.com/guides/canva-wall-art-mockups/
-How to make a wall art mockup in Canva, step by step from Canva's help page, and the checks that matter for framed canvas: crop, frame gap, scale and volume.
+How to make a wall art mockup in Canva, step by step from Canva's help page, and the checks for framed canvas: crop, frame gap, scale and volume.
 
 Short answer: In Canva, open a design, go to Elements, choose the Mockups category, pick a frame or poster scene and drag your artwork onto it, then adjust it with Fill, Fit or Smart Crop. It's quick for one poster or framed print. For framed canvas, check the chosen scene carefully: a fill or crop can trim the composition, the frame comes from that scene, and the documented steps place each design individually.
 
@@ -1380,9 +1380,9 @@ A: Canva's help page describes placing each design into a mockup by hand. For ma
 Q: Can I use Canva mockups on Etsy?
 A: That depends on Canva's licence terms for the elements you use and on Etsy's photo rules. Our mockup licence guide lists what to check.
 
-## Canvas Depth 0.75 vs 1.5 Inch: Thin or Gallery Canvas?
+## Canvas Depth: 0.75 vs 1.25 vs 1.5 Inch (19–38 mm)
 URL: https://wallmock.com/guides/canvas-depth-0-75-vs-1-5-inch/
-Thin 0.75 in canvas or deep 1.5 in gallery canvas? What each depth suits, the depths Printful, Gelato and Prodigi actually make, and how to show depth in photos.
+0.75 in (19 mm) for small or framed pieces, 1.5 in (38 mm) gallery canvas for large unframed ones. Printful, Gelato and Prodigi depths side by side.
 
 Short answer: Thin canvas is about 0.75 in (19 mm) deep and gallery canvas about 1.5 in (38 mm). Thin suits small and medium sizes, framing and a flatter look. Deep canvas stands further off the wall, suits large pieces hung without a frame and shows more of its edge. Providers differ: Printful's standard canvas is 1.25 in, Gelato makes 2 cm and 4 cm, Prodigi 19 mm and 38 mm (checked 2026-10-29). State the exact depth and show it in a side close-up.
 
@@ -1397,9 +1397,9 @@ A: Yes, if the frame is made for that depth. Prodigi's floater, for example, hol
 Q: Does canvas depth change the file size I need?
 A: With image wrap, extra picture covers the sides: a 24 × 36 in front and 1.5 in sides cover 27 × 39 in before supplier-specific folds and bleed. Other edge styles can preserve the front, but still follow the full product template.
 
-## Canvas Print Sizes Chart: Stretched and Framed, by Ratio
+## Canvas Print Sizes Chart (Inches & cm), by Ratio
 URL: https://wallmock.com/guides/canvas-print-sizes-chart/
-Standard canvas print sizes grouped by ratio (1:1, 2:3, 3:4, 4:5, 1:2, 1:3) in inches and centimetres, plus framed canvas sizes and the pixels each size needs.
+Standard canvas sizes in inches and cm for 1:1, 2:3, 3:4, 4:5, 1:2 and 1:3, plus framed canvas sizes and the pixels each size needs to print sharp.
 
 Short answer: Canvas sizes come in ratio families, and one file can fit sizes in its family without cropping if it has enough pixels and the product template preserves the composition. Square: 12×12, 16×16, 20×20, 24×24, 30×30 in. 2:3: 8×12, 12×18, 16×24, 20×30, 24×36, 40×60. 3:4: 9×12, 12×16, 18×24, 24×32, 30×40. 4:5: 8×10, 16×20, 24×30. Panoramic: 1:2 (12×24, 20×40) and 1:3 (12×36, 20×60). Framed canvas lists are shorter: Printful and Gelato stop at 24×36 in (checked 2026-10-29).
 
@@ -1416,7 +1416,7 @@ A: Providers differ, so check. The frame and its gap add to the outside size: wi
 Q: What size canvas goes over a sofa?
 A: About two-thirds to three-quarters of the sofa's width. Over an 84 in sofa that is 56 to 63 in, such as a 40×60 in landscape.
 
-## Canvas vs Framed Print Mockups: Which to Show for Your Art
+## Canvas vs Framed Print Mockups: Which to Show
 URL: https://wallmock.com/guides/canvas-vs-framed-print-mockups/
 How stretched canvas, floating-frame canvas and framed prints with mats change the look of the same artwork, and which presentation suits which buyer.
 
@@ -1429,9 +1429,9 @@ A: Floating-frame canvas and matted framed prints usually read as more premium t
 Q: Should a printable be shown as a canvas?
 A: Usually not. A simple frame can illustrate one way to display the file. State clearly that the download does not include a physical print or frame.
 
-## Canvas Wrap Edges: Mirror vs Image Wrap vs Colour Edge
+## Canvas Wrap Edges: Mirror vs Gallery vs Colour
 URL: https://wallmock.com/guides/canvas-wrap-edges/
-Mirror wrap, image wrap (gallery wrap) or a plain white or black edge: what each does to your canvas art, the file each needs, and how to show the edge to buyers.
+Mirror wrap keeps your whole image on the front; gallery wrap folds part of it round the sides; white or black edges suit graphic art. The file each needs.
 
 Short answer: The edge is the side of a stretched canvas. Image wrap, often called gallery wrap, folds part of the picture round the sides, so the front loses a strip on every side unless your file has extra image. Mirror wrap copies the outer strip onto the sides, so the front stays whole. A colour edge leaves the sides plain white or black. Choose mirror or colour for art with detail near its edges, and image wrap when the picture can spare a border.
 
@@ -1446,9 +1446,9 @@ A: Usually a canvas with plain white sides. Prodigi uses the name for its white 
 Q: Does the edge matter for a framed canvas?
 A: Much less. In a floating frame the sides sit inside the frame, so they are mostly hidden from the front.
 
-## Christmas Wall Art Mockups and Seasonal Listing Photos
+## Christmas Wall Art Mockups and Seasonal Photos
 URL: https://wallmock.com/guides/christmas-and-seasonal-wall-art-mockups/
-How to stage Christmas, autumn and spring wall art listings: when to swap the hero photo, which cues read at thumbnail size, and the seasonal rooms WallMock has.
+Stage Christmas, autumn and spring wall art listings: when to swap the hero photo, which cues read at thumbnail size, and seasonal touches in rooms.
 
 Short answer: Use a seasonal room for one or two photos, not the whole listing. A small tree, tartan cushions or a lit fireplace reads as Christmas at thumbnail size; tulips and daylight read as spring; wool, timber and a fire read as autumn and winter. As a planning starting point, try the seasonal hero six to eight weeks before the date, adjusted for your buyers and delivery cutoffs; keep year-round rooms in the other slots, and swap back afterwards. WallMock has a handful of seasonal rooms, listed below.
 
@@ -1463,9 +1463,9 @@ A: It has the Winter farmhouse living room, with a small Christmas tree and tart
 Q: Can I use seasonal mockups for printables?
 A: Yes. Show the printable in a simple frame with a mat, as buyers will display it, and say clearly that the frame and decor are not included.
 
-## Consistent Etsy Shop Mockups: One Room Set per Collection
+## Consistent Etsy Shop Mockups: One Room Set
 URL: https://wallmock.com/guides/consistent-etsy-shop-mockups/
-Make consistent Etsy shop mockups: choose a small set of rooms, one frame look and one hero style per collection, then reuse them for every artwork in it.
+Give each Etsy collection one small room set, one frame look and one hero style, then reuse them for every artwork. How to choose the rooms.
 
 Short answer: Give each collection its own small room set and reuse it for every artwork in that collection: two or three hero rooms, one scale room, two or three alternative rooms and one frame look. Choose the rooms by the collection's palette, its artwork shape and the product you sell. Keep light, wall colours and styling in one family, so the shop reads as one brand in search, but rotate hero rooms so thumbnails don't look identical.
 
@@ -1478,9 +1478,9 @@ A: Yes. Each collection can have its own room set that suits its palette and buy
 Q: Can I mix canvas and framed prints in one look?
 A: Lead each listing with the product it sells. A collection can offer both, but keep one frame look per listing so the photos match what arrives.
 
-## Etsy Listing Photos for Wall Art: A Plan for All 20 Slots
+## Etsy Listing Photos for Wall Art: All 20 Slots
 URL: https://wallmock.com/guides/etsy-listing-photos-for-wall-art/
-Etsy listing photos for wall art: hero room first, frame close-up second, then scale, flat art, rooms and sizes. About 10 images, plus a 20-slot plan.
+Hero room first, frame close-up second, then scale, flat art, other rooms and sizes. I use about 10 images per artwork; a plan for all 20 slots.
 
 Short answer: Put a hero room first, with the art large and clear, and a close-up of the frame second; then a scale room, the flat artwork, a few different rooms and a sizes image. You don't need all 20 slots: I use about 10 per artwork, each at least 2,000 px on its shortest side and checked at 100% before upload. Etsy allows up to 20 photos and 2 videos, and every slot you use should answer one buyer question.
 
@@ -1495,9 +1495,9 @@ A: Yes, one image of the artwork on its own lets buyers see the full composition
 Q: Do I need a different room for every photo?
 A: Use several different rooms, but repeat the hero room for the detail shot so the sequence feels connected.
 
-## Etsy Print on Demand Integration for Wall Art: 5 Providers
+## Etsy Print on Demand Integrations for Wall Art
 URL: https://wallmock.com/guides/etsy-print-on-demand-integrations-for-wall-art/
-How Printify, Printful, Gelato, Prodigi and Gooten connect to Etsy for wall art, what each sends to your listing, and how to swap their mockups for room photos.
+How Printify, Printful, Gelato, Prodigi and Gooten connect to Etsy for wall art, what each sends to your listing, and how to swap in room photos.
 
 Short answer: All five connect to Etsy, but they work differently. Printify, Printful and Gelato create the listing for you, and Printful and Gelato add it as a draft. Prodigi imports listings you already made on Etsy. Gooten can push a draft or link an existing listing. Each handles photos its own way, so add your room photos the way your provider expects, list it as a production partner, and stay within Etsy's 20 photos.
 
@@ -1514,9 +1514,9 @@ A: Etsy requires at least one unedited photo for most items, with a print-on-dem
 Q: Can WallMock publish to Etsy for me?
 A: No. WallMock makes the room photos; you add them to your Etsy listing or to your provider's mockup library yourself.
 
-## Etsy SEO for Wall Art: Titles, Tags, Attributes for Canvas
+## Etsy SEO for Wall Art: Titles, Tags, Attributes
 URL: https://wallmock.com/guides/etsy-seo-for-wall-art/
-Etsy SEO for framed canvas and framed prints: what Etsy search reads, how to write the title, 13 tags that cover the product, and which attributes to fill.
+Etsy SEO for canvas and framed wall art: what Etsy search reads, how to write the title, 13 tags that cover the product, and which attributes to fill in.
 
 Short answer: Etsy search reads your title, tags and attributes. For canvas and framed wall art, start the title with what the item is ("Misty Mountain Framed Canvas Wall Art"), keep it under 15 words, and use all 13 tags as multi-word phrases of up to 20 characters for product, subject, style, room and size. Fill every attribute your category offers, then let tags cover what attributes can't. Check Etsy Stats for the searches that actually find you.
 
@@ -1531,9 +1531,9 @@ A: Etsy's help page on Stats says search scans titles, tags and attributes. Etsy
 Q: Do attributes count as tags on Etsy?
 A: They are separate fields, but both help buyers find your listing. Fill the attributes your category offers, then use tags for phrases attributes can't express.
 
-## Etsy Thumbnail for Wall Art: A Crop-Safe First Photo
+## Etsy Thumbnail for Wall Art: A Crop-Safe Photo
 URL: https://wallmock.com/guides/etsy-thumbnail-for-wall-art/
-Make an Etsy thumbnail for wall art that survives Etsy's square, portrait and landscape crops: shape, size, where the art sits, and how to check it before you list.
+Make an Etsy first photo for wall art that survives square, portrait and landscape crops: shape, pixel size, where the art sits and how to check.
 
 Short answer: Your Etsy thumbnail is your first listing photo, and Etsy crops it to square, portrait and landscape views in different places. For wall art, use a landscape or square room photo at least 2000 px wide, taken from further back than feels natural, with the whole artwork in the centre and clear space on every side. Then preview it with Etsy's Adjust Thumbnail tool and fix the crop before you publish.
 
@@ -1548,9 +1548,9 @@ A: Drag the photo you want into the first position, then use Adjust Thumbnail in
 Q: Can the thumbnail be a mockup?
 A: Yes, if it accurately shows what the buyer receives. Most listings also need at least one unedited photo of the actual item; print-on-demand items can use an authorised stock mockup instead, according to Etsy.
 
-## Etsy Variations for Wall Art: Size, Frame and a Photo Each
+## Etsy Variations for Wall Art: Size and Frame
 URL: https://wallmock.com/guides/etsy-variations-for-wall-art/
-Set up Etsy variations for wall art: size and frame colour in one listing, canvas or framed print as separate listings, and a linked photo for every frame option.
+Etsy variations for wall art: size and frame colour in one listing, canvas or framed print as separate listings, and a linked photo per frame.
 
 Short answer: Use Etsy variations for size and frame colour, and give each frame colour its own linked photo, made in the same room so only the frame changes. Etsy lets you link a photo to each option of a variation, for up to 20 options. Sell canvas and framed prints as separate listings, because they need different photos, titles and prices. Show sizes in one size guide image rather than one photo per size.
 
@@ -1567,9 +1567,9 @@ A: No. Etsy says variations are not supported for digital listings, so list each
 Q: Do Etsy variations need different prices?
 A: Only if your costs differ. Etsy lets you set different prices, SKUs and quantities for up to 400 option combinations.
 
-## Etsy vs Shopify vs Your Own Site for Wall Art Sellers
+## Etsy vs Shopify for Wall Art Sellers (2026)
 URL: https://wallmock.com/guides/etsy-vs-shopify-for-wall-art/
-Etsy vs Shopify for wall art: who brings the buyers, what each charges per sale, variants and photos for canvas and framed prints, and when to run both.
+Etsy vs Shopify vs your own site for wall art: who brings buyers, the fees per sale, variants and photos for canvas and prints, and when to run both.
 
 Short answer: Etsy offers access to existing marketplace search, without promising traffic or orders. You pay per listing and per sale (USD 0.20 a listing, 6.5% of each sale, plus card processing). Shopify, or your own site, is better once you can bring your own traffic from Pinterest, Instagram, email or ads: you pay a monthly plan and card fees, and you own the brand. A common path is to start on Etsy and add a store later, with the same print-on-demand provider and photos.
 
@@ -1584,9 +1584,9 @@ A: Yes. The main print-on-demand providers connect to both, so one provider can 
 Q: Should I start on Etsy or Shopify?
 A: If you do not have an audience yet, Etsy lets you test a listing in an existing marketplace, without a promise of faster sales. Add a Shopify store once you have repeat buyers or traffic from Pinterest, Instagram or email.
 
-## Floating Frame Canvas Mockups That Match Your POD Supplier
+## Floating Frame Mockups That Match Your Supplier
 URL: https://wallmock.com/guides/floating-frame-canvas-mockups-that-match-your-pod-supplier/
-Floating frame canvas mockups that match Printful, Gelato, Prodigi or Printify frames: gap, face width, colour and sheen, for a whole collection at once.
+Match floating frame canvas mockups to Printful, Gelato, Prodigi or Printify frames: gap, face width, colour and sheen, then a whole collection.
 
 Short answer: A floating frame mockup matches your supplier when it shows the same frame colour, a similar face width and gap, the finish’s sheen and a soft wall shadow. In WallMock, pick one of 8 floating-frame finishes, set Frame width and Floating gap on Lite or Pro, and make a whole collection in every saved room in one run.
 
@@ -1609,7 +1609,7 @@ A: Yes. Try WallMock free with no sign-up and no card: up to three artworks in 8
 
 ## Floating Frame Mockup Tips: Gap, Depth, Colour
 URL: https://wallmock.com/guides/floating-frame-canvas-mockups/
-Floating frame mockup tips: the shadow gap in millimetres and pixels, frame depth, the colour inside the gap and how to match your provider's finish.
+How to make floater frame mockups look right: the shadow gap in mm and pixels, frame depth, the colour inside the gap and matching your provider's finish.
 
 Short answer: A floating frame mockup looks right when five details match the product: a thin, even gap between canvas and frame, the right colour inside that gap, a slim frame face, a shadow that fits the frame's depth, and the frame finish your provider ships. Use real numbers: Prodigi lists a 5 mm gap and 12 mm face, Gelato a 12 mm gap (checked 2026-10-29). Show no glass and no mat, and nothing covering the front of the canvas.
 
@@ -1624,9 +1624,9 @@ A: No. The frame surrounds the canvas without touching its front, so the whole f
 Q: Can I make floating frame mockups for a whole collection?
 A: Yes. In WallMock you save your rooms and the framed canvas look once, then add many artworks. Each one comes out in every chosen room at its own proportions.
 
-## How to Choose Frame and Mat Proportions for Art Mockups
+## Frame and Mat Proportions for Art Mockups
 URL: https://wallmock.com/guides/frame-and-mat-proportions/
-Judge the frame face, depth, mat width and floating gap separately, with a worked example, so the frame in your mockup finishes the picture without resizing it.
+Judge frame face, depth, mat width and floating gap separately, with a worked 20×30 in example, so the frame finishes the picture without resizing the art.
 
 Short answer: Treat the frame face, frame depth, mat width and floating gap as four separate measurements, and keep the artwork the same size while you compare finishes. As a rough front-view estimate, a 20×30 inch print with a 2 inch mat and a ½ inch frame face is about 25×35 inches overall. Start with a slim wood, black or white frame, and match the product you sell.
 
@@ -1637,9 +1637,9 @@ A: Add twice the mat width and twice the frame face to each artwork dimension: a
 Q: What is a floating gap?
 A: The reveal between a canvas and the floating frame around it, which makes the canvas look as if it floats inside the frame.
 
-## Which Frame Colour for Wall Art? Black, White, Oak or Gold
+## Which Frame Colour for Wall Art? 7 Finishes
 URL: https://wallmock.com/guides/frame-colours-for-wall-art-mockups/
-Compare one artwork in seven frame finishes and as stretched canvas: black, white, oak, walnut, espresso, gold and silver, in the same room.
+One artwork in seven frame finishes and as stretched canvas, in one room: black, white, oak, walnut, espresso, gold and silver, and what suits each.
 
 Short answer: If your supplier offers them, start by comparing black and natural oak. Black sharpens photography, line art and typography; white feels light in coastal, Scandinavian and nursery rooms; oak, walnut and espresso warm up paintings and botanicals; gold suits classic paintings and still lifes; silver suits cool palettes. Match the frame to the artwork first and the room second, and show only finishes you sell.
 
@@ -1650,7 +1650,7 @@ A: It helps if the frame relates to something in the room, such as a wooden tabl
 Q: Is a gold frame old-fashioned?
 A: Not with the right art. Thin gold floating frames look contemporary with abstracts and botanicals; ornate gold suits classic paintings.
 
-## Framed Canvas vs Stretched Canvas: Which to Sell and Show
+## Framed Canvas vs Stretched Canvas: Which to Sell
 URL: https://wallmock.com/guides/framed-canvas-vs-stretched-canvas/
 Framed or stretched canvas? Sizes, depths and frames at Printful, Gelato and Prodigi, which art suits each product, and the listing photos each one needs.
 
@@ -1667,9 +1667,9 @@ A: It depends on the provider. Printful's and Gelato's framed canvas lists stop 
 Q: Should I offer framed and stretched canvas in one listing?
 A: You can. Use the product as a variation and link a photo to each option, ideally the same room with only the product changed.
 
-## Framed Print With or Without a Mat: Which to Offer
+## Framed Print With or Without a Mat?
 URL: https://wallmock.com/guides/framed-print-with-or-without-mat/
-When a mat helps a framed print and when to skip it, what Printful and Prodigi offer, how a mat changes the visible art size, and how to show the mat in mockups.
+When a mat helps a framed print and when to skip it, what Printful and Prodigi offer, how a mat shrinks the visible art, and how to show it.
 
 Short answer: Offer a mat when the art is small, detailed or photographic, or when the buyer wants a gallery look: photography, botanicals, line art and smaller prints. Skip it for bold graphic posters, large prints and edge-to-edge designs. A mat shrinks the visible art inside a given frame, so state both the print size and the frame size. In mockups, show the mat at the width you ship: Prodigi uses 2.5 to 5 cm mounts depending on frame size (checked 2026-10-29).
 
@@ -1684,9 +1684,9 @@ A: Either works; white is crisper and off-white softer. Use the colour your prov
 Q: Can I sell framed prints with and without a mat in one listing?
 A: Yes. Add the mat as a variation and link a photo to each option, ideally the same room with only the mat changed.
 
-## Set of 3 Wall Art: Presenting Pairs, Trios and Sets
+## Set of 3 Wall Art: Presenting Pairs and Trios
 URL: https://wallmock.com/guides/gallery-wall-mockups-pairs-and-trios/
-Spacing, alignment and room choice for selling art as pairs, sets of three and sets of four, with the gaps that look intentional rather than accidental.
+Sell a set of 3 as one composition: equal 3–6 in gaps, a shared centre line, matching frames and a group about two thirds of the furniture width.
 
 Short answer: Present a wall art set of three as one composition: equal gaps of about 3–6 inches (8–15 cm), a shared centre line, matching frames, and a group about two thirds to three quarters as wide as the furniture below. Show the set together on one wall, then each piece alone, and say exactly what the buyer receives.
 
@@ -1697,9 +1697,9 @@ A: About two thirds to three quarters of the sofa's width for the whole group, c
 Q: Should a set of 3 be one image split into three?
 A: It can be. A split panorama reads as one artwork; three related pieces read as a series. Both sell; say clearly which one the buyer receives.
 
-## Gelato Mockup Generator: Mockup Studio vs Room Mockups
+## Gelato Mockups for Wall Art: Studio vs Rooms
 URL: https://wallmock.com/guides/gelato-mockups-for-wall-art/
-What Gelato's built-in mockups and Mockup Studio do for posters, framed prints and canvas, who can use Mockup Studio, and when to add your own room photos.
+Gelato's publish mockups and Mockup Studio for wall art: what each does, who can use them, and why your own room photos should lead the listing.
 
 Short answer: Gelato gives you two mockup tools. Every product gets scenes to choose from when you publish to Etsy or Shopify. Mockup Studio, built for wall art, lets you pick a background scene, size and place the product, add layers and download the result; Gelato says it is for Gelato+ subscribers and that others can try it. Use them for product views, and add your own room photos when you want the same rooms and frame across a whole collection.
 
@@ -1716,9 +1716,9 @@ A: Yes. Gelato's canvas guide states a 12 mm gap between the canvas and the fram
 Q: Do Gelato framed posters arrive assembled?
 A: Not by default. Gelato ships the frame and poster separately in one package, unless you turn on its Ready-to-Hang option.
 
-## Gelato vs Printify vs Printful for Canvas and Framed Prints
+## Gelato vs Printify vs Printful for Wall Art
 URL: https://wallmock.com/guides/gelato-vs-printify-vs-printful-wall-art/
-Gelato, Printify and Printful compared for wall art only: canvas depth, framed canvas, framed posters, where they print, samples and mockups, from their own pages.
+Gelato, Printify and Printful compared for wall art only: canvas depth, framed canvas, framed posters, where they print, samples and mockups.
 
 Short answer: Compare the exact product you intend to sell, its sample quality, available sizes and finishes, delivery regions and total cost. Gelato, Printify and Printful offer different ranges; a provider name alone does not specify the canvas depth or frame. Check the current product page and order a sample before building listings around it.
 
@@ -1735,9 +1735,9 @@ A: Gelato and Printify say they don't. Gelato offers 30% off a first sample orde
 Q: Which prints closest to buyers in Europe?
 A: Gelato routes orders to local partners in 32 countries. Printful has centres in Barcelona and Birmingham, and Birmingham only ships to UK addresses. On Printify, choose a provider located in Europe.
 
-## Giclée vs Poster Print vs Fine-Art Paper: What to Say
+## Giclée vs Poster vs Fine-Art Paper: What to Say
 URL: https://wallmock.com/guides/giclee-vs-poster-vs-fine-art-paper/
-What giclée, poster and fine-art paper mean, what Gelato, Prodigi, Printful and Printify say about their papers, and the honest words to use in your listings.
+What giclée, poster and fine-art paper mean, what Gelato, Prodigi, Printful and Printify say about their papers, and honest words to use in your listings.
 
 Short answer: Giclée means an inkjet print made with pigment, archival-quality inks, usually on fine-art paper or canvas. It names a printing process, not a particular paper or quality grade. A poster is a print format; its paper, weight and printing process vary by product. Fine-art paper is heavier archival stock, such as Gelato's 250 gsm archival matte (checked 2026-10-29). In listings, use your provider's exact paper name and weight, and say giclée or archival only when your provider says it for that product.
 
@@ -1754,9 +1754,9 @@ A: Matte reduces paper sheen and can suit paintings and illustration; glass or a
 Q: What does gsm mean?
 A: Grams per square metre: the weight of the paper. A higher number means a heavier, usually thicker sheet.
 
-## How to Make Wall Art Mockups for Etsy, Step by Step
+## How to Make Wall Art Mockups for Etsy
 URL: https://wallmock.com/guides/how-to-make-wall-art-mockups-for-etsy/
-A practical workflow for Etsy print sellers: prepare the artwork, pick rooms that fit its shape, choose the frame, keep the art exact and export listing-ready images.
+How I make wall art mockups for my Etsy shop: true-ratio file, close rooms that fit the shape, the exact frame, about 10 images at 2,000 px+.
 
 Short answer: Start from your full-resolution file at its true ratio. Pick three to five rooms whose free wall fits the artwork's shape, show the frame or canvas you actually sell at a believable size, and check that the art in the mockup matches your file. Export large images and check them at thumbnail size. Set up the rooms and frame once and reuse them for the whole collection, so every listing looks consistent.
 
@@ -1769,9 +1769,9 @@ A: They should show a believable size and should not suggest a size you don't se
 Q: Do I need Photoshop to make wall art mockups?
 A: No. Template files need Photoshop or a similar editor, but browser-based tools, including WallMock, place the artwork for you. Photoshop gives the most manual control; a dedicated tool is faster for whole collections.
 
-## How to Price Wall Art on Etsy: Framed Canvas and Prints
+## How to Price Wall Art on Etsy: Canvas and Prints
 URL: https://wallmock.com/guides/how-to-price-wall-art-on-etsy/
-Price print-on-demand framed canvas and framed prints on Etsy: provider cost, Etsy's fees and your margin, with a formula and a worked table for each size.
+Price print-on-demand framed canvas and framed prints on Etsy from provider cost, Etsy's fees and your margin, with a formula and a worked table.
 
 Short answer: To price wall art on Etsy, add your provider's product and shipping cost, then divide by what is left after Etsy's percentage fees and your target margin. In the US, Etsy takes 6.5% of the item price and shipping, 3% plus USD 0.25 for card processing, and USD 0.20 per listing. In a simplified US example excluding sales tax, ads, discounts and overhead, a 30% contribution margin gives price = (cost + 0.45) ÷ 0.605. Price every size and frame separately, because each costs a different amount to make.
 
@@ -1805,9 +1805,9 @@ A: Most listings need one unedited photo of the actual item. Etsy's policy has a
 Q: Does WallMock connect to my Etsy shop?
 A: No. WallMock makes the listing photos; you download them and upload them in Etsy's listing editor. It never asks for your Etsy login or any permission on your shop.
 
-## How to Sell Wall Art on Etsy: Products, Photos, Mockups
+## How to Sell Wall Art on Etsy: Products and Photos
 URL: https://wallmock.com/guides/how-to-sell-wall-art-on-etsy/
-Sell wall art on Etsy with the right product, Etsy's current photo rules and listing mockups that match the print: framed canvas, framed prints and posters.
+Sell wall art on Etsy, printable or printed: pick the product, follow Etsy's current photo rules and make mockups that match what buyers receive.
 
 Short answer: To sell wall art on Etsy, decide whether you sell printables or physical prints. For prints, make them yourself or use a print provider you list as a production partner. Then build listings with up to 20 photos. Etsy needs images that show exactly what buyers receive, and usually at least one unedited photo of the real item. Add room mockups that match your frame and size, and disclose AI if you used it to make the art.
 
@@ -1828,9 +1828,9 @@ A: Yes. If a print-on-demand company makes your items, add it as a production pa
 Q: Do I have to disclose AI on Etsy?
 A: If an item is created with AI, Etsy requires you to say so in the listing description. That applies to the artwork itself. Edited listing photos have separate rules: they must not make the item look different. Etsy also recommends noting in your description if any listing photos were edited with AI.
 
-## Large and Oversized Canvas Mockups: Showing Scale Honestly
+## Large Canvas Mockups: Showing Scale Honestly
 URL: https://wallmock.com/guides/large-canvas-mockups/
-How to list 40×60 and 48×72 in canvas honestly: which walls fit, the ceiling check, a size guide image, sample photos, and room mockups that don't oversell scale.
+List 40×60 and 48×72 in canvas honestly: which walls fit, the ceiling check, a size guide image, sample photos and mockups that don't oversell.
 
 Short answer: Oversized canvas is where room photos most often mislead, so pair every room mockup with plain numbers. State the canvas size and the outside size in inches and centimetres, add a size guide image drawn from real measurements, and check that the piece fits. A 40×60 in landscape suits an 80–90 in sofa. A 48×72 in portrait is 6 ft tall and won't fit above a sofa under an 8 ft ceiling. Use room photos for style, not as proof of size.
 
@@ -1845,9 +1845,9 @@ A: Partly. Enter your artwork's real size in centimetres or inches (long side 4 
 Q: What resolution does a 48×72 canvas need?
 A: 7,200 × 10,800 px at 150 DPI, or 14,400 × 21,600 px at 300 DPI. Add the wrap if the image continues round the sides.
 
-## Metal Print vs Metal Frame: Which Wall Art Product?
+## Metal Print vs Metal Frame: The Difference
 URL: https://wallmock.com/guides/metal-print-vs-metal-frame/
-A metal print has art on an aluminum panel; a metal frame holds a paper print. Compare the look, finish, sample checks, and what to show buyers.
+A metal print puts the art on an aluminium panel; a metal frame holds a paper print. The look, the finish, sample checks and what to show buyers.
 
 Short answer: A metal print is artwork printed directly on a coated aluminium panel, usually with no visible frame or mat. A metal-framed print is a paper print inside a slim metal frame, often with a mat. Show the one you ship. WallMock makes mockups of both: metal prints in Gloss, High gloss or Matte, and aluminium framed prints in black, gold or silver.
 
@@ -1864,9 +1864,9 @@ A: Yes. In the Studio, choose Metal, then Metal print for a frameless aluminium 
 Q: Which surfaces can a WallMock metal print show?
 A: Gloss (the default, a soft sheen on the side the room light comes from), High gloss (a clear reflection of the room's window) or Matte (no sheen, low glare). WallMock does not show brushed aluminium.
 
-## Glossy vs Matte Metal Print Mockups for Etsy
+## Glossy vs Matte Metal Print Mockups Compared
 URL: https://wallmock.com/guides/glossy-vs-matte-metal-print-mockups/
-Gloss, High gloss and Matte metal print mockups compared side by side with real WallMock renders: what each shows, when to choose it, and what to check.
+Gloss, High gloss and Matte metal print mockups side by side, made with WallMock: what each surface shows, when to choose it and what to check.
 
 Short answer: Show the surface your provider ships. In the WallMock metal print mockup generator, choose Metal, then Metal print, then Gloss (the default, a soft sheen from the room light), High gloss (a clear window reflection) or Matte (no sheen, low glare). Same art, same room, one choice apart. Pick the one closest to your sample, and show brushed metal with a real sample photo.
 
@@ -1885,9 +1885,9 @@ A: No. WallMock shows Gloss, High gloss and Matte. If your provider sells brushe
 Q: Can I try metal print mockups for free?
 A: Yes. Try Free needs no sign-up and no card: it makes watermarked previews with up to three artworks in 8 sample rooms. A free account adds 10 watermark-free 4K (4096 px) downloads every 30 days. Paid plans add more images, sets and listing kits.
 
-## Mockup Licences and Commercial Use: Etsy, Shopify, Printify
+## Mockup Licences and Commercial Use for Sellers
 URL: https://wallmock.com/guides/mockup-licences-and-commercial-use/
-What mockup licences usually allow and forbid, what to check before using bought, free or generated mockups on Etsy, Shopify and Printify, and WallMock's terms.
+Can you sell with bought or free mockups? Usually, if the licence allows commercial use. What to check for Etsy, Shopify and Printify, and our terms.
 
 Short answer: Usually yes, for selling your own artwork, but the licence decides. Most mockup licences let you show your design in the scene on listings, stores and ads, and forbid reselling the empty scene or turning it into your own templates. Free mockups vary the most, so check for attribution and limits. Etsy adds its own rule: a stock mockup for a print-on-demand item must be authorised by its owner. This is general information, not legal advice.
 
@@ -1904,9 +1904,9 @@ A: Yes. The terms say the licence to the room scenes and frames in your finished
 Q: Is this legal advice?
 A: No. It is general information to help you read a licence. For a specific question about your rights, ask the licensor or a lawyer.
 
-## Mockups for Printable Wall Art (Digital Downloads)
+## Mockups for Printable Wall Art: What to Show
 URL: https://wallmock.com/guides/mockups-for-printable-wall-art/
-What buyers of printable art need to see before they buy: the art in a room, the frame they'll likely use, the ratios included and how printing works.
+What buyers of printable art need to see: the art framed in a room, the frame they will likely use, the ratio files included and how to print.
 
 Short answer: Show a printable the way buyers will display it: in a thin black, white or natural oak frame with a white mat, in three to five rooms. Say 'digital download, no physical item shipped' in the first lines and on one image, add an image listing the ratio files and the sizes each prints, and explain how to print. Keep the artwork exact and the frame consistent across the listing.
 
@@ -1917,9 +1917,9 @@ A: Many sellers include five ratio files (2:3, 3:4, 4:5, 11×14 and ISO A) so bu
 Q: Should I put a watermark on printable mockups?
 A: Many sellers add a small, subtle mark to mockups to discourage copying. Keep it away from the centre of the art so it doesn't spoil the hero image.
 
-## Panoramic and Tall Art Mockups: 3:1 and 1:3 Wall Art
+## Panoramic and Tall Art Mockups: 3:1 and 1:3
 URL: https://wallmock.com/guides/panoramic-and-tall-art-mockups/
-Wide panoramas and tall narrow prints need very different rooms. Where to place them, how big to show them, common sizes and the mistakes to avoid.
+Wide 3:1 panoramas and tall 1:3 prints need very different walls. Where to place them, how big to show them, common sizes and the mistakes to avoid.
 
 Short answer: Show a 3:1 or 2:1 panorama above something long, such as a sofa, bed or sideboard, using roughly two thirds of its width and 6–10 inches (15–25 cm) of clearance as styling starting points, not measurements from the room photo. Show a 1:3 or 1:2 tall print on a narrow wall: a pier between doors, a niche, a stairwell or beside a window. Keep the true proportions, and never crop either shape to fit a standard template.
 
@@ -1930,9 +1930,9 @@ A: On a narrow wall: between two doors, beside a window, in a niche or on a stai
 Q: Can I split a panorama into three canvases?
 A: Yes. A triptych reads as one artwork across three pieces; keep the gaps even and say clearly that the buyer receives three panels.
 
-## PSD Frame Mockups vs an Online Generator: Time and Cost
+## PSD Frame Mockups vs an Online Generator
 URL: https://wallmock.com/guides/photoshop-frame-mockups-vs-online-generator/
-How PSD smart-object frame mockups work, where they break for canvas and ratios, and a simple way to compare time and cost per listing with an online generator.
+How PSD smart-object frame mockups work, where they break for canvas and ratios, and a simple sum for time and cost per listing vs a generator.
 
 Short answer: A PSD frame mockup is a Photoshop file with a smart object where your art goes: you replace its contents, check the fit and export, once per design per template. It gives full control and works with your own photos, but each template suits one ratio and each image needs checking; actions and scripts can automate some of the work. Cost per image = template price ÷ images made + (minutes ÷ 60) × your hourly value. Time yourself on five designs, then compare.
 
@@ -1949,9 +1949,9 @@ A: Partly. Photoshop actions and scripts can repeat the steps, but someone has t
 Q: Can WallMock use my own PSD or room photo?
 A: No. WallMock places your artwork in its own curated rooms; it doesn't take uploads of PSD templates or your own room photos.
 
-## Print Colours vs Screen: What Wall Art Sellers Can Check
+## Print Colours vs Screen: What Sellers Can Check
 URL: https://wallmock.com/guides/print-colours-vs-screen/
-A practical colour-check workflow for wall art sellers: use your print provider’s file profile, compare under steady light, and use a sample for the final check.
+Why prints look different from your screen, and a practical colour check for wall art sellers: your provider's profile, steady light and a sample.
 
 Short answer: A screen makes colour with light; a print reflects light from ink and paper or canvas. They cannot be expected to look identical in every room or on every device. Use the file settings your print provider specifies, check bright and deep colours carefully, and order a physical sample before making a colour-sensitive promise to buyers.
 
@@ -1962,9 +1962,9 @@ A: No. Use the colour profile specified by your print provider. For example, Pri
 Q: Is a room mockup a colour proof?
 A: No. A room mockup shows how the artwork and product could look in a room. It does not prove the exact printed colour, paper, canvas or finish.
 
-## Print on Demand Sample Order: Check It Against Your Mockup
+## Print on Demand Sample Check Against Your Mockup
 URL: https://wallmock.com/guides/print-on-demand-sample-check/
-How to order a wall art sample from Printify, Printful, Gelato or Prodigi, and a checklist to compare its colour, frame, depth, gap and mat with your mockup.
+Order a wall art sample from Printify, Printful, Gelato or Prodigi, then compare its colour, frame, depth, gap and mat with your mockup. A checklist.
 
 Short answer: Order one sample of your best seller in the frame colour you'll show, then compare it with your mockup in daylight: frame colour and width, depth, the gap on a floating frame, mat width, edges, colours and sharpness. Change the mockup to match the product, not the other way round. Printify and Gelato don't give free samples; Printful, Gelato and Prodigi offer sample discounts with conditions. Photograph the sample too: Etsy wants an unedited photo for most items.
 
@@ -1981,9 +1981,9 @@ A: New sellers get 30% off the product cost of a first sample order within 48 ho
 Q: Do I need a photo of the real item on Etsy?
 A: For most items, Etsy requires at least one unedited photo of the actual item. Print-on-demand sellers may use an authorised stock photo mockup instead; a photo of your sample is the simplest option.
 
-## Print Ratios and Sizes for Wall Art: 2:3, 3:4, 4:5, A Sizes
+## Print Ratios and Sizes: 2:3, 3:4, 4:5 and A Sizes
 URL: https://wallmock.com/guides/print-ratios-and-sizes-for-wall-art/
-Which print sizes share a ratio, the files digital-download sellers usually include, and the pixels needed at 300 DPI. Inch and centimetre sizes, with tables.
+Which print sizes share a ratio, the files printable sellers usually include, and the pixels needed at 300 DPI, in inches and centimetres, with tables.
 
 Short answer: Every print size belongs to a ratio family: 2:3 (4×6 to 24×36), 3:4 (18×24), 4:5 (8×10, 16×20), 11:14, ISO A (A4 to A1, about 1:1.41) and 1:1. A file fits sizes in its own family without cropping, provided it has enough pixels, and needs cropping or borders for any other. For 300 DPI, multiply the inches by 300: a 24×36 inch print needs 7200×10800 pixels.
 
@@ -1996,9 +1996,9 @@ A: 7200×10800 pixels at 300 DPI. Many sellers accept 150–200 DPI for prints t
 Q: Which ratio should I make my artwork?
 A: 2:3 covers several inch sizes; add an ISO A version if those are sizes your buyers need. If you sell digital downloads, prepare a file for each main ratio.
 
-## Printable Wall Art vs Print on Demand: Costs and Photos
+## Printable Wall Art vs Print on Demand: Profit
 URL: https://wallmock.com/guides/printable-wall-art-vs-print-on-demand/
-Digital downloads vs print-on-demand framed prints and canvas: profit per sale worked out with Etsy's fees, the sales you need, and what each listing must show.
+Digital downloads vs print-on-demand framed prints and canvas: profit per sale with Etsy's fees, the sales you need, and what each listing must show.
 
 Short answer: Printables keep most of a small price; print-on-demand framed prints and canvas keep a smaller share of a much larger one. With Etsy's 6.5% transaction fee, 20-cent listing fee and an assumed 4% processing fee, our simplified example keeps about 7 US dollars from an 8-dollar printable and about 23.50 from a 60-dollar framed print that costs 30 to make and ship: one framed sale is worth about three and a half printable sales. Printable photos show the file framed; print-on-demand photos show the exact product.
 
@@ -2013,9 +2013,9 @@ A: Yes. Buyers want to see the art framed in a room. Etsy also asks digital list
 Q: Do print-on-demand listings need a photo of the actual product?
 A: Etsy requires at least one unedited photo for most items. For print-on-demand items, it allows a stock photo mockup if its owner has authorised its use.
 
-## Printful Canvas Mockups: Framed, Thin and Standard Canvas
+## Printful Canvas Mockups: Framed, Thin, Standard
 URL: https://wallmock.com/guides/printful-canvas-mockups/
-Printful's canvas, thin canvas and framed canvas for mockups: depths, frame colours, what its free generator gives you, and the room photos to add yourself.
+Printful's canvas, thin canvas and framed canvas for mockups: depths, frame colours, what its free generator gives you and the room photos to add.
 
 Short answer: Printful's free mockup generator shows your design on its canvas products, from clean studio backgrounds to lifestyle scenes, and sends the mockups you pick to your store. It can't take mockups made elsewhere, so room photos go straight into your Etsy or Shopify listing. The current Canvas (in) page lists a 1.25 in depth, Thin Canvas lists 0.75 in, and Framed Canvas lists a 1.25 in frame thickness. Check the exact product and variant.
 
@@ -2034,7 +2034,7 @@ A: Only 12×12 in, according to Printful's sample order article, with a 20% disc
 
 ## Printful Mockups for Framed Posters and Canvas
 URL: https://wallmock.com/guides/printful-mockups-for-framed-posters/
-How Printful's mockup generator works for framed posters and canvas, fixes for mockups that don't show or update, and how to use your own room mockups.
+How Printful's mockup generator works for framed posters and canvas, fixes for mockups that don't update on Etsy, and how to add your room photos.
 
 Short answer: Printful makes free mockups for its products. You pick a main mockup and extra styles when you publish a framed poster or canvas to your store. If they don't update on Etsy, check whether the listing already has 20 images, or the integration adds new mockups without removing old ones. You can't upload your own mockups to Printful. Add your room photos directly to the Etsy or Shopify listing instead.
 
@@ -2051,9 +2051,9 @@ A: Yes. Printful lists framed posters on matte or luster photo paper from 8×10 
 Q: Printful vs Printify for posters: which has better mockups?
 A: Both give free product mockups. Printify lets you upload custom mockups into its library; Printful asks you to add them in your store. With either provider you can add your own room photos that match your exact product.
 
-## Printify Framed Canvas: Products, Sizes, Frames and Photos
+## Printify Framed Canvas: Sizes, Frames, Photos
 URL: https://wallmock.com/guides/printify-framed-canvas/
-Printify's framed canvas products compared: frame colours, sizes, hanging hardware, where to find the depth, samples, and listing photos that match the product.
+Printify's framed canvas compared: frame colours, sizes, hanging hardware, where to find the depth, samples, and listing photos that match.
 
 Short answer: Printify sells framed canvas through several print providers, so the frame, sizes and depth depend on the product you pick. Its framed canvas page lists gallery canvas wraps in black or walnut frames (17 portrait sizes from 5×7 to 32×48 in), a landscape version up to 60×20 in, and an eco matte canvas in a black pine frame. Find the depth in each product's size guide, order one sample, then make room photos in the same frame colour.
 
@@ -2089,7 +2089,7 @@ A: Yes. Printify's canvas page lists stretched, gallery-wrapped and framed canva
 Q: Can I use WallMock mockups with Printify products?
 A: Yes. Use the same artwork file, choose the matching product and frame in WallMock, then upload the images to Printify's Mockup Library or straight to your Etsy or Shopify listing.
 
-## Prodigi Mockup Generator: Framed Canvas, Frames and Mounts
+## Prodigi Mockups: Framed Canvas, Frames, Mounts
 URL: https://wallmock.com/guides/prodigi-mockups-for-wall-art/
 Prodigi's 3D and AI mockups for wall art, the framed canvas, box frame and mount specs your photos must match, and when to add your own room photos.
 
@@ -2108,9 +2108,9 @@ A: Not currently, according to Prodigi's Etsy FAQ. Create the listing on Etsy fi
 Q: Does Prodigi framed canvas come with hanging hardware?
 A: No. Prodigi's framed canvas page says hanging equipment is not included, so say so in your listing.
 
-## Prodigi vs Gelato (2026): Framed Prints and Canvas
+## Prodigi vs Gelato (2026): Framed Prints, Canvas
 URL: https://wallmock.com/guides/prodigi-vs-gelato/
-Prodigi and Gelato compared for wall art sellers in the UK, EU and US: framed canvas gap and depth, frames, mounts, where each prints, samples and mockups.
+Prodigi for mats, big framed canvas and gold or silver frames; Gelato for a bold 12 mm gap and ready-to-hang canvas. UK, EU and US differences compared.
 
 Short answer: Prodigi suits sellers who want detailed specs and more frame choice: a floater framed canvas with a 5 mm gap in six colours, box and classic frames, and optional mounts in three colours, fulfilled from the UK, EU, US and Australia. Gelato suits sellers who want a wide local network (32 countries) and a simpler range: framed canvas in three colours with a 12 mm gap, and framed posters in wood or metal. Check the regional differences, then order a sample.
 
@@ -2127,9 +2127,9 @@ A: Prodigi's framed canvas runs from 4×6 in to 55×55 in. Gelato's comes in 13 
 Q: Do Prodigi and Gelato give sample discounts?
 A: Prodigi offers 50% off a first sample order. Gelato offers new sellers 30% off the product cost of a first sample order within 48 hours of sign-up, up to 50€ off.
 
-## Replace Printify and Printful Mockups on Etsy and Shopify
+## Replace Printify and Printful Mockups With Yours
 URL: https://wallmock.com/guides/replace-printify-and-printful-mockups/
-Step by step: swap Printify and Printful default mockups for your own room photos on Etsy and Shopify, and the settings to check before and after republishing.
+Swap Printify and Printful mockups for your own room photos on Etsy and Shopify: the two Printify routes, Printful's limits and what breaks the sync.
 
 Short answer: Both Printify and Printful let you use your own photos in Etsy or Shopify; republishing over them and editing variants or SKUs are the real risks. With Printify, either upload your images in its Mockup Library, or add them on Etsy or Shopify and untick Mockups every time you republish. Printful can't take your files, so add them in your store, keep a photo slot free on Etsy, and check the listing after any mockup refresh. Use the provider’s documented workflow for product changes, then check the live listing.
 
@@ -2146,9 +2146,9 @@ A: Shopify allows up to 250 images, 3D models or videos per product, with one im
 Q: Does WallMock upload photos to Printify, Printful or Etsy?
 A: No. WallMock makes the room photos; you upload them to your provider's mockup library or your store yourself.
 
-## Room Mockup vs White Background vs Close-Up for Wall Art
+## Room Mockup vs White Background vs Close-Up
 URL: https://wallmock.com/guides/room-mockup-vs-white-background/
-Room mockup vs white background vs close-up for wall art listings: what each photo answers, which goes first, and the unedited photo Etsy asks for on most listings.
+Room scene, white background or close-up for wall art listings: what each photo answers, which goes first, and the unedited photo Etsy asks for.
 
 Short answer: Room scenes, plain views and close-ups answer different questions. Try a room scene first when it is the clearest accurate view of your product, and check it at thumbnail size. Use one plain or white background image for the full, uncropped artwork, and a close-up for the frame, mat or canvas edge. On Etsy, add an unedited photo of a real sample too: most listings need one, with an exception for authorised print-on-demand mockups.
 
@@ -2161,9 +2161,9 @@ A: Most Etsy listings need at least one unedited photo of the actual item. Print
 Q: What should a wall art close-up show?
 A: The detail buyers can't see from across a room: the floating gap and frame on a framed canvas, the edge and depth on a stretched canvas, or the mat and frame corner on a framed print.
 
-## Choosing Room Styles and Wall Colours for Wall Art Mockups
+## Room Styles and Wall Colours for Art Mockups
 URL: https://wallmock.com/guides/room-styles-and-wall-colours-for-wall-art-mockups/
-When to use neutral, tinted and bold rooms; which interior styles suit which art; and how to match wall colours to your artwork's palette.
+Use cream and warm-neutral rooms for about 60% of mockups, soft tints for 25% and bold walls for 15%, kept for subject art. Close, lived-in rooms sell.
 
 Short answer: Try a warm neutral room (white, cream, greige or sand) for the first photo, then check whether the art is clear at thumbnail size. Add soft tinted rooms such as sage or blush for gentle contrast, and one bold room in deep green, navy or terracotta as an alternative. Match the interior style to your buyer, and let the wall contrast with the artwork's main colours.
 
@@ -2174,9 +2174,9 @@ A: A consistent palette of rooms makes a shop look coherent. Keep a few signatur
 Q: Which room style suits which art?
 A: Scandinavian and Japandi rooms suit minimal line art, photography and abstracts; boho and Mediterranean rooms suit warm, textured and botanical work; classic rooms with mouldings suit traditional paintings and gold frames; nurseries suit playful prints and soft colours.
 
-## How to Sell Photography Prints as Canvas and Framed Prints
+## Sell Photography Prints as Canvas and Framed
 URL: https://wallmock.com/guides/sell-photography-prints-canvas-and-framed/
-Prepare photography for paper prints, canvas and framed products: check pixels, crop, material, colour and the listing images your buyer sees.
+For photographers: prepare photos for paper prints, canvas and framed products. Check pixels, crop, material and colour, and the listing images buyers see.
 
 Short answer: Choose the product per photo: framed prints with a mat for fine detail, black-and-white and smaller sizes; canvas or floating-frame canvas for big, soft, painterly scenes. Check the file: a 24-megapixel image (6000 × 4000 px) prints 20 × 13.3 inches at 300 DPI. Crop to standard ratios, order a sample, then list each photo with a room hero, a close-up of the frame and a scale shot, through a print-on-demand partner on Etsy or Shopify.
 
@@ -2191,9 +2191,9 @@ A: Camera files are usually 3:2, which prints at 4×6, 8×12, 12×18, 16×24, 20
 Q: Can I use mockups for photography listings on Etsy?
 A: Yes, if they accurately show what the buyer receives. Most items also need an unedited photo; print-on-demand items may use an authorised stock mockup instead.
 
-## How to Sell Wall Art on Shopify with Print on Demand
+## How to Sell Wall Art on Shopify With POD
 URL: https://wallmock.com/guides/sell-wall-art-on-shopify/
-Set up framed canvas, framed prints and posters on Shopify with a print-on-demand app: products, variants, image sizes and the photos each product page needs.
+Set up framed canvas, framed prints and posters on Shopify with a print-on-demand app: products, variants, image sizes and the photos each page needs.
 
 Short answer: Install a print-on-demand app such as Printify, Printful or Gelato from the Shopify App Store, create each artwork as a product in the provider's app, and publish it to your store. Shopify allows up to three options and 2,048 variants per product, but your theme, provider app or sales channel may support fewer. Check the size × frame combinations you intend to sell. Then replace generic provider images with room photos that match each frame and size, around 2048 × 2048 px.
 
@@ -2210,9 +2210,9 @@ A: Either works. Separate products keep photos and prices clear; one product wit
 Q: Does WallMock upload images to Shopify?
 A: No. WallMock makes the room images; you download them and add them to your Shopify products or variants.
 
-## Selling AI or Midjourney Art Prints on Etsy: Disclosure
+## Selling AI Art Prints on Etsy: Disclosure Rules
 URL: https://wallmock.com/guides/selling-ai-art-prints-on-etsy/
-What to check before selling AI-assisted wall art on Etsy: disclosure, the tool's terms, originality, print quality and honest mockups.
+What to check before selling AI-assisted wall art on Etsy: the disclosure Etsy asks for, the tool's terms, originality, print quality and honest mockups.
 
 Short answer: Etsy's creativity standards allow items designed with AI tools from your own prompts, but you must disclose AI use in the listing. Before you list, check your image generator's terms for your plan, avoid copying named artists, characters or photos, clean and upscale the file for each print ratio, and use mockups that show your exact file at its true ratio. This is a checklist, not legal advice.
 
@@ -2223,9 +2223,9 @@ A: On Etsy, yes: sellers are asked to disclose AI use in the listing description
 Q: Can I use mockups made with AI?
 A: Mockup rooms can be digitally staged, but the artwork shown must be your actual file at its true proportions, so buyers see what they will receive.
 
-## Shopify Product Image Size for Wall Art: Variant Photos
+## Shopify Product Image Size for Wall Art
 URL: https://wallmock.com/guides/shopify-wall-art-product-images/
-Shopify product images for wall art: options for size and frame, one image per variant, the gallery order, image sizes, and fixing photos a print-on-demand sync broke.
+Shopify product images for wall art: 2048 × 2048 px square, up to 5000 px and 20 MB, one shape for main images, and a photo for every frame variant.
 
 Short answer: Give each frame colour variant its own image from the product's media, made in the same room so only the frame changes, then group the extra photos for that colour next to it in the gallery. Shopify allows one assigned image per variant, up to 250 media items per product and up to 2,048 variants. Square images around 2048 × 2048 px usually display best. After a print-on-demand sync, check every variant still points to the right photo.
 
@@ -2257,9 +2257,9 @@ A: One that shows the product you sell, such as a floating-frame canvas with its
 Q: Does WallMock make mockups for T-shirts or mugs?
 A: No. WallMock only makes wall art mockups: framed canvas, stretched canvas, metal prints, and framed prints or posters (wood frame or aluminum framed print) with or without a mat.
 
-## Upscale AI Art for Print: Large Canvas and Framed Prints
+## Upscale AI Art for Print: Large Canvas and Frames
 URL: https://wallmock.com/guides/upscale-ai-art-for-print/
-How many pixels a large canvas or framed print needs, how to upscale AI art in steps, and how to spot the artefacts upscalers add before you send a file to print.
+How many pixels a large canvas or framed print needs, how to upscale AI art in steps, and how to spot upscaler artefacts before you send a file to print.
 
 Short answer: Work out the pixels first: print inches × 300 for prints seen up close, or × 150 for large canvas seen from across a room, the lowest Prodigi and Gelato suggest. Fix defects and crop to the final ratio at the original size, then choose an enlargement that reaches the required pixels and compare the result with a plain enlargement. Inspect at 100% for invented texture, smeared lettering and halos, and keep a lossless master.
 
@@ -2276,9 +2276,9 @@ A: The upscaler's strength or detail setting is too high, so it smooths and repa
 Q: Does WallMock upscale my art?
 A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Upscale your print master yourself, then make mockups from it.
 
-## Wall Art Listing Mistakes to Check Before Publishing
+## Wall Art Listing Mistakes to Check Before Listing
 URL: https://wallmock.com/guides/wall-art-listing-mistakes/
-Check wall art listing mismatches that can lead to 'not as described' cases: frame not included, wrong size, colour shift, wrong finish, cropped art, and the fixes.
+Mismatches that lead to 'not as described' cases: frame not included, wrong size, colour shift, wrong finish, cropped art. How to spot each, and the fixes.
 
 Short answer: Check whether the listing promises a different product: a frame that isn't included, a size that looks bigger in the mockup, colours brighter than the print, a different frame finish, or art cropped to fit a size. On Etsy, an item that differs from its photos or description can become a case where the seller refunds the item, the original shipping and the return shipping. Make every photo and line match what arrives.
 
@@ -2293,9 +2293,9 @@ A: Show one realistic size in every room photo, add a size guide with every size
 Q: Are mockups the cause of returns?
 A: Not by themselves. A mockup showing a different product, size, finish or colour can contribute to a listing mismatch; this guide does not measure causes of returns. A mockup that matches the item is fine.
 
-## Wall Art Listing Proof Checklist: Photos and Variants
+## Wall Art Listing Proof Checklist
 URL: https://wallmock.com/guides/wall-art-listing-proof-checklist/
-Before publishing a wall art listing, check the artwork, product, finish, variant photos, sizes, alt text and sample labels against what the buyer will receive.
+Before a wall art listing goes live, check the artwork, product, finish, variant photos, sizes, alt text and sample labels against what the buyer receives.
 
 Short answer: Before a listing goes live, verify one source artwork, the actual product and finish, every variant-to-photo match, the size information and the words used in captions. Label a room mockup as a mockup and a sample photo only when it shows the physical sample. Then review the first image at thumbnail size and check the marketplace’s current photo rules.
 
@@ -2306,9 +2306,9 @@ A: If the buyer sees a different artwork, product, frame, mat or other visible f
 Q: Is a sample check part of this checklist?
 A: This checklist verifies the listing before publication. A sample check compares an ordered physical product with the listing mockup; use the separate sample guide for that step.
 
-## Wall Art Mockup Cost: Etsy Packs, Subscriptions or Per Room
+## Wall Art Mockup Cost: Packs vs Subscriptions
 URL: https://wallmock.com/guides/wall-art-mockup-costs/
-Work out the real cost per listing photo for mockup packs, subscriptions and per-room pricing, including your time, with a worked example and WallMock's prices.
+The real cost per listing photo for Etsy mockup packs, subscriptions and per-room pricing, your time included, with a worked example and WallMock's prices.
 
 Short answer: Compare cost per finished listing image, not the price tag. A one-off pack costs its price divided by the images you'll actually make from it, plus your editing time. A subscription costs its monthly price divided by the images you make that month. Per-room or per-image pricing is cheap for a few images and grows with every one. Include time: it can change which option costs less. WallMock costs $5 a month for 200 images, or $15 for unlimited clean 4K (4096 px) images.
 
@@ -2325,9 +2325,9 @@ A: One clean finished room download. Downloads are 4K on Free and paid plans; Fr
 Q: Can I keep using WallMock images after I cancel?
 A: Yes. WallMock's terms say the licence to the room scenes and frames in your finished images continues after you cancel or close your account.
 
-## Wall Art Mockups for Pinterest and Instagram: 2:3 and 4:5
+## Wall Art Mockups for Pinterest and Instagram
 URL: https://wallmock.com/guides/wall-art-mockups-for-pinterest-and-instagram/
-Crop wall art mockups for Pinterest (2:3, 1000 × 1500 px) and Instagram (4:5, up to 1440 px wide) without cutting the frame, plus titles, links and video sizes.
+Crop wall art mockups for Pinterest (2:3, 1000 × 1500 px) and Instagram (4:5, up to 1440 px wide) without cutting the frame, plus video sizes.
 
 Short answer: Pinterest recommends 2:3 images at 1000 × 1500 px, so crop your wall art mockup to a tall 2:3 with the whole frame inside. For a 4:5 portrait published through Instagram’s API, Meta's Instagram publishing documentation accepts 4:5 to 1.91:1 and scales images down to 1440 px wide, so 1440 × 1800 px is the largest 4:5. Crop from your full-size export, keep space around the art, and link each pin to the listing.
 
@@ -2342,9 +2342,9 @@ A: Link each pin to the exact listing. On Etsy, a Share & Save trackable link ea
 Q: What about video pins?
 A: Pinterest recommends 9:16 at 1080 × 1920 px for video, with space left at the top and bottom for the player controls.
 
-## Wall Art Photo Alt Text: Clear Examples for Listings
+## Wall Art Photo Alt Text: Examples for Listings
 URL: https://wallmock.com/guides/wall-art-photo-alt-text/
-Write useful alt text for art listings: describe the artwork, product, and view shown. Includes examples for room mockups, details, size charts, Etsy, and Shopify.
+Write useful alt text for wall art listings: describe the artwork, product and view. Examples for room mockups, close-ups and size charts.
 
 Short answer: Describe the information a buyer would miss without seeing the image: the artwork, the product or finish, and the view shown. Keep it concise and specific to that photo. Do not turn alt text into a keyword list or repeat the listing title. Etsy recommends up to 250 characters; Shopify recommends 125 or fewer (maximum 512), so write for the image first and check each platform’s current limit.
 
@@ -2357,9 +2357,9 @@ A: No. Describe each view: room scene, artwork alone, frame detail, or size char
 Q: Should a room mockup alt text say the exact print size?
 A: Only if the photo or a clear accompanying label provides that information and the size is verified. A room mockup by itself should not be presented as an exact-size measurement.
 
-## Wall Art Photo File Names: A Simple System for Sellers
+## Wall Art Photo File Names: A Simple System
 URL: https://wallmock.com/guides/wall-art-photo-file-names/
-Name wall art exports so you can find the right artwork, product, finish, listing-photo role and revision without mixing them up with source files or SKUs.
+Name wall art exports so you can find the right artwork, product, finish, photo role and revision, without mixing them up with source files or SKUs.
 
 Short answer: Use one short, repeatable pattern: artwork ID, product and finish, photo role, then revision. Keep source art, print files and listing images in separate folders. Give the sellable product or variant its own SKU in your shop system; a file name is for finding an export, not a substitute for the product record.
 
@@ -2370,9 +2370,9 @@ A: No. Use a stable SKU to identify the sellable product or variant in your shop
 Q: Should I put keywords in image alt text?
 A: Describe what the image shows in concise, natural language. Do not repeat the listing title or add a keyword list; alt text is there to make the image understandable.
 
-## Wall Art Placement in Mockups: Size, Balance, Usable Wall
+## Wall Art Placement in Mockups: Size and Balance
 URL: https://wallmock.com/guides/wall-art-placement/
-Place art convincingly in a mockup: find the usable wall, choose the visual anchor, size it without crowding, respect its ratio, and check perspective and light.
+Read the wall first: art goes inside panels, niches or the field above wainscoting. On a plain wall, centre it on the sofa, bed or sideboard.
 
 Short answer: Find the uninterrupted wall that can hold the whole framed piece, then centre the art on its visual anchor, such as a sofa, sideboard or chair, rather than on the photo. Start generous, check clearance from lamps, doors and ceilings, keep the artwork's own ratio, match perspective and light on angled walls, and check the result at thumbnail size.
 
@@ -2383,9 +2383,9 @@ A: Not necessarily. The centre of the photo is often not the centre of the usabl
 Q: Can a mockup show exact hanging dimensions?
 A: Only if the scene has reliable scale information. Room staging is a visual presentation, not a calibrated measuring tool.
 
-## Wall Art Selling Calendar: Seasonal Dates by Country
+## Wall Art Selling Calendar: Seasonal Dates
 URL: https://wallmock.com/guides/wall-art-selling-calendar/
-A planning checklist for gifting occasions through the year, in the US, UK, Europe, Canada, Australia and India, and how far ahead to list and update your mockups.
+When to list wall art for each gifting peak in the US, UK, Europe, Canada, Australia and India, and how far ahead to refresh your listing mockups.
 
 Short answer: List new collections and refresh mockups six to eight weeks before each peak: by early December for the new year, late December for Valentine's Day, mid-January for Mothering Sunday in the UK, mid-March for Mother's Day in May, late April for Father's Day in June, and October for Christmas. Check your own order history and provider cutoffs before treating any period as a peak.
 
@@ -2396,9 +2396,9 @@ A: No. Mothering Sunday falls in March or early April in the UK and Ireland, the
 Q: How far ahead should I list seasonal wall art?
 A: About six to eight weeks before the peak, then refresh the hero image as the date approaches.
 
-## Wall Art Size Guide Image: Show Buyers How Big Each Size Is
+## Wall Art Size Guide Image: How Big Is Each Size
 URL: https://wallmock.com/guides/wall-art-size-guide-image/
-How to make a wall art size guide image for Etsy or Shopify: which sizes to show, inches and centimetres, frame outer sizes, a scale photo, and what to avoid.
+How to make a wall art size guide image for Etsy or Shopify: which sizes to show, inches and cm, frame outer sizes, a scale photo and what to avoid.
 
 Short answer: A wall art size guide image shows every size you sell side by side, drawn in proportion to each other, each labelled in inches and centimetres. Show only sizes in your artwork's ratio, say whether the numbers are the artwork or the framed outside size, and pair it with one room photo above familiar furniture for a sense of scale, not a measured wall. Make it the same shape as your first photo, and repeat the sizes in the description.
 
@@ -2415,7 +2415,7 @@ A: It draws the sizes in proportion to each other, in centimetres and inches: th
 
 ## Wall Art Trends 2027: Ideas to Test in Your Shop
 URL: https://wallmock.com/guides/wall-art-trends-2027/
-Six wall art directions to watch for 2027, with Etsy's own search data where it exists, clearly labelled presentation ideas, and the room styles that suit each.
+Six wall art directions to watch for 2027, with Etsy's own search data where it exists, labelled presentation ideas and the rooms that suit each.
 
 Short answer: No one can measure 2027 yet, so treat this list as ideas to test. The firmest data is Etsy's: searches for wall art decor rose 110% and gallery prints 80% in the three months to 10 February 2026, year on year, among US signed-in shoppers. Ideas to test in 2027 include gallery-wall sets, nostalgic art, deep wall colours, warm natural materials, big statement pieces and quiet photography. Show each in a room that suits it.
 
@@ -2432,7 +2432,7 @@ A: Etsy's trend expert posts seasonal trend reports in the Etsy Community, in th
 
 ## What DPI Does a Canvas Print Need? Pixels by Size
 URL: https://wallmock.com/guides/what-dpi-for-canvas-prints/
-Canvas print DPI explained: what Gelato, Prodigi, Printful and Printify recommend, the pixels each canvas size needs at 150 to 300 DPI, and the extra for wrapped edges.
+Canvas print DPI: what Gelato, Prodigi, Printful and Printify recommend, the pixels each canvas size needs at 150 to 300 DPI, and the wrap extra.
 
 Short answer: Aim for 300 DPI at the final canvas size: Gelato, Prodigi, Printful and Printify each name 300 DPI as ideal (checked 2026-10-29), and Gelato says files under 150 DPI are not recommended. Pixels = inches × DPI: a 16×20 in canvas needs 4,800 × 6,000 px at 300 DPI, or 2,400 × 3,000 at 150. For an image-wrapped canvas, add the depth to every side first: a 16×20 in canvas 1.5 in deep needs at least 19×23 in of picture before the provider’s bleed and fastening allowance.
 
@@ -2449,9 +2449,9 @@ A: Changing the DPI setting alone does nothing. Print quality depends on pixel w
 Q: Will WallMock upscale my art?
 A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI.
 
-## What Is a Floater Frame? Floating Frame vs Gallery Wrap
+## What Is a Floater Frame? vs Gallery Wrap
 URL: https://wallmock.com/guides/what-is-a-floater-frame/
-A floater frame holds a canvas from behind with a small gap and no glass. How it differs from a standard frame, a shadow box, a gallery wrap and a matted frame.
+A floater frame holds a canvas from behind with a small gap and no glass. How it differs from a standard frame, a shadow box and a gallery wrap.
 
 Short answer: A floater frame, or floating frame, is an open frame that holds a stretched canvas from behind, with a small gap between the canvas edge and the frame on every side. Nothing covers the front of the canvas, and there is no glass and no mat, so the canvas seems to float inside the frame. The providers we checked use gaps of 5 to 12 mm. A standard frame overlaps the art's edges, usually behind glass; a gallery wrap has no frame at all.
 
@@ -2468,7 +2468,7 @@ A: No. For example, Prodigi also lists a classic framed canvas without a stated 
 Q: What is the difference between a gallery wrap and a floater frame?
 A: A gallery wrap is a stretched canvas hung on its own, with its sides finished. A floater frame is an open frame added around such a canvas, with a gap between them.
 
-## How High to Hang Art Over a Sofa, Bed or Sideboard
+## How High to Hang Art Over a Sofa or Bed
 URL: https://wallmock.com/guides/what-size-art-over-sofa-and-bed/
 How high to hang art above a sofa, bed, sideboard or open wall, how wide it should be, and the print sizes that fit common furniture widths. With tables.
 
@@ -2483,9 +2483,9 @@ A: About two thirds to three quarters of the couch's width, including the frame.
 Q: What size art goes above a queen bed?
 A: About 40–45 inches (100–115 cm) wide, such as a 30×40 landscape, a 14×42 panorama or a pair of 16×20 landscapes.
 
-## Why Wall Art Mockups Look Fake: Fixes for Realistic Mockups
+## Why Wall Art Mockups Look Fake, and the Fixes
 URL: https://wallmock.com/guides/why-wall-art-mockups-look-fake/
-Five things make a wall art mockup look fake: perspective, scale, light, shadow and colour. Simple checks with a ruler and a colour picker fix each one.
+Mockups look fake when the room is empty and far away, the art hangs in the wrong spot, or perspective, scale, light, shadow or colour is off. The checks.
 
 Short answer: Wall art mockups look fake when the art doesn't obey the room: its edges don't follow the wall's lines, its size doesn't suit the furniture, the light on it doesn't match the wall, its shadow is missing or falls the wrong way, or its whites are a different colour from the room's light. You can measure each one with a ruler tool and a colour picker. Fix the room and the placement, never the artwork's own colours.
 
@@ -2500,9 +2500,9 @@ A: Yes. A floating-frame canvas stands off the wall, so it casts a soft shadow, 
 Q: How do I check a mockup's perspective?
 A: Draw lines along the frame's edges and along nearby room edges. In a straight-on room they should be parallel. In an angled room they should meet at the same vanishing point.
 
-## Free Tools for Wall Art Sellers: Print Size, DPI, Layout
+## Free Tools for Wall Art Sellers: Sizes, DPI
 URL: https://wallmock.com/tools/
-16 free browser tools for wall art and print-on-demand sellers: Etsy fees, print sizes and DPI, size charts, printable packs, triptych splits, frames and gallery walls.
+16 free browser tools for wall art sellers: Etsy fees, print sizes and DPI, size charts, printable size packs, triptych splits and gallery walls.
 
 Q: Are the tools really free?
 A: Yes. They are free, need no account and have no usage limit on our side.
@@ -2511,9 +2511,9 @@ A: No. Tools that read an image, such as the crop tool and the colour palette ge
 Q: What do the tools have to do with WallMock?
 A: They answer the questions sellers ask before listing: print sizes, ratios, resolution, crops, size charts, colours, frames, wall layouts and Etsy fees. WallMock then shows your exact artwork in realistic rooms for the listing photos.
 
-## Art Color Palette Generator: Extract Colors from Artwork
+## Art Color Palette Generator from Your Artwork
 URL: https://wallmock.com/tools/art-color-palette/
-Free art color palette generator: extract the six main colours from your artwork or painting, with HEX and RGB codes and each colour's share. Nothing is uploaded.
+Free art color palette generator: the six main colours of your artwork with HEX and RGB codes and each colour's share. Nothing is uploaded.
 
 Short answer: choose an image of your artwork and the generator finds its six main colours, with HEX and RGB codes to copy and the share of the image each one covers. It runs in your browser, and the same image always gives the same palette. Use the colours for shop branding and listing graphics, and see which frame finishes stand out most against the art.
 
@@ -2530,9 +2530,9 @@ A: It compares how light or dark the artwork is overall with each of WallMock's 
 Q: Is my image uploaded?
 A: No. The image is read and measured in your browser; nothing is sent anywhere.
 
-## What Size Art Over a Sofa or Bed? Free Art Size Calculator
+## Art Size Over Sofa Calculator: Width and Height
 URL: https://wallmock.com/tools/art-size-over-sofa/
-Free art size calculator: enter your sofa, bed or sideboard width to get the art width, the standard sizes that fit and how high to hang it. Inches or cm.
+Free art size calculator: enter your sofa, bed or sideboard width and get the art width, the standard sizes that fit and how high to hang it.
 
 Short answer: art over a sofa usually looks balanced at about two-thirds to three-quarters of the sofa's width, frame included: 56 to 63 inches over an 84 inch sofa, such as a 40 × 60 landscape. Hang the bottom of the frame 6 to 10 inches above the sofa back. Enter your furniture below for the sizes that fit.
 
@@ -2547,9 +2547,9 @@ A: Hang the bottom of the frame about 6 to 10 inches (15 to 25 cm) above the sof
 Q: Can art be wider than three-quarters of the sofa?
 A: Yes. These are common interior guidelines, not rules, and a bold oversized piece can work. Art wider than the sofa itself usually looks crowded, so the calculator lists sizes up to 80% and labels the ones outside two-thirds to three-quarters.
 
-## Aspect Ratio Calculator for Prints: Pixels, Inches, cm
+## Aspect Ratio Calculator for Prints: px, in, cm
 URL: https://wallmock.com/tools/aspect-ratio-calculator/
-Free aspect ratio calculator for wall art: enter pixels, inches or cm to get the exact ratio, the nearest standard print ratio and the print sizes in that family.
+Enter width and height in pixels, inches or cm: get the exact ratio, the nearest print ratio (2:3, 3:4, 4:5 and more) and the print sizes in that family.
 
 Short answer: enter a width and a height in pixels, inches or centimetres. The calculator gives the exact ratio (4000 × 6000 px is 2:3), the decimal, the nearest standard print ratio and how far off it is, and the print sizes in that family, such as 8 × 12, 12 × 18 and 24 × 36 in for 2:3. It also finds a same-ratio size for any width.
 
@@ -2562,9 +2562,9 @@ A: All ISO A sizes share one shape, 1:√2, about 1:1.414. A4 at 300 DPI is 2480
 Q: Does the unit matter?
 A: No. The ratio of 4000 × 6000 px is the same as 12 × 18 in or 30.48 × 45.72 cm. Choose the unit only so the same-ratio size comes out in it.
 
-## Crop Image for Print: 8 × 10, 2:3, A4 at Full Resolution
+## Crop Image for Print: 8×10, 2:3, A4, Full Size
 URL: https://wallmock.com/tools/crop-to-print-size/
-Free tool to crop an image for print: 8 × 10, 2:3, 3:4, 5:7, 11 × 14, square, A4 or 3:1 panorama, at full resolution, with the print size at 300 DPI. Nothing uploaded.
+Free tool to crop an image for print at 8×10, 2:3, 3:4, 5:7, 11×14, square, A4 or 3:1, at full resolution, with the size at 300 DPI. Nothing uploaded.
 
 Short answer: choose a print shape, such as 4:5 for 8 × 10 or 2:3 for 12 × 18, and the cropper draws the largest box of that shape your image holds. Move or resize it, see how big it prints at 300 DPI, and download the crop at full resolution as a PNG or JPEG. A 4000 × 6000 px file cropped to 8 × 10 keeps 4000 × 5000 px. Your image never leaves your device.
 
@@ -2581,9 +2581,9 @@ A: No. The image is opened and cropped in your browser, and the download is made
 Q: Can I crop a 3:1 panorama?
 A: Yes. Choose the 1:3 panorama shape and Landscape for a 3:1 crop, such as 12 × 36 or 20 × 60 inches; Portrait gives a tall 1:3 crop.
 
-## Etsy Fee Calculator: Fees, Profit and Break-Even Price
+## Etsy Fee Calculator: Fees, Profit, Break-Even
 URL: https://wallmock.com/tools/etsy-fee-calculator/
-Estimate Etsy fees and profit for a wall art order using your shop country, sale price, shipping, provider cost and optional Offsite Ads fee.
+Free Etsy fee calculator for wall art orders: enter your country, price, shipping and provider cost to see Etsy's fees, profit and break-even price.
 
 Short answer: Etsy takes USD 0.20 per listing, 6.5% of the item price plus shipping, and payment processing (3% + USD 0.25 in the US, 4% + GBP 0.20 in the UK). A sale from an Offsite Ad adds 12% or 15%. On a USD 45 print with free shipping the fees are USD 4.73. Enter your price and your provider's costs below to see your profit and break-even price.
 
@@ -2600,9 +2600,9 @@ A: Enter your provider's product and shipping cost. The break-even price is the 
 Q: Is anything I type sent anywhere?
 A: No. The calculator runs in your browser; nothing you type leaves your device.
 
-## Etsy Photo Size Checker: Listing Photo Size and Thumbnail
+## Etsy Photo Size Checker for Listing Photos
 URL: https://wallmock.com/tools/etsy-photo-checker/
-Free Etsy listing photo checker: see each image's pixel size, shape, file type and square thumbnail crop against Etsy's own photo guidance. Nothing is uploaded.
+Free Etsy listing photo checker: each image's pixel size, shape, file type and square thumbnail crop against Etsy's photo guidance. Nothing uploaded.
 
 Short answer: Etsy recommends listing photos at least 2000 pixels wide and tall, a horizontal (landscape) or square first photo, and a .jpg, .gif, .png, .svg or .heic file. Keep the artwork away from the edges so a square thumbnail crop keeps it whole. Choose your images below to check them in your browser.
 
@@ -2619,9 +2619,9 @@ A: Etsy's help article lists .jpg, .gif, .png, .svg and .heic. Save WebP, TIFF o
 Q: Are my photos uploaded?
 A: No. The checker reads each image's size and type in your browser and draws the preview on your device. Nothing is sent anywhere.
 
-## Frame and Mat Size Calculator: Mat Opening and Frame Size
+## Frame and Mat Size Calculator: Opening and Frame
 URL: https://wallmock.com/tools/frame-mat-calculator/
-Free frame and mat size calculator: enter a print size and mat border to get the mat opening, the frame size to order and the nearest ready-made frame. Inches or cm.
+Free frame and mat calculator: enter a print size and mat border to get the mat opening, the frame size to order and the nearest ready-made frame.
 
 Short answer: cut the mat opening about 1/8 inch (3 mm) smaller than the print on each edge, then add the border on every side. An 8 × 10 print with 1.5 inch borders needs a 10.75 × 12.75 inch frame, or fits a standard 11 × 14 frame with borders of about 1.6 and 2.1 inches. Enter your print below.
 
@@ -2636,9 +2636,9 @@ A: The inside size of the frame's lip: the size of the glass, mat and backing it
 Q: Can I frame a print without a mat?
 A: Yes. Enter a border of 0: the frame's rebate is then the print size itself, and the calculator tells you whether that is a ready-made frame size.
 
-## Standard Frame Sizes Chart: US, Metric, A Sizes and Posters
+## Standard Frame Sizes Chart: Inches, cm, A Sizes
 URL: https://wallmock.com/tools/frame-size-chart/
-Standard frame sizes in inches and cm, A sizes and poster sizes, with each size's ratio and the print a matted frame usually holds. Find a frame for your print.
+Standard frame sizes in inches and cm, A sizes and poster sizes, with each size's ratio and the print a matted frame usually holds. Find yours.
 
 Short answer: common ready-made frames include 5 × 7, 8 × 10, 11 × 14, 16 × 20, 18 × 24 and 24 × 36 inches, and 13 × 18, 30 × 40, 50 × 70 cm and the A sizes. A matted frame usually holds the next size down, such as an 8 × 10 print in an 11 × 14 frame. Enter your print below to find frames that fit.
 
@@ -2653,9 +2653,9 @@ A: A3 is 29.7 × 42 cm, about 11.7 × 16.5 inches. Every A size has the same 1:1
 Q: Is 70 × 100 cm the same shape as A sizes?
 A: Nearly but not quite: 70 × 100 is 7:10 (1:1.43) and A sizes are 1:1.414, about 1% apart. A file made for A sizes loses a sliver when printed at 70 × 100.
 
-## Gallery Wall Layout Planner with Sizes and Hang Heights
+## Gallery Wall Layout Planner With Hang Heights
 URL: https://wallmock.com/tools/gallery-wall-layout-planner/
-Free gallery wall layout planner: enter frame sizes, gaps and your sofa width to get each frame's position, nail height and a to-scale diagram. Inches or cm.
+Free gallery wall layout planner: enter frame sizes, gaps and your sofa width to get each frame's position, nail height and a to-scale diagram.
 
 Short answer: treat the gallery wall as one picture. Keep equal gaps of 3 to 6 inches (8 to 15 cm), make the group about two-thirds the width of the furniture below it, and centre it about 57 inches (145 cm) above the floor. Enter your frame sizes below to get each frame's position, its nail height and a diagram drawn to scale.
 
@@ -2668,9 +2668,9 @@ A: Take the frame's top-edge height from the table and subtract the drop: the di
 Q: Can I plan in centimetres?
 A: Yes. Switch the unit to cm and the planner converts what you typed. The default 57 inch centre becomes 145 cm and the default 3 inch gap becomes 8 cm; other values are converted exactly.
 
-## Gallery Wall Spacing Calculator: Gaps, Nail Spots, Heights
+## Gallery Wall Spacing Calculator: Gaps and Nails
 URL: https://wallmock.com/tools/gallery-wall-spacing/
-Free gallery wall spacing calculator for pairs, trios, rows and grids: even gaps, the total width, each nail's position and hook height above a sofa or bed. Inches or cm.
+Free spacing calculator for pairs, trios, rows and grids: even gaps, the total width, each nail's position and hook height above a sofa or bed.
 
 Short answer: hang gallery wall frames about 3 to 6 inches (8 to 15 cm) apart with equal gaps, and treat the group as one piece about two-thirds the width of the furniture below. For frames of the same width, the nails are one frame width plus one gap apart. Enter your frames below for every nail position and hook height.
 
@@ -2685,9 +2685,9 @@ A: Yes. In a grid, use the same gap vertically as horizontally so the group read
 Q: What if the group is wider than the sofa?
 A: Use smaller frames, fewer frames or a smaller gap. The calculator says so plainly and measures every position from the centre line instead of the sofa's end.
 
-## Triptych Split Calculator: Panorama to 2 or 3 Panels
+## Triptych Split Calculator: Panorama to 3 Panels
 URL: https://wallmock.com/tools/panorama-triptych-split/
-Free triptych split calculator: split a panorama into 2 or 3 panels with gaps, get each panel's size and position, and cut your image into panels in the browser.
+Free triptych split calculator: split a panorama into 2 or 3 panels with gaps, get each panel's size and position, and cut your image in the browser.
 
 Short answer: enter the artwork's width and height, 2 or 3 panels and the gap. Split evenly to keep the whole image (a 60 × 20 in panorama becomes three 20 × 20 in panels, 64 in wide with 2 in gaps), or keep the wall width and cut the gaps out so lines stay straight. Get each panel's size and position, and optionally cut your image into the panels in one ZIP.
 
@@ -2700,9 +2700,9 @@ A: Split evenly when no part of the art may be lost, such as text or a centred s
 Q: Is my image uploaded?
 A: No. The image is cut into panels in your browser and downloaded as one ZIP; nothing is sent anywhere.
 
-## Print Resolution Checker: How Big Can My Art Print?
+## Print Resolution Checker: How Big Can I Print?
 URL: https://wallmock.com/tools/print-resolution-checker/
-Free print resolution checker for wall art sellers: your file's DPI at every common size, 5×7 to 24×36 and A5 to A1, and how much each crops. Nothing uploaded.
+Free print resolution checker: your file's DPI at every size from 5×7 to 24×36 in and A5 to A1, plus the pixels needed at 300, 200 and 150 DPI.
 
 Short answer: divide your file's pixels by the print size in inches to get DPI. Aim for 300 DPI for fine-art prints; 7,200 × 10,800 pixels prints 24 × 36 in at 300 DPI. Choose a file below to check every common size at once.
 
@@ -2717,9 +2717,9 @@ A: Every print size has a shape. A 2:3 file fits 8 × 12, 12 × 18 and 24 × 36 
 Q: Is my file uploaded?
 A: No. The checker reads only the image's size in your browser. The file never leaves your device.
 
-## Print Size Calculator: Which Print Sizes Fit My Art?
+## Print Size Calculator: Which Sizes Fit My Art?
 URL: https://wallmock.com/tools/print-size-calculator/
-Free print size calculator: enter your artwork's pixel size to find its ratio and every standard print size it fits without cropping, with the DPI of each. Inches and cm.
+Free print size calculator: your art's ratio, every print size it fits without cropping and the DPI at each, plus how much other popular sizes would crop.
 
 Short answer: divide the long side of your file by the short side to get its ratio; every print size in that ratio family prints without cropping. A 4800 × 7200 px file is 2:3, so it fits 8 × 12, 16 × 24 and 24 × 36 inches, sharp at 300 DPI up to 16 × 24. Enter your file's size below to see every size and its DPI.
 
@@ -2734,9 +2734,9 @@ A: 12 × 36, 14 × 42, 16 × 48, 20 × 60 and 24 × 72 inches, or 30 × 90 and 5
 Q: How many pixels do I need for a 24 × 36 print?
 A: 7,200 × 10,800 pixels for 300 DPI. Large prints seen from across a room are often printed at 150 to 200 DPI, which is 3,600 × 5,400 to 4,800 × 7,200 pixels.
 
-## Print Size Converter: Inches, cm and Pixels at Any DPI
+## Print Size Converter: Inches, cm and Pixels
 URL: https://wallmock.com/tools/print-size-converter/
-Free print size converter: inches to cm, cm to inches and either to pixels at 72 to 300 DPI, with a table of common print sizes and A sizes in pixels.
+Free print size converter: inches to cm and to pixels at 72 to 300 DPI, with common print sizes, A sizes and metric sizes listed in inches and pixels.
 
 Short answer: enter a width and a height in inches, centimetres or pixels and choose a DPI. The converter shows the size in all three units: 8 × 10 in is 20.3 × 25.4 cm and 2400 × 3000 px at 300 DPI. Below it, a table lists common print sizes and A sizes in centimetres, pixels and megapixels at that DPI.
 
@@ -2749,9 +2749,9 @@ A: 300 DPI is the usual target for prints seen up close. Large prints seen from 
 Q: How many pixels is A4 at 300 DPI?
 A: 2480 × 3508 px (21 × 29.7 cm).
 
-## Printable Wall Art Size Pack Maker: 5 Ratios, One ZIP
+## Printable Size Pack Maker: 5 Ratios in One ZIP
 URL: https://wallmock.com/tools/printable-size-pack/
-Free printable wall art size pack maker: one file becomes full-resolution crops at 2:3, 3:4, 4:5, 11:14 and ISO A, in one ZIP. Made in your browser; nothing uploaded.
+For printable sellers: turn one file into full-resolution crops at 2:3, 3:4, 4:5, 11:14 and ISO A, in one ZIP. Made in your browser; nothing is uploaded.
 
 Short answer: choose one artwork file and the tool makes the largest crop at each of the five standard printable ratios, 2:3, 3:4, 4:5, 11:14 and ISO A, at full resolution, and downloads them in one ZIP. A slider moves the crops to keep the part of the art you want. A 4000 × 6000 px file gives a 4000 × 5000 px 4:5 crop. Nothing is uploaded.
 
@@ -2766,9 +2766,9 @@ A: No. The file is opened, cropped and zipped in your browser; nothing leaves yo
 Q: How large a file can it handle?
 A: Large files and five full-resolution crops can use substantial memory. Phones limit how large an image the browser can make, so very large packs may fail there; use a computer for those.
 
-## Wall Art Size Comparison Chart Maker: Free, To Scale
+## Wall Art Size Comparison Chart Maker, To Scale
 URL: https://wallmock.com/tools/wall-art-size-comparison-chart/
-Free wall art size comparison chart maker: draw the sizes you sell to one true scale over a sofa, bed or console, in inches or cm, and download a PNG for your listing.
+Free wall art size chart maker: draw the sizes you sell to one true scale over a sofa, bed or console, in inches or cm, and download a PNG.
 
 Short answer: enter the art sizes you sell, such as 12 × 18, 24 × 36 and 40 × 60 in, and choose a piece of furniture. The chart draws every size to one true scale above it, marks how much of the furniture's width each covers, and saves a PNG for your listing. It is a diagram, not a room photo, and furniture sizes are typical.
 
@@ -2832,9 +2832,9 @@ URL: https://wallmock.com/guides/selling-wall-art-internationally/#switzerland
 Show the difference between a framed and unframed print, and check delivery details before listing wall art for Swiss customers.
 
 
-## Wall Art Mockups for Latvian POD Sellers
+## Printseekers vs Printful for Latvian Sellers
 URL: https://wallmock.com/guides/printseekers-wall-art-mockups-latvia/
-Compare Printseekers and Printful wall art options from Latvia. Check edge treatment, frame measurements and delivery before reusing a listing mockup.
+For wall art sellers in Latvia: compare Printseekers and Printful products, edges, frame measurements and delivery before reusing a mockup.
 
 
 ## Wall Art Listing Mockups for Bulgarian POD Sellers
@@ -2857,14 +2857,14 @@ URL: https://wallmock.com/guides/selling-wall-art-internationally/#romania
 Prepare size images for Romanian and international shops. Keep metric and inch variants accurate and check shop payout and WallMock billing currencies separately.
 
 
-## From POD Sample to Etsy Listing: Wall Art Mockups
+## Wall Art Mockups From POD Sample to Etsy Listing
 URL: https://wallmock.com/guides/wall-art-mockups-for-pod-suppliers/
-Selling wall art with Lumaprints, Printseekers, Prodigi, Gelato or Sensaria? Match your supplier’s canvas, framed print or metal panel to the right room mockup.
+Selling wall art with Lumaprints, Printseekers, Prodigi, Gelato or Sensaria? Match your supplier's canvas, framed print or metal panel to a room.
 
 
-## Print on Demand Framed Posters: Paper, Frames, Mockups
+## Print on Demand Framed Posters: Papers and Frames
 URL: https://wallmock.com/guides/print-on-demand-posters-and-framed-posters/
-Print on demand framed posters compared: Printful, Printify, Gelato, Prodigi and Printseekers paper, frames and sizes, plus listing photos that match.
+Print on demand framed posters: Prodigi for mats and glass, Printful for ready to hang, Gelato for paper and metric sizes, Printseekers for large sizes.
 
 Short answer: Choose a poster supplier by three details your buyer will notice: the paper (matte, luster or semi-gloss, and its weight), the frame (material, colour and whether a mat is offered) and how it arrives (ready to hang, or frame and poster in one box). Printful, Printify, Gelato, Prodigi and Printseekers all make framed posters but differ on each of those. Pick sizes in your artwork’s ratio, order a sample, then show that exact frame, mat and finish in every listing photo.
 
@@ -2881,9 +2881,9 @@ A: No. WallMock shows framed posters and framed prints, with or without a mat, a
 Q: Can I make framed poster mockups for a whole collection?
 A: Yes. In WallMock, choose the framed print, frame colour and mat once, heart your rooms, and add the collection; every artwork is made in every chosen room in one run.
 
-## Print on Demand Metal Prints: Suppliers and Surfaces
+## Print on Demand Metal Prints: Suppliers Compared
 URL: https://wallmock.com/guides/print-on-demand-metal-prints/
-Print on demand metal prints compared: Printful, Prodigi, Gelato and Lumaprints aluminium panels, finishes, sizes and mounts, plus photos that match.
+Print on demand metal prints: Prodigi dibond or Gelato for UK and EU buyers, Lumaprints or Printful for the US. Bases, surfaces, sizes and listing photos.
 
 Short answer: A metal print is art printed onto an aluminium panel, usually by dye sublimation, and hung on a hidden mount so it floats off the wall. Suppliers differ in the base (white, silver or brushed), the surface (gloss, matte or lustre), the size range and where they ship: Printful and Prodigi’s gloss aluminium prints ship to the US only, while Gelato lists over 60 sizes. Choose the panel, order a sample, then show that surface and edge in your photos.
 
@@ -2898,9 +2898,9 @@ A: It depends on the mount: Printful says ½ in, Prodigi 15 mm for its aluminium
 Q: Can I make metal print mockups in bulk?
 A: Yes. In WallMock, choose Metal print and a surface once, heart your rooms, and add the collection. Every artwork is made in every chosen room in one run, one artwork per image.
 
-## Metal Print vs Canvas vs Framed Print: Which to Sell
+## Metal Print vs Canvas vs Framed Print
 URL: https://wallmock.com/guides/metal-print-vs-canvas-vs-framed-print/
-Metal print vs canvas vs framed print for wall art sellers: surface, glare, edge, depth and which art suits each, with one artwork shown as all four products.
+Metal print, canvas or framed print? Surface, glare, edge and depth compared for wall art sellers, which art suits each, and one artwork shown as all four.
 
 Short answer: Canvas has a soft woven texture and no glare, and suits paintings and warm, textured art. A framed print is the most traditional, with the option of a mat and glazing, and suits illustration, line art and fine-art photography. A metal print is the sharpest and most saturated, with a modern frameless edge, but gloss surfaces reflect light. Choose by the art and the buyer’s room, offer each as its own listing or variant, and show each product’s own edge in the photos.
 
@@ -2917,7 +2917,7 @@ A: Yes. WallMock makes floating-frame and stretched canvas, framed prints with o
 
 ## How to Photograph Artwork for Etsy Listings
 URL: https://wallmock.com/guides/how-to-photograph-artwork-for-etsy/
-How to photograph artwork for Etsy: light, camera position, glare under glass, canvas edges and colour, for the unedited photo most listings need.
+Photograph your artwork for Etsy's unedited photo: soft light, a square camera, no glare under glass, canvas edges and true colour, step by step.
 
 Short answer: Shoot in soft, even daylight from a window to one side, or with two equal lights at about 45° to the wall. Hang or stand the art flat, put the camera level with its centre and square to it, turn off the flash, and step back and zoom in slightly to avoid distortion. For framed art, angle the light and wear dark clothes to keep reflections out. Set white balance before you shoot, so the photo can stay unedited, then use room mockups in your other slots.
 
@@ -2934,9 +2934,9 @@ A: Take a three-quarter view of one corner in side light, so the depth and the p
 Q: Can I use mockups for the rest of the listing?
 A: Yes, as long as they show the item accurately. Use room mockups of your exact artwork for the hero, scale and alternative rooms, and keep the real photo for the product detail.
 
-## How to Sell Canvas Prints on Etsy: Sizes, Depth, Photos
+## How to Sell Canvas Prints on Etsy: Sizes, Depth
 URL: https://wallmock.com/guides/sell-canvas-prints-on-etsy/
-How to sell canvas prints on Etsy: choose depth, edge and frame, pick sizes in your art’s ratio, check pixels, set variations and make photos that match.
+Sell canvas prints on Etsy: choose depth, edge and frame, pick sizes in your art's ratio, check the pixels, set variations and make photos that match.
 
 Short answer: Decide the canvas you sell first: thin (about 0.75 in) or gallery depth (about 1.5 in), how the edge is printed, and whether it comes in a floating frame. Offer sizes from your artwork’s ratio family, with at least 150 and ideally 300 pixels per inch at each size. Use a print-on-demand partner or make them yourself and disclose it, set size and frame as variations with a photo for each, and lead with a clean room photo, then scale, the edge and the frame options.
 
