@@ -451,3 +451,47 @@ ul.keyfacts strong{color:var(--ink);display:block;font-size:15px;margin-bottom:2
 .code-sample+.code-sample{margin-top:18px}
 .legal-note{font-size:13px;color:var(--muted);max-width:80ch;margin:14px 0 0}
 .feature-grid .status{margin:0 0 8px}
+
+/* seo-14 conversion components, shared by the landing pages and the homepage */
+/* landing hero: one large proof image (about 640 px at 1440) instead of two 317 px thumbnails */
+.hero-shot{margin:0}
+.hero-shot img{width:100%;height:auto;background:var(--sage)}
+/* "One file, five rooms": the same artwork file in several rooms */
+.one-file{padding:0 0 var(--step)}
+.one-file-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 18px;margin:0 0 14px}
+.one-file-head h2{font-size:clamp(24px,2.2vw,30px);margin:0}
+.one-file-head p{margin:0;color:var(--muted);font-size:15px;max-width:80ch}
+.one-file-row{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:0;padding:0;list-style:none}
+.one-file-row img,.proof-grid img{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;background:var(--sage)}
+.one-file-row figure,.proof-grid figure{margin:0}
+/* a collection grid: artworks x rooms */
+.proof-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px}
+@media (max-width:760px){
+  .one-file-row,.proof-grid{grid-template-columns:repeat(5,42vw);overflow-x:auto;scroll-snap-type:x mandatory;overscroll-behavior-x:contain;scrollbar-width:none;
+    margin-inline:-16px;padding:0 16px 6px;scroll-padding-inline:16px}
+  .one-file-row::-webkit-scrollbar,.proof-grid::-webkit-scrollbar{display:none}
+  .one-file-row figure,.proof-grid figure{scroll-snap-align:start}
+  .proof-grid{grid-template-rows:repeat(4,auto);grid-auto-flow:row}
+}
+/* "Instead of..." strip: what sellers use now, in three plain rows */
+.instead{padding:var(--step) 0 0}
+.instead h2{font-size:clamp(24px,2.2vw,30px);margin:0 0 16px}
+.instead-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:0}
+.instead-list > div{border:1px solid var(--line);padding:18px 20px;background:var(--soft)}
+.instead-list dt{font-weight:700;margin:0 0 6px}
+.instead-list dd{margin:0;color:var(--muted);font-size:15px;line-height:1.5}
+.instead-list dd b{display:block;margin-top:8px;color:var(--ink);font-weight:600}
+.instead .small{margin:12px 0 0}
+@media (max-width:900px){.instead-list{grid-template-columns:1fr}}
+/* closing call to action at the end of a landing page */
+.close-cta{padding:var(--step) 0;text-align:center;border-top:1px solid var(--line)}
+.close-cta h2{margin:0 0 6px}
+.close-cta .cta-row{justify-content:center;margin:18px 0 12px}
+.close-cta .small{margin:0}
+/* canvas page: the floating gap up close */
+.gap-closeup{margin:22px 0 0;max-width:340px}
+.gap-closeup img{width:100%;height:auto}
+.gap-closeup figcaption{font-size:13px;color:var(--muted);margin-top:8px}
+.instead-tight{padding-bottom:var(--step)}
+.strip figcaption{font-size:13px;color:var(--muted);margin-top:8px}
+.one-file + .instead{padding-top:0}
