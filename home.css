@@ -489,3 +489,51 @@ html:not([data-scrolled]) .fm-band{opacity:0}
   .ms{flex:0 0 80vw;scroll-snap-align:start}
   .home .ms figcaption{font-size:16px}
 }
+/* seo-14 hero: the frame switcher sits in the room. The kitchen render is behind the finish layers (aligned with the film's own room
+   layer, so the camera move that follows is unchanged); each finish layer shows its whole crop, so the frame, its own wall shadow and
+   the wall join the room without a seam (measured: mean edge difference 1-3 levels of 255). The swatches sit on the plain wall above
+   the frame, so the counter, pears and towel stay in view. */
+.fm-backdrop{display:none}
+  :where(.film-on) .fm-backdrop{display:block;position:absolute;inset:0;width:100%;height:100%;max-width:none}
+  :where(.film-on) .fm-object{filter:none}
+  :where(.film-on) .fm-object img{clip-path:none}
+  :where(.film-on) .fm-box > .fm-swatches{top:14px;bottom:auto}
+  :where(.film-on) .fm-box > .fm-swatches .sw-name{order:-1;margin:0 0 4px;color:#f4f1ea;text-shadow:0 1px 2px rgba(0,0,0,.55)}
+.hero-cta .cta-row{margin:0 0 12px}
+.film-cue .cue-skip{color:var(--ink);text-underline-offset:3px}
+@media (max-width:860px) and (orientation:portrait){
+  :where(.film-on) .film-hero > .hero-cta{flex-direction:column;gap:8px}
+  :where(.film-on) .film-hero > .hero-cta .cta-row{margin:0}
+  :where(.film-on) .fm-box > .fm-swatches{top:8px;bottom:auto}
+  :where(.film-on) .fm-box > .fm-swatches .sw{background:rgba(18,19,20,.38)}
+  :where(.film-on) .fm-box > .fm-swatches .sw-name{order:0;margin:2px 0 0}
+}
+/* seo-14 sticky header (home only, CSS only). It stays in the page flow (position:sticky), so nothing below it moves when it sticks;
+   only on screens tall enough for it (a phone on its side keeps the plain header). Laptops: the whole slim header stays. Phones and
+   narrow tablets: two rows (brand and Sign in; the menu and Try it free), and only the second row stays, 47 px, by sticking at a
+   negative top. The film's sticky picture and step text start below it, and anchor jumps stop below it. */
+@media (min-height:560px){
+  .home .top{position:sticky;top:0;z-index:30}
+  html:has(body.home){scroll-padding-top:92px}
+}
+@media (min-height:560px) and (min-width:861px),(min-height:560px) and (orientation:landscape){
+  :where(.film-on) .home .fm-box{top:max(92px,9svh)}
+}
+@media (max-width:920px){
+  .home .top-in{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;column-gap:14px;row-gap:0;padding:4px 0 2px}
+  .home .top-cta{display:contents}
+  .home .mark{grid-area:1 / 1;min-height:44px}
+  .home .nav-in{grid-area:1 / 2;justify-self:end;min-height:44px;display:inline-flex;align-items:center}
+  .home .nav{grid-area:2 / 1;width:auto;min-width:0;margin:0}
+  .home .nav a{min-height:44px;display:inline-flex;align-items:center}
+  .home .nav-try{grid-area:2 / 2;min-height:40px;display:inline-flex;align-items:center;padding:0 14px}
+}
+@media (max-width:920px) and (min-height:560px){
+  .home .top{top:-48px}
+  html:has(body.home){scroll-padding-top:60px}
+}
+@media (max-width:860px) and (orientation:portrait) and (min-height:560px){
+  :where(.film-on) .home .film-media{top:47px}
+  :where(.film-on) .home .step-in{top:calc(var(--mh) + 40px + 47px)}
+  :where(.film-on) .home .step:is([data-step="canvas"],[data-step="print"],[data-step="metal"]) .step-in{top:calc(var(--mh) + 96px + 47px)}
+}
