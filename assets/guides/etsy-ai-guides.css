@@ -68,3 +68,4 @@
  .guide-long .guide-example-row{grid-template-columns:repeat(3,minmax(0,1fr));overflow:visible}
 }
 .guide-long .guide-example-row.four{grid-template-columns:repeat(4,minmax(0,1fr))}.guide-long .fig-mid{max-width:560px}.guide-long .fig-small{max-width:380px}.guide-long .fig-mid img,.guide-long .fig-small img{width:100%;height:auto;display:block}.guide-long .steps-list>li{margin-bottom:14px}@media(max-width:760px){.guide-long .guide-example-row.four{grid-template-columns:repeat(4,minmax(160px,1fr))}}
+.guide-long .guide-example-row.five{grid-template-columns:repeat(5,minmax(0,1fr))}@media(max-width:760px){.guide-long .guide-example-row.five{grid-template-columns:repeat(5,minmax(150px,1fr))}}
