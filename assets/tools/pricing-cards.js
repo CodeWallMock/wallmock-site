@@ -2,7 +2,8 @@
 import { CURRENCIES, fetchPricingRegion, formatMoney } from "/pricing-currency.js?v=2";
 
 // Each plan's price for new subscribers from 1 January 2027, per region (minor units; owner 18 Nov 2026, the same amounts as the app's
-// offers.js OFFERS_2027). Shown crossed out beside today's price until then; the cards switch to these prices on 1 January.
+// offers.js OFFERS_2027). Shown as a plain dated line under today's price until then (seo-14: never crossed out); the cards switch
+// to these prices on 1 January.
 const LATER_MONTHLY = Object.freeze({
   lite: Object.freeze({ usd: 900, eur: 900, gbp: 700, cad: 1200, aud: 1400, inr: 54900, brl: 3590 }),
   pro: Object.freeze({ usd: 1900, eur: 1900, gbp: 1500, cad: 2500, aud: 2900, inr: 119900, brl: 7990 }),
@@ -50,6 +51,12 @@ function mount() {
     for (const node of document.querySelectorAll("[data-price-plan][data-price-kind]")) {
       const p = plans.find((p) => p.id === node.dataset.pricePlan);
       if (!p) continue;
+      // seo-14: "per-image" is the monthly price divided by the plan's stated monthly image count (data-per), shown as "about"
+      if (node.dataset.priceKind === "per-image") {
+        const per = Number(node.dataset.per), value = p.monthlyAmounts[currency] / 100 / per;
+        if (Number.isSafeInteger(per) && per > 0) node.textContent = new Intl.NumberFormat("en", { style: "currency", currency: currency.toUpperCase(), currencyDisplay: "code", minimumFractionDigits: 2, maximumFractionDigits: value < 1 ? 3 : 2 }).format(value);
+        continue;
+      }
       const cents = node.dataset.priceKind === "monthly" ? p.monthlyAmounts[currency] : node.dataset.priceKind === "annual" ? p.annualAmounts[currency] : Math.round(p.annualAmounts[currency] / 12);
       node.textContent = formatMoney(cents, currency);
     }
