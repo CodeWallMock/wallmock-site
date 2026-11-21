@@ -562,26 +562,30 @@ html:not([data-scrolled]) .fm-band{opacity:0}
 .fm-mine{position:absolute;inset:0;opacity:0;visibility:hidden;transition:opacity .35s ease,visibility 0s linear .35s;pointer-events:none}
 .film[data-mine] .fm-mine{opacity:clamp(0,1 - var(--t) * 4,1);visibility:visible;transition:opacity .35s ease}
 .mine-plate{position:absolute;left:0;top:0;width:100%;height:70.3593%;max-width:none}
-.mine-fr{position:absolute;box-sizing:content-box;--face:1.05cqw;--gap:.42cqw;--fo:calc(var(--face) + var(--gap));
-  left:0;top:0;transform:translate(calc(var(--tx) - var(--fo)),calc(var(--ty) - var(--fo)));width:var(--aw);height:var(--ah);
-  border:var(--face) solid;border-color:#dcc49b #b99568 #a6834f #cdb285;padding:var(--gap);background:#1c1913;
-  box-shadow:inset 0 0 .35cqw .1cqw rgba(0,0,0,.6),.22cqw .3cqw .35cqw rgba(34,32,22,.4),1.5cqw 2.1cqw 3cqw rgba(34,32,22,.36)}
+/* the frame is the rendered frame itself: a ring cut from the hero's own finish layer (its corners, mitres, grain, light and floating gap;
+   tools/rings16.py), drawn with border-image at the render's scale (ring px / 1400 x 78.264cqw), so a wood frame keeps its real grain */
+.mine-fr{position:absolute;box-sizing:content-box;--bt:1.733cqw;--br:1.733cqw;--bb:1.621cqw;--bl:1.677cqw;
+  left:0;top:0;transform:translate(calc(var(--tx) - var(--bl)),calc(var(--ty) - var(--bt)));width:var(--aw);height:var(--ah);
+  border-style:solid;border-color:transparent;border-width:var(--bt) var(--br) var(--bb) var(--bl);padding:0;background:none;
+  border-image:url(/assets/home/wall/ring-canvas-natural-oak.webp) 31 31 29 30 stretch;
+  box-shadow:.3cqw .45cqw .5cqw rgba(30,28,18,.42),1.9cqw 2.7cqw 3.6cqw rgba(30,28,18,.4)}
 .mine-art{display:block;width:100%;height:100%;max-width:none;object-fit:cover}
-.film[data-mk="canvas-walnut"] .mine-fr{border-color:#7d5439 #5e3c28 #4f3120 #6c4731}
-.film[data-mk="canvas-black"] .mine-fr{border-color:#343436 #1e1e20 #151516 #29292b}
-.film[data-mk="canvas-white"] .mine-fr{border-color:#f7f6f2 #dddcd5 #cfcdc6 #ebeae5}
-.film[data-mk="custom-painted-navy"] .mine-fr{border-color:#3e4f6b #2c3b53 #233045 #364660}
-.film[data-mk="metal"] .mine-fr{--face:0px;--gap:0px;border:0;padding:0;background:none;border-radius:.45cqw;
-  box-shadow:0 0 0 .1cqw rgba(226,229,233,.75),.2cqw .3cqw .3cqw rgba(34,32,22,.42),.8cqw 1.1cqw 1.5cqw rgba(34,32,22,.3)}
+.film[data-mk="canvas-walnut"] .mine-fr{border-image-source:url(/assets/home/wall/ring-canvas-walnut.webp)}
+.film[data-mk="canvas-black"] .mine-fr{border-image-source:url(/assets/home/wall/ring-canvas-black.webp)}
+.film[data-mk="canvas-white"] .mine-fr{border-image-source:url(/assets/home/wall/ring-canvas-white.webp)}
+.film[data-mk="custom-painted-navy"] .mine-fr{border-image-source:url(/assets/home/wall/ring-custom-painted-navy.webp)}
+.film[data-mk="metal"] .mine-fr{--bt:0px;--br:0px;--bb:0px;--bl:0px;border:0;border-image:none;border-radius:.45cqw;
+  box-shadow:0 0 0 .1cqw rgba(226,229,233,.75),.25cqw .35cqw .35cqw rgba(30,28,18,.45),.9cqw 1.3cqw 1.7cqw rgba(30,28,18,.34)}
 .film[data-mk="metal"] .mine-art{border-radius:.45cqw}
-/* high gloss: a soft window reflection across the panel, like the rendered high-gloss layer (the art file itself is untouched) */
+/* high gloss: the light the renderer adds for High gloss (the high-gloss render minus the gloss render, a window reflection), screened
+   over the art like light on the panel; the art file itself is untouched */
 .film[data-mk="metal"] .mine-fr::after{content:"";position:absolute;inset:0;border-radius:.45cqw;pointer-events:none;
-  background:linear-gradient(90deg,transparent 13%,rgba(255,255,255,.07) 15%,rgba(255,255,255,.12) 19%,rgba(255,255,255,.09) 24%,transparent 26%,transparent 31%,rgba(255,255,255,.06) 32%,rgba(255,255,255,.06) 35%,transparent 36%)}
-.film[data-mk="alu-silver"] .mine-fr{--face:.42cqw;--gap:var(--mat,2cqw);border-color:#f3f4f5 #c3c6ca #abaeb2 #e0e2e4;background:#f4f2ed;
-  box-shadow:inset 0 0 .3cqw rgba(0,0,0,.14),.22cqw .3cqw .35cqw rgba(34,32,22,.38),1.3cqw 1.9cqw 2.8cqw rgba(34,32,22,.32)}
+  background:url(/assets/home/wall/metal-highgloss-light.webp) 0 0/100% 100% no-repeat;mix-blend-mode:screen}
+.film[data-mk="alu-silver"] .mine-fr{--bt:1.230cqw;--br:1.062cqw;--bb:1.118cqw;--bl:1.286cqw;
+  border-image:url(/assets/home/wall/ring-alu-silver.webp) 22 19 20 23 stretch;padding:var(--mat,2cqw);background:#f8f8f6;background-clip:padding-box;
+  transform:translate(calc(var(--tx) - var(--bl) - var(--mat,2cqw)),calc(var(--ty) - var(--bt) - var(--mat,2cqw)));
+  box-shadow:inset 0 .25cqw .35cqw rgba(0,0,0,.08),.3cqw .45cqw .5cqw rgba(30,28,18,.4),1.7cqw 2.4cqw 3.2cqw rgba(30,28,18,.36)}
 .film[data-mk="alu-silver"] .mine-art{box-shadow:0 0 0 .14cqw #fbfaf6,0 0 .3cqw .16cqw rgba(0,0,0,.2)}
-/* phones: the panel hangs from a fixed top, so the second line (after a drop: the links) grows downwards and nothing moves; before a
-   drop the format hint is left out to keep the picture calm */
 @media (max-width:860px) and (orientation:portrait){
   :where(.film-on) .fm-drop{bottom:auto;top:calc(100% - 86px);padding:6px 10px 5px;gap:3px;width:min(316px,calc(100% - 20px))}
   .film:not([data-mine]) .fd-msg:not(.fd-err){display:none}
@@ -599,7 +603,7 @@ html:not([data-scrolled]) .fm-band{opacity:0}
 .reveal{padding:var(--step) 0}
 .reveal .bulk-copy{max-width:780px}
 .reveal .lede{margin-bottom:0}
-.reveal-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;margin-top:28px;max-width:760px}
+.reveal-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin-top:28px}
 .reveal-grid .slot{display:contents}
 .reveal-grid img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;background:var(--sage)}
 .reveal-bar{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-top:22px}
@@ -626,8 +630,7 @@ html:not([data-scrolled]) .fm-band{opacity:0}
 .rv .reveal-pause:hover{border-color:var(--ink);color:var(--ink)}
 .reveal .bulk-files button:focus-visible,.reveal-pause:focus-visible{outline:2px solid #d6f395;outline-offset:3px}
 @media (max-width:860px){
-  .reveal-grid{grid-template-columns:repeat(5,44vw);overflow-x:auto;scroll-snap-type:x mandatory;margin-inline:-16px;padding:0 16px 8px;scrollbar-width:none}
-  .reveal-grid::-webkit-scrollbar{display:none}
+  .reveal-grid{gap:5px}
   .rv .reveal-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;overflow:visible;margin-inline:0;padding:0}
   .rv .reveal-grid .slot:first-child{grid-column:1 / -1}
   .reveal .bulk-files{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;width:100%}
@@ -648,7 +651,7 @@ html:not([data-scrolled]) .fm-band{opacity:0}
 .pains{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
 .pains li{margin:0;border:1px solid var(--line);padding:18px 20px;background:var(--soft);color:var(--muted);font-size:15px;line-height:1.5}
 .pains strong{display:block;margin:0 0 6px;color:var(--ink);font-size:17px}
-.pains-answer{margin:22px 0 0;font:400 clamp(22px,2.3vw,30px)/1.3 var(--serif);color:var(--ink);max-width:36ch}
+.pains-answer{margin:34px 0 0;font:400 clamp(22px,2.3vw,30px)/1.3 var(--serif);color:var(--ink);max-width:36ch}
 .pains-strip .small{margin:12px 0 0}
 @media (max-width:860px){.pains{grid-template-columns:1fr;gap:8px}}
 @media (min-width:861px){.home .feature-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}

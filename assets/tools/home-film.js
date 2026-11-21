@@ -121,17 +121,20 @@ function startFilm() {
       fr = document.createElement("div"); fr.className = "mine-fr";
       layer.append(plate, fr); film.querySelector(".fm-object").after(layer);
       plateReady = plate.decode().catch(() => new Promise((r) => (plate.complete ? r() : plate.addEventListener("load", r, { once: true }))));
+      // the frame rings for every swatch (about 25 KB in all), so a swatch never shows a frame that is still loading
+      for (const k of ["canvas-natural-oak", "canvas-walnut", "canvas-black", "canvas-white", "custom-painted-navy", "alu-silver"]) new Image().src = `/assets/home/wall/ring-${k}.webp`;
+      new Image().src = "/assets/home/wall/metal-highgloss-light.webp";
       return plateReady;
     };
-    // the art keeps the sample's area on the wall (64.09% x 34.12% of the stage), up to 66% wide and 42.5% tall; tall art hangs lower
+    // the art keeps the sample's area on the wall (64.09% x 34.12% of the stage), up to 66% wide and 41% tall; tall art hangs lower
     // so it never meets the swatches, and stays clear of the counter
     const fit = (r) => {
       let ah = Math.sqrt((64.09 * 34.12 * AR) / r), aw = (r * ah) / AR;
       if (aw > 66) { aw = 66; ah = (aw * AR) / r; }
-      if (ah > 42.5) { ah = 42.5; aw = (r * ah) / AR; }
+      if (ah > 41) { ah = 41; aw = (r * ah) / AR; }
       // in cqw (1% of the stage's width): the frame is placed with a transform and only its size changes, so a new file or a new
       // frame never counts as a layout shift
-      const cx = 50.82, cy = Math.max(38.57, 21.5 + ah / 2), st = layer.style, c = (v) => `${v.toFixed(3)}cqw`;
+      const cx = 50.82, cy = Math.max(38.57, 23 + ah / 2), st = layer.style, c = (v) => `${v.toFixed(3)}cqw`;
       st.setProperty("--tx", c(cx - aw / 2)); st.setProperty("--ty", c((cy - ah / 2) / AR));
       st.setProperty("--aw", c(aw)); st.setProperty("--ah", c(ah / AR));
       st.setProperty("--mat", `${(0.09 * Math.min(aw, ah / AR)).toFixed(3)}cqw`);
