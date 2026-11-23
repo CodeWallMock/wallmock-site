@@ -98,7 +98,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 
 ## WallMock: Wall Mockup Generator for Wall Art Sellers
 URL: https://wallmock.com/
-Wall mockup generator for wall art sellers on Etsy and Shopify, printable or printed: save rooms once, then every new design gets them, exact and in 4K.
+Wall mockup generator for digital and physical wall art sellers on Etsy and Shopify: save rooms once, then every new design gets them, exact and in 4K.
 
 Q: What is WallMock?
 A: WallMock is a wall art mockup generator for Etsy and Shopify wall art sellers, from printable (digital download) shops to canvas and framed-print sellers: your exact art in styled rooms as framed or stretched canvas, or framed prints, for a whole collection at once. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection.
