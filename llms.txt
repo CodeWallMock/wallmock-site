@@ -95,7 +95,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - Is WallMock the same as wallmock.app? No. WallMock at wallmock.com is a mockup generator for wall art sellers. It is not the gallery-wall planner for homeowners at wallmock.app, which is a separate product with a similar name.
 
 ## Main pages
-- [Wall Art Mockup Generator for Etsy Collections](https://wallmock.com/)
+- [WallMock: Wall Mockup Generator for Wall Art Sellers](https://wallmock.com/)
 - [WallMockup & Placeit Alternatives Compared](https://wallmock.com/compare/)
 - [Guides for Wall Art Sellers: Mockups, Etsy, Sizes](https://wallmock.com/guides/)
 - [Free Tools for Wall Art Sellers: Sizes, DPI](https://wallmock.com/tools/)
@@ -159,7 +159,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [Mockup di quadri e tele per vendere arte](https://wallmock.com/it/)
 - [Mockups van schilderijen, posters en lijsten](https://wallmock.com/nl/)
 - [Mockup de quadro e moldura para vender arte](https://wallmock.com/pt-br/)
-- [Room Mockups for Wall Art, Sorted by Style](https://wallmock.com/rooms/)
+- [Wall Mockups by Room: 500+ Rooms](https://wallmock.com/rooms/)
 
 ## Free tools (16, free, no sign-up, run in the browser: https://wallmock.com/tools/)
 - [Etsy Fee Calculator: Fees, Profit, Break-Even](https://wallmock.com/tools/etsy-fee-calculator/): Every Etsy fee, your profit and your break-even price.
@@ -274,7 +274,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [WallMockup Alternatives: WallMock vs WallMockup](https://wallmock.com/compare/wallmock-vs-wallmockup/)
 
 ## Rooms
-- [Room Mockups for Wall Art, Sorted by Style](https://wallmock.com/rooms/): 258 room pages. Full list: https://wallmock.com/sitemap.xml
+- [Wall Mockups by Room: 500+ Rooms](https://wallmock.com/rooms/): 258 room pages. Full list: https://wallmock.com/sitemap.xml
 
 ## Automated access
 
