@@ -62,7 +62,7 @@ Etsy printable (digital download) shops and print-on-demand wall art shops that 
 - Try it with no sign-up and no card; plans from $5 a month, and unlimited clean 4K (4096 px) images on Pro from $15 ($9 and $19 for new subscribers from 1 Jan 2027).
 
 ## Who makes WallMock
-Built by Akshit, the seller behind AntarmadaArtPrints on Etsy since 2023. Founder story and shop link: https://wallmock.com/story/
+Built by Akshit, an Etsy wall art seller since 2023. Founder story and shop link: https://wallmock.com/story/
 Testing, methods and example limits: https://wallmock.com/testing/
 About WallMock and how facts are checked: https://wallmock.com/about/
 Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App privacy policy: https://app.wallmock.com/privacy
@@ -760,12 +760,12 @@ A: Email hello@wallmock.com from the address you sign in with, with the payment 
 URL: https://wallmock.com/story/
 I sell print-on-demand wall art on Etsy. The frame problems and repeat listing work that led me to build WallMock, and how I use it in my own shop today.
 
-Short answer: I’m Akshit, the seller behind AntarmadaArtPrints on Etsy since 2023. I built WallMock because choosing rooms, matching frames and exporting the same designs again and again had become part of every collection. I wanted a workflow I could reuse, with the artwork kept intact and the product shown clearly. I now use WallMock for my own listings.
+Short answer: I’m Akshit. I’ve sold wall art on Etsy since 2023. I built WallMock because choosing rooms, matching frames and exporting the same designs again and again had become part of every collection. I wanted a workflow I could reuse, with the artwork kept intact and the product shown clearly. I now use WallMock for my own listings.
 
 Q: Who built WallMock?
-A: Built by Akshit, the seller behind AntarmadaArtPrints on Etsy since 2023. He built the app around his own wall art listing workflow.
+A: Built by Akshit, an Etsy wall art seller since 2023. He built the app around his own wall art listing workflow.
 Q: Can I see the founder’s Etsy shop?
-A: Yes. The shop is AntarmadaArtPrints on Etsy. Its public page identifies Akshit as the owner and shows its trading history and current customer reviews.
+A: Yes. The “My shop came first” section links to Akshit’s Etsy shop, where you can see its listings and current reviews.
 Q: What did selling prints teach you about mockups?
 A: The frame, mat, canvas depth and artwork crop all change what a buyer expects. A good-looking room image still needs to represent the product in that listing.
 Q: Does a room mockup replace a physical sample?
@@ -1225,7 +1225,7 @@ URL: https://wallmock.com/guides/
 Practical guides for Etsy and Shopify wall art sellers: listing photos, mockups, print sizes, frames, sets and print providers, with dated facts.
 
 Q: Who writes these guides?
-A: Published by WallMock for print-on-demand and wall art sellers. Founder Akshit runs AntarmadaArtPrints on Etsy. Worked examples, product records and dated sources support the guides; the testing page explains what each kind of evidence establishes.
+A: Published by WallMock for print-on-demand and wall art sellers. Founder Akshit has sold wall art on Etsy since 2023. Worked examples, product records and dated sources support the guides; the testing page explains what each kind of evidence establishes.
 Q: Are the guides free?
 A: Yes. Every guide and free tool is free to read and use, with no sign-up.
 Q: Are the room images real?
