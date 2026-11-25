@@ -31,9 +31,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-black-floating-frame-bedroom-pine-cliff.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-black-floating-frame-bedroom-pine-cliff.webp",
         "sha256": "c1a633742aa2c4fd6972b757410c03b14d3f648af2850d19516ec33cc53c103f",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-black-floating-frame-bedroom-pine-cliff.webp"
       },
       "panels": [
         {
@@ -68,9 +69,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-black-floating-frame-japandi-bedroom-sumi-e-bamboo.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-black-floating-frame-japandi-bedroom-sumi-e-bamboo.webp",
         "sha256": "6ce226d534673ecd44b17d47881e879f32818741fdf287bfdcd4f45a99fc68fc",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-black-floating-frame-japandi-bedroom-sumi-e-bamboo.webp"
       },
       "panels": [
         {
@@ -105,9 +107,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-black-floating-frame-living-room-beach-abstract.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-black-floating-frame-living-room-beach-abstract.webp",
         "sha256": "c2365ba10846ed31a914c446d2a898bdbd141e93a3622e6445aad8a0e3a64fda",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-black-floating-frame-living-room-beach-abstract.webp"
       },
       "panels": [
         {
@@ -142,9 +145,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-black-floating-frame-living-room-black-and-white-pier.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-black-floating-frame-living-room-black-and-white-pier.webp",
         "sha256": "cb551b72d1525a568c7c34b871cba8d5bb5c95212a891711323bd47d6adb0bc1",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-black-floating-frame-living-room-black-and-white-pier.webp"
       },
       "panels": [
         {
@@ -179,9 +183,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-black-floating-frame-living-room-dark-horse-in-fog.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-black-floating-frame-living-room-dark-horse-in-fog.webp",
         "sha256": "b759767f67a075e047ae6f3d7f52aedadd3840fcc99ba523f635871b389d49bd",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-black-floating-frame-living-room-dark-horse-in-fog.webp"
       },
       "panels": [
         {
@@ -216,9 +221,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-espresso-floating-frame-bedroom-magnolia-still-life.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-espresso-floating-frame-bedroom-magnolia-still-life.webp",
         "sha256": "c3d794467ece4ac2d740a59afe4e5b6a9998bff92435219210b70ed1cef961aa",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-espresso-floating-frame-bedroom-magnolia-still-life.webp"
       },
       "panels": [
         {
@@ -253,9 +259,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-espresso-floating-frame-dining-room-fig-botanical.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-espresso-floating-frame-dining-room-fig-botanical.webp",
         "sha256": "0a2e4c63ab0a72e4a619c18f205128084d99a707239c98344630938524cbdae1",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-espresso-floating-frame-dining-room-fig-botanical.webp"
       },
       "panels": [
         {
@@ -290,9 +297,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-espresso-floating-frame-living-room-kerala-backwater.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-espresso-floating-frame-living-room-kerala-backwater.webp",
         "sha256": "393e1277f3cec9c726c3f5e5095ba789384442026b0fd237a453760395a8bf11",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-espresso-floating-frame-living-room-kerala-backwater.webp"
       },
       "panels": [
         {
@@ -327,9 +335,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-espresso-floating-frame-living-room-mid-century-abstract.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-espresso-floating-frame-living-room-mid-century-abstract.webp",
         "sha256": "311a63eec6cd304b4505b0a6d41e5203affe19914f76b17cf57a598b29dc5904",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-espresso-floating-frame-living-room-mid-century-abstract.webp"
       },
       "panels": [
         {
@@ -364,9 +373,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-gold-floating-frame-above-mantel-ranunculus.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-gold-floating-frame-above-mantel-ranunculus.webp",
         "sha256": "149f9a1d1289e3d28ea71d3916eb57a6b5e26617f31ebcc52d82b9c8b71427c1",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-gold-floating-frame-above-mantel-ranunculus.webp"
       },
       "panels": [
         {
@@ -401,9 +411,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-gold-floating-frame-living-room-mid-century-abstract.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-gold-floating-frame-living-room-mid-century-abstract.webp",
         "sha256": "ecb99e5730ce3e16ff2e8f2d378fb0632bf9691064cea4ea5271550da5f3ebbb",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-gold-floating-frame-living-room-mid-century-abstract.webp"
       },
       "panels": [
         {
@@ -438,9 +449,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-gold-floating-frame-living-room-ranunculus-still-life.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-gold-floating-frame-living-room-ranunculus-still-life.webp",
         "sha256": "b261113a43270b3bee578f05f0329c555fe497f27de2bcfaa460f40f37d487ff",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-gold-floating-frame-living-room-ranunculus-still-life.webp"
       },
       "panels": [
         {
@@ -475,9 +487,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-gold-floating-frame-living-room-wildflowers.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-gold-floating-frame-living-room-wildflowers.webp",
         "sha256": "666e8726a8335814960cf922ebc59c43733ff84c37b4917ca8f7ca8d8a9cb237",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-gold-floating-frame-living-room-wildflowers.webp"
       },
       "panels": [
         {
@@ -512,9 +525,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-gold-floating-frame-puja-corner-ink-lotus.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-gold-floating-frame-puja-corner-ink-lotus.webp",
         "sha256": "42b10b764f90c880e80fb752dcc30415be34f8fb2a575519bbdd276483679019",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-gold-floating-frame-puja-corner-ink-lotus.webp"
       },
       "panels": [
         {
@@ -549,9 +563,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-natural-oak-floating-frame-japandi-living-room-neutral-abstract.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-natural-oak-floating-frame-japandi-living-room-neutral-abstract.webp",
         "sha256": "74e3d029107fb277869851a29f0a7dc86ce8dccd6feb3be42d626300c5b39dca",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-natural-oak-floating-frame-japandi-living-room-neutral-abstract.webp"
       },
       "panels": [
         {
@@ -586,9 +601,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-natural-oak-floating-frame-living-room-beach-abstract.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-natural-oak-floating-frame-living-room-beach-abstract.webp",
         "sha256": "568afa119f3eb1b9694ce7ec144c2586d203cb3cf7455b98c07211ac0cc739b1",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-natural-oak-floating-frame-living-room-beach-abstract.webp"
       },
       "panels": [
         {
@@ -623,9 +639,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-natural-oak-floating-frame-living-room-desert-saguaro.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-natural-oak-floating-frame-living-room-desert-saguaro.webp",
         "sha256": "2c9fbab5670f1ee1f42afaafdc9ec02714a59c692ec80eefac4adce30c16f1a3",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-natural-oak-floating-frame-living-room-desert-saguaro.webp"
       },
       "panels": [
         {
@@ -660,9 +677,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-natural-oak-floating-frame-mediterranean-living-room-moroccan-doorway.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-natural-oak-floating-frame-mediterranean-living-room-moroccan-doorway.webp",
         "sha256": "0036d179a0f51ce3bf0873429da091847b43adfaccc00eaa8bd0a9ec807da7e4",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-natural-oak-floating-frame-mediterranean-living-room-moroccan-doorway.webp"
       },
       "panels": [
         {
@@ -697,9 +715,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-silver-floating-frame-bedroom-ranunculus.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-silver-floating-frame-bedroom-ranunculus.webp",
         "sha256": "816b8d1da07c9b13457dcdcd8daca5a9d2f38d92965d222a8ecf4da7ec8dcfdc",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-silver-floating-frame-bedroom-ranunculus.webp"
       },
       "panels": [
         {
@@ -734,9 +753,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-silver-floating-frame-living-room-black-and-white-pier.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-silver-floating-frame-living-room-black-and-white-pier.webp",
         "sha256": "721181a99da668b86101b2c703872f90a6029e9534b1ac43bff99763f904b7a7",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-silver-floating-frame-living-room-black-and-white-pier.webp"
       },
       "panels": [
         {
@@ -771,9 +791,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-walnut-floating-frame-bedroom-dark-horse-in-fog.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-walnut-floating-frame-bedroom-dark-horse-in-fog.webp",
         "sha256": "08b57be3b6e80e87fed718aed03e3195e4f25ef93a11a6c279f0993d5a35a679",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-walnut-floating-frame-bedroom-dark-horse-in-fog.webp"
       },
       "panels": [
         {
@@ -808,9 +829,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-walnut-floating-frame-living-room-desert-hills.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-walnut-floating-frame-living-room-desert-hills.webp",
         "sha256": "e247184e34f8eb481456d19702c1c8ec13f2ae71be2f2894e54c5cde05a0f5f3",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-walnut-floating-frame-living-room-desert-hills.webp"
       },
       "panels": [
         {
@@ -845,9 +867,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-walnut-floating-frame-living-room-fig-botanical.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-walnut-floating-frame-living-room-fig-botanical.webp",
         "sha256": "44d08071be1438a673d9a122b6730ac4199fe92efce7fe1cf7cd92d2e99bb088",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-walnut-floating-frame-living-room-fig-botanical.webp"
       },
       "panels": [
         {
@@ -882,9 +905,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-walnut-floating-frame-living-room-pine-cliff.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-walnut-floating-frame-living-room-pine-cliff.webp",
         "sha256": "93095d5086f183a3dc6470e98f412d6e1cf8aea2781ac715836638330a4731e7",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-walnut-floating-frame-living-room-pine-cliff.webp"
       },
       "panels": [
         {
@@ -919,9 +943,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-white-floating-frame-coastal-living-room-sailboat.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-white-floating-frame-coastal-living-room-sailboat.webp",
         "sha256": "8b9c2af498c5848e85431f10522ff7733923fe5c8705dceebcc0b010e8400a9f",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-white-floating-frame-coastal-living-room-sailboat.webp"
       },
       "panels": [
         {
@@ -956,9 +981,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-canvas-white-floating-frame-living-room-neutral-abstract.webp",
+        "url": "/assets/evidence-20261029/framed-canvas-white-floating-frame-living-room-neutral-abstract.webp",
         "sha256": "d9e861e089306e6eeb39b9cd0afa5f187ed1b6aa6b6889374ddefc39e02a9d27",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-canvas-white-floating-frame-living-room-neutral-abstract.webp"
       },
       "panels": [
         {
@@ -993,9 +1019,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-black-frame-no-mat-living-room-mid-century-abstract.webp",
+        "url": "/assets/evidence-20261029/framed-print-black-frame-no-mat-living-room-mid-century-abstract.webp",
         "sha256": "39a9ddccfd86b7c02eca184cc4e7e86ac1c21bccb7eaefbddb7adc730d258683",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-black-frame-no-mat-living-room-mid-century-abstract.webp"
       },
       "panels": [
         {
@@ -1030,9 +1057,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-black-frame-white-mat-home-office-black-and-white-pier.webp",
+        "url": "/assets/evidence-20261029/framed-print-black-frame-white-mat-home-office-black-and-white-pier.webp",
         "sha256": "6517d8c7d544feb87e8cf511879f841d0ee9945b539945ecd10f64349d5e8f39",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-black-frame-white-mat-home-office-black-and-white-pier.webp"
       },
       "panels": [
         {
@@ -1067,9 +1095,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-black-frame-white-mat-home-office-one-line-olive.webp",
+        "url": "/assets/evidence-20261029/framed-print-black-frame-white-mat-home-office-one-line-olive.webp",
         "sha256": "8956e11172990fe72130a1a02333d2128760e4ad2f965961630c21d6142dd82c",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-black-frame-white-mat-home-office-one-line-olive.webp"
       },
       "panels": [
         {
@@ -1104,9 +1133,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-black-frame-white-mat-home-office-ranunculus.webp",
+        "url": "/assets/evidence-20261029/framed-print-black-frame-white-mat-home-office-ranunculus.webp",
         "sha256": "6bc2ab263937d6fa9ce7c41ccdf90387570fa7db5f70de119779cf62a470a67d",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-black-frame-white-mat-home-office-ranunculus.webp"
       },
       "panels": [
         {
@@ -1141,9 +1171,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-gold-frame-white-mat-living-room-ranunculus.webp",
+        "url": "/assets/evidence-20261029/framed-print-gold-frame-white-mat-living-room-ranunculus.webp",
         "sha256": "3c1f7ecf0c451b9822e88c45ea09b91c533ebc5646503bbadab81890a541cbea",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-gold-frame-white-mat-living-room-ranunculus.webp"
       },
       "panels": [
         {
@@ -1178,9 +1209,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-natural-oak-frame-no-mat-coastal-bedroom-sailboat.webp",
+        "url": "/assets/evidence-20261029/framed-print-natural-oak-frame-no-mat-coastal-bedroom-sailboat.webp",
         "sha256": "811c6555e581f70f595349de41bfbb8f204d3bd09cae79a0306e831a278c6d1b",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-natural-oak-frame-no-mat-coastal-bedroom-sailboat.webp"
       },
       "panels": [
         {
@@ -1215,9 +1247,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-natural-oak-frame-no-mat-nursery-terracotta-arch.webp",
+        "url": "/assets/evidence-20261029/framed-print-natural-oak-frame-no-mat-nursery-terracotta-arch.webp",
         "sha256": "b682703735ea82795b9163380ff91ea24f90275b591b605cae4e86e35490f47f",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-natural-oak-frame-no-mat-nursery-terracotta-arch.webp"
       },
       "panels": [
         {
@@ -1265,9 +1298,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-natural-oak-frame-white-mat-entryway-desert-saguaro.webp",
+        "url": "/assets/evidence-20261029/framed-print-natural-oak-frame-white-mat-entryway-desert-saguaro.webp",
         "sha256": "5a8b448fe2586bcb83c2243330993c45829e49364f0a1903ac4286ac14c57e43",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-natural-oak-frame-white-mat-entryway-desert-saguaro.webp"
       },
       "panels": [
         {
@@ -1302,9 +1336,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-natural-oak-frame-white-mat-entryway-square-fig.webp",
+        "url": "/assets/evidence-20261029/framed-print-natural-oak-frame-white-mat-entryway-square-fig.webp",
         "sha256": "df97ccd3ff3907bb4b2aa72f1fd3ec6ede8c2091fd05a5da5742a776e9edaab8",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-natural-oak-frame-white-mat-entryway-square-fig.webp"
       },
       "panels": [
         {
@@ -1339,9 +1374,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-natural-oak-frame-white-mat-living-room-pine-cliff.webp",
+        "url": "/assets/evidence-20261029/framed-print-natural-oak-frame-white-mat-living-room-pine-cliff.webp",
         "sha256": "f59e67f2465bbe6ce53ab0c71d85dca4729abae9c1a36543389f0b6376c82799",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-natural-oak-frame-white-mat-living-room-pine-cliff.webp"
       },
       "panels": [
         {
@@ -1376,9 +1412,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-white-frame-white-mat-dining-room-fig-botanical.webp",
+        "url": "/assets/evidence-20261029/framed-print-white-frame-white-mat-dining-room-fig-botanical.webp",
         "sha256": "4b6426113f5a5ce154f3edd4b718c71abe83038646b301507c8481d22f5780cd",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-white-frame-white-mat-dining-room-fig-botanical.webp"
       },
       "panels": [
         {
@@ -1413,9 +1450,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-white-frame-white-mat-dining-room-ranunculus.webp",
+        "url": "/assets/evidence-20261029/framed-print-white-frame-white-mat-dining-room-ranunculus.webp",
         "sha256": "164c683c4550a13b4df4d5007c2cbca644cf27fce1c53edd4e338c92bf7858b6",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-white-frame-white-mat-dining-room-ranunculus.webp"
       },
       "panels": [
         {
@@ -1450,9 +1488,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-white-frame-white-mat-dining-room-wildflowers.webp",
+        "url": "/assets/evidence-20261029/framed-print-white-frame-white-mat-dining-room-wildflowers.webp",
         "sha256": "e4d016f6eba6444a1ff55b24f01b79e3312072266689370e03584d4fcbfb7609",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-white-frame-white-mat-dining-room-wildflowers.webp"
       },
       "panels": [
         {
@@ -1487,9 +1526,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-white-frame-white-mat-kitchen-agave-botanical.webp",
+        "url": "/assets/evidence-20261029/framed-print-white-frame-white-mat-kitchen-agave-botanical.webp",
         "sha256": "f764656f098698516dac891b1a583d0b8491dcf7271e62a3aaf89327ec177e56",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-white-frame-white-mat-kitchen-agave-botanical.webp"
       },
       "panels": [
         {
@@ -1524,9 +1564,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/framed-print-white-frame-white-mat-mediterranean-stair-hall-olive-shadow.webp",
+        "url": "/assets/evidence-20261029/framed-print-white-frame-white-mat-mediterranean-stair-hall-olive-shadow.webp",
         "sha256": "753b8c20e67091621777b2376d0e95d58593ffc9f1d9cb018c8227ab81459223",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/framed-print-white-frame-white-mat-mediterranean-stair-hall-olive-shadow.webp"
       },
       "panels": [
         {
@@ -1561,9 +1602,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/metal-framed-print-gold-white-mat-entryway-one-line-olive.webp",
+        "url": "/assets/evidence-20261029/metal-framed-print-gold-white-mat-entryway-one-line-olive.webp",
         "sha256": "88d9b4e74241314fd0ebf15673d856312f487ba643d7f1b19683cb6e42ed651f",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/metal-framed-print-gold-white-mat-entryway-one-line-olive.webp"
       },
       "panels": [
         {
@@ -1598,9 +1640,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/panoramic-3x1-framed-canvas-black-floating-frame-living-room-mountains.webp",
+        "url": "/assets/evidence-20261029/panoramic-3x1-framed-canvas-black-floating-frame-living-room-mountains.webp",
         "sha256": "0fc2aa220a27d2e53b6eb2b561472f391e2f2c152f89de72ee818e21f8e6eca8",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/panoramic-3x1-framed-canvas-black-floating-frame-living-room-mountains.webp"
       },
       "panels": [
         {
@@ -1635,9 +1678,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/panoramic-3x1-framed-canvas-natural-oak-floating-frame-bedroom-mountains.webp",
+        "url": "/assets/evidence-20261029/panoramic-3x1-framed-canvas-natural-oak-floating-frame-bedroom-mountains.webp",
         "sha256": "80e8f454694462c00a8f42555d6778001bab2e088017ab43ee4222c1d0aa95f4",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/panoramic-3x1-framed-canvas-natural-oak-floating-frame-bedroom-mountains.webp"
       },
       "panels": [
         {
@@ -1672,9 +1716,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/panoramic-3x1-framed-canvas-natural-oak-floating-frame-coastal-living-room-mountains.webp",
+        "url": "/assets/evidence-20261029/panoramic-3x1-framed-canvas-natural-oak-floating-frame-coastal-living-room-mountains.webp",
         "sha256": "eb612b4fbb2c30bbe5b0e2b2878de74c0e29c5df06ad8639100c5d66d97b04ab",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/panoramic-3x1-framed-canvas-natural-oak-floating-frame-coastal-living-room-mountains.webp"
       },
       "panels": [
         {
@@ -1709,9 +1754,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/panoramic-3x1-framed-canvas-white-floating-frame-bedroom-blush-dawn-lake.webp",
+        "url": "/assets/evidence-20261029/panoramic-3x1-framed-canvas-white-floating-frame-bedroom-blush-dawn-lake.webp",
         "sha256": "0945adbe8500c309746124e223ca2a281dfcd2ee1226a65230abd24c49b7a55b",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/panoramic-3x1-framed-canvas-white-floating-frame-bedroom-blush-dawn-lake.webp"
       },
       "panels": [
         {
@@ -1746,9 +1792,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/panoramic-3x1-stretched-canvas-living-room-blush-dawn-lake.webp",
+        "url": "/assets/evidence-20261029/panoramic-3x1-stretched-canvas-living-room-blush-dawn-lake.webp",
         "sha256": "e1b650782ab867c0d81ef6ab789930901faf661a1d1f755dedb2b97081accb15",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/panoramic-3x1-stretched-canvas-living-room-blush-dawn-lake.webp"
       },
       "panels": [
         {
@@ -1783,9 +1830,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/set-of-2-framed-canvas-gold-floating-frames-bedroom-ranunculus-pair.webp",
+        "url": "/assets/evidence-20261029/set-of-2-framed-canvas-gold-floating-frames-bedroom-ranunculus-pair.webp",
         "sha256": "13e9e881d252439e0627414a4a625bea44b7201947d31302272858e6a820cf49",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/set-of-2-framed-canvas-gold-floating-frames-bedroom-ranunculus-pair.webp"
       },
       "panels": [
         {
@@ -1838,9 +1886,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/set-of-2-framed-canvas-gold-floating-frames-living-room-ranunculus-pair.webp",
+        "url": "/assets/evidence-20261029/set-of-2-framed-canvas-gold-floating-frames-living-room-ranunculus-pair.webp",
         "sha256": "f22bc0b7cef7414729d2da70c43b3a701206312ebee2658b5d405ce039166657",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/set-of-2-framed-canvas-gold-floating-frames-living-room-ranunculus-pair.webp"
       },
       "panels": [
         {
@@ -1893,9 +1942,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/set-of-2-framed-canvas-walnut-floating-frames-living-room-ranunculus-pair.webp",
+        "url": "/assets/evidence-20261029/set-of-2-framed-canvas-walnut-floating-frames-living-room-ranunculus-pair.webp",
         "sha256": "7043d58ddeadd1eb8f619692d0e9b901c311b6a6d6933ee5d7f409995063e4fa",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/set-of-2-framed-canvas-walnut-floating-frames-living-room-ranunculus-pair.webp"
       },
       "panels": [
         {
@@ -1948,9 +1998,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/set-of-3-framed-canvas-white-floating-frames-living-room-beach-triptych.webp",
+        "url": "/assets/evidence-20261029/set-of-3-framed-canvas-white-floating-frames-living-room-beach-triptych.webp",
         "sha256": "ccdf67d0a1f30f5c0f4134c965e09f460096400996566f1560117e218bbb5407",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/set-of-3-framed-canvas-white-floating-frames-living-room-beach-triptych.webp"
       },
       "panels": [
         {
@@ -2025,9 +2076,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/set-of-3-stretched-canvas-living-room-beach-triptych.webp",
+        "url": "/assets/evidence-20261029/set-of-3-stretched-canvas-living-room-beach-triptych.webp",
         "sha256": "8e949548051d4707b7dbe21f5618942d238a48f91bfae30d5062b72a42efd03a",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/set-of-3-stretched-canvas-living-room-beach-triptych.webp"
       },
       "panels": [
         {
@@ -2102,9 +2154,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/stretched-canvas-boho-living-room-terracotta-arch.webp",
+        "url": "/assets/evidence-20261029/stretched-canvas-boho-living-room-terracotta-arch.webp",
         "sha256": "ece081021302f17e2945131c557f1fdc639ba6662f8522d78c2c5a01d39182b3",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/stretched-canvas-boho-living-room-terracotta-arch.webp"
       },
       "panels": [
         {
@@ -2152,9 +2205,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/stretched-canvas-cabin-living-room-pine-cliff.webp",
+        "url": "/assets/evidence-20261029/stretched-canvas-cabin-living-room-pine-cliff.webp",
         "sha256": "6ccb3adbef5f856b5d9cf6306047e81974976d76e5a361ed282a9e7b41a96394",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/stretched-canvas-cabin-living-room-pine-cliff.webp"
       },
       "panels": [
         {
@@ -2189,9 +2243,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/stretched-canvas-living-room-beach-abstract.webp",
+        "url": "/assets/evidence-20261029/stretched-canvas-living-room-beach-abstract.webp",
         "sha256": "8f3f0d4315bd2e1311c574cc46b37ca5d98c530baf60cafc0d6640578271107e",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/stretched-canvas-living-room-beach-abstract.webp"
       },
       "panels": [
         {
@@ -2226,9 +2281,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/stretched-canvas-living-room-neutral-abstract.webp",
+        "url": "/assets/evidence-20261029/stretched-canvas-living-room-neutral-abstract.webp",
         "sha256": "2ab6a6b91d03b22059ecbd6c201a1aea3acd90a69334b24fdee72e80806e4149",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/stretched-canvas-living-room-neutral-abstract.webp"
       },
       "panels": [
         {
@@ -2263,9 +2319,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/stretched-canvas-living-room-sailboat.webp",
+        "url": "/assets/evidence-20261029/stretched-canvas-living-room-sailboat.webp",
         "sha256": "5dae736e4c584798a089b5f4231c135af9d2403d0512a59afb9519fdffa8818a",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/stretched-canvas-living-room-sailboat.webp"
       },
       "panels": [
         {
@@ -2300,9 +2357,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/tall-1x3-framed-canvas-black-floating-frame-bathroom-heron-in-fog.webp",
+        "url": "/assets/evidence-20261029/tall-1x3-framed-canvas-black-floating-frame-bathroom-heron-in-fog.webp",
         "sha256": "cc2f8c8cbe152a8b038df9c2ca2a486b4ddb17a2fcc19ba0754b496e2ab13fc2",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/tall-1x3-framed-canvas-black-floating-frame-bathroom-heron-in-fog.webp"
       },
       "panels": [
         {
@@ -2337,9 +2395,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/tall-1x3-framed-canvas-gold-floating-frame-entry-console-neutral-abstract.webp",
+        "url": "/assets/evidence-20261029/tall-1x3-framed-canvas-gold-floating-frame-entry-console-neutral-abstract.webp",
         "sha256": "9f1dc590d9c336f3bf4be11e3e19eb2de87f7e0b13d7cc11ae8e254c7017a6c3",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/tall-1x3-framed-canvas-gold-floating-frame-entry-console-neutral-abstract.webp"
       },
       "panels": [
         {
@@ -2374,9 +2433,10 @@
       "sourceManifest": "mockups-2026-10-30",
       "manifestCreatedAt": "2026-10-29T02:39:17-06:00",
       "image": {
-        "url": "/assets/mockups/tall-1x3-framed-canvas-natural-oak-floating-frame-hallway-heron-in-fog.webp",
+        "url": "/assets/evidence-20261029/tall-1x3-framed-canvas-natural-oak-floating-frame-hallway-heron-in-fog.webp",
         "sha256": "95e01d276d6cfd7141d365c20067e7bcbc90c12870b9d038a539bcc3d24b0b1a",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/tall-1x3-framed-canvas-natural-oak-floating-frame-hallway-heron-in-fog.webp"
       },
       "panels": [
         {
@@ -2411,9 +2471,10 @@
       "sourceManifest": "mockups-2026-10-29",
       "manifestCreatedAt": "2026-10-28T23:59:39-06:00",
       "image": {
-        "url": "/assets/mockups/tall-1x3-framed-canvas-walnut-floating-frame-reading-corner-neutral-abstract.webp",
+        "url": "/assets/evidence-20261029/tall-1x3-framed-canvas-walnut-floating-frame-reading-corner-neutral-abstract.webp",
         "sha256": "9f4c81ec41c426cf023f2539d2a7b85c7472008ed1a912bc1460ca7f2eaa331f",
-        "manifestHashVerified": true
+        "manifestHashVerified": true,
+        "originalPublicPath": "/assets/mockups/tall-1x3-framed-canvas-walnut-floating-frame-reading-corner-neutral-abstract.webp"
       },
       "panels": [
         {
