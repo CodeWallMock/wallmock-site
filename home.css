@@ -656,15 +656,24 @@ html:not([data-scrolled]) .fm-band{opacity:0}
 @media (max-width:860px){.pains{grid-template-columns:1fr;gap:8px}}
 @media (min-width:861px){.home .feature-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 
-/* seo-16 phone hero: one primary action. Try it free fills the row; See pricing is a quieter text link beside it; the Try facts are
-   smaller. The founder line, the scroll cue, the eyebrow, the lede and the chips follow below the first screen. */
+/* Keep the trial action and the batch proof side by side on phones. */
 @media (max-width:860px) and (orientation:portrait){
   :where(.film-on) .film-hero > .hero-cta{margin-top:14px}
   .home .film-hero .cta-row{display:flex;flex-wrap:nowrap;align-items:center;gap:6px;align-self:stretch;width:100%}
+  .home .film-hero .cta-row .btn{white-space:nowrap}
   .home .film-hero .cta-row .btn:not(.ghost){flex:1 1 auto;justify-content:center}
   .home .film-hero .cta-row .btn.ghost{flex:none;border-color:transparent;background:none;padding:0 12px;font-size:15px;text-decoration:underline;text-underline-offset:3px;color:var(--ink-2)}
   .home .film-hero #try-note{font-size:14px;line-height:1.45;margin-top:2px}
   .home .film-hero .founder{font-size:14px;line-height:1.45}
+}
+
+@media (max-width:360px) and (orientation:portrait){
+  .home .film-hero .cta-row .btn{padding-inline:12px}
+  .home .film-hero .cta-row .btn.ghost{padding-inline:4px}
+}
+@media (max-width:360px) and (prefers-reduced-motion:reduce){
+  .home .film-hero{padding-top:24px}
+  .home .film-hero .hero-cta{margin-top:20px}
 }
 
 /* seo-16 phones: "Save WallMock as an app" (the steps from /wall-art-mockup-app/), shown on phones only, in place of the one-line

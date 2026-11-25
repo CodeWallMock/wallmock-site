@@ -1,6 +1,10 @@
 # WallMock
 
-> WallMock is a wall art mockup generator for Etsy and Shopify wall art sellers, from printable (digital download) shops to canvas and framed-print sellers: your exact art in styled rooms as framed or stretched canvas, or framed prints, for a whole collection at once.
+> WallMock is a bulk wall art mockup generator for print-on-demand, framed art and printable shops. Add several artworks at once, choose rooms and frame styles, and download 4K listing photos grouped by artwork.
+
+Upload your artworks together, save rooms in Favourites and choose a product and frame finish for each. WallMock fits each artwork to the room at its original proportions and makes one photo for each compatible artwork, room and look. Download photos by artwork or as one ZIP. The recorded demo exported 25 images using five artworks and five rooms. https://wallmock.com/bulk-mockup-generator/#bulk-walkthrough
+
+Pro includes short listing videos made from your finished mockups. On supported browsers, the Frame reveal video starts at the frame corner, moves along the edge and pulls back to show the whole room. https://wallmock.com/pricing/
 
 For printable (digital download) sellers on Etsy: WallMock shows each printable framed, with or without a mat, in 500+ curated rooms, the way buyers will print and hang it. Add rooms to Favourites once, and every new printable gets the same set, so listing photos for a whole collection come out at once. https://wallmock.com/printable-wall-art-mockup-generator/
 
@@ -68,10 +72,10 @@ About WallMock and how facts are checked: https://wallmock.com/about/
 Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App privacy policy: https://app.wallmock.com/privacy
 
 ## Questions
-- What is WallMock? WallMock is a wall art mockup generator for Etsy and Shopify wall art sellers, from printable (digital download) shops to canvas and framed-print sellers: your exact art in styled rooms as framed or stretched canvas, or framed prints, for a whole collection at once. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection.
+- What is WallMock? WallMock is a bulk wall art mockup generator for print-on-demand, framed art and printable shops. Add several artworks at once, choose rooms and frame styles, and download 4K listing photos grouped by artwork.
 - Who is it for? Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
 - Is my artwork changed or redrawn? WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
-- Can I make mockups for a whole collection at once? Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Compatible framed and canvas products support sets of 2, 3 or 4; metal panels use one artwork per image.
+- Can I make mockups for a whole collection at once? Yes. Upload your artworks together, save rooms in Favourites and choose a product and frame finish for each. WallMock fits each artwork to the room at its original proportions and makes one photo for each compatible artwork, room and look. Download photos by artwork or as one ZIP.
 - What frames and products can I show? Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal print (art on a frameless aluminum panel), Aluminum framed print (black, gold or silver), with or without a mat. Metal prints are Gloss by default, or choose High gloss (a clear window reflection) or Matte (a canvas-like finish). Compatible framed and canvas products support sets of 2, 3 or 4; metal panels use one artwork per image. Frames come in black, white, natural oak, walnut, espresso, gold and silver, plus natural wood for floating-frame canvas. On Lite or Pro, save up to five custom frame colours and reuse them in product profiles. Choose wood grain, metallic or painted, then pick a colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
 - Can I match my print-on-demand supplier's frame? Choose an available finish close to your provider’s product, then compare it with a sample. Choose from black, white, natural oak, walnut, espresso, gold and silver, plus natural wood for floating-frame canvas. On Lite or Pro, save up to five custom frame colours and reuse them in product profiles. Choose wood grain, metallic or painted, then pick a colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come in a 20 mm wood frame, a 31.75 mm gallery wood frame or a 9.65 mm slim aluminum frame, each with or without a mat.
 - Can I design my own frame colour? On Lite or Pro, save up to five custom frame colours and reuse them in product profiles. Choose wood grain, metallic or painted, then pick a colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish.
@@ -98,16 +102,16 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 
 ## WallMock: Wall Mockup Generator for Wall Art Sellers
 URL: https://wallmock.com/
-Wall mockup generator for digital and physical wall art sellers on Etsy and Shopify: save rooms once, then every new design gets them, exact and in 4K.
+WallMock is a bulk wall art mockup generator for print-on-demand, framed art and printable shops. Add several artworks at once, choose rooms and frame styles, and download 4K listing photos grouped by artwork.
 
 Q: What is WallMock?
-A: WallMock is a wall art mockup generator for Etsy and Shopify wall art sellers, from printable (digital download) shops to canvas and framed-print sellers: your exact art in styled rooms as framed or stretched canvas, or framed prints, for a whole collection at once. Upload your artwork, pick rooms and frames, and download listing-ready images for one design or a whole collection.
+A: WallMock is a bulk wall art mockup generator for print-on-demand, framed art and printable shops. Add several artworks at once, choose rooms and frame styles, and download 4K listing photos grouped by artwork.
 Q: Who is it for?
-A: Sellers on Etsy and Shopify who sell framed canvas, stretched canvas, framed fine-art prints or posters, including print-on-demand shops using Printify, Printful or Gelato, and anyone listing many designs.
+A: WallMock is built for Etsy and Shopify wall art sellers who regularly add new designs. It works with the artwork files you send to print providers such as Printify, Printful or Gelato. Choose the canvas, paper, frame or metal finish that matches what you sell.
 Q: Is my artwork changed or redrawn?
 A: WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI. Every artwork keeps its own proportions; it is never stretched to fit a room.
 Q: Can I make mockups for a whole collection at once?
-A: Yes. Save your favourite rooms and frame looks once, add many artworks, and WallMock makes every artwork in every chosen room. Compatible framed and canvas products support sets of 2, 3 or 4; metal panels use one artwork per image.
+A: Yes. Upload your artworks together, save rooms in Favourites and choose a product and frame finish for each. WallMock fits each artwork to the room at its original proportions and makes one photo for each compatible artwork, room and look. Download photos by artwork or as one ZIP.
 Q: What frames and products can I show?
 A: Framed canvas (floating frame), Stretched canvas, Framed print, with or without a mat, Metal print (art on a frameless aluminum panel), Aluminum framed print (black, gold or silver), with or without a mat. Metal prints are Gloss by default, or choose High gloss (a clear window reflection) or Matte (a canvas-like finish). Compatible framed and canvas products support sets of 2, 3 or 4; metal panels use one artwork per image. Frames come in black, white, natural oak, walnut, espresso, gold and silver, plus natural wood for floating-frame canvas. On Lite or Pro, save up to five custom frame colours and reuse them in product profiles. Choose wood grain, metallic or painted, then pick a colour with the colour picker or one of 21 one-click colours (5 woods, 6 metals and 10 paints). Some rooms keep only the frame looks we reviewed for them; custom frames work in all the others. Colours are close approximations, not a supplier's finish. Framed prints come with no mat or a mat in white, warm white, cream, warm grey or black.
 Q: Can I match my print-on-demand supplier's frame?
@@ -152,16 +156,14 @@ A: No. WallMock places your file as it is: it is never redrawn, repainted or ups
 Q: Can I use WallMock today?
 A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code. Plans are billed securely by Stripe from USD $5 a month (USD $9 a month for new subscribers from 1 Jan 2027). Cancel any time.
 
-## Bulk Mockup Generator: Every Design, Every Room
+## Bulk mockup generator for wall art
 URL: https://wallmock.com/bulk-mockup-generator/
-Made for sellers with whole collections: add rooms to Favourites once, then every new artwork gets the same set. 30 designs × 8 rooms in one run.
-
-Short answer: a bulk mockup generator makes room mockups for many designs at once instead of one at a time. In WallMock you save your favourite rooms and frame choices once, add a whole collection, and get every artwork in every saved room. No PSD templates or smart objects, and each file is placed exactly as supplied, without AI redrawing the art. Review the room and product setup in the previews, then spot-check your downloads.
+Upload your artworks together and select your rooms in Favourites. Set a product and finish for each room or add another look to make an extra image. WallMock places each artwork at its original proportions in each compatible room. Download the finished photos by artwork or as one ZIP.
 
 A recorded collection Three source files. Three rooms. Nine downloaded images. Our published walkthrough uses a portrait, a landscape and a square diagnostic artwork. It records the selected room looks, the output count, the downloaded ZIP and what remained after reloading the Studio. These are Free-plan results recorded at 1K (1024 px), before Free downloads moved to 4K; they are not a 4K benchmark or a speed guarantee. The original source files and nine JPEGs are available so you can inspect this particular run. Inspect the recorded run Download the nine examples The downloaded files, shown as reduced thumbnails. File dimensions and hashes .
 
 Q: Can I make multiple mockups at once?
-A: Yes. In WallMock you save your favourite rooms once, add a whole collection, and every artwork is made in every saved room in one run. You do not repeat the setup for each design.
+A: Yes. Upload your artworks together and select your rooms in Favourites. Set a product and finish for each room or add another look to make an extra image. WallMock places each artwork at its original proportions in each compatible room. Download the finished photos by artwork or as one ZIP.
 Q: How is this different from batch Photoshop mockups?
 A: With PSD templates, each design goes into each template's smart object one by one, or you write an action or script to do it. WallMock needs no PSD files, actions or scripts: you choose rooms and the product once in your browser.
 Q: Does bulk mockup work with Printify, Printful or Gelato designs?
@@ -169,7 +171,7 @@ A: Yes. Upload the same artwork files you send to your print provider and choose
 Q: Is the quality high enough for Etsy zoom?
 A: Paid downloads are 4K (4096 px), and your artwork is placed as supplied, never upscaled or repainted by AI. Start from a high-resolution file for the sharpest result.
 Q: How many images does a bulk run use?
-A: Designs multiplied by rooms. 30 designs in 8 rooms is 240 images. Lite includes 200 clean 4K images a month; Pro includes unlimited clean 4K (4096 px) images. Free accounts include 50 watermark-free previews every 30 days. On desktop, only detailed previews count. Try Free without an account includes 50 watermarked previews every 30 days. Paid plans include unlimited previews.
+A: Each compatible artwork, room and saved look makes one listing photo. Ten compatible artworks across ten one-look rooms make 100 images. Check the planned count and your download allowance before generating.
 Q: Can one batch mix square, portrait and panoramic art?
 A: Yes. Each artwork keeps its own proportions and is never stretched. Room options vary by artwork shape, so a room reviewed for portrait art may not offer a panoramic piece.
 Q: Do I lose my setup after the first collection?
@@ -1129,6 +1131,10 @@ Q: Does WallMock change my artwork?
 A: No. WallMock places your file as it is: it is never redrawn, repainted or upscaled by AI.
 Q: Can I use WallMock today?
 A: Anyone can try free watermarked previews with no sign-up, then create a free account with Google or an email code.
+
+## Compare bulk mockup workflows for wall art
+URL: https://wallmock.com/compare/bulk-mockup-workflows/
+Compare how five tools repeat room and frame choices, place artwork and export the finished listing photos.
 
 ## Best Wall Art Mockup Generators (2026), Compared
 URL: https://wallmock.com/compare/best-wall-art-mockup-generators/
