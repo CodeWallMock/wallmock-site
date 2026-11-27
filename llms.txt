@@ -72,7 +72,7 @@ Etsy printable (digital download) shops and print-on-demand wall art shops that 
 - Try it with no sign-up and no card; plans from $5 a month, and unlimited clean 4K (4096 px) images on Pro from $15 ($9 and $19 for new subscribers from 1 Jan 2027).
 
 ## Who makes WallMock
-Built by AK, an Etsy wall art seller since 2023. Founder story and shop link: https://wallmock.com/story/
+Built by AK, an Etsy wall art seller since January 2023, who uses WallMock in his own listing workflow. Founder story: https://wallmock.com/story/
 Testing, methods and example limits: https://wallmock.com/testing/
 About WallMock and how facts are checked: https://wallmock.com/about/
 Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App privacy policy: https://app.wallmock.com/privacy
@@ -145,7 +145,7 @@ Contact: hello@wallmock.com. Terms and refunds: https://wallmock.com/terms/. App
 - [Print on Demand Wall Art Mockups by Provider](https://wallmock.com/print-on-demand-canvas-mockups/)
 - [Privacy: This Website and the WallMock App](https://wallmock.com/privacy/)
 - [Refund Policy: Cancel Any Time](https://wallmock.com/refunds/)
-- [Why I Built WallMock for My Etsy Art Shop](https://wallmock.com/story/)
+- [Why I Built WallMock as a Wall Art Seller](https://wallmock.com/story/)
 - [Terms of Service: Plans, Credits, Refunds](https://wallmock.com/terms/)
 - [Testing: How We Check Artwork and Examples](https://wallmock.com/testing/)
 - [Collection Test: Three Artworks, Nine Downloads](https://wallmock.com/testing/three-artwork-collection/)
