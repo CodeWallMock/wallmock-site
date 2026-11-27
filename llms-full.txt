@@ -463,7 +463,7 @@ Short answer: Open Billing & plans in the profile menu, then Manage subscription
 Q: How do I cancel my WallMock plan?
 A: Open Billing & plans in the profile menu, then Manage subscription, and cancel. You don't need to contact us. Your plan and its credits continue to the end of the period you paid for, then stop renewing.
 Q: Will I get a refund if I cancel?
-A: Cancelling stops the next renewal; your plan keeps working to the end of the period you paid for. A first subscription can get a refund of its unused days within 7 days; see the refund policy.
+A: Cancelling stops the next renewal; your plan keeps working to the end of the period you paid for. A first subscription can get a refund of its unused days within 7 days (not for an account blocked for breaking the terms); see the refund policy.
 Q: Do I keep my downloaded images?
 A: Yes. Clean images you downloaded keep their commercial-use licence.
 
@@ -753,10 +753,10 @@ A: Email hello@wallmock.com and ask us to delete your messages or to stop contac
 URL: https://wallmock.com/refunds/
 Cancel WallMock any time. A first subscription can get its unused days refunded within 7 days. How renewals, duplicate charges and mistakes are handled.
 
-Short answer: Cancel any time and your plan runs to the end of the period you paid for. A first subscription can get a refund of its unused days within 7 days of the first payment. Renewals aren't refundable.
+Short answer: Cancel any time and your plan runs to the end of the period you paid for. A first subscription can get a refund of its unused days within 7 days of the first payment (not for an account blocked for breaking the terms). Renewals aren't refundable.
 
 Q: Does WallMock give refunds?
-A: Yes, on a first subscription. Within 7 days of your first payment, WallMock refunds the unused days of that period, unless more than 100 clean images have been downloaded or 100 or more different rooms have been opened.
+A: Yes, on a first subscription. Within 7 days of your first payment, WallMock refunds the unused days of that period, unless more than 100 clean images have been downloaded or 100 or more different rooms have been opened, and not for an account blocked for breaking the terms.
 Q: How is the refund worked out?
 A: By days: what you paid, divided by the days in the period, times the days left. The day you paid counts as used. For example, Pro monthly at $15 for a 30-day month, asked on day 3, refunds $13.50.
 Q: Are renewals refundable?
